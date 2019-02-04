@@ -1,0 +1,288 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{entry}{nty}
+    \entry{PDF:HumansPreferCurvedVisualObjects}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=52b5fc5f9688e5dad85f77540cf97b88}{Bar}{B\bibinitperiod}{Moshe}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4e4b162633ea8ddbc14609671c8f56b8}{Neta}{N\bibinitperiod}{Maital}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=52b5fc5f9688e5dad85f77540cf97b88}{Bar}{B\bibinitperiod}{Moshe}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4e4b162633ea8ddbc14609671c8f56b8}{Neta}{N\bibinitperiod}{Maital}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c92873953560f8973a533804475498cd}
+      \strng{fullhash}{c92873953560f8973a533804475498cd}
+      \field{sortinit}{B}
+      \field{labelyear}{2006}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Humans Prefer Curved Visual Objects}
+      \field{journaltitle}{Psychological Science}
+      \field{number}{8}
+      \field{title}{Humans Prefer Curved Visual Objects}
+      \field{volume}{17}
+      \field{year}{2006}
+    \endentry
+    \entry{PDF:TheNewIndustrialRevolution}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=9588eb7138d5cd779ba4dbb303bb91be}{Berman}{B\bibinitperiod}{Barry}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=9588eb7138d5cd779ba4dbb303bb91be}{Berman}{B\bibinitperiod}{Barry}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9588eb7138d5cd779ba4dbb303bb91be}
+      \strng{fullhash}{9588eb7138d5cd779ba4dbb303bb91be}
+      \field{sortinit}{B}
+      \field{labelyear}{2012}
+      \field{labelmonth}{04}
+      \field{datelabelsource}{}
+      \field{labeltitle}{3-D printing: The new industrial revolution}
+      \field{issue}{2}
+      \field{journaltitle}{Business Horizons}
+      \field{month}{04}
+      \field{title}{3-D printing: The new industrial revolution}
+      \field{volume}{55}
+      \field{year}{2012}
+      \field{pages}{155\bibrangedash 162}
+    \endentry
+    \entry{PAT:FirstFDMPrinter}{misc}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=79be1e83d95c484bc35938316be99a3b}{Crump}{C\bibinitperiod}{S.S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=79be1e83d95c484bc35938316be99a3b}{Crump}{C\bibinitperiod}{S.S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Google Patents}%
+      }
+      \strng{namehash}{79be1e83d95c484bc35938316be99a3b}
+      \strng{fullhash}{79be1e83d95c484bc35938316be99a3b}
+      \field{sortinit}{C}
+      \field{labelyear}{1992}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Apparatus and method for creating three-dimensional objects}
+      \field{note}{US Patent 5,121,329}
+      \field{title}{Apparatus and method for creating three-dimensional objects}
+      \field{year}{1992}
+      \verb{url}
+      \verb https://www.google.com/patents/US5121329
+      \endverb
+    \endentry
+    \entry{PDF:EntropyBasedQualityAssessment}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=7496f5f27b6b32d145dc148ec02f53c4}{Fastowicz}{F\bibinitperiod}{Jaroslaw}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7e89cdbd434e5285361c60e78f8cdffb}{Okarma}{O\bibinitperiod}{Krzysztof}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=7496f5f27b6b32d145dc148ec02f53c4}{Fastowicz}{F\bibinitperiod}{Jaroslaw}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7e89cdbd434e5285361c60e78f8cdffb}{Okarma}{O\bibinitperiod}{Krzysztof}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{4d28b1972c827583b5b916dc4eb918db}
+      \strng{fullhash}{4d28b1972c827583b5b916dc4eb918db}
+      \field{sortinit}{F}
+      \field{labelyear}{2017}
+      \field{labelmonth}{04}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Entropy Based Surface Quality Assessment of 3D Prints}
+      \field{journaltitle}{Artificial Intelligence Trends in Intelligent Systems}
+      \field{month}{04}
+      \field{title}{Entropy Based Surface Quality Assessment of 3D Prints}
+      \field{year}{2017}
+      \field{pages}{404\bibrangedash 413}
+    \endentry
+    \entry{PDF:TextureBasedQualityAssessment}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=7496f5f27b6b32d145dc148ec02f53c4}{Fastowicz}{F\bibinitperiod}{Jaroslaw}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7e89cdbd434e5285361c60e78f8cdffb}{Okarma}{O\bibinitperiod}{Krzysztof}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=7496f5f27b6b32d145dc148ec02f53c4}{Fastowicz}{F\bibinitperiod}{Jaroslaw}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7e89cdbd434e5285361c60e78f8cdffb}{Okarma}{O\bibinitperiod}{Krzysztof}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{4d28b1972c827583b5b916dc4eb918db}
+      \strng{fullhash}{4d28b1972c827583b5b916dc4eb918db}
+      \field{sortinit}{F}
+      \field{labelyear}{2016}
+      \field{labelmonth}{09}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Texture Based Quality Assessment of 3D Prints for Different Lighting Conditions}
+      \field{journaltitle}{Computer Vision and Graphics}
+      \field{month}{09}
+      \field{title}{Texture Based Quality Assessment of 3D Prints for Different Lighting Conditions}
+      \field{year}{2016}
+      \field{pages}{17\bibrangedash 28}
+    \endentry
+    \entry{PDF:A3DPrintingPathOptimizerBasedOnChristofidesAlgorithm}{article}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=0,hash=4f83268597f294062c58750415361162}{Fok}{F\bibinitperiod}{Kai-Yin}{K\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b1561bd6312cb70c86ea6e176dd66e9d}{Ganganath}{G\bibinitperiod}{Nuwan}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1cc52c0f6de91615078203906eb8a1cd}{Cheng}{C\bibinitperiod}{Chi-Tsun}{C\bibinithyphendelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=804687f544f70b5a165329ae604005a3}{Tse}{T\bibinitperiod}{Chi\bibnamedelima K.}{C\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=4f83268597f294062c58750415361162}{Fok}{F\bibinitperiod}{Kai-Yin}{K\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b1561bd6312cb70c86ea6e176dd66e9d}{Ganganath}{G\bibinitperiod}{Nuwan}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1cc52c0f6de91615078203906eb8a1cd}{Cheng}{C\bibinitperiod}{Chi-Tsun}{C\bibinithyphendelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=804687f544f70b5a165329ae604005a3}{Tse}{T\bibinitperiod}{Chi\bibnamedelima K.}{C\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{94b439d5e9081ff81621218391d32d25}
+      \strng{fullhash}{bfe56b64e09bc5223dbdf11803b9dbaf}
+      \field{sortinit}{F}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{}
+      \field{labeltitle}{A 3D Printing Path Optimizer Based On Christofides Algorithm}
+      \field{journaltitle}{ICCE-TW}
+      \field{title}{A 3D Printing Path Optimizer Based On Christofides Algorithm}
+      \field{year}{2016}
+    \endentry
+    \entry{PDF:DescriptiveAnalysis}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=33be9d0a2d6d4fbc53b0623795592652}{Martin}{M\bibinitperiod}{Geoff}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6f0392f9998c65d79ef7b0f9ab618fef}{Bech}{B\bibinitperiod}{Søren}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=33be9d0a2d6d4fbc53b0623795592652}{Martin}{M\bibinitperiod}{Geoff}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6f0392f9998c65d79ef7b0f9ab618fef}{Bech}{B\bibinitperiod}{Søren}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{68f7b58934df770c86f703158fbbde23}
+      \strng{fullhash}{68f7b58934df770c86f703158fbbde23}
+      \field{sortinit}{M}
+      \field{labelyear}{2005}
+      \field{labelmonth}{05}
+      \field{labelday}{28-31}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Attribute Identification and Qunatification in Automotive Audio}
+      \field{day}{28-31}
+      \field{journaltitle}{Audio Engineering Society}
+      \field{month}{05}
+      \field{subtitle}{Part1: Introduction to the Descriptive Analysis Technique}
+      \field{title}{Attribute Identification and Qunatification in Automotive Audio}
+      \field{year}{2005}
+    \endentry
+    \entry{BOOK:StepByStepFactorAnalysis}{book}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=d9f071bf47c984550e206cf04d379a62}{O'Rourke}{O\bibinitperiod}{Norm}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0f4bea3d0d657b75a8f75de4b63ab794}{Hatcher}{H\bibinitperiod}{Larry}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=d9f071bf47c984550e206cf04d379a62}{O'Rourke}{O\bibinitperiod}{Norm}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0f4bea3d0d657b75a8f75de4b63ab794}{Hatcher}{H\bibinitperiod}{Larry}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{4903e0f436a3bcc043165d73ec866cc4}
+      \strng{fullhash}{4903e0f436a3bcc043165d73ec866cc4}
+      \field{sortinit}{O}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Factor Analysis and Structural Midelling}
+      \field{edition}{2}
+      \field{title}{Factor Analysis and Structural Midelling}
+      \field{year}{2013}
+    \endentry
+    \entry{PDF:TheSortingTechniques}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=b6299b0223c905bc8d89647137f2648c}{Rugg}{R\bibinitperiod}{Gordon}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0ac048577b1b3e10ec2af4f545a14ed3}{McGeorge}{M\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=b6299b0223c905bc8d89647137f2648c}{Rugg}{R\bibinitperiod}{Gordon}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0ac048577b1b3e10ec2af4f545a14ed3}{McGeorge}{M\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a08d32075bd0d1a90e2dfeb8f2b2da2d}
+      \strng{fullhash}{a08d32075bd0d1a90e2dfeb8f2b2da2d}
+      \field{sortinit}{R}
+      \field{labelyear}{2005}
+      \field{datelabelsource}{}
+      \field{labeltitle}{The sorting techniques: A tutorial paper on card sorts, picture sorts and item sorts}
+      \field{journaltitle}{Expert Systems}
+      \field{number}{3}
+      \field{title}{The sorting techniques: A tutorial paper on card sorts, picture sorts and item sorts}
+      \field{volume}{22}
+      \field{year}{2005}
+    \endentry
+    \entry{WEB:CardSorting}{book}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=b1152f20bfebda88097acbc706188eab}{Spencer}{S\bibinitperiod}{Donna}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=b1152f20bfebda88097acbc706188eab}{Spencer}{S\bibinitperiod}{Donna}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Rosenfeld Media}%
+      }
+      \strng{namehash}{b1152f20bfebda88097acbc706188eab}
+      \strng{fullhash}{b1152f20bfebda88097acbc706188eab}
+      \field{sortinit}{S}
+      \field{labelyear}{2009}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Card Sorting: Designing Usable Categories}
+      \field{title}{Card Sorting: Designing Usable Categories}
+      \field{year}{2009}
+    \endentry
+    \entry{PDF:CardSortSpreadsheet}{report}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=b1152f20bfebda88097acbc706188eab}{Spencer}{S\bibinitperiod}{Donna}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=b1152f20bfebda88097acbc706188eab}{Spencer}{S\bibinitperiod}{Donna}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {MaadMob Interaction Design}%
+      }
+      \strng{namehash}{b1152f20bfebda88097acbc706188eab}
+      \strng{fullhash}{b1152f20bfebda88097acbc706188eab}
+      \field{sortinit}{S}
+      \field{labelyear}{2007}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Instructions for use: Card sort analysis spreadsheeet}
+      \field{title}{Instructions for use: Card sort analysis spreadsheeet}
+      \field{type}{Spreadsheet}
+      \field{year}{2007}
+    \endentry
+    \entry{PDF:DerivingRatioScaleMeasures}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=71713c34c238534f4a5ab3ad3ff60fd7}{Zimmer}{Z\bibinitperiod}{Karin}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3a98b1cb4b6d2bb1c553af09614aa18e}{Ellermeier}{E\bibinitperiod}{Wolfgang}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=71713c34c238534f4a5ab3ad3ff60fd7}{Zimmer}{Z\bibinitperiod}{Karin}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3a98b1cb4b6d2bb1c553af09614aa18e}{Ellermeier}{E\bibinitperiod}{Wolfgang}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Institute of Noise Control Engineering}%
+      }
+      \strng{namehash}{70f9cd6a3704bcc802a4a1deb1372bb8}
+      \strng{fullhash}{70f9cd6a3704bcc802a4a1deb1372bb8}
+      \field{sortinit}{Z}
+      \field{labelyear}{2003}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Deriving ratio-scale measures of sound quality from preference judgments}
+      \field{abstract}{Udgivelsesdato: JUL-AUG}
+      \field{issn}{0736-2501}
+      \field{journaltitle}{Noise Control Engineering Journal}
+      \field{number}{4}
+      \field{title}{Deriving ratio-scale measures of sound quality from preference judgments}
+      \field{volume}{51}
+      \field{year}{2003}
+      \field{pages}{210\bibrangedash 215}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

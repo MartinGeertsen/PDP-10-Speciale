@@ -1,0 +1,33 @@
+\setlength{\droptitle}{-4\baselineskip} % Move the title up
+
+\pretitle{\begin{center}\Huge\bfseries} % Article title formatting
+\posttitle{\end{center}} % Article title closing formatting
+\title{\projectname} % Article title
+\author{ %
+% Author 1
+\normalsize\textsc{\groupmemberI} \\[-1ex] % Your name
+\footnotesize\href{mailto:\groupmemberemailI}{\groupmemberemailI} \\[-1ex] % Your email address
+\footnotesize\universityname % institution
+% Author 2
+\and % Uncomment if 2 authors are required, duplicate these 4 lines if more
+\normalsize\textsc{\groupmemberII} \\[-1ex] % Second author's name
+\footnotesize\href{mailto:\groupmemberemailII}{\groupmemberemailII} \\[-1ex] % Your email address
+\footnotesize\universityname % institution
+% Author 3
+\and % Uncomment if 2 authors are required, duplicate these 4 lines if more
+\normalsize\textsc{\groupmemberIII} \\[-1ex] % Second author's name
+\footnotesize\href{mailto:\groupmemberemailIII}{\groupmemberemailIII} \\[-1ex] % Your email address
+\footnotesize\universityname % institution
+% Author 4
+\and % Uncomment if 2 authors are required, duplicate these 4 lines if more
+\normalsize\textsc{\groupmemberIV} \\[-1ex] % Second author's name
+\footnotesize\href{mailto:\groupmemberemailIV}{\groupmemberemailIV} \\[-1ex] % Your email address
+\footnotesize\universityname % institution
+}
+\date{\today} % Leave empty to omit a date
+\renewcommand{\maketitlehookd}{%
+\begin{abstract}
+\noindent
+\input{Abstract}
+\end{abstract}
+}

@@ -1,0 +1,37 @@
+\documentclass[11pt]{article}
+\input{Abstract_Files/Preamble/Metadata}
+
+%Text
+\usepackage[utf8]{inputenc} % Encodes text as UTF8
+\usepackage[english]{babel} % Language
+\usepackage[T1]{fontenc} % More font options
+\usepackage{titling} % Enables reuse of title with \thetitle
+\newenvironment{quoteemph}{\noindent\begin{quote}\itshape\bfseries}{\end{quote}} % Emphasised quote with \begin{quoteemph}...\end{quoteemph}
+\usepackage{siunitx}
+\newcommand{\blankline}{\vskip \baselineskip \noindent}
+
+%Math
+\usepackage{amsmath,amsfonts,amsthm,amssymb}
+
+%Graphics
+\usepackage[pdftex]{graphicx}
+\graphicspath{{Graphics/}}
+\usepackage{pdfpages}
+\usepackage{tcolorbox} % Makes colored text boxes with \begin{tcolorbox}...\end{tcolorbox}
+\usepackage{float}
+\usepackage[hmarginratio=1:1,top=20mm,bottom=20mm,left=20mm,right=20mm,columnsep=20pt,a4paper,pdftex]{geometry}
+\usepackage{xcolor} % Define new colors with \definecolor.
+\input{Abstract_Files/Preamble/Colors} % Set of pre-defined colors
+\usepackage[margin=10pt,font=small,labelfont=bf]{caption} % Prettifies captions
+% Referencing
+\usepackage{hyperref} % Clickable links in the PDF
+\newcommand*{\fullref}[1]{\hyperref[{#1}]{\autoref*{#1} (\textit{\nameref*{#1}})}} % Makro: \fullref{LABEL_HERE}. Reference a section + it's name
+
+%Bibliography
+\input{Abstract_Files/Preamble/BibStyle}
+
+%Commentary
+\usepackage{lipsum} % Dummy text \lipsum[..]
+\usepackage[footnote,marginclue,draft,danish,silent,nomargin]{fixme}
+\newcommand{\fxsource}[1]{\fxnote{Source? #1}} % Asking for a source
+\newcommand{\fxwrite}[1]{\lipsum[1]\fxnote{Write #1}} % Asking to be written
