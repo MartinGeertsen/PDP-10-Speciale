@@ -1,9 +1,9 @@
-[0] Config.pm:318> INFO - This is Biber 1.8
+[1] Config.pm:318> INFO - This is Biber 1.8
 [1] Config.pm:321> INFO - Logfile is '/Users/jeppeknudsen/Documents/AAU/PDP10/Paper/.texpadtmp/Master.blg'
-[114] biber-darwin:275> INFO - === Tue Feb 19, 2019, 13:47:24
-[115] Biber.pm:333> INFO - Reading '/Users/jeppeknudsen/Documents/AAU/PDP10/Paper/.texpadtmp/Master.bcf'
-[204] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
-[204] Utils.pm:169> WARN - The file '/Users/jeppeknudsen/Documents/AAU/PDP10/Paper/.texpadtmp/Master.bcf' does not contain any citations!
-[240] bbl.pm:482> INFO - Writing '/Users/jeppeknudsen/Documents/AAU/PDP10/Paper/.texpadtmp/Master.bbl' with encoding 'UTF-8'
-[240] bbl.pm:555> INFO - Output to /Users/jeppeknudsen/Documents/AAU/PDP10/Paper/.texpadtmp/Master.bbl
-[241] Biber.pm:105> INFO - WARNINGS: 1
+[150] biber-darwin:275> INFO - === Tue Feb 19, 2019, 14:48:53
+[151] Biber.pm:333> INFO - Reading '/Users/jeppeknudsen/Documents/AAU/PDP10/Paper/.texpadtmp/Master.bcf'
+[278] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
+[278] Utils.pm:169> WARN - The file '/Users/jeppeknudsen/Documents/AAU/PDP10/Paper/.texpadtmp/Master.bcf' does not contain any citations!
+[315] bbl.pm:482> INFO - Writing '/Users/jeppeknudsen/Documents/AAU/PDP10/Paper/.texpadtmp/Master.bbl' with encoding 'UTF-8'
+[315] bbl.pm:555> INFO - Output to /Users/jeppeknudsen/Documents/AAU/PDP10/Paper/.texpadtmp/Master.bbl
+[316] Biber.pm:105> INFO - WARNINGS: 1
