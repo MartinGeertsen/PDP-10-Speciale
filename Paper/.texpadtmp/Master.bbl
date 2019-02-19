@@ -19,6 +19,26 @@
 
 \refsection{0}
   \sortlist{entry}{nty}
+    \entry{PDF:TonePrintAnalyse}{report}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=e69a6545618c2cfef8b6b50fadad3937}{Andersen}{A\bibinitperiod}{Jesper\bibnamedelima Lumbye}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=e69a6545618c2cfef8b6b50fadad3937}{Andersen}{A\bibinitperiod}{Jesper\bibnamedelima Lumbye}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {TC Electronic}%
+      }
+      \strng{namehash}{e69a6545618c2cfef8b6b50fadad3937}
+      \strng{fullhash}{e69a6545618c2cfef8b6b50fadad3937}
+      \field{sortinit}{A}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Teoretisk Analyse af oplevelsesdesign i TonePrint}
+      \field{title}{Teoretisk Analyse af oplevelsesdesign i TonePrint}
+      \field{type}{Report}
+      \field{year}{2012}
+    \endentry
     \entry{WEB:AboutTonePrints}{online}{}
       \list{organization}{1}{%
         {TC Electronic}%

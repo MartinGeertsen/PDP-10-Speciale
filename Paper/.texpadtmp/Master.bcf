@@ -1965,6 +1965,8 @@
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="1">WEB:AboutTonePrints</bcf:citekey>
+    <bcf:citekey order="2">PDF:TonePrintAnalyse</bcf:citekey>
+    <bcf:citekey order="3">PDF:TonePrintAnalyse</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" type="entry" label="nty">
   <bcf:sorting>
