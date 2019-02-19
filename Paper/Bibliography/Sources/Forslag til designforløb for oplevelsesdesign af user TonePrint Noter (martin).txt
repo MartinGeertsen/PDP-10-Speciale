@@ -1,0 +1,14 @@
+Forslag til designforløb for oplevelsesdesign af deling af User TonePrint.
+
+Martin: I kapitel 1 forklares hvad toneprint er og problematikken med at der lige er kommet User TonePrints, men at de ikke kan deles på en platform som er TC's endnu. Det forklares som et problem i forhold til Jantzen et al. (2011), som har et designkriterie Nærhed.
+"Produktet skal bygge på nærhed: produktet skal tale ind til forbrugerens
+problemstillinger, og det skal egne sig til, at forbrugeren vil dele sine
+produkterfaringer med andre i sit nærmiljø."
+Derfor udledes forsnngsspørgsmålet "Hvordan kan et oplevelsesdesignforløb
+for Deling af User TonePrint tilrettelægges,
+således at brugerne oplever, at designkriteriet "nærhed" for den gode oplevelse
+tilgodeses?"
+I kapitel 2 står der lidt om oplevelses design, men ikke noget af værdi.
+I kapitel 3 forklares flere modeller for brugerindragelse i designprocesser. Mange af dem ser ud til at minde om hindanden, men variere in lille smule. Dette kapitel kan vi bruge til at finde kilder på forskellige modeller. De fleste modeller lægger op til at man selv kan bestemme hvilken metode man vil bruge til brugerindragelsen. 
+Ihvor kapitel 4 beskrives hele brugerinddragelses forløbet ud i den iderative proces ud fra UIM-processen. Det forklares at de først laver en workshop hvorfra de får lavet to parpirsprototyper af communityet, som de senere skal bruge til en usability test. De går gennem mange punkter og kigger også på DECIDE modellen, som er en ret simpel model for hvordan de vil evaluere deres prototyper. 
+Kapitel 5 er konklusionen, som meget fint runder af hvad opgaven handler om. (Læs den som det første).
