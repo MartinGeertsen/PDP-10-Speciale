@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.21)  21 FEB 2019 11:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.21)  22 FEB 2019 14:36
 entering extended mode
 **./Master.tex
 (Master.tex
@@ -1416,10 +1416,14 @@ e 37.
 
 ) (Content/TonePrintConcept.tex [6]
 Chapter 2.
+
+LaTeX Warning: Citation 'PDF:TonePrintAnalyse' on page 7 undefined on input lin
+e 10.
+
 <Graphics/EffectPedalExample.png, id=71, 413.545pt x 803.0pt>
 File: Graphics/EffectPedalExample.png Graphic file (type png)
 <use Graphics/EffectPedalExample.png>
-Package pdftex.def Info: Graphics/EffectPedalExample.png  used on input line 13
+Package pdftex.def Info: Graphics/EffectPedalExample.png  used on input line 15
 .
 (pdftex.def)             Requested size: 104.56342pt x 203.02852pt.
 )
@@ -1454,7 +1458,7 @@ Package logreq Info: Writing requests to 'Master.run.xml'.
 Here is how much of TeX's memory you used:
  38233 strings out of 492946
  737090 string characters out of 3135518
- 1229084 words of memory out of 3000000
+ 1229105 words of memory out of 3000000
  41602 multiletter control sequences out of 15000+200000
  553475 words of font info for 83 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1473,9 +1477,9 @@ k/ljfour/jknappen/ec/dpi600\ecbx1000.pk><C:/Program Files/MiKTeX 2.9/fonts/type
 1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
 amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmsy10.pfb>
-Output written on Master.pdf (8 pages, 502804 bytes).
+Output written on Master.pdf (8 pages, 503205 bytes).
 PDF statistics:
- 359 PDF objects out of 1000 (max. 8388607)
+ 358 PDF objects out of 1000 (max. 8388607)
  16 named destinations out of 1000 (max. 500000)
  58 words of extra memory for PDF output out of 10000 (max. 10000000)
 
