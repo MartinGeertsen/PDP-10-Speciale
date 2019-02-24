@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.21)  22 FEB 2019 14:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.21)  24 FEB 2019 23:13
 entering extended mode
 **./Master.tex
 (Master.tex
@@ -1425,16 +1425,27 @@ File: Graphics/EffectPedalExample.png Graphic file (type png)
 <use Graphics/EffectPedalExample.png>
 Package pdftex.def Info: Graphics/EffectPedalExample.png  used on input line 15
 .
-(pdftex.def)             Requested size: 104.56342pt x 203.02852pt.
+(pdftex.def)             Requested size: 83.64944pt x 162.42282pt.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 16.
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]$\T1/cmtt/m/n/10 https : / / www . tcelectronic . com / Categories / Tcelectr
+onic / Guitar / Stompboxes /
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7
+
+])
 
 LaTeX Warning: Empty bibliography on input line 25.
 
-(Content/Appendix/Appendix.tex) [7
-
-]
+(Content/Appendix/Appendix.tex) [8 <./Graphics/EffectPedalExample.png>]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 32.
- [8 <./Graphics/EffectPedalExample.png>]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 32.
 
 (Master.aux)
@@ -1456,30 +1467,31 @@ Package logreq Info: Writing requests to 'Master.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38233 strings out of 492946
- 737090 string characters out of 3135518
- 1229105 words of memory out of 3000000
- 41602 multiletter control sequences out of 15000+200000
- 553475 words of font info for 83 fonts, out of 3000000 for 9000
+ 38252 strings out of 492946
+ 737687 string characters out of 3135518
+ 1229223 words of memory out of 3000000
+ 41617 multiletter control sequences out of 15000+200000
+ 553788 words of font info for 84 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,6n,78p,1059b,1669s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi6
-00\ecti1095.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jkn
-appen/ec/dpi600\ecbx1440.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/
-pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\Marianne\AppData\Local\MiKT
-eX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\Marianne\AppDa
-ta\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\M
-arianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk
+00\ectt1000.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jkn
+appen/ec/dpi600\ecti1095.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/
+pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Marianne\AppData\Local\MiKT
+eX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\Marianne\AppDa
+ta\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\M
+arianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk
 > <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi60
-0\ecbx2074.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jkna
-ppen/ec/dpi600\ecrm1000.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/p
-k/ljfour/jknappen/ec/dpi600\ecbx1000.pk><C:/Program Files/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
-amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmsy10.pfb>
-Output written on Master.pdf (8 pages, 503205 bytes).
+0\ecrm1200.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jkna
+ppen/ec/dpi600\ecbx2074.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/p
+k/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Marianne\AppData\Local\MiKTe
+X\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk><C:/Program Files/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmsy10.pfb>
+Output written on Master.pdf (8 pages, 517645 bytes).
 PDF statistics:
- 358 PDF objects out of 1000 (max. 8388607)
+ 407 PDF objects out of 1000 (max. 8388607)
  16 named destinations out of 1000 (max. 500000)
  58 words of extra memory for PDF output out of 10000 (max. 10000000)
 
