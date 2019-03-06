@@ -39,20 +39,6 @@
       \field{type}{Report}
       \field{year}{2012}
     \endentry
-    \entry{WEB:AboutTonePrints}{online}{}
-      \list{organization}{1}{%
-        {TC Electronic}%
-      }
-      \field{sortinit}{W}
-      \field{labelyear}{2019}
-      \field{datelabelsource}{}
-      \field{labeltitle}{What's TonePrint?}
-      \field{title}{What's TonePrint?}
-      \field{year}{2019}
-      \verb{url}
-      \verb https://www.tcelectronic.com/toneprints##googtrans(en%7Cen)
-      \endverb
-    \endentry
   \endsortlist
 \endrefsection
 \endinput
