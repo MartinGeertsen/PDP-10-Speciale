@@ -1,0 +1,24 @@
+Struktur:
+
+Det ønskes at undersøg hvilke brugerindragelses metoder der vil være fordelagtige for TC at bruge alt efter hvor de er i deres udviklings process, for derefter at bruge den metode der er best andvendelig for TonePtint Community.
+
+
+1) Grundet ønsket om at undersøge hvordan brugerinddragelse best kan andvendes i TC's designproces, skal denne proces undersøges og analyseres.
+	- Det foregår ved at interviewe det relevante personal i TC. (produktmanager, ledelse, mm.)
+	- Interviewet skal fokusere på hvordan TC udvikler deres produkter på nuværende tidspunk og hvilke processe der indkorpureret i udviklingen.
+	- Interviewsne skal analyseres så der så der kan findes svar på de undersøgelses spørgsmål der laves til interviewet.
+	- Fra analysen skal det være muligt at opstille et overblik (en model) over TC's designprocess for forskellige stadier a udviklingen. 
+
+2) Ud fra overblikket (modellen) over hvilke procesesser TC bruger, skal der laves reasearche om hvilke brugerinddragelses metoder der passer til de forkskellige stadier. 
+	- Metoder kan være alt fra prototype testing (Lo-fi/Hi-fi), personas undersøgelser, Workshop, Questionaire og meget mere.
+	- Vi skal lave nogle retningslinjer/kriterier for hvordan metoderne udvælges.
+	- Resultatet må meget ende som et "Opslags værk" som indeholder indformationer om hvilket stadie i udviklingen det er, hvilken produkt type, Top 3 velejnede metoder og begrundelse plus pro and cons for de 3 metoder.
+---------------------------------------------------------------------------------------------------
+3) Nu skal vi se på casen med TonePrint Communityet. Vi skal bruge vores eget "opslagsværk" til at finde ud af hvilke metoder der skal andvendes til lige præcis det vi vil finde ud af.
+	- Vi skal muligvis kende TC's konceptuelle model for et Community.
+	- Vi skal muligvis finde ud af hvordan vi finder brugernes konceptuelle modeller, for at kunne sammenligne.
+	- Det skal gerne have fokus i at vi skal kunne lave nogle krav og mål for det kommende TonePrint Community.
+
+4) Vi skal ud til brugerne og undersøge alt hvad vi har fundet ud af tidligere.
+
+5) Analye + afslut + fest + lid farver #SortHvidErOgsåCool
