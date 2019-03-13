@@ -22,6 +22,7 @@ Hvordan vil TC selv beskrive deres designprocesser?
 15) Hvordan bruger i viden og erfaringer fra tidligere produkter?
 16) Hvordan målretter i jeres produkter mod jeres kunder?
 17) Hvordan tilegner i jer ny viden som skal bruges i jeres udviklingsprocesser?
+22) Hvordan og til hvilken grad laver i brugerinddragelse på nuværende tidspunkt?
 
 18) Hvordan opstiller i mål for jeres produkter?
 19) Hvordan "Måler" i om jeres produkter imødekommer jeres opstillede mål?
@@ -32,3 +33,17 @@ Hvordan vil TC selv beskrive deres designprocesser?
 
 
 Helt nyt produkt på nyt domæne (Community) vs. nyt produkt i erfaren domæne (nyt pedal)
+
+- Tid (hvornår)
+Det er vigtigt at kende planlægning og arbejdsrytmen i processen for at vide, hvornår man kan foretage brugerinddragelse, som kan være tidskrævende.
+- Type af informationer (Hvad)
+Hvad vil TC have ud af at indrage brugerne?
+Hvilke inforamtioner føler TC, at de mangler, som de kan få fra brugerne?
+(Motivation, holdninger, evner, forventninger, vaner?)
+- Hvem er brugerne? (Hvem)
+Ved TC, hvem deres brugere er? og hvordan anvender de deres viden om dem?
+Har geografien eller andre faktorer indflydelse? (Hvilke faktorer ser TC som betydelige for deres brugere? (Genrer, geografi, aller, scocial status, økonomi)?
+- Krav (Hvordan)
+Hvordan opstiller TC krav til deres produkter, og hvordan indgår denne viden i produktudviklingen?
+Hvordan måler de om kravene er opnået?
+
