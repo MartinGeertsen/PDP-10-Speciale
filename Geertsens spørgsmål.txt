@@ -1,0 +1,34 @@
+Interview spørgsmål:
+
+Hvordan vil TC selv beskrive deres designprocesser?
+1) Hvilke forskellige stadier går i gennem i udviklinge af nye produkter?
+2) Har i en fast arbejdsmetode når i designer/udvikler produkter.
+3) Gøre i brug af metoder så som scrume? eller andre itterative forløb?
+4) Hvordan vil du beskrive jeres typiske designproces?
+5) Hvilken betydning har produkt typen (software, pedal, andet) for jeres udvikling/designprocess?
+6) Hvordan planlægger i processerne, hvordan sikre i jer at det planmæssigt?
+
+7) hvordan arbejder i på tværs a de teams i sidder i (Software, hardware, marketing, ledelse)?
+8) Hvordan planlægger i på tværs a arbejdsroller?
+
+9) Hvordan arbejder i med deadlines? 
+10) Hvor meget skal der til før i er villige til at flyette en deadline?
+
+11) Hvilke afdelinger er normalt involveret i de forskellige dele af udviklingen af produkter?
+12) Hvordan opsætter i krav til produkter og hvem formulere disse?
+13) Opstiller i krav til udvikling/design processen?
+
+14) Hvordan vidergiver i viden og erfaring som i har fra tidligere design og udviklings processer?
+15) Hvordan bruger i viden og erfaringer fra tidligere produkter?
+16) Hvordan målretter i jeres produkter mod jeres kunder?
+17) Hvordan tilegner i jer ny viden som skal bruges i jeres udviklingsprocesser?
+
+18) Hvordan opstiller i mål for jeres produkter?
+19) Hvordan "Måler" i om jeres produkter imødekommer jeres opstillede mål?
+20) Har i nogen form for dialog med jeres kunder/målgrupper så eksempelvis feedback.
+21) Hvordan håntere i feedback (både positivt og negativt)?
+ 
+
+
+
+Helt nyt produkt på nyt domæne (Community) vs. nyt produkt i erfaren domæne (nyt pedal)
