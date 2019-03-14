@@ -1,0 +1,39 @@
+Interview spørgsmål til TC, for at uddybe forståelsen for deres design/udviklingsproces.
+
+
+Først og fremmest tænker vi, at det vil en god ide helt generelt at spørge ind til, hvad TC selv vil have ud af at inddrage brugere. Mere specifikt, hvilke informationer håber TC, at de kan få ud af brugerinddragelse? (motivation, holdninger, evner, forventninger, vaner, andet?).
+
+1) Når i designer/udvikler produkter, hvordan inkorporerer/udnytter i så jeres viden om brugerne?
+2) Er der nogle informationer om jeres bruger/målgrupper/kunder som du føler i mangler når i udvikler/designer produkter?
+3) Er det forskelligt fra produkt til produkt hvilken information om brugerne i har brug for, og i så flad hvordan er differencerne det?
+
+
+I den sammenhæng vil vi lægge fokusset på TC’s egen forståelse af hvem deres brugere er. Vi vil gerne spørge ind til, hvordan de anvender deres viden om dem i designprocessen og hvilke faktorer der spiller ind. (musikgenre, geografi, økonomi, køn, osv.)
+
+1) Den nuværende viden i har om jeres brugere, hvordan har i fået den?
+2) Hvordan anvender i jeres viden om brugere/målgrupper?
+3) Hvilken faktorer om jeres brugere er vigtige for jer når i udvikler/designer produkter?
+4) Har i tidligere gjort brug af brugerinddragelse så som interviews, spørgeskemaer, workshops og lignende, og hvad er jeres erfaringer med det?
+5) Hvordan oplever i forskelligheder mellem kultur i jeres kundegrupper, både geografisk, genre og eventuelt andre?
+6) Hvordan målretter i jeres produkter mod den ønskede slutbruger?
+
+
+Herefter vil vi gerne lægge fokusset over på, hvornår man så kan inddrage brugere. Her tænker vi at spørge ind til deres arbejds/udviklingsprocesser, både deres planlægning og udførelse af disse, så det er muligt at planlægge, hvornår man kan foretage eventuelle tidskrævende brugertests. Det kan også være noget i forhold til, hvis de arbejder over mange iterationer.
+
+1) Hvor fast er fremgangsmåden for jeres design/udviklingsprocesser?
+2) Hvad er den typiske procedure for jeres udvikling af produkter?
+3) Er der forskel på hvordan i udvikler produkter alt efter hvilken type det? 
+4) Hvordan har kendskabet til domænet indflydelse på jeres udvikling/design af produkter?
+5) Bruger i nogle bestemte metoder/værktøjer i jeres arbejdsproces?
+6) Hvordan planlægger i udviklings/design/arbejdsprocessen for et produkt?
+
+
+og sidst men ikke mindst har vi snakket om at kigge på, hvordan TC stiller krav til deres produkter. Hvordan indgår denne viden i produktudviklingen, og hvordan måler de om disse krav er opnået? Det læner sig nok lidt op ad det med, hvem brugerne er, da et krav lige så godt kan være, at produktet skal være brugervenligt. Vi tænker dog stadig, at det vil have værdi at spørge ind til.
+
+1) Hvordan opstiller i krav og succeskriterier for jeres produkter?
+2) Medregner i brugen i jeres krav? eller brugerne i jeres succeskriterier? hvis ikke, hvorfor så ikke?
+3) Hvordan indsamler i feedback om jeres produkter?
+4) Hvilke succeskriterier og krav ser i som de vigtigste for brugerne, og hvordan ville i kunne bruge feedback herom?
+
+
+kan/bør spørgsmålene blive sendt til dem vi skal interviewe inden vi kommer, så de har haft mulighed for at gøre sig nogle tanker inden?
