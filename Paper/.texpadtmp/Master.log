@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.23)  21 MAR 2019 16:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.23)  21 MAR 2019 16:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1661,35 +1661,10 @@ LaTeX Warning: No \author given.
 \tf@toc=\write7
 \openout7 = `Master.toc'.
 
- [3] (./Content/Introduction.tex [4
+ [3] (./Content/HeuristicEvaluation.tex [4
 
 ]
 Chapter 1.
-<Graphics/EffectPedalExample.png, id=71, 413.545pt x 803.0pt>
-File: Graphics/EffectPedalExample.png Graphic file (type png)
- <use Graphics/EffectPedalExample.png>
-Package pdftex.def Info: Graphics/EffectPedalExample.png used on input line 13.
-(pdftex.def)             Requested size: 83.64944pt x 162.42282pt.
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 14.
- (/usr/local/texlive/2014/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-Underfull \hbox (badness 10000) in paragraph at lines 14--14
-[]$\T1/cmtt/m/n/10 https : / / www . tcelectronic . com / Categories / Tcelectronic / Guitar / Stompboxes /
- []
-
-[5] <Graphics/TonePrintAppExample.png, id=84, 1025.8325pt x 770.88pt>
-File: Graphics/TonePrintAppExample.png Graphic file (type png)
- <use Graphics/TonePrintAppExample.png>
-Package pdftex.def Info: Graphics/TonePrintAppExample.png used on input line 24.
-(pdftex.def)             Requested size: 418.25368pt x 314.29845pt.
-
-Underfull \vbox (badness 1082) has occurred while \output is active []
-
- [6 <./Graphics/EffectPedalExample.png>]) (./Content/HeuristicEvaluation.tex [7 <./Graphics/TonePrintAppExample.png>] [8
-
-]
-Chapter 2.
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 11.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
@@ -1721,7 +1696,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--21
 
  []
 
-[9]
+[5]
 Underfull \hbox (badness 10000) in paragraph at lines 31--32
 
  []
@@ -1756,7 +1731,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--38
 
  []
 
-[10]
+[6]
 Underfull \hbox (badness 10000) in paragraph at lines 43--44
 
  []
@@ -1776,13 +1751,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 61--62
 
  []
 
-[11]) (./Content/Interview.tex [12]
-Chapter 3.
-) [13
+[7]) (./Content/Interview.tex [8]
+Chapter 2.
+)
 
-] [14
+LaTeX Warning: Empty bibliography on input line 26.
 
-] (./Content/Appendix/Appendix.tex) [15]
+(./Content/Appendix/Appendix.tex) [9
+
+]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 33.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 33.
  (/Users/jeppeknudsen/Documents/AAU/PDP10/Paper/.texpadtmp/Master.aux)
@@ -1795,18 +1772,18 @@ Package logreq Info: Writing requests to 'Master.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32036 strings out of 493117
- 614411 string characters out of 6135432
- 1073335 words of memory out of 5000000
- 34948 multiletter control sequences out of 15000+600000
- 28109 words of font info for 78 fonts, out of 8000000 for 9000
+ 31841 strings out of 493117
+ 610624 string characters out of 6135432
+ 1071678 words of memory out of 5000000
+ 34779 multiletter control sequences out of 15000+600000
+ 26334 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,7n,78p,10428b,1481s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on /Users/jeppeknudsen/Documents/AAU/PDP10/Paper/.texpadtmp/Master.pdf (15 pages, 896146 bytes).
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb>
+Output written on /Users/jeppeknudsen/Documents/AAU/PDP10/Paper/.texpadtmp/Master.pdf (9 pages, 199289 bytes).
 PDF statistics:
- 212 PDF objects out of 1000 (max. 8388607)
- 172 compressed objects within 2 object streams
- 38 named destinations out of 1000 (max. 500000)
- 79 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 141 PDF objects out of 1000 (max. 8388607)
+ 115 compressed objects within 2 object streams
+ 25 named destinations out of 1000 (max. 500000)
+ 45 words of extra memory for PDF output out of 10000 (max. 10000000)
 
