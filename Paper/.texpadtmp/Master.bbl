@@ -39,25 +39,6 @@
       \field{type}{Report}
       \field{year}{2012}
     \endentry
-    \entry{PDF:DonNorman}{book}{}
-      \name{labelname}{1}{}{%
-        {{uniquename=0,hash=23f12bb124db5cb91003802eaee52457}{Norman}{N\bibinitperiod}{Don}{D\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{uniquename=0,hash=23f12bb124db5cb91003802eaee52457}{Norman}{N\bibinitperiod}{Don}{D\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {Basic Books}%
-      }
-      \strng{namehash}{23f12bb124db5cb91003802eaee52457}
-      \strng{fullhash}{23f12bb124db5cb91003802eaee52457}
-      \field{sortinit}{N}
-      \field{labelyear}{2013}
-      \field{datelabelsource}{}
-      \field{labeltitle}{The Design of Everyday Things}
-      \field{title}{The Design of Everyday Things}
-      \field{year}{2013}
-    \endentry
   \endsortlist
 \endrefsection
 \endinput
