@@ -1,0 +1,639 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Bold;\f1\fnil\fcharset0 HelveticaNeue;\f2\fnil\fcharset0 HelveticaNeue-Italic;
+}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww14200\viewh16580\viewkind0
+\deftab720
+\pard\pardeftab720\sl288\slmult1\partightenfactor0
+
+\f0\b\fs60 \cf2 \expnd0\expndtw0\kerning0
+Interview med TC Electronic\
+
+\fs36 Jens - 59:42\
+
+\fs22 Da i udviklede konceptet for TonePrint appen, hvordan besluttede i hvilke funktioner der skulle v\'e6re med og hvordan de skulle designes?\
+
+\f1\b0 00:30\
+Hvis man snakker det oprindelige koncept for TonePrint appen, s\'e5 er den opst\'e5et ud af et ingeni\'f8rv\'e6rkt\'f8j.\
+\
+00:51\
+Der er nogle forskellige lag i vores software, s\'e5 de her algoritmer har et s\'e6t af parametre, som eksisterer i koden, beskrevet p\'e5 en bestemt m\'e5de, og det kalder vi meta modeller. Det jeg mener med det er en beskrivelse af vores parametre til algoritmerne i en menneskelig l\'e6sbar form. S\'e5 en parameter har en label, det kan fx v\'e6re 
+\f2\i Gain
+\f1\i0 , s\'e5 har vi en range, det kunne fx v\'e6re fra -100 til 0. S\'e5 har den en SI-enhed, som fx kunne v\'e6re dB, og s\'e5 har den en opl\'f8sning, som fx kunne v\'e6re 0.1, og det beskriver s\'e5 en parameter. Og det er de her meta modeller.\
+\
+02:00\
+S\'e5dan har hver af vores effekter en parameterbeskrivelse, som vi kalder for vores meta modeller. Det har egentlig eksisteret i koden helt tilbage til produkter som G-systems osv. der eksisterede det her lag stadigv\'e6k i koden. Og det er egentlig s\'e5dan, at man kunne afkoble selve UI\'92et fra algoritmerne, s\'e5dan at man siger: 
+\f2\i Det kan godt v\'e6re, at vi har en masse parametre, men det er ikke sikkert, at vi viser dem allesammen.
+\f1\i0  Den m\'e5de vi v\'e6lger at vise dem p\'e5 kunne v\'e6re p\'e5 en sk\'e6rm p\'e5 en PC, eller det kunne v\'e6re p\'e5 et fysisk UI-apparat, eller vi kunne v\'e6lge slet ikke at vise nogen tal, ligesom vi g\'f8r p\'e5 TonePrint pedalerne, hvor man bare har en knap at skrue p\'e5 og et label, s\'e5 vi viser kun delm\'e6ngder af informationerne. Nedenunder ligger alle de her parametre, s\'e5 den parameterbeskrivelse har eksisteret l\'e6nge.\
+\
+03:04\
+S\'e5 var der et tidspunkt, hvor nogen spurgte, hvordan vi indstiller grundlydene. Hvis vi ikke har s\'e5 mange knapper p\'e5 vores UI, som der er parametre i modellen, s\'e5 er der jo nogen ting, der skal indstilles til nogen default-v\'e6rdier. Der m\'f8dte vi problemet, da vi gik ind i guitarpedaler, fordi der er et begr\'e6nset antal knapper p\'e5 s\'e5dan en guitarpedal, og der er langt flere parametre ned under hjelmen i koden. S\'e5 der skulle man ligesom finde en m\'e5de, hvor man kunne indstille de der til nogen default-v\'e6rdier, og s\'e5 lytte p\'e5 det samtidig. S\'e5 havde vi brug for, at vi lavede et v\'e6rkt\'f8j, hvor man kunne koble guitarpedalen til en computer, og s\'e5 havde man en visualisering af alle de her parametre, der var nede i produktet, p\'e5 computeren. S\'e5 kunne man sidde og dreje p\'e5 dem, og det var ikke en udvikler, der skulle sidde og taste dem ind i et ark, og s\'e5 bygge det, og s\'e5 give det til en product manager, og sp\'f8rge \'93
+\f2\i Var det d\'e9t?\'94 \'93Nej jeg skal gerne have den der flyttet 2dB ned.\'94
+\f1\i0  Ok, byg og s\'e5 ind igen.\
+\
+04:11\
+Den proces ville vi gerne speed up, s\'e5 der udviklede vi et v\'e6rkt\'f8j, som vi kaldte 
+\f2\i Virtuel front
+\f1\i0 . Det var til at starte med et godt gammeldags windows-program, som s\'e5 meget ingeni\'f8r agtigt ud med en helt masse forskellige slidere, hvor alle de her parametre, de er p\'e5. Der kunne man s\'e5 komme til at skrue p\'e5 dem og s\'e5 gemme det som en fil, som man kunne bygge med ind i koden. S\'c5 det er var til at s\'e6tte de her default-parametre udover dem man kunne skrue p\'e5.\
+\
+04:50\
+S\'e5 det var egentlig der, det opstod med ideen om, at man har s\'e5dan en avanceret editor, og s\'e5 har vi det som brugeren egentlig ser.\
+\
+05:00\
+S\'e5 k\'f8rte vi lidt eksperimenter over nogle \'e5r, hvor vi pr\'f8vede at bygge en version af det her virtuel front v\'e6rkt\'f8j, som vi pr\'f8vede at give til nogen bassister, s\'e5den en testgruppe af bassister. Og s\'e5 gav vi dem adgang til alle de her parametre, der er nede under hjelmen udover det de kan skrue p\'e5, p\'e5 fronten af en bassforst\'e6rker. Der pr\'f8vede vi at h\'f8re, hvad de sagde til det, og om de kunne bruge det til noget. Hvad var det egentlig de skruede p\'e5? Hvad stillede de p\'e5? S\'e5 vi brugte det mere som en unders\'f8gelse i, hvis vi skulle tilbyde dem nogle flere features p\'e5 fronten af vores bassforst\'e6rker, hvad skulle det s\'e5 v\'e6re? Der var der et par udfald af det. vi opfandt bla. en kontrol, der hed Tweeter Tone, som vi satte p\'e5 nogen af vores efterf\'f8lgende bassforst\'e6rkere. Den skruer op for den allerh\'f8jeste diskant i bassforst\'e6rkeren. Det var en l\'e6ring vi fik ud af det, for det ville de gerne have. De ville gerne kunne skrue mere op for diskanten. Det var lidt mere en unders\'f8gende tilgang om det overhovedet ville v\'e6re interessant for dem at bruge til dagligt. Nogen af dem syntes det var alletiders.\
+\
+07:21\
+Det var egentlig der ideen opstod med, om det ikke kunne v\'e6re fedt at tilbyde vores brugere, at de ogs\'e5 kunne skrue p\'e5 alle de her parametre nede under hjelmen, og is\'e6r med de her TonePrint pedaler giver det rigtig meget mening, da der er et ret reduceret feature s\'e6t p\'e5 fronten. Der kan man sige, hvis man nu havde adgang til alt det man kan skrue p\'e5 nedenunder, kunne man s\'e5 ikke tilbyde noget mere tweakability.\
+\
+07:58 (Martin)\
+
+\f2\i Stammer det fra, at i havde de her bassister, der havde et \'f8nske om at kunne \'e6ndre p\'e5 mere? Og havde i s\'e5 en antagelse om, at det kunne i overf\'f8re videre til jeres pedaler?\
+
+\f1\i0 \
+08:16\
+Jeg ved ikke hvor meget sammenh\'e6ng der var direkte mellem den unders\'f8gelse, og s\'e5 beslutningen om at lave en editor, men vi havde i hvert fald testet mulighederne af for nogle folk, og vi kunne konstatere, at der i hvert fald var et \'f8nske om det.\
+\
+08:50 (Martin)\
+
+\f2\i P\'e5 det her tidspunkt, var der s\'e5 allerede det her med, at man kunne beame artists?\
+
+\f1\i0 \
+08:54\
+Nej, hele TonePrint konceptet blev f\'f8rst opfundet efterf\'f8lgende, som en forg\'e6nger for editoren. Efter vi havde lavet det eksperiment med bassisterne, der spurgte vi os selv, 
+\f2\i  skal vi tilbyde den her editor til folk? 
+\f1\i0 I f\'f8rste omgang var bekymringen, at det kr\'e6vede for meget ekspertviden at g\'f8re det. Af det kom ideen med at kontakte nogle kunstnere og hj\'e6lpe dem med at lave nogle custom settings til pedalerne. P\'e5 det tidspunkt var TonePrint ordet ikke opfundet. Vi kunne ogs\'e5 mappe, hvordan potentiometrene opf\'f8rte sig over p\'e5 pedalen. Det er jo ogs\'e5 en del af det, at s\'e6tte de her modifier lag.\
+\
+
+\f0\b Hvordan har jeres viden ang\'e5ende jeres brugere p\'e5virket udviklingen af TonePrint appen, og hvor har i den viden fra?\
+
+\f1\b0 Mere eller mindre besvaret i forrige sp\'f8rgsm\'e5l ud fra Jens\'92 forst\'e5else af det.\
+\
+
+\f0\b Gjorde i noget for at m\'e5lrette TonePrint appen mod bestemte brugergrupper, og hvordan gjorde i det i s\'e5fald?\
+
+\f1\b0 10:39\
+Det tror jeg egentlig ikke, at vi har gjort. Brugergruppen er relativt veldefineret i forvejen, da det er guitarister, der godt kan lide at bruge pedaler, men som ogs\'e5 interesserer sig for at f\'e5 lyden af en bestemt artist. Og det er grundkonceptet i TonePrint i det hele taget.\
+\
+11:07\
+Vi tager ud og bes\'f8ger de her artister, f\'e5r lavet de her TonePrint custom pedal settings, og s\'e5 tilbyde dem til vores andre kunder, som noget vi kan hente ned.\
+\
+11:21\
+En af de prim\'e6re fordel ved det er, at vi kan forl\'e6nge produkternes levetid p\'e5 markedet ved hele tiden at tilbyde ny content til produkterne. Ellers s\'e5 man s\'e5dan en tendens til, at man lancerer et produkt, og s\'e5 efter et \'e5r, har en konkurrentlavet noget, der har overhalet det. Ved konstant at tilbyde nyt content, s\'e5 forl\'e6nger man produktets levetid og interessanthedsv\'e6rdi hos brugerne.\
+\
+
+\f0\b Selvom TonePrint appen er et ret unikt produkt har i s\'e5 draget inspiration fra andre interne eller eksterne produkter, og i s\'e5 fald hvordan?\
+
+\f1\b0 12:29\
+Hele det her parameterlag/metadata stammer helt tilbage fra System-6000, for hvis man kigger p\'e5 dens kontrolflade, der hedder icon, som er en touchsk\'e6rm med nogle fadere p\'e5, s\'e5 vil man se, at det er den samme som i appen i virkeligheden. Og meta-model-laget, der ligger nedenunder er det samme. S\'e5 man kan gost sige, at der er noget inspiration der, men det er mere i kraft af, at det har arvet det her meta-model-system fra system-6000\
+\
+13:18\
+Hvordan det bliver pr\'e6senteret osv. det t\'e6nker jeg ikke n\'f8dvendigvis har draget inspiration fra andre steder, men det er ikke ut\'e6nkeligt (Jens var ikke med inde over det). Der er ogs\'e5 alle de her faner med forskellige algoritmer, og der er meget af det, der virker ens, men sp\'f8rgsm\'e5let er vel, om det ikke bare er en naturlig m\'e5de at stille det her op p\'e5? \
+\
+
+\f0\b Hvordan besluttede i jer for informationsstrukturen i TonePrint appen, b\'e5de set i forhold til menustrukturen og de forskellige m\'e5der de kan kategoriseres p\'e5?\
+
+\f1\b0 14:06\
+Jeg ved ikke, om det bare er s\'e5dan, det er blevet, men n\'e5r man t\'e6nker efter, s\'e5 t\'e6nker jeg, at det her med at gruppere parametrene i nogle undergrupper, som svarer til de her metamodeller, der ligger nedenunder, gruppere dem i dem, og s\'e5 vise dem p\'e5 nogen faner. Det er i hvert fald s\'e5dan det er lavet p\'e5 system-6000, og mon ikke dem der har lavet det f\'f8rste virtuelle front, hvor de ogs\'e5 var faner og sliders, de har v\'e6ret inspireret af det. Og s\'e5 den m\'e5de at pr\'e6sentere det p\'e5 er bare blevet arvet videre og forfinet efterh\'e5nden som man er kommet l\'e6ngere, og det er blevet modnet til noget der skal bruges af nogle slutbrugere.\
+\
+14:57 (Martin)\
+
+\f2\i Hvad s\'e5 hvis man hopper mellem editor-delen og s\'e5 det her artist TonePrint, der er alligevel en j\'e6vn forskel i den m\'e5de, tingene er kategoriseret p\'e5 og opdelt p\'e5 rent informationsm\'e6ssigt. Ved du om der ligger en begrundelse for hvorfor man g\'f8r det p\'e5 den ene m\'e5de, n\'e5r det er i editoren med de her parametre, og s\'e5 p\'e5 en anden m\'e5de, n\'e5r det er de her artists/produkter\
+
+\f1\i0 \
+15:50\
+F\'f8r appen fandtes, s\'e5 havde vi ogs\'e5 det her TonePrint koncept. Det kom faktisk f\'f8r appen. Da TonePrint konceptet blev opfundet, blev det lanceret sammen med de f\'f8rste pedaler og en app til telefon, hvor man kunne beame (Jens er lidt forvirret her og sp\'f8rger lidt sig selv, om der nu ogs\'e5 var en pedal med beaming) N\'e5r man s\'e5 brugte Mac eller PC, s\'e5 var der en exit-fil, man skulle hente pr. TonePrint. S\'e5 hver TonePrint var bygget som en exit-fil, som man skulle hente ned p\'e5 sin PC, s\'e5 skulle man slutte sin pedal til, og f\'f8re denne exit-fil over. S\'e5dan blev det lavet til at starte med, og s\'e5dan var det ogs\'e5 til bassforst\'e6rkeren i mange \'e5r. Der k\'f8rte vi med det i lang tid, for der havde vi slet ikke f\'e5et bygget bass tingene ind i appen endnu. Den her struktur med, at man bare har haft en liste af de her mp3-filer, man skulle afspille, det var bare alt sammen noget, XML fil der skulle hentes ned fra skyen et sted. S\'e5 det har kun v\'e6ret s\'e5dan en library ting, s\'e5 n\'e5r man trykkede p\'e5 den, s\'e5 afspillede den en mp3-fil. Der var editor delen helt afkoblet fra editordelen og beaming versionen.\
+\
+18:41 (Martin)\
+
+\f2\i Vil du mene, at det rammer lidt forskellige m\'e5lgrupper? I forhold til at kunne lave det her med editoren, og det her med bare at hente artist TonePrint?\
+
+\f1\i0 \
+18:50\
+Det t\'e6nker jeg helt bestemt, at det g\'f8r. Det rammer forskellige m\'e5lgrupper. Der er preset browserne, og s\'e5 er der tweakerne, hvis man skal dele dem op i de to, og s\'e5 er der dem, der aldrig kommer igang med det. Der er rigtig mange, der bare k\'f8ber pedalen, s\'e5 s\'e6tter de den p\'e5 et board, s\'e5 skruer de lidt p\'e5 knapperne, og s\'e5 k\'f8rer det bare for dem.\
+\
+19:30\
+Der vil ogs\'e5 v\'e6re dem, der kigger p\'e5 det TonePrint og synes det er fedt, at man eksempelvis kan f\'e5 John Petrucci\'92s lyd ned i pedalen. Og s\'e5 er der det gimmick ved beaming, som er pisse sjovt. S\'e5 det har ogs\'e5 noget v\'e6rdi i sig selv.\
+\
+19:56\
+Nigel, en af vores s\'e6lgere, har sagt at det er den mest geniale ubrugelige feature nogensinde. Hans argument var, at folk ville pr\'f8ve det en 3 gange, og s\'e5 er de f\'e6rdige, s\'e5 gider de ikke det mere.\
+\
+20:31\
+Det er historikken i det, s\'e5 vidt jeg husker. Det opstod lidt som: Her er en liste af TonePrints, og det er nogle forudindstillinger, som kan beates ned i pedalen. Og de indstillinger er s\'e5 lavet via virtuel front, som p\'e5 det tidspunkt ikke var et slutprodukt, men som var et ingeni\'f8r-v\'e6rkt\'f8j. Det tog man med ud til kunstnerne, og derude gemte man s\'e5 en XML-fil, som s\'e5 blev konverteret til mp3-fil, som s\'e5 endte oppe i skyen i appen, som man s\'e5 kunne hente ned. Og det er stadig den arbejdsgang, der stort set er i dag, at man har virtuel front med ud til kunstnerne, og s\'e5 bliver der gemt en XML-fil, som s\'e5 bliver bygget ind i appen.\
+\
+
+\f0\b I har en meget stor database af b\'e5de TonePrints, pedaler, kunstnere og videoer. Hvordan besluttede i jer for,  hvordan i h\'e5ndterer og pr\'e6senterer de forskellige data?\
+
+\f1\b0 21:40\
+Det har vi diskuteret rigtig meget, og til at starte med, er det jo egentlig bare en stor lang liste af TonePrints. S\'e5 kan man diskutere, hvordan man kan navigere rundt i det, Hvad giver mening? Den prim\'e6re s\'e5, at du kan navigere pr. produkt og navigere pr. artist, og hvad er man egentlig interesseret i der? Er det alt hvad ham her har lavet, s\'e5 skal man finde en liste af det. Det kan ogs\'e5 v\'e6re at man leder efter alt til den p\'e5g\'e6ldende pedal, det er ogs\'e5 vigtigt. De to skal i hvert fald v\'e6re der, kan man sige. S\'e5 kan man altid sn\'e6vre det ind bagefter. Vi har snakket om mange m\'e5der at g\'f8re det p\'e5, og som det er i dag, har vi jo ogs\'e5 f\'e5et en dimension ekstra p\'e5, kan man sige, fordi vi har flere inkarnationer, af den samme effekt til forskellige produkter. S\'e5 en 
+\f2\i Corona Chorus
+\f1\i0  eksisterer b\'e5de som en corona chorus pedal, og s\'e5 eksisterer den ogs\'e5 som en mini chorus, og lige om lidt, s\'e5 eksisterer den ogs\'e5 i et multi-fx produkt.\
+\
+23:07\
+Med flashback\'92en er der ogs\'e5 X4\'92eren, s\'e5 det er den samme effekt som er inkarneret i forskellige produkter. Der har vi ogs\'e5 diskuteret, lomvi skal have en 
+\f2\i browse by effect
+\f1\i0 , hvis man nu eksempelvis gerne vil vide alt om Corona Chorus, s\'e5 ser man de produkter og de artister, der har den effekt. Det er en dimension, der har destilleret sig ud af produkterne p\'e5 en m\'e5de. Vi genbruger effekten p\'e5 tv\'e6rs af produkter. S\'e5 det er for nyligt, at vi er blevet skarpe p\'e5 det i forbindelse med, at vi er g\'e5et i gang med det her mulit-FX noget.\
+\
+
+\f0\b Hvilken data vil du mene er n\'f8dvendig for at kunne g\'f8re et TonePrint community med User TonePrints effektiv, og hvordan vil du mene denne data skal struktureres og kategoriseres.\
+
+\f1\b0 24:03\
+Der har vi ogs\'e5 snakket om forskellige ting. N\'e5r man lige pludselig har meget data, kan man sige, hvad er s\'e5 interessant? S\'e5 skal man have en m\'e5de at finde ting p\'e5. Der kan v\'e6re nogenlunde de samme med 
+\f2\i jeg har det her produkt, vis mig alt. 
+\f1\i0 S\'e5 kan det v\'e6re, at man er heldig, at den viser 20.000 hits (TonePrints), og s\'e5 er vi n\'f8dt til at finde en m\'e5de at sortere i det p\'e5, fordi der er i hvertfald til et par aftener. S\'e5 vil man nok gerne sortere p\'e5 det p\'e5 en eller anden m\'e5de, og en mulighed vi har snakket om er at lave tags. Vi tvinger folk til, n\'e5r de deler nogle TonePrints med verden, at s\'e5 skal de give den nogen tags af en slags.\
+\
+25:17\
+Vi kunne m\'e5ske tilbyde dem en r\'e6kke pre-defineret tags, som i er det rock el. ambient eller er det long el. sweet, eller hvad det nu er. Vi kunne tilbyde nogle pre-defineret tags, hvis man s\'e5 er p\'e5 jagt efter noget, der lyder lidt ligesom \'93det her\'94.\
+\
+25:38\
+En anden m\'e5de at s\'f8ge p\'e5 var, hvis man fandt noget, man selv godt kan lide, og s\'e5 sige giv mig noget mere, der er lidt ligesom det her, alts\'e5 det, der er amazon tricket: 
+\f2\i Brugerne kunne godt lide det her TonePrint, s\'e5 de ville ogs\'e5 kunne lide det her..
+\f1\i0  S\'e5 bliver de givet lidt mere af det samme.\
+\
+25:59\
+Man kunne ogs\'e5 vende den p\'e5 hovedet, og s\'e5 sige 
+\f2\i giv mig noget, der er helt vidt forskelligt fra det her, fordi jeg vil gerne pr\'f8ve noget nyt i dag.
+\f1\i0  S\'e5 den kunne man ogs\'e5 bruge.\
+\
+26:13 (Martin)\
+
+\f2\i Jeg kan ikke lade v\'e6re med at t\'e6nke p\'e5 den her \'93pr\'f8v lykken\'94 p\'e5 google.\
+
+\f1\i0 \
+26:24\
+En anden ting, vi har snakket om i editoren er en 
+\f2\i randomize 
+\f1\i0 funktion, hvor det bare er helt tilf\'e6ldigt. Man kunne godt forestille sig, at hvis man havde et multi-Fx produkt, at man har det samme tag p\'e5 tv\'e6rs af forskellige effekter, s\'e5 en chorus fx kunne beskrives ved 
+\f2\i Lush
+\f1\i0 , og hvad betyder det egentlig? En rumklang kan ogs\'e5 v\'e6re det, og kan en distortion m\'e5ske ogs\'e5 v\'e6re det?\
+\
+27:06\
+N\'e5r man begynder at tilbyde s\'e5dan nogle subjektive tags, s\'e5 kan man brede dem ud p\'e5 tv\'e6rs af effekter, og s\'e5 kan man eksempelvis sige 
+\f2\i giv mig et eller andet, der er lush
+\f1\i0 , s\'e5 vil jeg f\'e5 pokuleret mit board med ting, der er lush.\
+\
+
+\f0\b Hvad ligger til grunde for forskellen p\'e5 appen fra platform til platform? Eksempelvis informationen om ikke tilsluttet pedal, s\'f8ge funktionen, video visning og TonePrint information samt beaming?\
+
+\f1\b0 28:34\
+Nogle af de ting, vi gerne vil g\'f8re forskelligt, som giver mening at g\'f8re forskelligt er at l\'e6ne sig op af de navigationsteknikker, der er p\'e5 de forskellige platforme, fordi de er forskellige. Alts\'e5 om man swiper og betjener tingene med fingeren eller om man betjener dem med en mus, det giver nogle forskellige ting, der er intuitive. S\'e5 der vil der v\'e6re forskel i, hvordan man betjener det. De navigations-schemes pr\'f8ver vi at l\'e6ne os opad.\
+\
+29:14\
+Vi har ogs\'e5 fornyligt lavet noget med landscape mode p\'e5 Ipad, s\'e5 appen indretter sig efter det. Der er ogs\'e5 den med, at man kan dele sin sk\'e6rm op mellem to apps p\'e5 iOS, som vi ogs\'e5 har implementeret. Det er eksempler p\'e5 nogle af de native navigations-features, som vi rigtig gerne vil benytte os af, n\'e5r de nu er der, og folk er vant til at navigere med dem p\'e5 den m\'e5de. Nogle af de valg vi har taget p\'e5 forskellene, det er i hvert fald pga. det. S\'e5 kan der godt v\'e6re nogle ting, der er forskellige, fordi det er de s\'e5 bare\
+\
+30:40\
+(Efter vi n\'e6vner de sm\'e5 forskelle fra platform til platform)\
+Det er en god observation. Vi har uddelegeret opgaverne, s\'e5 de er p\'e5virket af individuel kreativ frihed til at tr\'e6ffe valg for, hvad giver mening p\'e5 den her platform, og hvad giver ikke mening p\'e5 den her platform, og det kan v\'e6re, at S\'f8ren har truffet valg for android, at der er det det her, der er standardm\'e5den at g\'f8re det p\'e5, s\'e5 jeg v\'e6lger at komponenten skal se ud p\'e5 den her m\'e5de, hvor vi har valgt at ensrette det mere, fordi gutterne, der laver til de andre platforme, sidder lige ved siden af hinanden. S\'e5 der er ogs\'e5 en form for frihed til  at tr\'e6ffe nogle valg, s\'e5 vi kan komme ud over stepperne.\
+\
+
+\f0\b Hvad er form\'e5let med tekstbeskrivelserne tilh\'f8rende de forskellige TonePrints, og hvordan beslutter i jer for, hvad der skal st\'e5?\
+
+\f1\b0 32:00\
+Form\'e5let er, at det er en appetizer. Det skal give en lysten til at pr\'f8ve det her. Det er ogs\'e5 s\'e5dan, at det content her har en historisk \'e5rsag. Alle de her TonePrints har ogs\'e5 en hjemmeside, og det tekst, der st\'e5r inde i beskrivelsen, det er ogs\'e5 det, der st\'e5r p\'e5 den hjemmeside, og det bliver trukket fra den samme server. S\'e5 alt det content, der er, det er genbrug alt sammen.\
+\
+32:44\
+S\'e5 det marketing content, der st\'e5r om hvert enkelt TonePrint, n\'e5r man navigerer ind p\'e5 det og har en bedre sk\'e6rm at l\'e6se det p\'e5, end man n\'f8dvendigvis har inde i editoren, det er det samme content.\
+\
+32:59\
+Hvordan bestemmer man, hvad der skal st\'e5? Det er tit ud fra, hvis der er lavet en video ud fra det, eller de noter, der er skrevet ned, s\'e5 tager marketing afdelingen nogle noter om, hvad er egentlig meningen med det her TonePrint, og s\'e5 laver de en beskrivelse.\
+\
+33:31\
+Der er ogs\'e5 nogle tilf\'e6lde, hvor vores TC TonePrints/Templates lavet af Mike herinde, s\'e5 har Mike lavet en beskrivelse af hvad intentionen med det her TonePrint er, og hvad han pr\'f8vede at opn\'e5, og s\'e5 f\'e5r de den egentlig forbi marketing, som s\'e5 giver den en overhaling.\
+\
+
+\f0\b Hvilken type feedback f\'e5r i vedr\'f8rende TonePrint editoren, og hvordan bruger i denne feedback?\
+
+\f1\b0 34:19\
+Vi har et indtryk af, at der er nogen, der er rigtig glade for det og bruger det meget, og s\'e5 er der nogen, der bruger det lidt, og mest bruger den browsing ting. Vi har ogs\'e5 noget tracking p\'e5 det, s\'e5dan noget google analytics, hvor vi kan se, hvad g\'f8r folk egentlig i virkeligheden, og der kan vi ogs\'e5 se, at der er nogen, de bruger det, og at der er nogen, der mere bruger library delen af det.\
+\
+34:51\
+Noget af den feedback, vi har gjort noget ved ved, i forhold til hele omskrivningen til den nye version\'85.. (Jens sp\'f8rger her sig selv: 
+\f2\i Kan jeg n\'e6vne noget, vi har lavet om p\'e5
+\f1\i0 )\
+\
+35:21\
+Hele omskrivningen til den nye version af appen, som vi har lanceret i sommer, er drevet af, at vi har f\'e5et feedback p\'e5, at navigationen p\'e5 iOS og android ikke var s\'e6rligt optimal. Den ville vi gerne g\'f8re bedre, s\'e5 UI delen af den nye app er lavet med native, s\'e5 den anvender de navigationsfaciliteter, der er p\'e5 den platform. Det kommer fra bruger feedback. \
+\
+36:18\
+Nogle af de ting, vi h\'f8rer lige for tiden omhandler parameterbeskrivelser. Der er opst\'e5et som det her ingeni\'f8rv\'e6rkt\'f8j, og der er rigtig mange parametre at skrue p\'e5 i nogle af effekterne, og nogle af dem er det lidt hemmeligt, hvad parametrene g\'f8r. Lige nu er der ikke noge grundig beskrivelse af, hvad de enkelte parametre g\'f8r, s\'e5 det m\'e5 v\'e6re op til brugerne at pr\'f8ve at rykke lidt i det og se hvad det g\'f8r, og s\'e5 g\'e6tte sig lidt til det ud fra den label, der er p\'e5 parameteren\
+\
+36:57 (Martin)\
+
+\f2\i Mener du de her attributter i lyden?\
+
+\f1\i0 \
+37:01\
+Ja, s\'e5 t\'e6nker man, s\'e5 skruer jeg lidt p\'e5 det, og man kan jo h\'f8re med det samme, hvad det er, man g\'f8r, n\'e5r man spiller p\'e5 det. Man ved ikke n\'f8dvendigvis, hvad det er, en parameter n\'f8dvendigvis g\'f8r, s\'e5 er det nemmer at lytte sig frem til det. Hvad sker der egentlig, n\'e5r man g\'f8r det her?\
+\
+37:25\
+Det er en request vi har, at f\'e5 nogle mere uddybbende beskrivelser, og det er noget af det n\'e6ste, vi har t\'e6nkt os at adressere. S\'e5 p\'e5 den m\'e5de, lytter vi til, hvad de siger, og hvad de gerne vil have, men det er ogs\'e5 altid en balance. Vi vil gerne tilbyde nogle nye ting til dem, og vi har nogle ideer om, hvad retning, det skal g\'e5 i, og brugerne ved m\'e5ske ikke hvad de vil have.\
+\
+37:53\
+Henry Ford sagde det meget godt: 
+\f2\i Hvis jeg havde spurgt folk, hvad de ville have, s\'e5 havde bedt mig om en hurtigere hest.
+\f1\i0  #KongeCitat\
+S\'e5 der bliver vi nogle gange n\'f8dt til at v\'e6re lidt visioner p\'e5 brugernes vegne og sige, nu arbejder vi h\'e5rdt p\'e5 det her nye noget, som i ikke vidst i havde brug for, men det har i.\
+\
+
+\f0\b Til hvilken grad bruger i informationer, i f\'e5r gennem TonePrint-junkies-facebook-siden, youtube eller music tribe community?\
+
+\f1\b0 Svaret til sidste sp\'f8rgsm\'e5l st\'e5r ogs\'e5 lidt som svar til dette\'85\
+\
+
+\f0\b Meget har \'e6ndret sig op til den nuv\'e6rende app. Hvorfor \'e6ndrede i b\'e5de den grafiske identitet og flere features?\
+
+\f1\b0 Er blevet addresseret.\
+\
+
+\f0\b Hvilke positive og negative effekter har jeres SCRUM arbejdsmetode haft p\'e5 udviklingen af TonePrint appen?\
+
+\f1\b0 38:49\
+Jeg tror, at en af de st\'f8rste betydninger, det har haft er, at vi overhovedet er kommet ud med noget. Det at vi fokusere p\'e5 at lave det, der er vigtigst, og s\'e5 s\'e6tte en gr\'e6nse for, hvor meget vi gerne vil have med. Vi s\'e6tter nogle milestones og siger, at det n\'e6ste vi k\'f8rer efter, det er at f\'e5 det her f\'e6rdigt. S\'e5 ved vi godt, at vi \'f8nsker os en helt masse andet herude, men det er ikke vigtigt lige nu, det her er vigtigt. Og set fra min stol som product owner i scrum processen, s\'e5 er det det, jeg synes vi f\'e5r allermest ud af. Vi s\'e6tter de her m\'e5l, og s\'e5 fokuserer vi p\'e5, at nu er det det her, vi l\'f8ser, og ikke alt muligt andet. S\'e5  at skabe fokus, det synes jeg, det er rigtig godt til.\
+\
+39:47\
+Jeg ved godt, at vi kom ud med en editor i juni, der havde langt fra alle de her ting, vi har planer om at lave, men vi havde det vigtigste med, og det er det her med native UI, og en overhaling p\'e5 at det ser skide godt ud, s\'e5 det giver en forbedret brugeroplevelse p\'e5 de features, vi egentlig havde i forvejen. S\'e5 rigtig meget af det var bare re-skinning af ting, som vi allerede havde.\
+\
+40:25\
+S\'e5 er vi ude med det. Og hele filosofien med det her 
+\f2\i release early, release often
+\f1\i0  er ogs\'e5 en af de grundtanker, der driver det at arbejde p\'e5 den her m\'e5de.\
+\
+40:43 (Martin)\
+
+\f2\i Oplever i noget, der f\'f8les som noget begr\'e6nsende, i det her scrum forl\'f8b?\
+
+\f1\i0 \
+41:04\
+Der er nok nogen, der godt kunne t\'e6nke sig, at tingene er lidt mere h\'e5rdt specificeret og up-front, fordi det er der nogen, der har det rigtig godt med. Det g\'f8r vi dog ikke s\'e6rligt meget i. Vi fokuserer p\'e5 det, der skal laves lige nu, og jeg har flere gange m\'e5tte dele lussinger ud, fordi folk fortaber sig i de ting, der ligger helt herude. Vi kan jo ikke lave de ting, f\'f8r vi har lavet det her. S\'e5 der skal folk bare lade de fjerne ting ligge og koncentrere sig om det, der er lige her\
+\
+47:46\
+Der er nogen, der gerne vil have t\'e6nkt alle ting til ende og ud i den sidste forgrening og alt muligt, f\'f8r de kan f\'e5 ro i hovedet og s\'e6tte sig ned og  kode deres ting, fordi de t\'e6nker nu g\'e5r det op alt sammen i min OCD-verden, s\'e5 kan jeg l\'f8se opgaven. Der er jeg nogle gange n\'f8dt til at g\'e5 ind og sige, at 
+\f2\i det der ved vi jo ikke engang om vi skal lave, s\'e5 vi bliver n\'f8dt til at fokusere p\'e5 det, vi ved vi skal lave. Og hvis vi ikke kommer ud med noget nu, s\'e5 skal vi i hvert fald helt sikkert ikke lave det, for s\'e5 eksisterer vi ikke mere. 
+\f1\i0 Nogen gange er man n\'f8dt til at v\'e6re benh\'e5rd og sige, vi SKAL ud med noget nu\
+\
+
+\f0\b Hvilke teknologiske begr\'e6nsninger har i haft under udviklingen af TonePrint editoren, og hvordan har i kompenseret for disse?\
+
+\f1\b0 43:12\
+Der har v\'e6ret nogle tilbagevendende ting undervejs, men jeg synes vi har h\'e5ndteret dem korrekt. N\'e5r man har haft nogle h\'e5rde bindinger til de frameworks, vi eksempelvis har brugt det her JUCE framework, n\'e5r vi har lavet ting til iOS, og det har vi bundet os op p\'e5, at det er, hvad vi k\'f8rer med. Der har s\'e5 v\'e6ret s\'e5dan noget med, at Apple kunne finde p\'e5 at release et nyt OSX (i forhold til Xcode), som s\'e5 clashede med JUCE frameworket, s\'e5 der var ting, der ikke virkede l\'e6ngere.\
+\
+44:08\
+Og der m\'e5 man s\'e5 bare konstatere, at man har opdateret sit OSX, men man kan ikke f\'e5 lov til at rulle det tilbage, og s\'e5 m\'e5 man sige til de andre, at de skal vente med at opdatere, for det skal i hvert fald ikke p\'e5 byggeserveren. Hvis man g\'f8r det, er det nemlig bare sv\'e6rt at rulle tilbage, s\'e5 s\'e5danne udfordringer har vi st\'e5et med\
+\
+44:38\
+S\'e5 kan man sige, hvad skal vi s\'e5 g\'f8re? JUCE har ikke lagt noget fix op til det der, og alle er ved at br\'e6kke sig over, at der er den her fejl. Alle klager over det, men hvem skal fixe det? for det er en fejl i OSX, s\'e5 det er en compilerfejl.\
+\
+44:57\
+S\'e5 kan man bare s\'e6tte sig der og trille tommelfingre og vente p\'e5, at Apple kommer med et fix. Den slags ting er vi rendt ind i, hvor det bare er rigtig nederen tekniske ting, der g\'f8r, at vi ikke kan komme videre. I den periode har vi ikke muligheden for at release noget nyt medmindre, vi bygger p\'e5 den gamle OSX, for dem, der heldigvis ikke havde upgradet til den nye.\
+\
+45:32\
+S\'e5 har vi med google analytics pr\'f8vet at der pludselig var fejl i vores data. Man kan filtrere p\'e5 al den data, man samler op p\'e5 forskellige m\'e5der, og hvis man filtrerede p\'e5 en bestemt m\'e5de, s\'e5 forsvandt halvdelen af alle TonePrints, hvilket var meget underligt. Det var ogs\'e5 s\'e5dan en fejl, hvor John var n\'f8dt til at dykke og gravet det for at analysere, hvad der kunne v\'e6re galt, og i s\'e5fald om det s\'e5 var i vores app, eller om det bare var i google analytics. Til sidst fandt vi ud af, at det var en fejl i den m\'e5de vi bruger JUCE framework p\'e5, at man skulle s\'e6tte det i en bestemt r\'e6kkef\'f8lge, fordi ellers valgte den bare nogle default v\'e6rdier. S\'e5 alts\'e5 s\'e5dan nogle bugs, hvor man lige pludselig er afh\'e6ngig af andre frameworks, hvor det ikke er umiddelbart gennemskueligt, om det er vores kode det er galt med, er det de andres, eller hvor ligger problemet egentlig.\
+\
+46:52\
+Ellers er der ikke de store teknologiske revolutioner i det her. Meget af det er bare at s\'e6tte sig ind i det. Vi er ogs\'e5 i gang med det her cloud, og der har v\'e6ret en l\'e6ringskurve i at finde ud af, hvordan virker det, og hvordan skal vi strukturere det, hvor skal det bo osv. Men det er mere l\'e6ring og s\'e5 arbejde. S\'e5 rigtig meget af det er bare arbejde.\
+\
+\
+
+\f0\b Hvordan opstillede i kravene for TonePrint appen, b\'e5de konceptuelt og design m\'e6ssigt?\
+
+\f1\b0 Er blevet addresseret\
+\
+
+\f0\b Hvordan opstillede i m\'e5ls\'e6tninger for TonePrint appen? og hvordan sikrede i jer, at disse blev n\'e5et?\
+
+\f1\b0 47:44\
+Der kunne jeg ogs\'e5 godt svare med MT\'92s f\'f8rste l\'e6ringss\'e6tning: F\'f8rst skal vi finde ud af, hvad vi skal lave, og s\'e5 skal vi lave det.\
+\
+47:55\
+Der har vi benyttet os rigtig meget af de her SCRUM v\'e6rkt\'f8jer til at pr\'f8ve at definere nogle milestones, det her er de features, vi \'f8nsker os i appen, det her er de bruger-requests vi h\'f8rer om, s\'e5 laver vi nogle milestones, og s\'e5 putter vi de her features ind i de milestones, og det er rigtig meget mig, der laver den prioritering i samarbejde med vores product manager, og i selvf\'f8lgelig i samarbejde med teamet og vores supporterer i form af inputs derfra. Vi pr\'f8ver at strikke de her milestones sammen i nogle releases og kigge p\'e5, hvad skal vi have med i den f\'f8rste release fx. S\'e5 strikker vi det sammen der, og s\'e5 handler det om regne ud, hvor lang tid, det skal tage og s\'e5 f\'e5 teamet til at committe til en release date, som ligger tilpas langt ude i fremtiden, s\'e5 det ikke f\'f8les som et pres, men som noget, man kan forholde sig til.\
+\
+49:04 (Martin)\
+
+\f2\i Der kan jeg ikke lade v\'e6re med at t\'e6nke p\'e5, at da vi spurgte ind til det med feedback, der sagde du, at der generelt ogs\'e5 kommer meget positivt feedback, det er ogs\'e5 lidt det man ser, n\'e5r man s\'f8ger igennem youtube p\'e5 \'93TonePrint\'94, men hvordan f\'e5r i den her feedback? Er det nogen, der skriver til jer, at det er pissefedt, eller er det n\'e5r i g\'e5r p\'e5 messer?\
+
+\f1\i0 \
+49:35\
+Det vi samler op inde i teamet er rigtigt meget fra vores fora, s\'e5 det er TonePrint-Junkies og vores TC Electronic forum, og s\'e5 er det de ting, som vi f\'e5r ind fra supportere. Det er det, der ender inde hos os. S\'e5 er det ogs\'e5 fedt at h\'f8re, n\'e5r vores rejsende kollegaer har v\'e6ret rundt forskellige steder og v\'e6ret over ved kunstnerne, der ogs\'e5 synes det er et fedt koncept, og at det er sjovt. S\'e5 det er den positive feedback. Tit er det dog ikke s\'e5 konkret, s\'e5 er det som regel mere et klap p\'e5 skulderen.\
+\
+
+\f0\b Hvis du skulle n\'e6vne fem vigtige aspekter som vi b\'f8r tage med videre i udviklingen af et TonePrint Community, hvad skulle det s\'e5 v\'e6re?\
+
+\f1\b0 51:30\
+Noget, jeg t\'e6nker kunne v\'e6re interessant at finde ud af er, hvor meget af community skal vi holde inde i appen, og hvor meget skal vi lade v\'e6re udenfor? Hvor stor skal vi lave det, for at det giver mening for brugerne?\
+\
+51:50 (Jeppe)\
+
+\f2\i Hvad ville din pr\'e6ference v\'e6re? Skulle det v\'e6re i appen, eller skulle det v\'e6re seperat?
+\f1\i0 \
+\
+51:58\
+Jeg er nok mere til at holde den del, der er inde i appen s\'e5 minimalistisk som muligt, og s\'e5 kan man lade sociale medier v\'e6re sociale medier, og lade community v\'e6re community, men la\'92 appen p\'e5 en m\'e5de binde sammen med det, men s\'e5 holde det inde i appen som er kernefunktioner\
+\
+52:33\
+Hvordan det split skal v\'e6re, og hvor lidt man kan slippe afsted med at have inde i appen, og hvordan man s\'e5 g\'f8r brug af de andre medier rundt omkring, det synes jeg er noget, der er sp\'e6ndende at diskutere. Jeg har selvf\'f8lgelig en plan om, hvad vi skal g\'f8re, men for mig at det ikke givet, at det n\'f8dvendigvis er det rigtige, eller at det er den eneste rigtige l\'f8sning.\
+\
+53:23\
+vi holder det relativt lukket det her med filerne. Det er ogs\'e5 et request, vi har h\'f8rt ofte, at folk gerne vil kunne dele med hinanden. Vi har h\'f8rt det i \'e5revis, og de har fundet p\'e5 alle mulig krumspring for at kunne dele TonePrints med hinanden, s\'e5 det vil vi selvf\'f8lgelig gerne tilbyde. Vi vil gerne holde vores filer og vores data omkring det, inde i appen, s\'e5 kan der v\'e6re andre apps, der g\'f8r andre ting. S\'e5 kan man eksempelvis gemme det som et MIDI-dump, eller du kan gemme det som en QR-kode.\
+\
+54:17 (Jeppe)\
+
+\f2\i Hvad hedder den app?
+\f1\i0 \
+\
+54:19\
+Soundmondo. Det er til de der Yamaha keyboards, hvor man kan lave en lyd p\'e5 sit keyboard, s\'e5dan man s\'e5 s\'e6tte den til appen og uploade den til en QR-kode, som du s\'e5 kan dele med folk, s\'e5 er det nemlig bare et billede. S\'e5 kan man bare poste billedet p\'e5 sociale medier.\
+\
+55:05 (Martin)\
+
+\f2\i \'c9n ting, jeg ikke kan lade v\'e6re med at t\'e6nke p\'e5, du n\'e6vnte det her med, at det nok er lidt forskellig ekspertise, de her brugere har af TonePrint appen. Vil du mene, at man skal g\'e5 efter at im\'f8dekomme alle former for eksperter i s\'e5dan et community, eller tror du, man er n\'f8dt til at m\'e5lrette sig efter et bestemt ekspertiseniveau?
+\f1\i0 \
+\
+55:45\
+Umiddelbart t\'e6nker jeg, at hvis vi har preset browserne og tweakerne, s\'e5 er det her rigtig meget il begge p\'e5 en m\'e5de, men det kan ogs\'e5 v\'e6re fordi jeg selv er begge. Jeg kan godt lide, at man nemt kan finde content, s\'e5 det bliver nemt for folk at t\'e6nke, 
+\f2\i jeg skal have noget, der er lidt ligesom det her. 
+\f1\i0 Den vinkel ind i det, synes jeg er vigtig. Det der er mere til tweakerne er det her med, at man skal kunne promote sig selv inde p\'e5 det her, s\'e5 hvis vi havde en m\'e5de at sige 
+\f2\i browse by artist
+\f1\i0  eller bare 
+\f2\i user
+\f1\i0 , s\'e5 vil man kunne follow nogen, og man kunne sige, at ham her, hans TonePrints er fede, og han laver altid videoer til dem. S\'e5 n\'e5r han laver content, s\'e5 er det altid back\'92et up af youtube videoer, s\'e5 kunne man jo godt f\'f8lge dem, til n\'e5r de lavede noget nyt. Det er m\'e5ske mere til de her tweakere som giver stjerner for at markere, at de her kunstnere, det er dem, der laver de fede TonPrints. Begge dele er ting, vi gerne vil underst\'f8tte.\
+\
+57:20\
+Jeg tror, at det der er nemmest for os er at lave noget til de her tweakere, at man kan lave noget, s\'e5 man kan favourite nogen brugere, man f\'f8lger, og man kan l\'e6gge et link til en youtube video ind i sin beskrivelser. Al den teknik, der skal til for at lave det, har vi allerede. Derfor er det nok nemmest for os at g\'e5 den vej i forhold til alle de sorteringsmekanismer og alt det med s\'f8gninger, som vi ikke har arbejdet s\'e5 meget p\'e5 endnu.\
+\
+58:00 (Martin)\
+
+\f2\i Der kan jeg ikke lade v\'e6re med at sp\'f8rge, n\'e5r du siger, at alt det her teknik har i. Noget teknik vi har talt lidt om i forhold til TonePrint appen ogs\'e5, det er muligheden for at h\'f8re et TonePrint, inden man beamer det ned, hvor nogen af dem har videoer, man kan g\'e5 ind og finde. Teknologien til at optage det kan allerede v\'e6re der i form af wiretap appen, og s\'e5 spille det i forhold til et eller andet TonePrint f\'f8r man beamer det ned, er det teknisk muligt?\
+
+\f1\i0 \
+58:37\
+Vi snakker b\'e5de om Youtube tingen, men ogs\'e5 Souncloud link, men der vil vi igen gerne l\'e6ne os opad at bruge nogen andre platforme, der er bedre egnet til at gemme det her content p\'e5, fordi det skal vi ikke gemme inde i appen. Inde i vores system h\'f8rer der noget til og noget data omkring ens user account, og s\'e5 h\'f8rer TonePrint dataen til derinde. Men alt det her ekstra data, der kunne v\'e6re et link til Youtube eller Soundcloud, hvis man kunne embed det ind i appen. Vi har det allerede i form af youtube videoer for vores artist TonePrints i dag, og jeg tror ikk der er noget problem i at lave det samme for soundcloud snippets.\
+_______________________________________________________________________________________\
+
+\f0\b\fs36 John - 23:36\
+
+\fs22 Da i udviklede konceptet for TonePrint appen, hvordan besluttede i hvilke funktioner der skulle v\'e6re med og hvordan de skulle designes?\
+
+\f1\b0 00:32\
+Den kommer jo som en viderudvikling af den her virtuel front, som vi brugte til at udvikle produkterne med. Et af hovedpunkterne dengang var, at vi kunne ikke lave en firmware opdatering af alle de her eksisterende produkter, s\'e5 derfor var den n\'f8dt til at kunne virke med den funktionalitet ligesom vi udviklede i den virtuelle front.\
+\
+01:01\
+S\'e5 vi tog et sub-set af det, den virtuelle front kunne og lavede det mere brugervenligt, men der var ikke nogen kundeinddragelse p\'e5 det tidspunkt, som jeg husker det.\
+\
+01:11 (Martin)\
+
+\f2\i Den her virtuelle front, var det noget i selv brugte til at udvikle produkter?\
+
+\f1\i0 \
+01:18\
+Ja, det er s\'e5dan et udviklingsv\'e6rkt\'f8j for at komme hurtigere afsted.\
+\
+
+\f0\b Hvordan har jeres viden ang\'e5ende jeres brugere p\'e5virket udviklingen af TonePrint appen, og hvor har i den viden fra?\
+
+\f1\b0 01:38\
+Ikke som jeg husker det.\
+\
+01:42 (Martin)\
+
+\f2\i Her er der m\'e5ske ogs\'e5 lidt fokus p\'e5, at i kender m\'e5ske allerede en masse guitarister, fordi der sidder nok ogs\'e5 en del p\'e5 kontoret. Har i p\'e5 en eller anden m\'e5de vidst at folk m\'e5ske har en eller anden forventning til det her, men alts\'e5 uden at inddrage brugerne?\
+
+\f1\i0 \
+02:02\
+Nu er min tidslinje nok ogs\'e5 lidt forvr\'e6nget, men som jeg husker det, s\'e5 kunne vi godt finde p\'e5 at lave produkter, bare som vi mente, at kunderne vil have det. Der har ikke v\'e6ret en lang tradition for at inddrage brugerne, og det tror jeg ogs\'e5 var det vi gjorde med det produkt. Vi kogte det ned til det, vi mente at kunderne ville kunne h\'e5ndtere.\
+\
+02:37\
+Sidenhen har der v\'e6ret scenarier, hvor vi har responderet p\'e5 den feedback, der er kommet p\'e5 forum for eksempel, men det har ikke v\'e6ret normalt at have forslag ud til kunderne, hvor vi har sagt 
+\f2\i kunne i t\'e6nke jer det her? eller kunne i t\'e6nke jer det her?
+\f1\i0 \
+\
+02:49 (Martin)\
+
+\f2\i Hvad kunne det v\'e6re for en form for feedback?
+\f1\i0 \
+\
+02:55\
+Eksempelvis, hvis der er nogen, der har klaget over noget, der ikke virker p\'e5 vores forum. Jeg ved ikke, om jeg lige kan huske noget konkret, men det ville vi i hvert fald reagere p\'e5.
+\f2\i \
+
+\f1\i0 \
+
+\f0\b Gjorde i noget for at m\'e5lrette TonePrint appen mod bestemte brugergrupper, og hvordan gjorde i det i s\'e5fald?\
+
+\f1\b0 03:21\
+Nej, det har vi ikke.\
+\
+
+\f0\b Selvom TonePrint appen er et ret unikt produkt har i s\'e5 draget inspiration fra andre interne eller eksterne produkter, og i s\'e5 fald hvordan?\
+
+\f1\b0 03:40\
+Vi har for eksempel med det her cloud noget, som vi sidder og arbejder p\'e5 nu, der har vi luret lidt p\'e5 de andre, hvordan de g\'f8r det, simpelthen for at f\'e5 en f\'f8ling af, hvad er den bedste m\'e5de at g\'f8re det her p\'e5, s\'e5 j det har vi.\
+\
+03:58\
+I den \'e6ldre app har vi ikke, men der har heller ikke v\'e6ret s\'e5 meget for 5-6 \'e5r siden. Der var ikke s\'e5 mange konkurrerende produkter, og det er der egentlig stadigv\'e6k ikke.\
+\
+04:16 (Jeppe)\
+
+\f2\i Hvad s\'e5 hvi vi snakker mere p\'e5 konceptplan? Er der nogen ting, i har taget udgangspunkt i eller taget inspiration fra?\
+
+\f1\i0 \
+04:22 (Martin)\
+
+\f2\i Det kunne ogs\'e5 v\'e6re fra andre dom\'e6ner.
+\f1\i0 \
+\
+04:25\
+Jeg ved ikke, om det lige er helt relateret til det, i sp\'f8rger om, men vi har omstruktureret meget af appen, fordi vi ikke syntes, at UI\'92et spillede p\'e5 IOS devices. Det har vi faktisk taget meget af kritikken fra kunderne til os. Det her design vi havde lavet og som k\'f8rte p\'e5 tv\'e6rs af platforme, det k\'f8rte ikke ordentligt. S\'e5 har vi lavet det s\'e5dan, at det var native UI p\'e5 alle platforme, og det var respons fra kunderne, at nogle lister, hvor man scroller, de k\'f8rte d\'e5rligt. S\'e5 vi har p\'e5 den m\'e5de indrettet os efter, at kunderne forventer en native fornemmelse p\'e5 alle platforme.
+\f2\i \
+
+\f1\i0 \
+
+\f0\b Hvordan besluttede i jer for informationsstrukturen i TonePrint appen, b\'e5de set i forhold til menustrukturen og de forskellige m\'e5der de kan kategoriseres p\'e5?\
+
+\f1\b0 05:44\
+Der har Jess v\'e6ret meget inde over som brugerfladedesigner, og s\'e5 har vi ogs\'e5 gjort meget for at pr\'f8ve ting af, og se hvad der virkede.\
+\
+05:58 (Martin)\
+
+\f2\i Er det p\'e5 prototype-niveau?\
+
+\f1\i0 \
+06:10\
+Vi snakker nogen gange om, at det er lettere at pr\'f8ve nogle ting i stedet for at sidde f\'f8rst og snakke om pr\'e6cist, hvordan det skal v\'e6re. S\'e5 hvis det er noget, vi vurderer, at vi hurtigt lige kan pr\'f8ve nogle scenarier af, s\'e5 kan vi godt finde p\'e5 at g\'f8re det, og s\'e5 beslutte et eller andet.\
+\
+06:29\
+Dr\'f8mmescenariet ville jo v\'e6re, at n\'e5r jeg skal igang med at kode et eller andet, s\'e5 har Jess allerede tegnet 14 forslag og besluttet, at det skal v\'e6re s\'e5dan der, men s\'e5dan er det sj\'e6ldent i virkeligheden. S\'e5 det er n ping-pong mellem dem, der er p\'e5 holdet.\
+\
+06:45\
+S\'e5 er det jo ogs\'e5 altid s\'e5dan noget med, at nogen gange synes holdet, at de ved hvad kunderne vil have, og nogen gange er man uenige og siger, at man synes, man skal sp\'f8rge kunderne, og s\'e5 nogen gange er det chefen, der siger at vi g\'f8r s\'e5dan der.\
+\
+
+\f0\b I har en meget stor database af b\'e5de TonePrints, pedaler, kunstnere og videoer. Hvordan besluttede i jer for,  hvordan i h\'e5ndterer og pr\'e6senterer de forskellige data?\
+
+\f1\b0 07:32\
+Vi har snakket om, hvordan man kunne kategorisere tingen, og s\'e5 var der nogle ting, der virkede oplagte. Fx, at kunderne gerne ville kunne sortere efter artister eller produkter, s\'e5 det er nok en situation, hvor vi har vurderet, at det ikke kunne betale sig at sp\'f8rge kunderne.\
+\
+07:57\
+S\'e5 er der s\'e5 ogs\'e5 opst\'e5et s\'e5dan nogle underbegreber, og bare det, at jeg har sv\'e6rt ved at forklare det, er jo et d\'e5rligt tegn. Det er s\'e5dan noget med, at der godt kan v\'e6re en sortering p\'e5 et produkt, som ikke er et rigtigt fysisk produkt men som mere svarer til en effekttype, og det vi v\'e6ret meget forvirret omkring, n\'e5r vi har diskuteret det, men det er egentlig bare en sorteringsabstraktion. Det her fysiske produkt vil jeg gerne have ind under en ny kategori, men det her fysiske produkt skal bare v\'e6re under den samme eller have sin egen. Det er ikke noget, jeg har v\'e6ret med til at beslutte, og jeg har v\'e6ret forvirret omkring det, og jeg ved egentlig ikke om jeg helt er tilh\'e6nger af det, fordi jeg har det lidt s\'e5dan, at hvis tingene er sv\'e6re at forklare, giver de ogs\'e5 bare en masse b\'f8vl, n\'e5r man skal implementere det. Der tror jeg ikke, vi er helt enige p\'e5 holdet.\
+\
+09:02 (Martin)\
+
+\f2\i N\'e5r du sidder og programmerer det, s\'e5 har i vel en eller anden m\'e5de at h\'e5ndtere en database p\'e5, kunne jeg forestille mig. Der er en sammenh\'e6ng mellem kunstner og pedal for det enkelte TonePrint, giver det nogle begr\'e6nsninger i forhold til, hvad man s\'e5 kan lave?\
+
+\f1\i0 \
+09:25\
+Den del er ikke noget, jeg har arbejdet med, det er Anders, der har det, men umiddelbart vil jeg t\'e6nke nej, fordi s\'e5 vil vi ikke have gjort det.\
+\
+09:42\
+Jeg husker ikke, at vi har haft nogen features oppe p\'e5 bordet og s\'e5 besluttet, at det kan vi ikke fordi s\'e5dan og s\'e5dan.\
+\
+
+\f0\b Hvilken data vil du mene er n\'f8dvendig for at kunne g\'f8re et TonePrint community med User TonePrints effektiv, og hvordan vil du mene denne data skal struktureres og kategoriseres.\
+
+\f1\b0 10:14\
+Der t\'e6nker jeg, at den store opgave ligger i tags. Vi har snakket meget om, at man skal kunne tagge TonePrints med kategorier, og det er jo en ret abstrakt ting, s\'e5 det kr\'e6ver nok en del arbejde at finde ud af, hvordan det fungerer.\
+\
+10:26\
+Jeg t\'e6nker ogs\'e5, at det kan v\'e6re s\'e5dan noget, hvor man bliver n\'f8dt til at k\'f8re nogle iterationer p\'e5 det, fordi der jo ikke er nogen exact formel p\'e5 det, g\'e6tter jeg p\'e5, at finde ud af, hvordan det kommer til at virke, fordi det bliver en ballancegang mellem ikke at f\'e5 lavet et eller andet, der eksploderer fuldst\'e6ndigt. S\'e5 tror jeg bare, at vi bliver spammet og overhovedet ikke kan overskue det, og s\'e5 lige finde det de gerne vil have. S\'e5 tags, og produkter selvf\'f8lgelig, t\'e6nker jeg.\
+\
+11:00\
+S\'e5 kan der ogs\'e5 v\'e6re noget i s\'e5dan nogle mekanismer som at rate andres TonePrints, men der skal man s\'e5 ogs\'e5 passe p\'e5 det her med at det, der bliver rated h\'f8jt kommer op, og s\'e5 bliver det rated h\'f8jere, og lige pludselig, s\'e5 er det bare s\'e5dan en lille klump af h\'f8jt rated TonePrints. Der har vi luret meget p\'e5 Fyres Effects, som har en app, der ogs\'e5 har en cloud. Der syntes jeg umiddelbart, sidst jeg kiggede, at det lugtede meget af, at der var nogle enkelte lyde, der fik al opm\'e6rksomheden.\
+\
+11:47 (Martin)\
+
+\f2\i Alts\'e5, s\'e5 man faktisk mistede lidt fokus af dybden, fordi det kun var dem, der ligesom var i toppen?\
+
+\f1\i0 \
+11:55\
+Ja, det bliver jo selvforst\'e6rkende.\
+\
+12:00 (Martin)\
+
+\f2\i Kunne du have et bud til, hvordan man undgik det?
+\f1\i0 \
+\
+12:07\
+For vores egen nysgerrighedsskyld, kunne man jo godt overveje at logge, hvor l\'e6nge folk bruger et TonePrint, s\'e5 vi kunne ende med at vide, hvilke af dem, folk faktisk brugte mest. Hvis det s\'e5 ikke var de samme som dem der bliver rated h\'f8jt, s\'e5 kunne man begynde at kigge p\'e5, om man kan bruge det til et eller andet. S\'e5 vil man s\'e5 ogs\'e5 blive uvenner med dem med s\'f8lvpapirshatten p\'e5.
+\f2\i \
+
+\f1\i0 \
+\
+\
+
+\f0\b Hvad ligger til grunde for forskellen p\'e5 appen fra platform til platform? Eksempelvis informationen om ikke tilsluttet pedal, s\'f8ge funktionen, video visning og TonePrint information samt beaming?\
+
+\f1\b0 13:00\
+Som udgangspunkt var UI\'92et jo lavet ens for alle platformene, fordi det t\'e6nkte vi var smart til at starte med, men sidenhen, ogs\'e5 i forbindelse med at vi har f\'e5et native UI\'92s p\'e5 de forskellige platforme, s\'e5 giver det nogen steder mening, at der kun er en liste til at scrollet i, hvis det er en telefon, og du holder den i portr\'e6t.\
+\
+13:23\
+S\'e5 var der naturligt nok ogs\'e5 nogen, der brokkede sig, n\'e5r de var p\'e5 store sk\'e6rmen, at vi stadig kun havde en st\'f8rrelse p\'e5 appen, der svarer til en Ipad, men det var det, vi syntes var smart i starten. Tingene skal kunne v\'e6re p\'e5 sk\'e6rmen, og man skal kunne udnytte hele sk\'e6rmen.\
+\
+13:52 (Martin)\
+
+\f2\i Hvad s\'e5 med s\'e5dan noget som forskelle p\'e5 Iphone og android? Vi kan se, at der er nogle f\'e5 funktionaliteter, der var forskellige. Ikke noget, der var basic for at den fungerede, men der er eksempelvis en s\'f8gefunktion p\'e5 android, som der ikke er p\'e5 Iphone.\
+
+\f1\i0 \
+14:12\
+Det er meningen, at den skal komme, men nogle af de forskelle skyldes, at det er S\'f8ren, der har lavet android versionen, og nogen gange, laver han lige en feature, som vi ikke har f\'e5et lavet, ellers vil jeg g\'e6tte p\'e5, at de forskelle, der kan v\'e6re, er hvis fx tilbage knappen sidder i det ene hj\'f8rne p\'e5 den ene platform og i det andet hj\'f8rne p\'e5 en anden platform. Hvis folk har en forventning til, hvordan det skal se ud, s\'e5 f\'f8lger vi det.\
+\
+
+\f0\b Hvad er form\'e5let med tekstbeskrivelserne tilh\'f8rende de forskellige TonePrints, og hvordan beslutter i jer for, hvad der skal st\'e5?\
+
+\f1\b0 15:04\
+Meningen er at informere folk og g\'f8re dem nysgerrige.\
+\
+15:22\
+Hvordan vi beslutter os for, hvad der skal st\'e5, ved jeg ikke. Det er dem der er ude og lave det, der beslutter hvad der skal st\'e5 i den tekst.\
+\
+15:32 (Martin)\
+
+\f2\i Hvis man s\'e5 gjorde det ved et community, kunne du s\'e5 forestille dig, at det ville v\'e6re n\'f8dvendigt at begr\'e6nse folk, s\'e5 de ikke opgave en helt roman i den tekst?
+\f1\i0 \
+\
+15:44\
+Ja, det t\'e6nker jeg, der skal v\'e6re et eller andet.
+\f2\i \
+
+\f1\i0 \
+
+\f0\b Hvilken type feedback f\'e5r i vedr\'f8rende TonePrint editoren, og hvordan bruger i denne feedback?\
+
+\f1\b0 Er allerede addresseret\
+\
+
+\f0\b Til hvilken grad bruger i informationer, i f\'e5r gennem TonePrint-junkies-facebook-siden, youtube eller music tribe community?\
+
+\f1\b0 16:05\
+Det er meget forskelligt. Jeg har et morgenritual med at sidde og l\'e6se forummet, imens jeg drikker min morgenkaffe, for hvis der er et eller andet, jeg t\'e6nker vi skal reagere p\'e5, s\'e5 siger jeg det videre. Tit er det heldigvis noget, vi godt ved, som folk skriver derinde. Nogen gange kan det ogs\'e5 bare lige v\'e6re noget med at tjekke, om vi nu ogs\'e5 har skrevet det i vores backlog. S\'e5 kan det v\'e6re, at jeg bare skriver det i backloggen, og n\'e6ste gang vi s\'e5 broomer, kommer vi til den, og vi kan s\'e5 vurdere, om den er mere relevant nu, hvis der er mange, der siger det. Og vi h\'f8rer hvad folk siger derinde\
+\
+16:42 (Martin)\
+
+\f2\i Er det s\'e5 fra jeres music Tribe Community?\
+
+\f1\i0 \
+16:46\
+Ja, det var s\'e5 fra den, vi havde inden, men det er den samme database, der bare er blevet flyttet.\
+\
+
+\f0\b Meget har \'e6ndret sig op til den nuv\'e6rende app. Hvorfor \'e6ndrede i b\'e5de den grafiske identitet og flere features?\
+
+\f1\b0 \'85..\
+\
+
+\f0\b Hvilke positive og negative effekter har jeres SCRUM arbejdsmetode haft p\'e5 udviklingen af TonePrint appen?\
+
+\f1\b0 17:18\
+Der har jeg ikke rigtig noget negativt at sige. For mig, uafh\'e6ngigt af hvad jeg arbejder med, s\'e5 er det jeg godt kan lide ved scrum, at man har en god fornemmelse af, at man arbejder p\'e5 det rigtige. Det er ikke direkte negativt, men vi bruger meget det her med at sp\'f8rge de andre, om de har brug for hj\'e6lp og s\'e5 flytter os over. Helt ideelt set, villle alle kunne shuffle rundt og hj\'e6lpe de andre med hvad som helst, men s\'e5dan er det jo ikke helt, n\'e5r folk alligevel har lidt forskellige kompetencer. Vi g\'f8r det nogen gange p\'e5 hvert hold og h\'f8rer om de andre har brug for hj\'e6lp, inden man s\'e6tter nye opgaver p\'e5, men p\'e5k\'f8rer det mest s\'e5dan, at folk har deres egne opgaver og ser, om de kan n\'e5 dem. Man kan ogs\'e5 se p\'e5 vores burn-down, at vi n\'e5r det som regel ikke.\
+\
+18:08 (Martin)\
+
+\f2\i I forhold til s\'e5dan noget med UX, s\'e5 kan det v\'e6re sv\'e6rt at sige, afholder jeg lige en brugertest eller en lang unders\'f8gelse, og hvis man s\'e5 ikke n\'e5r at indf\'f8re det, s\'e5 vil det vel g\'e5 udover resten af udviklingsprocessen?\
+
+\f1\i0 \
+18:30\
+Ja, der er jo altid afh\'e6ngigheder, b\'e5de p\'e5 vores hold og sikkert ogs\'e5 over p\'e5 det andet hold. Man pr\'f8ver at f\'e5 fyldt sit sprint ud, og vi har faktisk snakket om her for nyligt, for at vi ikke sidder og stresser hinanden, at det m\'e5ske nogen gange er bedre at have et lidt mindre ambiti\'f8st m\'e5l i sprintet, men s\'e5 s\'f8rge for, at der er opgaver, man kan falde tilbage p\'e5, n\'e5r man venter p\'e5 de andre. Nogen bliver stresset over at have for meget at lave, men man kan ogs\'e5 blive stresset af ikke at have noget at lave, for der skal jo gerne v\'e6re et eller andet, man kan flytte. S\'e5 det er en balancegang, og det kan godt v\'e6re lidt sv\'e6rt nogen gange. Det kr\'e6ver i hvert fald, at man taler om det, og det synes jeg, vi er gode til.\
+\
+
+\f0\b Hvilke teknologiske begr\'e6nsninger har i haft under udviklingen af TonePrint editoren, og hvordan har i kompenseret for disse?\
+
+\f1\b0 19:26\
+Et problem vi har bokset med lige fra starten er, at vi k\'f8rer det over det her MIDI-produkter, og det er jo noget, der h\'e6nger lidt i 80\'92erne hastighedsm\'e6ssigt, men s\'e5dan er det, og det har vi s\'e5 ogs\'e5 arbejdet os udenom ved at begr\'e6nse den m\'e6ngde data, vi skal sende frem og tilbage. Men det er da en begr\'e6nsning. Det begr\'e6nser jo, hvordan man kan tegne sine ting, og hvor smarte og moderne, de kan v\'e6re.\
+\
+19:53 (Martin)\
+
+\f2\i Jeg kunne ikke lade v\'e6re med at se, at p\'e5 en af jeres andre apps, wiretap, at der kan man lave en connection direkte til pedalen med en tr\'e5dl\'f8s forbindelse, er det blue-tooth, den k\'f8rer p\'e5? Men i bruger en ledningsforbindelse, n\'e5r det er TonePrint?\
+
+\f1\i0 \
+20:24\
+Det er fordi, at alle pedalerne har ikke bluetooth, men til vores n\'e6ste produkter kommer der bluetooth. Skulle der dog komme MIDI over bluetooth, s\'e5 er det ikke sikkert, at det k\'f8rer hurtigere. Det fede ved MIDI er, at der ikke er nogen driver, der skal installeres til vores produkter, det k\'f8rer bare. Det er mega plus, for der er jo ikke nogen, der gider drivere. Vi gider ikke vedligeholde dem, og folk gider ikke installere dem.\
+\
+20:55\
+Der ville det bare v\'e6re fedt, hvis der kom eksempelvis en opdatering til MIDI, der udnyttede hele b\'e5ndbredden p\'e5 USB, og det kan ogs\'e5 godt ske, at der g\'f8r det, men det kan vi ikke vide. Det ville i hvertfald v\'e6re oplagt.\
+\
+
+\f0\b Hvordan opstillede i kravene for TonePrint appen, b\'e5de konceptuelt og design m\'e6ssigt?\
+
+\f1\b0 \'85\'85\
+\
+
+\f0\b Hvordan opstillede i m\'e5ls\'e6tninger for TonePrint appen? og hvordan sikrede i jer, at disse blev n\'e5et?\
+
+\f1\b0 21:27\
+Det l\'f8d meget ambiti\'f8st (#Jokes). Det er jo et gratis produkt. Jeg tror aldrig vi har haft et m\'e5l om at s\'e6lge X-antal af dem, og jeg har nogen gange v\'e6ret inde og kigge p\'e5, hvor mange, der brugte dem, men det er ikke noget, vi har haft noget m\'e5l om. Det er jo et produkt, der er supporteret, de andre er jo fysiske produkter, s\'e5 man kan nok ogs\'e5 kun g\'e6tte p\'e5, hvor mange flere produkter, vi har solgt, fordi vi har den her. Det ved jeg ikke, vi har ikke m\'e5lt p\'e5 det som s\'e5dan.\
+\
+22:01 (Martin)\
+
+\f2\i Det blev heller ikke sat, at nu g\'e5r vi efter, at alle skal downloade s\'e5dan en app, fordi det er fantastisk?\
+
+\f1\i0 \
+22:08\
+Nej\
+\
+
+\f0\b Hvis du skulle n\'e6vne fem vigtige aspekter som vi b\'f8r tage med videre i udviklingen af et TonePrint Community, hvad skulle det s\'e5 v\'e6re?\
+
+\f1\b0 22:36\
+Jeg er lidt i tvivl, om det s\'e5 er et rigtigt svar p\'e5 sp\'f8rgsm\'e5let, men jeg synes det er vigtigt, at vi ikke genopfinder tingene, alts\'e5 at det bliver unders\'f8gt p\'e5 forh\'e5nd, hvad g\'f8r de andre? Og det beh\'f8ver ikke engang at v\'e6re i forhold til guitarprodukter, men hvad er best practice, og hvad virker for dem, der bruger det? Og s\'e5 tager udgangspunkt i det, s\'e5 vi ikke tror, at vi skal til at opfinde et eller andet, fordi den falder vi nogen gange i, synes jeg.\
+\
+23:03\
+Og s\'e5 den vi var inde p\'e5 tidligere med at f\'e5 vurderet, hvordan man s\'f8rger for, at der bliver en passende m\'e6ngde data, ikke for meget og ikke for lidt, og at folk kan finde det, de finder vigtigt.\
+}
