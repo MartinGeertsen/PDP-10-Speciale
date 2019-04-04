@@ -1,0 +1,36 @@
+Møde med Rop. 04-04-2019.
+
+Vi er igang med at analysere interviewene med TC med en temantisk analyse, og på nurværende tidspunkt virker det til deres udvikling består af SCRUM og ingen reel brugerinddragelse. 
+
+* De arbejder efter SCRUM meget regelret.
+* De vurdere brugeres ønsker når de laver deres backlog.
+* Deres beslutninger bliver taget på baggrund af intern snak.
+* De sigter ikke efter bestemte målgrupper.
+* De er nye i gamet for app udvikling.
+
+- Hvordan sammenligner vi forskellige metoder op imod denne viden om deres udviklings proces?
+	- Hvad gøre vi hvis deres proces ikke afgrænser nogler, og hvordan finder vi ud af dette?
+
+- Hvad bør vi spørge om til statusseminar?
+	- Er der noget viden de andre PDP'er har som vi kan udnyttet?
+
+- Hvordan griber vi den kommende proces an?
+
+- Tags (kategorisering) (Hvordan beskriver man sit eget toneprint for at det giver mening for andre og at de kan finde det. Dette skal kunne fungere med 10000 toneprints, hvor nogle kan ende med at lyde ens. Der er sansyndligvis subjektive holdninger til hvilke kasser et toneprint(en lyd) skal puttes i, hvordan kan det gøres muligt for brugere at håntere dette, uden at sætte for store begrænsninger eller hårde retningslinjer op)
+
+--------------------------------------------------------------------------------------------------------------------
+Vi overvejer at spørge jesper om:
+Vi kan få et dokumenteret eksempel på et af deres tidligere SCRUM forløb som ekstra information.
+
+Han snakkede om en user test for nogle pedaler. Vi vil gerne høre hvordan de gjorde, hvordan det passede med deres SCRUM tilgang.
+____________________________________________________________________________________________________________________
+Wich methods of user involment are applicable in tc electronics development proces of a TonePrint Community, given the state of the development?
+
+
+Bør vi sfinde ud af hvad deres næste step i udviklingen er lige pt.
+
+- Hvad er i deres backlog? Ud fra det kan vi sige, hvis det her er det næste i skal lave, kan i anvende den her metode/tilgang.
+
+Tidligere har de ikke sat mange midler af til brugerinddragelse, så det er nok heller ikke så hensigtsmæssigt, hvis vi går ind og foreslår brugerstudier med mange omkostninger?
+
+
