@@ -11,6 +11,18 @@ Vi er igang med at analysere interviewene med TC med en temantisk analyse, og på
 - Hvordan sammenligner vi forskellige metoder op imod denne viden om deres udviklings proces?
 	- Hvad gøre vi hvis deres proces ikke afgrænser nogler, og hvordan finder vi ud af dette?
 
+Tina PHD og 2 artikler - tre eksperimenter i forskellige firmaer - En af dem er TC Electronic. Hvad lavede hun? Kan vi bruge det som inspiration? - Vi skal sørge fro, at vi ikke bare kopier hendes studie.
+
+Prøv at kigge på de sidste måneders tid, hvad er der blevet arbejdet på, og kunne brugerinddragelse have indgået deri på en måde? - Vi skal have styr på hvilken opgave, der ligger foran dem. Vi kan også gribe det an retrospektivt.
+
+Vi skal ikke kigge på, hvordan vi planlægger et scrum forløb for os som potentielle UX folk hos dem. Vi skal i stedet kigge på deres proces for at kunne udpege mulige punkter der kan optimeres eller ændres strukturmæssigt, så vi kan lave et UX scrum forløb.
+
+Vi har brug for en klar afgrænsning fra TC for at finde ud af, hvad der skal laves. - Hvad er man-power? og hvad er tidshorisonterne? Er det kun 3-ugers sprints til planlægning, test og analyse? 
+
+Vi kan have fordel i at præsentere vores forståelse til TC, for at se om de er enige.
+
+
+
 - Hvad bør vi spørge om til statusseminar?
 	- Er der noget viden de andre PDP'er har som vi kan udnyttet?
 
