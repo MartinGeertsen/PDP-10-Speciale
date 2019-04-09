@@ -46,3 +46,6 @@ Bør vi sfinde ud af hvad deres næste step i udviklingen er lige pt.
 Tidligere har de ikke sat mange midler af til brugerinddragelse, så det er nok heller ikke så hensigtsmæssigt, hvis vi går ind og foreslår brugerstudier med mange omkostninger?
 
 
+waterfall vs gate stage
+
+
