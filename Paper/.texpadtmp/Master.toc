@@ -3,22 +3,22 @@
 \select@language {english}
 \contentsline {chapter}{\numberline {1}Introduction}{5}{chapter.1}
 \contentsline {section}{\numberline {1.1}The benefits of user centered design}{5}{section.1.1}
-\contentsline {section}{\numberline {1.2}Introduction to the case in focus}{6}{section.1.2}
-\contentsline {chapter}{\numberline {2}TonePrint}{7}{chapter.2}
-\contentsline {section}{\numberline {2.1}What is TonePrint?}{7}{section.2.1}
-\contentsline {section}{\numberline {2.2}TonePrint software}{8}{section.2.2}
-\contentsline {chapter}{\numberline {3}Exploring the TonePrint application}{11}{chapter.3}
-\contentsline {section}{\numberline {3.1}Heuristic Evaluation Results}{12}{section.3.1}
-\contentsline {subsubsection}{Visibility of system status}{12}{section*.4}
-\contentsline {subsubsection}{Match between systems and the real world}{12}{section*.5}
-\contentsline {subsubsection}{User control and freedom}{12}{section*.6}
-\contentsline {subsubsection}{Consistency and standards}{13}{section*.7}
-\contentsline {subsubsection}{Error prevention}{13}{section*.8}
-\contentsline {subsubsection}{Recognition rather than recall}{14}{section*.9}
-\contentsline {subsubsection}{Flexibility and efficiency of use}{14}{section*.10}
-\contentsline {subsubsection}{Aesthetic and minimalist design}{14}{section*.11}
-\contentsline {subsubsection}{Help users recognise, diagnose, and recover from errors}{14}{section*.12}
-\contentsline {subsubsection}{Help and documentation}{14}{section*.13}
-\contentsline {chapter}{\numberline {4}The Design process of TC Electronic}{15}{chapter.4}
-\contentsline {section}{\numberline {4.1}Interview with TC}{15}{section.4.1}
-\contentsline {subsubsection}{Introduction}{15}{section*.14}
+\contentsline {section}{\numberline {1.2}Introduction to the focus of the study}{7}{section.1.2}
+\contentsline {chapter}{\numberline {2}TonePrint}{9}{chapter.2}
+\contentsline {section}{\numberline {2.1}What is TonePrint?}{9}{section.2.1}
+\contentsline {section}{\numberline {2.2}TonePrint software}{10}{section.2.2}
+\contentsline {chapter}{\numberline {3}Exploring the TonePrint application}{13}{chapter.3}
+\contentsline {section}{\numberline {3.1}Heuristic Evaluation Results}{14}{section.3.1}
+\contentsline {subsubsection}{Visibility of system status}{14}{section*.4}
+\contentsline {subsubsection}{Match between systems and the real world}{14}{section*.5}
+\contentsline {subsubsection}{User control and freedom}{14}{section*.6}
+\contentsline {subsubsection}{Consistency and standards}{15}{section*.7}
+\contentsline {subsubsection}{Error prevention}{15}{section*.8}
+\contentsline {subsubsection}{Recognition rather than recall}{16}{section*.9}
+\contentsline {subsubsection}{Flexibility and efficiency of use}{16}{section*.10}
+\contentsline {subsubsection}{Aesthetic and minimalist design}{16}{section*.11}
+\contentsline {subsubsection}{Help users recognise, diagnose, and recover from errors}{16}{section*.12}
+\contentsline {subsubsection}{Help and documentation}{16}{section*.13}
+\contentsline {chapter}{\numberline {4}The Design process of TC Electronic}{17}{chapter.4}
+\contentsline {section}{\numberline {4.1}Interview with TC}{17}{section.4.1}
+\contentsline {subsubsection}{Introduction}{17}{section*.14}

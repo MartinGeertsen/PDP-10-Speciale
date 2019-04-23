@@ -19,28 +19,6 @@
 
 \refsection{0}
   \sortlist{entry}{nty}
-    \entry{WEB:UXDefinitions}{online}{}
-      \name{labelname}{1}{}{%
-        {{uniquename=0,hash=04ecfcc6f07e060214fadfe569709dc9}{{All\bibnamedelimb About\bibnamedelimb UX}}{A\bibinitperiod}{}{}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{uniquename=0,hash=04ecfcc6f07e060214fadfe569709dc9}{{All\bibnamedelimb About\bibnamedelimb UX}}{A\bibinitperiod}{}{}{}{}{}{}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=a6ee88de3956a58b283067313bace108}{allaboutux.org}{a\bibinitperiod}{}{}{}{}{}{}}%
-      }
-      \strng{namehash}{04ecfcc6f07e060214fadfe569709dc9}
-      \strng{fullhash}{04ecfcc6f07e060214fadfe569709dc9}
-      \field{sortinit}{A}
-      \field{labelyear}{2019}
-      \field{datelabelsource}{}
-      \field{labeltitle}{User experience definitions}
-      \field{title}{User experience definitions}
-      \field{year}{2019}
-      \verb{url}
-      \verb https://www.allaboutux.org/ux-definitions
-      \endverb
-    \endentry
     \entry{PDF:TonePrintAnalyse}{report}{}
       \name{labelname}{1}{}{%
         {{uniquename=0,hash=e69a6545618c2cfef8b6b50fadad3937}{Andersen}{A\bibinitperiod}{Jesper\bibnamedelima Lumbye}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
@@ -63,17 +41,17 @@
     \endentry
     \entry{WEB:UXDesign}{online}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=bbdee94556dffe52b98f445c3d638757}{{Interaction\bibnamedelimb Design\bibnamedelimb Foundation}}{I\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=5a10cf9fdb599fd2ec271a35357ed4ce}{Foundation}{F\bibinitperiod}{Interaction\bibnamedelima Design}{I\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=bbdee94556dffe52b98f445c3d638757}{{Interaction\bibnamedelimb Design\bibnamedelimb Foundation}}{I\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=5a10cf9fdb599fd2ec271a35357ed4ce}{Foundation}{F\bibinitperiod}{Interaction\bibnamedelima Design}{I\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
       }
       \list{organization}{1}{%
         {Interaction Design Foundation}%
       }
-      \strng{namehash}{bbdee94556dffe52b98f445c3d638757}
-      \strng{fullhash}{bbdee94556dffe52b98f445c3d638757}
-      \field{sortinit}{I}
+      \strng{namehash}{5a10cf9fdb599fd2ec271a35357ed4ce}
+      \strng{fullhash}{5a10cf9fdb599fd2ec271a35357ed4ce}
+      \field{sortinit}{F}
       \field{labelyear}{2019}
       \field{datelabelsource}{}
       \field{labeltitle}{User Experience (UX) Design}
@@ -133,9 +111,6 @@
         {{uniquename=0,hash=94a89a95ec45f507137d638569595551}{Øvad}{Ø\bibinitperiod}{Tina}{T\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=0929bcf63d193975794ad385a66eb227}{Larsen}{L\bibinitperiod}{Lars\bibnamedelima Bo}{L\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
       }
-      \list{organization}{1}{%
-        {IEEE Computer Society Press}%
-      }
       \strng{namehash}{e45995780bb4b5eb94c08a6113545074}
       \strng{fullhash}{e45995780bb4b5eb94c08a6113545074}
       \field{sortinit}{Ø}
@@ -146,6 +121,27 @@
       \field{title}{The prevalence of UX Design in Agile Development Processes in Inudstry}
       \field{year}{2015}
       \field{pages}{40\bibrangedash 49}
+    \endentry
+    \entry{WEB:AgilityForUX}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=3a2652210b2d405c1d6f47381c4dffc4}{Persson}{P\bibinitperiod}{John\bibnamedelima Stouby}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d57e142ef3012db00c2e369fc3ab8e24}{Nielsen}{N\bibinitperiod}{Peter\bibnamedelima Axel}{P\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5a5df769b30f97d4d82dfa827d9c7034}{Bruun}{B\bibinitperiod}{Anders}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=3a2652210b2d405c1d6f47381c4dffc4}{Persson}{P\bibinitperiod}{John\bibnamedelima Stouby}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d57e142ef3012db00c2e369fc3ab8e24}{Nielsen}{N\bibinitperiod}{Peter\bibnamedelima Axel}{P\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5a5df769b30f97d4d82dfa827d9c7034}{Bruun}{B\bibinitperiod}{Anders}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6b00041409c56aaf99d6fc55f1e7b6b9}
+      \strng{fullhash}{5a6cb0a3e1dad1436b00bd050004889f}
+      \field{sortinit}{P}
+      \field{labelyear}{2018}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Agility for UX and Development: A Case Study}
+      \field{journaltitle}{NordiCHI}
+      \field{title}{Agility for UX and Development: A Case Study}
+      \field{year}{2018}
     \endentry
     \entry{WEB:UXBenefits}{online}{}
       \name{labelname}{1}{}{%
@@ -167,6 +163,55 @@
       \field{year}{2017}
       \verb{url}
       \verb https://www.uxmatters.com/mt/archives/2017/12/the-benefits-of-user-experience.php
+      \endverb
+    \endentry
+    \entry{PDF:EvolutionofagileUXD}{article}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=0,hash=331bd233685ffab8b54a070b7e27cbf1}{Silva}{S\bibinitperiod}{Tiago\bibnamedelimb Silva\bibnamedelima Da}{T\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=abbf8a024cd5e20dd75cf86a13550067}{Silveira}{S\bibinitperiod}{Milene\bibnamedelima Selbach}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=22fcd985d33e092ba11ad9dc7bd27fda}{Maurer}{M\bibinitperiod}{Frank}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5c8808a10b796b1cae1eb32694529411}{Silveira}{S\bibinitperiod}{Fábio\bibnamedelima Fagundes}{F\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=331bd233685ffab8b54a070b7e27cbf1}{Silva}{S\bibinitperiod}{Tiago\bibnamedelimb Silva\bibnamedelima Da}{T\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=abbf8a024cd5e20dd75cf86a13550067}{Silveira}{S\bibinitperiod}{Milene\bibnamedelima Selbach}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=22fcd985d33e092ba11ad9dc7bd27fda}{Maurer}{M\bibinitperiod}{Frank}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5c8808a10b796b1cae1eb32694529411}{Silveira}{S\bibinitperiod}{Fábio\bibnamedelima Fagundes}{F\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1525d47c0cebfe2355ddb2f21e03d183}
+      \strng{fullhash}{6fc2af804572a9ca9a91d5a8c438a9f0}
+      \field{sortinit}{S}
+      \field{labelyear}{2018}
+      \field{labelmonth}{10}
+      \field{datelabelsource}{}
+      \field{labeltitle}{The evolution og agile UXD}
+      \field{journaltitle}{Information and Software Technology}
+      \field{month}{10}
+      \field{title}{The evolution og agile UXD}
+      \field{volume}{102}
+      \field{year}{2018}
+      \field{pages}{1\bibrangedash 5}
+    \endentry
+    \entry{WEB:UXDefinitions}{online}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=0d97da46f1dc356a904ee35775ad8ae3}{UX}{U\bibinitperiod}{All\bibnamedelima About}{A\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=0d97da46f1dc356a904ee35775ad8ae3}{UX}{U\bibinitperiod}{All\bibnamedelima About}{A\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=a6ee88de3956a58b283067313bace108}{allaboutux.org}{a\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{0d97da46f1dc356a904ee35775ad8ae3}
+      \strng{fullhash}{0d97da46f1dc356a904ee35775ad8ae3}
+      \field{sortinit}{U}
+      \field{labelyear}{2019}
+      \field{datelabelsource}{}
+      \field{labeltitle}{User experience definitions}
+      \field{title}{User experience definitions}
+      \field{year}{2019}
+      \verb{url}
+      \verb https://www.allaboutux.org/ux-definitions
       \endverb
     \endentry
     \entry{WEB:WixonUXindustry}{article}{}
