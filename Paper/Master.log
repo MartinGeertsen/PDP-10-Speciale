@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.21)  26 MAR 2019 16:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.21)  22 APR 2019 09:27
 entering extended mode
 **./Master.tex
 (Master.tex
@@ -1141,18 +1141,71 @@ File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 Package FiXme Warning: marginclue layout requested;
 (FiXme)                turning margin layout off on input line 732.
 
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/adjustbox\adjustbox.sty"
+Package: adjustbox 2019/01/04 v1.2 Adjusting TeX boxes (trim, clip, ...)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/adjustbox\adjcalc.sty"
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/adjustbox\trimclip.sty"
+Package: trimclip 2018/04/08 v1.1 Trim and clip general TeX material
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/collectbox\collectbox.sty"
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box76
+)
+\tc@llx=\dimen278
+\tc@lly=\dimen279
+\tc@urx=\dimen280
+\tc@ury=\dimen281
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/adjustbox\tc-pdftex.def"
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
 ))
+\adjbox@Width=\dimen282
+\adjbox@Height=\dimen283
+\adjbox@Depth=\dimen284
+\adjbox@Totalheight=\dimen285
+\adjbox@pwidth=\dimen286
+\adjbox@pheight=\dimen287
+\adjbox@pdepth=\dimen288
+\adjbox@ptotalheight=\dimen289
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/ifoddpage\ifoddpage.sty"
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count443
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/varwidth\varwidth.sty"
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box77
+\sift@deathcycles=\count444
+\@vwid@loff=\dimen290
+\@vwid@roff=\dimen291
+)))
+("C:\Program Files\MiKTeX 2.9\tex/latex/tools\tabularx.sty"
+Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
+\TX@col@width=\dimen292
+\TX@old@table=\dimen293
+\TX@old@col=\dimen294
+\TX@target=\dimen295
+\TX@delta=\dimen296
+\TX@cols=\count445
+\TX@ftn=\toks50
+)
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\english.lbx"
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\english.lbx"
 File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
 )
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count443
-\@quotereset=\count444
+\@quotelevel=\count446
+\@quotereset=\count447
 
 Package biblatex Warning: Conflicting options.
 (biblatex)                '<namepart>inits' conflicts with 'uniquename=full'.
@@ -1264,17 +1317,17 @@ File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 )
 ("C:\Program Files\MiKTeX 2.9\tex/context/base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count445
-\scratchdimen=\dimen278
-\scratchbox=\box76
-\nofMPsegments=\count446
-\nofMParguments=\count447
-\everyMPshowfont=\toks50
-\MPscratchCnt=\count448
-\MPscratchDim=\dimen279
-\MPnumerator=\count449
-\makeMPintoPDFobject=\count450
-\everyMPtoPDFconversion=\toks51
+\scratchcounter=\count448
+\scratchdimen=\dimen297
+\scratchbox=\box78
+\nofMPsegments=\count449
+\nofMParguments=\count450
+\everyMPshowfont=\toks51
+\MPscratchCnt=\count451
+\MPscratchDim=\dimen298
+\MPnumerator=\count452
+\makeMPintoPDFobject=\count453
+\everyMPtoPDFconversion=\toks52
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -1292,7 +1345,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\AtBeginShipoutBox=\box77
+\AtBeginShipoutBox=\box79
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\pdflscape.sty"
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
@@ -1343,7 +1396,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 ("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count451
+\c@section@level=\count454
 )
 LaTeX Info: Redefining \ref on input line 3.
 LaTeX Info: Redefining \pageref on input line 3.
@@ -1385,83 +1438,75 @@ LaTeX Warning: No \author given.
 \tf@toc=\write8
 \openout8 = `Master.toc'.
 
- [3] (Content/HeuristicEvaluation.tex [4
+ [3] (Content/Introduction.tex [4
 
 ]
 Chapter 1.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 11.
+) (Content/TonePrintConcept.tex [5] [6
+
+]
+Chapter 2.
+
+LaTeX Warning: Citation 'PDF:TonePrintAnalyse' on page 7 undefined on input lin
+e 11.
+
+[7]
+<Graphics/EffectPedalExample.png, id=104, 413.545pt x 803.0pt>
+File: Graphics/EffectPedalExample.png Graphic file (type png)
+<use Graphics/EffectPedalExample.png>
+Package pdftex.def Info: Graphics/EffectPedalExample.png  used on input line 17
+.
+(pdftex.def)             Requested size: 83.64944pt x 162.42282pt.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 18.
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]$\T1/cmtt/m/n/10 https : / / www . tcelectronic . com / Categories / Tcelectr
+onic / Guitar / Stompboxes /
+ []
+
+<Graphics/Placeholder.jpg, id=110, 481.8pt x 481.8pt>
+File: Graphics/Placeholder.jpg Graphic file (type jpg)
+<use Graphics/Placeholder.jpg>
+Package pdftex.def Info: Graphics/Placeholder.jpg  used on input line 30.
+(pdftex.def)             Requested size: 83.64944pt x 83.64725pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8 <./Graphics/EffectPedalExample.png>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 39.
+
 ("C:\Program Files\MiKTeX 2.9\tex/latex/base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 11.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 39.
+)
+(Content/HeuristicEvaluation.tex [9 <./Graphics/Placeholder.jpg>] [10
 
-Underfull \hbox (badness 10000) in paragraph at lines 11--12
+]
+Chapter 3.
 
- []
+Underfull \vbox (badness 4752) has occurred while \output is active []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--14
+ [11]
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--15
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
-
- []
-
-[5]
-Underfull \hbox (badness 10000) in paragraph at lines 31--32
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 33--34
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--35
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--36
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--37
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
-
- []
-
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 44--45
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
 
  []
 
@@ -1471,14 +1516,67 @@ Underfull \hbox (badness 10000) in paragraph at lines 55--56
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
 
  []
 
-[7]) (Content/Interview.tex [8]
-Chapter 2.
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--14
+Underfull \vbox (badness 1867) has occurred while \output is active []
+
+ [12]
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
+
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+
+ []
+
+) (Content/Interview.tex [14]
+Chapter 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
 
  []
 
@@ -1498,6 +1596,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--22
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+[15
+
+]
 Underfull \hbox (badness 10000) in paragraph at lines 26--27
 
  []
@@ -1507,15 +1612,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--28
 
  []
 
-[9
 
-]
 Underfull \hbox (badness 10000) in paragraph at lines 28--29
 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
 
  []
 
@@ -1549,52 +1657,109 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--40
 
  []
 
-)
+) (Content/ThematicAnalysis.tex [16]
+Chapter 5.
 
-LaTeX Warning: Empty bibliography on input line 26.
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
-(Content/Appendix/Appendix.tex) [10]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 33.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 33.
+ []
+
+
+Overfull \hbox (8.89304pt too wide) in paragraph at lines 28--28
+[]|\T1/cmr/m/n/10 Udviklingsværktøj|  
+ []
+
+
+Overfull \hbox (1.5615pt too wide) in paragraph at lines 28--28
+[]|\T1/cmr/m/n/10 Parameterdesign|  
+ []
+
+
+Overfull \hbox (4.89401pt too wide) in paragraph at lines 28--28
+[]|\T1/cmr/m/n/10 Forretningsmodel|  
+ []
+
+
+Overfull \hbox (7.69888pt too wide) in paragraph at lines 28--28
+[]|\T1/cmr/m/n/10 Brugerinddragelse|  
+ []
+
+
+Overfull \hbox (7.69888pt too wide) in paragraph at lines 28--28
+[]|\T1/cmr/m/n/10 Brugerinddragelse|  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17
+
+]
+[18] [19]
+Overfull \hbox (1.84776pt too wide) in paragraph at lines 72--72
+[][]\T1/cmr/bx/n/12 Decision based on con-vivi-al-ity(Beslutning på bag-grund a
+f bekvem-lighed) 
+ []
+
+[20] [21])
+
+LaTeX Warning: Empty bibliography on input line 27.
+
+(Content/Appendix/Appendix.tex) [22] [23]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 34.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 34.
  (Master.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 33.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 33.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 34.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 34.
 Package rerunfilecheck Info: File `Master.out' has not changed.
-(rerunfilecheck)             Checksum: 58B5FFCC03D95B81E15EF915871A0301;266.
+(rerunfilecheck)             Checksum: 59CCAAAD7F9C204F878730D7A9305687;665.
+
+
+LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                Master
+(biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'Master.run.xml'.
 \openout1 = `Master.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38050 strings out of 492946
- 733375 string characters out of 3135518
- 1229881 words of memory out of 3000000
- 41410 multiletter control sequences out of 15000+200000
- 555032 words of font info for 85 fonts, out of 3000000 for 9000
+ 39245 strings out of 492946
+ 754492 string characters out of 3135518
+ 1254695 words of memory out of 3000000
+ 42491 multiletter control sequences out of 15000+200000
+ 560434 words of font info for 98 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,7n,78p,880b,1669s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,10n,78p,1594b,1669s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi6
-00\ecti1095.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jkn
-appen/ec/dpi600\ecbx1440.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/
-pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\Marianne\AppData\Local\MiKT
-eX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\Marianne\AppDa
-ta\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\M
-arianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk
+00\ecrm0900.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jkn
+appen/ec/dpi600\ecrm0600.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/
+pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\Marianne\AppData\Local\MiKT
+eX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Marianne\AppDa
+ta\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1095.pk> <C:\Users\M
+arianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk
 > <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi60
-0\ecbx2074.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jkna
-ppen/ec/dpi600\ecrm1000.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/p
-k/ljfour/jknappen/ec/dpi600\ecbx1000.pk><C:/Program Files/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
-amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/
-msam10.pfb>
-Output written on Master.pdf (10 pages, 146166 bytes).
+0\ecbx1440.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jkna
+ppen/ec/dpi600\ecbx1095.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/p
+k/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\Marianne\AppData\Local\MiKTe
+X\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\Marianne\AppDat
+a\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Ma
+rianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk>
+ <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600
+\ecrm1000.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ecbx1000.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+r10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on Master.pdf (23 pages, 714203 bytes).
 PDF statistics:
- 402 PDF objects out of 1000 (max. 8388607)
- 27 named destinations out of 1000 (max. 500000)
- 45 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 763 PDF objects out of 1000 (max. 8388607)
+ 86 named destinations out of 1000 (max. 500000)
+ 111 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,17 +1,24 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {english}{}
-\contentsline {chapter}{\numberline {1}Heuristic Evaluation}{5}{chapter.1}% 
-\contentsline {section}{\numberline {1.1}Heuristic Evaluation Results}{5}{section.1.1}% 
-\contentsline {subsubsection}{Visibility of system status}{5}{section*.2}% 
-\contentsline {subsubsection}{Match between systems and the real world}{6}{section*.3}% 
-\contentsline {subsubsection}{User control and freedom}{6}{section*.4}% 
-\contentsline {subsubsection}{Consistency and standards}{6}{section*.5}% 
-\contentsline {subsubsection}{Error prevention}{7}{section*.6}% 
-\contentsline {subsubsection}{Recognition rather than recall}{7}{section*.7}% 
-\contentsline {subsubsection}{Flexibility and efficiency of use}{7}{section*.8}% 
-\contentsline {subsubsection}{Aesthetic and minimalist design}{7}{section*.9}% 
-\contentsline {subsubsection}{Help users recognise, diagnose, and recover from errors}{8}{section*.10}% 
-\contentsline {subsubsection}{Help and documentation}{8}{section*.11}% 
-\contentsline {chapter}{\numberline {2}The Design process of TC Electronic}{9}{chapter.2}% 
-\contentsline {section}{\numberline {2.1}Interview with TC}{9}{section.2.1}% 
-\contentsline {subsubsection}{Introduction}{9}{section*.12}% 
+\contentsline {chapter}{\numberline {1}Introduction}{5}{chapter.1}% 
+\contentsline {chapter}{\numberline {2}TonePrint}{7}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}What is TonePrint?}{7}{section.2.1}% 
+\contentsline {section}{\numberline {2.2}TonePrint software}{8}{section.2.2}% 
+\contentsline {chapter}{\numberline {3}Exploring the TonePrint application}{11}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Heuristic Evaluation Results}{12}{section.3.1}% 
+\contentsline {subsubsection}{Visibility of system status}{12}{section*.4}% 
+\contentsline {subsubsection}{Match between systems and the real world}{12}{section*.5}% 
+\contentsline {subsubsection}{User control and freedom}{12}{section*.6}% 
+\contentsline {subsubsection}{Consistency and standards}{13}{section*.7}% 
+\contentsline {subsubsection}{Error prevention}{13}{section*.8}% 
+\contentsline {subsubsection}{Recognition rather than recall}{14}{section*.9}% 
+\contentsline {subsubsection}{Flexibility and efficiency of use}{14}{section*.10}% 
+\contentsline {subsubsection}{Aesthetic and minimalist design}{14}{section*.11}% 
+\contentsline {subsubsection}{Help users recognise, diagnose, and recover from errors}{14}{section*.12}% 
+\contentsline {subsubsection}{Help and documentation}{14}{section*.13}% 
+\contentsline {chapter}{\numberline {4}The Design process of TC Electronic}{15}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Interview with TC}{15}{section.4.1}% 
+\contentsline {subsubsection}{Introduction}{15}{section*.14}% 
+\contentsline {chapter}{\numberline {5}Thematic Analysis}{17}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Method}{17}{section.5.1}% 
+\contentsline {section}{\numberline {5.2}Themes}{17}{section.5.2}% 

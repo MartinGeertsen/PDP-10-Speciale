@@ -12,6 +12,7 @@
 \setlist[itemize]{topsep=\baselineskip,noitemsep}
 \setlist[enumerate]{topsep=\baselineskip,noitemsep}
 
+
 %Math
 \usepackage{amsmath,amsfonts,amsthm,amssymb}
 %
@@ -23,6 +24,7 @@
 \usepackage{pdfpages}
 \usepackage{tcolorbox} % Makes colored text boxes with \begin{tcolorbox}...\end{tcolorbox}
 \usepackage{float}
+\usepackage{array}
 \usepackage[a4paper,pdftex]{geometry}
 \usepackage{xcolor} % Define new colors with \definecolor.
 \input{Abstract_Files/Preamble/Colors} % Set of pre-defined colors
@@ -57,3 +59,7 @@
 \usepackage[footnote,marginclue,draft,danish,silent,nomargin]{fixme}
 \newcommand{\fxsource}[1]{\fxnote{Source? #1}} % Asking for a source
 \newcommand{\fxwrite}[1]{\lipsum[1]\fxnote{Write #1}} % Asking to be written
+
+\usepackage{adjustbox}
+
+\usepackage{tabularx}
