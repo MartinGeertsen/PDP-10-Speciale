@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.23)  23 APR 2019 13:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.23)  26 APR 2019 09:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1440,7 +1440,47 @@ File: xkeyval.tex 2014/05/09 v2.6d key=value parser (HA)
 Package FiXme Warning: marginclue layout requested;
 (FiXme)                turning margin layout off on input line 747.
 
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box70
+)
+\tc@llx=\dimen273
+\tc@lly=\dimen274
+\tc@urx=\dimen275
+\tc@ury=\dimen276
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
 ))
+\adjbox@Width=\dimen277
+\adjbox@Height=\dimen278
+\adjbox@Depth=\dimen279
+\adjbox@Totalheight=\dimen280
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2011/09/13 v1.0 Conditionals for odd/even page detection
+\c@checkoddpage=\count383
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box71
+\sift@deathcycles=\count384
+\@vwid@loff=\dimen281
+\@vwid@roff=\dimen282
+))) (/usr/local/texlive/2014/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2014/05/13 v2.10 `tabularx' package (DPC)
+\TX@col@width=\dimen283
+\TX@old@table=\dimen284
+\TX@old@col=\dimen285
+\TX@target=\dimen286
+\TX@delta=\dimen287
+\TX@cols=\count385
+\TX@ftn=\toks49
+)
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
  (/usr/local/texlive/2014/texmf-dist/tex/latex/biblatex/lbx/english.lbx
@@ -1450,8 +1490,8 @@ File: english.lbx 2013/11/25 v2.8a biblatex localization (PK/JW/AB)
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count383
-\@quotereset=\count384
+\@quotelevel=\count386
+\@quotereset=\count387
 
 Package biblatex Warning: Conflicting options.
 (biblatex)                'firstinits' conflicts with 'uniquename=full'.
@@ -1553,17 +1593,17 @@ Dictionary: translator-basic-dictionary, Language: English
 File: siunitx-abbreviations.cfg 2013/07/31 v2.5s siunitx: Abbreviated units
 ) (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count385
-\scratchdimen=\dimen273
-\scratchbox=\box70
-\nofMPsegments=\count386
-\nofMParguments=\count387
-\everyMPshowfont=\toks49
-\MPscratchCnt=\count388
-\MPscratchDim=\dimen274
-\MPnumerator=\count389
-\makeMPintoPDFobject=\count390
-\everyMPtoPDFconversion=\toks50
+\scratchcounter=\count388
+\scratchdimen=\dimen288
+\scratchbox=\box72
+\nofMPsegments=\count389
+\nofMParguments=\count390
+\everyMPshowfont=\toks50
+\MPscratchCnt=\count391
+\MPscratchDim=\dimen289
+\MPnumerator=\count392
+\makeMPintoPDFobject=\count393
+\everyMPtoPDFconversion=\toks51
 ) (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
  (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
@@ -1579,7 +1619,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\AtBeginShipoutBox=\box71
+\AtBeginShipoutBox=\box73
  ABD: EveryShipout initializing macros
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1620,7 +1660,7 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
  (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count391
+\c@section@level=\count394
 )
 LaTeX Info: Redefining \ref on input line 3.
 LaTeX Info: Redefining \pageref on input line 3.
@@ -1636,10 +1676,21 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Master.bbl' found.
- (/Users/jeppeknudsen/Documents/AAU/PDP10/Paper/.texpadtmp/Master.bbl)
+ (/Users/jeppeknudsen/Documents/AAU/PDP10/Paper/.texpadtmp/Master.bbl
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'WEB:UXISO':
+(biblatex)                - Datamodel: Entry 'WEB:UXISO' (/Users/jeppeknudsen/Documents/AAU/PDP10/Paper/Bibliography/Bibliography.bib): Invalid format '15' of date field 'date' - ignoring.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'WEB:UXResponsibilitiesInScrum':
+(biblatex)                - Datamodel: Entry 'WEB:UXResponsibilitiesInScrum' (/Users/jeppeknudsen/Documents/AAU/PDP10/Paper/Bibliography/Bibliography.bib): Invalid format '21' of date field 'date' - ignoring.
+
+)
 Package biblatex Info: Reference section=0 on input line 3.
 Package biblatex Info: Reference segment=0 on input line 3.
-\c__siunitx_mathsf_int=\count392
+\c__siunitx_mathsf_int=\count395
 LaTeX Font Info:    Try loading font information for U+msa on input line 3.
  (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1648,7 +1699,7 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 3.
  (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-\c__siunitx_mathtt_int=\count393
+\c__siunitx_mathtt_int=\count396
 
 
 LaTeX Warning: No \author given.
@@ -1675,11 +1726,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--11
 
  []
 
-[6]) (./Content/TonePrintConcept.tex [7] [8
 
-]
+Underfull \vbox (badness 3000) has occurred while \output is active []
+
+ [6]
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--24
+
+ []
+
+[7]) (./Content/TonePrintConcept.tex [8]
 Chapter 2.
-[9] <Graphics/EffectPedalExample.png, id=133, 413.545pt x 803.0pt>
+[9
+
+] <Graphics/EffectPedalExample.png, id=184, 413.545pt x 803.0pt>
 File: Graphics/EffectPedalExample.png Graphic file (type png)
  <use Graphics/EffectPedalExample.png>
 Package pdftex.def Info: Graphics/EffectPedalExample.png used on input line 17.
@@ -1692,7 +1756,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--18
 []$\T1/cmtt/m/n/10 https : / / www . tcelectronic . com / Categories / Tcelectronic / Guitar / Stompboxes /
  []
 
-<Graphics/Placeholder.jpg, id=139, 481.8pt x 481.8pt>
+<Graphics/Placeholder.jpg, id=190, 481.8pt x 481.8pt>
 File: Graphics/Placeholder.jpg Graphic file (type jpg)
  <use Graphics/Placeholder.jpg>
 Package pdftex.def Info: Graphics/Placeholder.jpg used on input line 30.
@@ -1881,33 +1945,86 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--40
 
  []
 
-) [18] (./Content/Appendix/Appendix.tex) [19
+) (./Content/ThematicAnalysis.tex [18]
+Chapter 5.
 
-]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 33.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 33.
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+
+Package caption Warning: \label without proper \caption on input line 22.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `ThemesOverview' on page 19 undefined on input line 17.
+
+
+Overfull \hbox (8.89304pt too wide) in paragraph at lines 33--33
+[]|\T1/cmr/m/n/10 Udviklingsværktøj|  
+ []
+
+
+Overfull \hbox (1.5615pt too wide) in paragraph at lines 33--33
+[]|\T1/cmr/m/n/10 Parameterdesign|  
+ []
+
+
+Overfull \hbox (4.89401pt too wide) in paragraph at lines 33--33
+[]|\T1/cmr/m/n/10 Forretningsmodel|  
+ []
+
+
+Overfull \hbox (7.69888pt too wide) in paragraph at lines 33--33
+[]|\T1/cmr/m/n/10 Brugerinddragelse|  
+ []
+
+
+Overfull \hbox (7.69888pt too wide) in paragraph at lines 33--33
+[]|\T1/cmr/m/n/10 Brugerinddragelse|  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19
+
+] [20] [21]
+Overfull \hbox (1.84776pt too wide) in paragraph at lines 77--77
+[][]\T1/cmr/bx/n/12 Decision based on con-vivi-al-ity(Beslutning på bag-grund af bekvem-lighed) 
+ []
+
+[22] [23] [24] [25] [26] [27]) [28] [29
+
+] (./Content/Appendix/Appendix.tex) [30]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 34.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 34.
  (/Users/jeppeknudsen/Documents/AAU/PDP10/Paper/.texpadtmp/Master.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 33.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 33.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 34.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 34.
 Package rerunfilecheck Info: File `Master.out' has not changed.
-(rerunfilecheck)             Checksum: 3E7770AA43BE0F60028C7B1820ABB9C5;262.
+(rerunfilecheck)             Checksum: 07573EB05061F919025A53C90DDEE7F1;654.
+
+
+LaTeX Warning: There were undefined references.
+
 Package logreq Info: Writing requests to 'Master.run.xml'.
 \openout1 = `Master.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32103 strings out of 493117
- 615431 string characters out of 6135432
- 1073667 words of memory out of 5000000
- 34993 multiletter control sequences out of 15000+600000
- 27637 words of font info for 78 fonts, out of 8000000 for 9000
+ 32817 strings out of 493117
+ 627258 string characters out of 6135432
+ 1094143 words of memory out of 5000000
+ 35602 multiletter control sequences out of 15000+600000
+ 32726 words of font info for 90 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,7n,78p,10428b,1481s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on /Users/jeppeknudsen/Documents/AAU/PDP10/Paper/.texpadtmp/Master.pdf (19 pages, 775583 bytes).
+ 56i,10n,78p,10428b,1481s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
+Output written on /Users/jeppeknudsen/Documents/AAU/PDP10/Paper/.texpadtmp/Master.pdf (30 pages, 909935 bytes).
 PDF statistics:
- 277 PDF objects out of 1000 (max. 8388607)
- 233 compressed objects within 3 object streams
- 55 named destinations out of 1000 (max. 500000)
- 103 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 467 PDF objects out of 1000 (max. 8388607)
+ 405 compressed objects within 5 object streams
+ 121 named destinations out of 1000 (max. 500000)
+ 167 words of extra memory for PDF output out of 10000 (max. 10000000)
 

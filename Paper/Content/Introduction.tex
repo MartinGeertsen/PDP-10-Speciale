@@ -1,52 +1,39 @@
 \chapter{Introduction}
 \label{Introduction}
-The purpose of user involvement in the design process of any given product is to develop a product that's easy to interact with for the regular user. A common problem with having engineers design these products is that they are experts in technology but are limited in their understanding of people. As a result the final product may be designed logically according to their understanding but may not match the understanding of the users \parencite[][6]{PDF:DonNorman}. User experience designers intend to counter this issue as full members of the design process by applying knowledge of the users, providing more relevant and meaningful experiences for them \parencite{WEB:UXDesign}. However, there still seems to be some misconception to this among classical engineers, both from a simple web search of the vast amount of forums covering UX and from personal experience. This chapter will therefore start with an interpretation of user involvement in the design process with regards to the terms \textit{user experience design (UX)} and \textit{usability} before moving on to how it can be applied in this project.
+The purpose of user involvement in the design process of any given product is to develop a product that's easy to interact with for the regular user. A common problem with having engineers design these products is that they are experts in technology but are limited in their understanding of people. As a result the final product may be designed logically according to their understanding but may not match the understanding of the users \parencite[][6]{PDF:DonNorman}. User experience designers (UX) intend to counter this issue as full members of the design process by applying knowledge of the users, providing more relevant and meaningful experiences for them \parencite{WEB:UXDesign}. However, there still seems to be some misconception to this among classical engineers, both from a simple web search of the vast amount of forums covering UX and from personal experience. This chapter will therefore start with an interpretation of user involvement in the design process with regards to the terms \textit{user experience design} and \textit{usability} before moving on to the scope of this project.
 
 \section{The benefits of user centered design}
 \label{UXbenefits}
-The term \textit{user experience} was originally coined by Don Norman in 1993 while working at apple. He defined it as everything that touches upon the user's experience with the product from first acquiring it to actually interacting with it and later evaluating this experience \parencite{WEB:DonNormanOnUX}. Numerous interpretations have since been formulated with \textit{allaboutux.org} containing a vast amount of these. Despite the differences in phrasing, what seems to be a common trait for these is that UX should be considered a broader term also covering other terms such as usability \parencite{WEB:UXDefinitions}. By further investigating the ISO standard on human-centered design, it describes UX as \textit{All aspects of the user's experience when interacting with the product, including all aspects of usability and desirability of a product from the user's perspective.} (ISO 9241-210 KILDE). The ISO standard for usability furthermore states: \textit{The extend to which a product can be used by specified goals with effectiveness, efficiency and satisfaction in a specified context.} (ISO9241-11 KILDE). These standards support the previous stated definition that UX is the broader term to other related terms such as usability.\\
+The term \textit{user experience} was originally coined by Don Norman in 1993 while working at apple. He defined it as everything that touches upon the user's experience with the product from first acquiring it to actually interacting with it and later evaluating this experience \parencite{WEB:DonNormanOnUX}. Numerous interpretations have since been formulated with $allaboutux.org$ containing a vast amount of these. Despite the differences in phrasing, what seems to be a common trait for these is that UX should be considered a broader term also covering other terms such as usability \parencite{WEB:UXDefinitions}. By investigating an ISO standard on human-centered design for interactive systems, this is emphazised, as UX is defined as \textit{a person's perceptions and responses resulting from the use and/or anticipated use of a product, system or service}. Three notes further elaborates how this includes all aspects of the person's emotions, beliefs, preferences, etc. \parencite[][3]{WEB:UXISO}. In the same ISO standard, usability is defined as \textit{the extend to which a product can be used by specified goals with effectiveness, efficiency and satisfaction in a specified context.} \parencite{WEB:UXISO}. These standards support that UX is the broader term to other terms as usability.\\
 
 \noindent
 Designing with a user-centered approach holds multiple benefits. \textcite{WEB:UXBenefits} describes these with regards to both the benefits for the users but also for the design process in general and the members. For example, by having UX designers in the design team they can first of all apply the necessary understanding of users that classical engineers don't possess, as previously mentioned. By understanding the users, the UX designers will then be able to understand the problems they may face by observing the way they interact with the system in question. Secondly, sales increase when products satisfies users. Designers develop products from their own mental model of how they think the product should look, and how it should behave. The designers expect the users to have an identical model to them, but since the user typically can't speak with the designer, the burden of communicating this model lies solely on the product itself including documentations and manuals \parencite[][31]{PDF:DonNorman}. If it isn't clear to the users how they interact with the product, they won't have a satisfying experience with it. However, if the appropriate information is available to make the product understandable and usable, especially in situations when things go wrong and needs to be corrected, then the user is more likely to have a pleasent experience \parencite[][32]{PDF:DonNorman}. Finally the design team itself can also benefit from the involvement of a UX designer. The better understanding of the users' needs the design team have, the better their basis is for estimating the required amount of time and money for both development and subsequent maintenance of the product \parencite{WEB:UXBenefits}.\\
 
 \noindent
-Despite the outlined benefits of a user-centered approach to the design process, it is not yet fully integrated in the industry, and the reason for this lies in the difference of how the academic world develops methods for UX and usability testing, and how the industry utilizes these. Dennis Wixon stated in 2003 that \textit{"The literature evaluating usability methods is fundamentally flawed by its lack of relevance to applied usability work"} \parencite{WEB:WixonUXindustry}, this supports the concept of a gap between academia and industry. Several studies have since been made on this with \textcite{WEB:TinaOgLarsBo} being of interest. The purpose of this study was to investigate how 8 different companies changed how they worked within the fields of UX and usability over a period of 2 years. Interviews were held in 2013 and 2015 to uncover a positive development in the companies' understanding  of UX and usability during these two years. Almost all of the companies had developed or were developing ways of implementing UX in their design process with examples such as low-fi prototyping, usability testing, workshops, personas, expert evaluations, etc. \parencite[][48]{WEB:TinaOgLarsBo}. in correlation with this it is important to emphasize that almost all of these companies follows the agile \textit{Scrum} framework in their design process, which means that development is carried out as an iterative process in the form of sprints with the option of going back and making changes to the product in between these.
+Despite the outlined benefits of a user-centered approach to the design process, it is not yet fully integrated in the industry, and the reason for this lies in the difference of how the academic world develops methods for UX and usability testing, and how the industry utilizes these. Dennis Wixon stated in 2003 that \textit{"The literature evaluating usability methods is fundamentally flawed by its lack of relevance to applied usability work"} \parencite{WEB:WixonUXindustry}, this supports the concept of a gap between academia and industry. Several studies have since been made on this with \textcite{WEB:TinaOgLarsBo} being of interest. The purpose of this study was to investigate how 8 different companies changed how they worked within the fields of UX and usability over a period of 2 years. Interviews were held in 2013 and 2015 to uncover a positive development in the companies' understanding of UX and usability during these two years. Almost all of the companies had developed or were developing ways of implementing UX in their design process with examples such as low-fi prototyping, usability testing, workshops, personas, expert evaluations, etc. \parencite[][48]{WEB:TinaOgLarsBo}. in correlation with this, it is important to emphasize that almost all of these companies follows the agile \textit{Scrum} framework in their design process, which means that development is carried out as an iterative process in the form of sprints with the option of going back and making changes to the product in between these.
 
-in more recent times, multiple papers have been released on the 
-
-in more recent papers...
+More papers have recently been released on this topic and the challenges facing it. In a paper by \textcite{PDF:EvolutionofagileUXD}, the focus is on analyzing the evolution and current state of agile UX to provide a brief overview of theses challenges yet to be solved. It also takes its starting point in the increasing attention UX has gotten in the last 16 years, as designers and developers do understand the importance of each others work but don't know how to synchronize their daily operations in a meaningful way. As previously mentioned, the challenge lies in making UX relevant to the specific work in focus, but the challenge also lies in making everyone in the design team understand UX as a team discipline rather than a role in the team. As such, a more thorough understanding of UX and the agile framework is required to help both fields reach a shared understanding of  each other \parencite[][2]{PDF:EvolutionofagileUXD}. For \textcite{WEB:AgilityForUX} the focus is specifically on how UX and agility contribute to each other. The notion is that what helps a software developer to be agile may not help a UX consultant to be agile in the same way and vice versa. This is already well addressed as true, and the findings presented in the study further supports this notion. The study was conducted in an unspecified danish software company with \textit{Conboy's theory of agility} as research approach, which is elaborated on in the paper \parencite[][3]{WEB:AgilityForUX}. The study showed that the two practices contributed substantially different to agility for UX consultants and developers in correlation with different aspects of the design process. Finally, by consulting Nielsen Norman Group it is clear that despite the tendency of UX professionals perceiving Scrum meetings as barriers to productivity, they should still be involved in these meetings to stay engaged and aware of what's going on in the team \parencite{WEB:UXResponsibilitiesInScrum}. It proposes that UX should take part in the scrum framework equivalently to any other member of the design team. This includes daily meetings addressing the questions \textit{what did you do yesterday?} \textit{what will you do today?} and \textit{what is in your way?} This is considered important, as UX designers usually are working ahead of the engineering team on how the product should be shaped. Furthermore, the UX designers should also engage in the work of the other members of the team, as UX designers may be able to help resolve potential issues they may face.
 
 
-%The evolution of agile UXD:
-In this paper, they analyze the evolution of agile UX
-
-The adoption of agile and UXD approaches in the industry has grown steadily
-
-Currently there is still a need for new framework proposals to synchronize usability evaluations with unit testing or acceptance testing (agile perspective)
-
-The difficulty of applying UXD is how the shared understanding of the work is done.
-
-\parencite{PDF:EvolutionofagileUXD}
-\parencite{WEB:AgilityForUX}
-
-
-
-
-\section{Introduction to the focus of the study}
+\section{Focus of the project}
 \label{ProjectFocus}
+It is by now well addressed, that user involvement is a growing trend in software companies, and has been in the last 16 years, whether it is in the form of UX or usability testing. This project intends to investigate this topic of user involvement in the industry in collaboration with a danish company interested in employing these approaches, TC Electronic.\\
+
+\noindent
+\textbf{TC Electronic} is a worldwide known manufacturer of effect units for guitarists, originally formed in the early 1970's by Kim and John Rishøj in Aarhus, Denmark. Besides effect units, they also develop other audio equipment such as amplifiers, sound and picture production systems, and broadcast systems \parencite{WEB:TCElectronic}. The project group has worked with TC electronic in previous studies and as such knows that they don't have a dedicated strategy for implementing UX in their design process, but they are interested in implementing it in their existing organization.\\
+
+\noindent
+The collaboration was agreed upon through dialogue with TC Electronic themselves, as they are well known producers of project proposals for Engineering Psychology. 
+
+The focus is furthermore specifically on the TonePrint community.....
+They are agile => Scrum
+
+\section{The SCRUM framework}
+\label{scrum}
 
 
-
-
-
-
-
-
-%Consequently the focus on UX-design has increased within industry in recent years (Current weaknesses)
-%	- However there is a "gap between academic and industry" - Hvad skyldes det, og hvordan gøres det "gap" mindre?
-%	- This difference lies in how UX methods are developed in an academic scenario and subsequently employed in the industry.
-%	- "The litterature evaluating usability methods is fundamentally flawed by its lack of relevance to applied usability work"
-%	- User experience is still a new and fresh concept to many companies.
+\section{The TonePrint concept}
+\label{TonePrintConceptDefined}
 
 %Our intention, on the basis of this, is to investigate its relevance for a specific case - a specific company: TC Electronic
 %	- Brief presentation of who TC Electronic are - and how we got to work with them
@@ -75,6 +62,11 @@ The difficulty of applying UXD is how the shared understanding of the work is do
 %	- They are often perceived as the same - Tina considers UX a broader, superior field which includes usability.
 %	- Don norman also has a definition on page 5
 
+%Consequently the focus on UX-design has increased within industry in recent years (Current weaknesses)
+%	- However there is a "gap between academic and industry" - Hvad skyldes det, og hvordan gøres det "gap" mindre?
+%	- This difference lies in how UX methods are developed in an academic scenario and subsequently employed in the industry.
+%	- "The litterature evaluating usability methods is fundamentally flawed by its lack of relevance to applied usability work"
+%	- User experience is still a new and fresh concept to many companies.
 
 
 

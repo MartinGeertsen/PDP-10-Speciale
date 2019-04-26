@@ -39,6 +39,25 @@
       \field{type}{Report}
       \field{year}{2012}
     \endentry
+    \entry{WEB:TCElectronic}{online}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=2e6c0687768711a8952be82ecdc4620b}{Electronic}{E\bibinitperiod}{TC}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=2e6c0687768711a8952be82ecdc4620b}{Electronic}{E\bibinitperiod}{TC}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2e6c0687768711a8952be82ecdc4620b}
+      \strng{fullhash}{2e6c0687768711a8952be82ecdc4620b}
+      \field{sortinit}{E}
+      \field{labelyear}{2019}
+      \field{datelabelsource}{}
+      \field{labeltitle}{About: Our Story}
+      \field{title}{About: Our Story}
+      \field{year}{2019}
+      \verb{url}
+      \verb https://www.tcelectronic.com/brand/tcelectronic/our-story#googtrans(en%7Cen)
+      \endverb
+    \endentry
     \entry{WEB:UXDesign}{online}{}
       \name{labelname}{1}{}{%
         {{uniquename=0,hash=5a10cf9fdb599fd2ec271a35357ed4ce}{Foundation}{F\bibinitperiod}{Interaction\bibnamedelima Design}{I\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
@@ -60,6 +79,48 @@
       \verb{url}
       \verb https://www.interaction-design.org/literature/topics/ux-design
       \endverb
+    \endentry
+    \entry{WEB:UXISO}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=5b512ee8a59deb284ad0a6a035ba10b1}{ISO}{I\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=5b512ee8a59deb284ad0a6a035ba10b1}{ISO}{I\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{5b512ee8a59deb284ad0a6a035ba10b1}
+      \strng{fullhash}{5b512ee8a59deb284ad0a6a035ba10b1}
+      \field{sortinit}{I}
+      \field{labelyear}{2010}
+      \field{labelmonth}{11}
+      \field{datelabelsource}{}
+      \field{labeltitle}{ISO 9241-210: Ergonomics of human-system interaction -- Part 210}
+      \field{journaltitle}{International Organization for Standardization}
+      \field{month}{11}
+      \field{title}{ISO 9241-210: Ergonomics of human-system interaction -- Part 210}
+      \field{titleaddon}{Human-centred design for interactive systems}
+      \field{year}{2010}
+      \field{pages}{32}
+      \warn{\item Datamodel: Entry 'WEB:UXISO' (/Users/jeppeknudsen/Documents/AAU/PDP10/Paper/Bibliography/Bibliography.bib): Invalid format '15' of date field 'date' - ignoring}
+    \endentry
+    \entry{WEB:UXResponsibilitiesInScrum}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=26e27372c19668ba044d3671f438604d}{Kaley}{K\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=26e27372c19668ba044d3671f438604d}{Kaley}{K\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{26e27372c19668ba044d3671f438604d}
+      \strng{fullhash}{26e27372c19668ba044d3671f438604d}
+      \field{sortinit}{K}
+      \field{labelyear}{2019}
+      \field{labelmonth}{04}
+      \field{datelabelsource}{}
+      \field{labeltitle}{UX Responsibilities in Scrum Ceremonies}
+      \field{journaltitle}{Nielsen Norman Group}
+      \field{month}{04}
+      \field{title}{UX Responsibilities in Scrum Ceremonies}
+      \field{year}{2019}
+      \warn{\item Datamodel: Entry 'WEB:UXResponsibilitiesInScrum' (/Users/jeppeknudsen/Documents/AAU/PDP10/Paper/Bibliography/Bibliography.bib): Invalid format '21' of date field 'date' - ignoring}
     \endentry
     \entry{WEB:DonNormanOnUX}{online}{}
       \name{labelname}{1}{}{%

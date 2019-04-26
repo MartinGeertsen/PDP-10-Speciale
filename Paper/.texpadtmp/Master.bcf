@@ -1968,16 +1968,22 @@
     <bcf:citekey order="2">WEB:UXDesign</bcf:citekey>
     <bcf:citekey order="3">WEB:DonNormanOnUX</bcf:citekey>
     <bcf:citekey order="4">WEB:UXDefinitions</bcf:citekey>
-    <bcf:citekey order="5">WEB:UXBenefits</bcf:citekey>
-    <bcf:citekey order="6">PDF:DonNorman</bcf:citekey>
-    <bcf:citekey order="7">PDF:DonNorman</bcf:citekey>
-    <bcf:citekey order="8">WEB:UXBenefits</bcf:citekey>
-    <bcf:citekey order="9">WEB:WixonUXindustry</bcf:citekey>
-    <bcf:citekey order="10">WEB:TinaOgLarsBo</bcf:citekey>
-    <bcf:citekey order="11">WEB:TinaOgLarsBo</bcf:citekey>
-    <bcf:citekey order="12">PDF:EvolutionofagileUXD</bcf:citekey>
-    <bcf:citekey order="13">WEB:AgilityForUX</bcf:citekey>
-    <bcf:citekey order="14">PDF:TonePrintAnalyse</bcf:citekey>
+    <bcf:citekey order="5">WEB:UXISO</bcf:citekey>
+    <bcf:citekey order="6">WEB:UXISO</bcf:citekey>
+    <bcf:citekey order="7">WEB:UXBenefits</bcf:citekey>
+    <bcf:citekey order="8">PDF:DonNorman</bcf:citekey>
+    <bcf:citekey order="9">PDF:DonNorman</bcf:citekey>
+    <bcf:citekey order="10">WEB:UXBenefits</bcf:citekey>
+    <bcf:citekey order="11">WEB:WixonUXindustry</bcf:citekey>
+    <bcf:citekey order="12">WEB:TinaOgLarsBo</bcf:citekey>
+    <bcf:citekey order="13">WEB:TinaOgLarsBo</bcf:citekey>
+    <bcf:citekey order="14">PDF:EvolutionofagileUXD</bcf:citekey>
+    <bcf:citekey order="15">PDF:EvolutionofagileUXD</bcf:citekey>
+    <bcf:citekey order="16">WEB:AgilityForUX</bcf:citekey>
+    <bcf:citekey order="17">WEB:AgilityForUX</bcf:citekey>
+    <bcf:citekey order="18">WEB:UXResponsibilitiesInScrum</bcf:citekey>
+    <bcf:citekey order="19">WEB:TCElectronic</bcf:citekey>
+    <bcf:citekey order="20">PDF:TonePrintAnalyse</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" type="entry" label="nty">
   <bcf:sorting>
