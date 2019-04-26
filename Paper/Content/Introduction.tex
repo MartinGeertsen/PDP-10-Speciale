@@ -23,17 +23,50 @@ It is by now well addressed, that user involvement is a growing trend in softwar
 \textbf{TC Electronic} is a worldwide known manufacturer of effect units for guitarists, originally formed in the early 1970's by Kim and John Rishøj in Aarhus, Denmark. Besides effect units, they also develop other audio equipment such as amplifiers, sound and picture production systems, and broadcast systems \parencite{WEB:TCElectronic}. The project group has worked with TC electronic in previous studies and as such knows that they don't have a dedicated strategy for implementing UX in their design process, but they are interested in implementing it in their existing organization.\\
 
 \noindent
-The collaboration was agreed upon through dialogue with TC Electronic themselves, as they are well known producers of project proposals for Engineering Psychology. 
+The collaboration was agreed upon through dialogue with TC Electronic themselves, as they are frequent producers of project proposals for Engineering Psychology. After some mail correspondence and a meeting at their headquarters, a scope for the project was agreed upon. It's of interest for TC Electronic to explore the application of user involvement in the design of a future product related to their popular TonePrint pedals, which will be elaborated on in the next section.
 
-The focus is furthermore specifically on the TonePrint community.....
-They are agile => Scrum
-
-\section{The SCRUM framework}
+\subsection{The Scrum framework}
 \label{scrum}
+As previously stated, much of the problem with employing a proper UX strategy in software development companies is due to UX not reconciling well with the agile scrum framework. The development teams of TC Electronic also employs this framework, and as such it seems fit to provide a proper description of it.\\
 
+\noindent
+The scrum framework has gained popularity in the industry of developing software and hardware, as it has contributed to faster market times, greater flexibility, higher-quality products, and customer satisfaction \parencite[][40]{PDF:Scrum}. The overall concept is that the work is split into development iterations referred to as \textit{sprints}. These periods are typically of one month or less where a clear objective is set up and carried out by the \textit{Scrum team} which consists of the members of the development team. There are three different roles for the members of the scrum teams, each expected to be self-organizing and cross-functional without being dependent on others outside the team \parencite[][41]{PDF:Scrum}.
+%
+\begin{itemize}
+	\item \textbf{The Scrum Master} serves, much as the name indicates, as the leader of the Scrum Team. His primary objective is to make sure that the work to be done is understood and carried out by the Scrum Team.
+	\item \textbf{The Product Owner} focuses on maximizing the work of the development team. He manages the list of requirements that the end product must meet, also known as the \textit{The Product Backlog}. This includes defining the backlog items and prioritizing them in order to optimize the value of the work by the development team
+	\item \textbf{The Development Team} consists of the remaining members of the Scrum Team, which typically is three professionals. Their goal is to execute the objectives established by The Product Owner and Scrum Master, and have them done by the end of sprint. 
+\end{itemize}
+%
+By the start of a sprint..
 
 \section{The TonePrint concept}
 \label{TonePrintConceptDefined}
+Effect pedals in general are well known units for guitarists and bassists alike, spanding multiple music genres. The pedal works by taking the input signal from the guitar and changing it to the tweaking by the users. Depending on the effect type, and when playing, the user activates these changes by a single button on the pedal. An example of a simple guitar effect pedal is displayed on \autoref{fig:EffectPedalExample}, where the adjustable parameters on it consists of \textit{Dwell, Mix,} and \textit{Tone}. Each of these are accessed and tweaked with individual knobs on the unit, which gives the user a limited range of ways to change the sound.
+
+With this limitation as a motivation, TC created the TonePrint concept, enabling users to tweak the sound of effects beyond the parameters on the pedals. Using the TonePrint application, the users have a vast selection of custom presets with further parameters available for tweaking. These presets are what the term \textit{TonePrint} covers and they are either created in collaboration with professional musicians or by the common user. In order to distinguish these from each other, they are referred to as \textit{Artist TonePrints} and \textit{User TonePrints} respectively. After selecting one for the effect pedal in question, the user can make any desired tweaking or transfer it directly to the pedal with the option of altering it even more on the physical knobs \parencite{PDF:TonePrintAnalyse}. TC has collaborated with multiple guitarists and bassists, creating TonePrints for effect pedals used by the artists themselves. After the creators are satisfied with their TonePrints, they are uploaded to the TonePrint library in the application where any users of the same effect pedal can download the TonePrint and as such match the sound of their favourite artist. For User TonePrints the overall concept is the same. They differ in the fact that the creator isn't a famous guitarist, but the TonePrint is still made using the application and can be transferred directly to its effect pedal. However, when it comes to sharing these User TonePrint with friends and other aspiring guitarist, a platform for this purpose doesn't exist yet.
+%
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=.20\textwidth]{Graphics/EffectPedalExample}
+	 \caption{This figure shows a Drip spring reverb effect pedal by TC Electronics \url{https://www.tcelectronic.com/Categories/Tcelectronic/Guitar/Stompboxes/DRIP-SPRING-REVERB/p/P0CQ2\#googtrans(en|en)}.}
+    \label{fig:EffectPedalExample}
+\end{figure}
+%
+\subsection{The TonePrint Software}
+\label{TonePrintSoftware}
+As previously stated, the exploring of TonePrints start with the TonePrint application available for smartphones and tablets. However, the software is also available for PC and MAC, and the reason for this distinction lies in the difference of how a TonePrint is transferred to its respective pedal. For PC and MAC the user is required to use a cable from the computer to the pedal, but through the tablet and smartphone application, the user also have the option of simply beaming it directly to the pedal. whatever the platform, however, when opening the software the user is introduced to a list selection of different effect pedals, each holding a vast number of TonePrints created by famous guitarists. After selecting an effect pedal from this list, the user is then presented a new list selection of the many guitarist who have created TonePrints for this pedal. When selecting one of the guitarists, and depending on whether the guitarist have created more TonePrints for the same pedal, the user is then presented a bigger view of this specific TonePrint with a description of it and its creator. An example of this is displayed on \autoref{fig:TonePrintAppExample}. Depending on the users' motivation when opening the application first time, they can also choose to browse by artist instead of pedal, if their starting point is to find out what it takes to sound like their favourite artist.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{TonePrintAppExample}
+	\caption{The view in the TonePrint application after selecting an effect pedal and a TonePrint. This example displays a TonePrint created by Johan Wohlert of the danish rock band \textit{Mew}.}
+	\label{fig:TonePrintAppExample}
+\end{figure}
+
+
+
+
 
 %Our intention, on the basis of this, is to investigate its relevance for a specific case - a specific company: TC Electronic
 %	- Brief presentation of who TC Electronic are - and how we got to work with them

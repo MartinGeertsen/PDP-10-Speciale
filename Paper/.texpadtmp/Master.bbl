@@ -80,6 +80,29 @@
       \verb https://www.interaction-design.org/literature/topics/ux-design
       \endverb
     \endentry
+    \entry{PDF:Scrum}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=141c3a343947cc9975bc384fcc1ab857}{Gonçalves}{G\bibinitperiod}{Luis}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=141c3a343947cc9975bc384fcc1ab857}{Gonçalves}{G\bibinitperiod}{Luis}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{141c3a343947cc9975bc384fcc1ab857}
+      \strng{fullhash}{141c3a343947cc9975bc384fcc1ab857}
+      \field{sortinit}{G}
+      \field{labelyear}{2018}
+      \field{labelmonth}{05}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Scrum}
+      \field{issue}{4}
+      \field{journaltitle}{Controlling and Management Review}
+      \field{month}{05}
+      \field{title}{Scrum}
+      \field{titleaddon}{The Methodology to become more agile}
+      \field{volume}{62}
+      \field{year}{2018}
+      \field{pages}{40\bibrangedash 42}
+    \endentry
     \entry{WEB:UXISO}{article}{}
       \name{labelname}{1}{}{%
         {{uniquename=0,hash=5b512ee8a59deb284ad0a6a035ba10b1}{ISO}{I\bibinitperiod}{}{}{}{}{}{}}%
