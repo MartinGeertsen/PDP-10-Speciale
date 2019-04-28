@@ -1985,7 +1985,8 @@
     <bcf:citekey order="19">WEB:TCElectronic</bcf:citekey>
     <bcf:citekey order="20">PDF:Scrum</bcf:citekey>
     <bcf:citekey order="21">PDF:Scrum</bcf:citekey>
-    <bcf:citekey order="22">PDF:TonePrintAnalyse</bcf:citekey>
+    <bcf:citekey order="22">PDF:Scrum</bcf:citekey>
+    <bcf:citekey order="23">PDF:TonePrintAnalyse</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" type="entry" label="nty">
   <bcf:sorting>
