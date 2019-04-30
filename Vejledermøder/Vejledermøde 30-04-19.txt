@@ -1,0 +1,27 @@
+Når vi beskriver interview i rapporten: de konkrete spørgsmål vi har stillet skal i appendix.
+I rapporten skal vi beskrive hvordan interviewet har foregået, hvem vi snakkede med
+
+
+Til vores tematiske analyse: Husk nævn vi har optaget det
+Der er ingen struktur i den måde, vi præsenterer vores resultater overhovedet.
+Det er fint, at vi har fundet en masse temaer, men hvad er relationen mellem temaerne?
+Hvordan nedbryd vi vores codes og samler dem i temaer. - Rop mangler noget affinitydiagram elle lignende til strukturen.
+Hvordan hænger temaerne sammen?
+er nogle af temaerne afhængige af hinanden
+eksempel: Det kunne afspejle fra vores analyse, at TC gerne vil lave brugerinddragelse, men de vil måske ikke alligevel, hvis det er for ressourcekrævende etc.
+
+til konklusionen af interview: konkluder, at det er sådan her de arbejder / det her er deres frame of mind => Hvilke udfordringer sidder de med, når de arbejder på den her måde? og hvordan kan de løse dette?
+
+
+Hvad er det for en viden, man har brug for at udføre testen, og hvad vil jeg gerne have ud af testen? - Herefter kan man kigge på det i retrospekt og på den måde se, hvad der virkede, og hvad der ikke virkede.
+
+Hvilken workflow forvents der til TonePrint community? - Det mangler vi at gøre klart - Tydeligør funktionaliteterne i systemet.
+Rops fornemmelse er, at informationsstrukturen i TonePrint app/community er det vigtigste at fastsætte.
+Ligger der et tydeligt koncept eller ej ud fra de informationer, vi har indsamlet?
+Hvis vi ikke kan finde det, kan det tyde på, at der er en mangel på generel konceptuel forståelse.
+
+I forhold til at lave en brugerinddragelsesting, skal vi beslutte det sammen med TC ud fra en konkret præsentation af hvad vores forståelse er af deres TonePrint koncept ud fra, hvad de har sagt til os.
+
+KJ teknikker - MAn samler 5-6 mennesker - man har research spørgsmål - alle laver individuel brainstorm og samle det bagefter fx med post it notes.
+
+Vi har rockertravlt!
