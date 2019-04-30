@@ -30,4 +30,4 @@
 \contentsline {section}{\numberline {4.3}Interview conclusions}{32}{section.4.3}% 
 \contentsline {chapter}{\numberline {5}Community concept}{33}{chapter.5}% 
 \contentsline {section}{\numberline {5.1}Conceptual model}{33}{section.5.1}% 
-\contentsline {subsection}{\numberline {5.1.1}Use case}{34}{subsection.5.1.1}% 
+\contentsline {subsection}{\numberline {5.1.1}Use case}{35}{subsection.5.1.1}% 

@@ -3,6 +3,132 @@
 
 
 
+@online{WEB:TCElectronic,
+	Author = {TC Electronic},
+	Date-Added = {2019-04-25 13:49:20 +0200},
+	Date-Modified = {2019-04-25 14:08:32 +0200},
+	Title = {About: Our Story},
+	Url = {https://www.tcelectronic.com/brand/tcelectronic/our-story#googtrans(en|en)},
+	Year = {2019}}
+
+@article{PDF:Scrum,
+	Author = {Luis Gon{\c c}alves},
+	Date-Added = {2019-04-25 10:54:11 +0200},
+	Date-Modified = {2019-04-25 10:56:10 +0200},
+	Issue = {4},
+	Journaltitle = {Controlling and Management Review},
+	Month = {May},
+	Pages = {40-42},
+	Title = {Scrum},
+	Titleaddon = {The Methodology to become more agile},
+	Volume = {62},
+	Year = {2018}}
+
+@article{WEB:UXISO,
+	Author = {ISO},
+	Date = {15},
+	Date-Added = {2019-04-24 16:27:33 +0200},
+	Date-Modified = {2019-04-24 16:31:10 +0200},
+	Journaltitle = {International Organization for Standardization},
+	Month = {November},
+	Pages = {32},
+	Title = {ISO 9241-210: Ergonomics of human-system interaction -- Part 210},
+	Titleaddon = {Human-centred design for interactive systems},
+	Year = {2010}}
+
+@article{WEB:UXResponsibilitiesInScrum,
+	Author = {Anna Kaley},
+	Date = {21},
+	Date-Added = {2019-04-23 13:25:38 +0200},
+	Date-Modified = {2019-04-23 13:26:52 +0200},
+	Journaltitle = {Nielsen Norman Group},
+	Month = {April},
+	Title = {UX Responsibilities in Scrum Ceremonies},
+	Year = {2019}}
+
+@article{WEB:AgilityForUX,
+	Author = {John Stouby Persson and Peter Axel Nielsen and Anders Bruun},
+	Date-Added = {2019-04-23 12:59:42 +0200},
+	Date-Modified = {2019-04-23 13:04:03 +0200},
+	Journaltitle = {NordiCHI},
+	Title = {Agility for UX and Development: A Case Study},
+	Year = {2018}}
+
+@article{PDF:EvolutionofagileUXD,
+	Author = {Tiago Silva Da Silva and Milene Selbach Silveira and Frank Maurer and F{\'a}bio Fagundes Silveira},
+	Date-Added = {2019-04-23 11:04:20 +0200},
+	Date-Modified = {2019-04-23 11:16:59 +0200},
+	Journaltitle = {Information and Software Technology},
+	Month = {October},
+	Pages = {1-5},
+	Title = {The evolution og agile UXD},
+	Volume = {102},
+	Year = {2018}}
+
+@article{WEB:TinaOgLarsBo,
+	Author = {Tina {\O}vad and Lars Bo Larsen},
+	Date-Added = {2019-04-22 14:03:47 +0200},
+	Date-Modified = {2019-04-22 14:15:30 +0200},
+	Journaltitle = {Proceedings of the 2015 Agile Conference},
+	Pages = {40-49},
+	Title = {The prevalence of UX Design in Agile Development Processes in Inudstry},
+	Year = {2015}}
+
+@article{WEB:WixonUXindustry,
+	Author = {Dennis Wixon},
+	Date-Added = {2019-04-22 12:49:05 +0200},
+	Date-Modified = {2019-04-22 13:10:25 +0200},
+	Editor = {Susan Dray and David A. Siegel},
+	Journaltitle = {Interactions},
+	Month = {July},
+	Number = {4},
+	Pages = {28-34},
+	Title = {Evaluating Usability Methods},
+	Titleaddon = {Why the Current Litterature Fails the Practitioner},
+	Volume = {10},
+	Year = {2003}}
+
+@online{WEB:UXBenefits,
+	Author = {Lindi Reka},
+	Date-Added = {2019-04-21 17:29:42 +0200},
+	Date-Modified = {2019-04-21 17:31:13 +0200},
+	Organization = {UX Matters},
+	Title = {The Benefits of User Experience},
+	Url = {https://www.uxmatters.com/mt/archives/2017/12/the-benefits-of-user-experience.php},
+	Year = {2017},
+	Bdsk-Url-1 = {https://www.uxmatters.com/mt/archives/2017/12/the-benefits-of-user-experience.php}}
+
+@online{WEB:UXDefinitions,
+	Author = {All About UX},
+	Date-Added = {2019-04-21 11:32:42 +0200},
+	Date-Modified = {2019-04-21 11:33:51 +0200},
+	Editor = {allaboutux.org},
+	Title = {User experience definitions},
+	Url = {https://www.allaboutux.org/ux-definitions},
+	Year = {2019},
+	Bdsk-Url-1 = {https://www.allaboutux.org/ux-definitions}}
+
+@online{WEB:DonNormanOnUX,
+	Author = {Don Norman},
+	Date-Added = {2019-04-20 18:41:19 +0200},
+	Date-Modified = {2019-04-20 18:44:03 +0200},
+	Editor = {Nielsen Norman Group},
+	Title = {Don Norman on the term "UX"},
+	Url = {https://www.nngroup.com/videos/don-norman-term-ux/},
+	Year = {2019},
+	Bdsk-Url-1 = {https://www.nngroup.com/videos/don-norman-term-ux/}}
+
+@online{WEB:UXDesign,
+	Author = {Interaction Design Foundation},
+	Date-Added = {2019-04-20 14:00:57 +0200},
+	Date-Modified = {2019-04-21 19:27:29 +0200},
+	Organization = {Interaction Design Foundation},
+	Read = {0},
+	Title = {User Experience (UX) Design},
+	Url = {https://www.interaction-design.org/literature/topics/ux-design},
+	Year = {2019},
+	Bdsk-Url-1 = {https://www.interaction-design.org/literature/topics/ux-design}}
+
 @book{PDF:DonNorman,
 	Author = {Don Norman},
 	Date-Added = {2019-03-14 13:35:50 +0100},
@@ -48,5 +174,12 @@
 	Type = {Report},
 	Year = {2012},
 	Bdsk-File-1 = {YnBsaXN0MDDSAQIDBFxyZWxhdGl2ZVBhdGhZYWxpYXNEYXRhXxA9U291cmNlcy9UZW9yZXRpc2tfYW5hbHlzZV9hZl9vcGxldmVsc2VzZGVzaWduX2lfVG9uZVByaW50LnBkZk8RAjoAAAAAAjoAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAAAAAABCRAAB/////x9UZW9yZXRpc2tfYW5hbHlzZV8jRkZGRkZGRkYucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////AAAAAAAAAAAAAAAAAAEAAwAACiBjdQAAAAAAAAAAAAAAAAAHU291cmNlcwAAAgB5LzpVc2VyczpqZXBwZWtudWRzZW46RG9jdW1lbnRzOkFBVTpQRFAxMDpQYXBlcjpCaWJsaW9ncmFwaHk6U291cmNlczpUZW9yZXRpc2tfYW5hbHlzZV9hZl9vcGxldmVsc2VzZGVzaWduX2lfVG9uZVByaW50LnBkZgAADgBsADUAVABlAG8AcgBlAHQAaQBzAGsAXwBhAG4AYQBsAHkAcwBlAF8AYQBmAF8AbwBwAGwAZQB2AGUAbABzAGUAcwBkAGUAcwBpAGcAbgBfAGkAXwBUAG8AbgBlAFAAcgBpAG4AdAAuAHAAZABmAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIAd1VzZXJzL2plcHBla251ZHNlbi9Eb2N1bWVudHMvQUFVL1BEUDEwL1BhcGVyL0JpYmxpb2dyYXBoeS9Tb3VyY2VzL1Rlb3JldGlza19hbmFseXNlX2FmX29wbGV2ZWxzZXNkZXNpZ25faV9Ub25lUHJpbnQucGRmAAATAAEvAAAVAAIAE///AAAACAANABoAJABkAAAAAAAAAgEAAAAAAAAABQAAAAAAAAAAAAAAAAAAAqI=}}
+
+@InBook{PDF:Henderson2012,
+  author    = {Jeff Johnson and Austin Henderson},
+  title     = {Chapter 3: Definition},
+  booktitle = {Conceptual Models: Core to Good Design},
+  year      = {2012},
+}
 
 @Comment{jabref-meta: databaseType:biblatex;}
