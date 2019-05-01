@@ -31,19 +31,37 @@ The definition of the different user groups of the TonePrint concept will also b
 3 & TonePrint description \\ \hline
 4 & Search \\ \hline
 5 & Rate TonePrint \\ \hline
-6 & Subscribe to user (Artist) \\ \hline
-7 & User profile \\ \hline
+6 & Subscribe to users \\ \hline
+7 & Recommendations \\ \hline
+8 & User profile \\ \hline
 \end{tabular}
 \caption{The left column contains the number which is used to refer to the feature in the right column}
 \label{tab:ListOfCommunityFeatures}
 \end{table}
 
-The features 1, 2 and 3 in \autoref{tab:ListOfCommunityFeatures} are all closely related and accommodates especially the task domain of the TonePrint Creators. The feature of uploading features are simply to enable user to upload TonePrints to the community, that they have created with the editor. This feature covers the main function requested by the users which is the ability to share TonePrint with each other. Feature 2, Categorizing by tags refers to the idea of letting users use tags to categorize the TonePrint they have uploaded. The purpose of these tags are to easily allow other users to identify which categories the TonePrint belongs to, which also enable users to find the discover tonePrints by searching on different tags/categories. Feature 3, TonePrint description allows the creator of a TonePrint to write about the TonePrint, similar to the descriptions of the Artist TonePrints in the current TonePrint application. The description might contain information about the parameter settings, inspiration, self-promoting text or likewise.
+The features 1, 2 and 3 in \autoref{tab:ListOfCommunityFeatures} are all closely related and accommodates especially the task domain of the TonePrint Creators. The feature of uploading features are simply to enable user to upload TonePrints to the community, that they have created with the editor. This feature covers the main function requested by the users which is the ability to share TonePrint with each other. \\
+Feature 2, Categorizing by tags refers to the idea of letting users use tags to categorize the TonePrint they have uploaded. The purpose of these tags are to easily allow other users to identify which categories the TonePrint belongs to, which also enable users to find the discover tonePrints by searching on different tags/categories.\\
+Feature 3, TonePrint description allows the creator of a TonePrint to write about the TonePrint, similar to the descriptions of the Artist TonePrints in the current TonePrint application. The description might contain information about the parameter settings, inspiration, self-promoting text or likewise. \\
+Feature 4 is a search function which users can use to search for TonePrints, either by name, tag, artist, pedal or likewise. As one mentions in the interview it's essential to make this a proper search engine(\footnote{Tjek}). The current search functionality for the TonePrint application, which only is idle for android, is very limited and wouldn't be sufficient, as mentioned in \autoref{Heuristic_Results}. \\
+Feature 5, the Rate TonePrint feature, is based on the idea of letting TonePrint users, whom have tried a creators TonePrints, rate the TonePrints. This rating could work as a motivation for creators to create more TonePrints, while it as the same time gives the TonePrint users the opportunity to see how much other users like the TonePrint. \\
+Feature 6, Subscribe to users, are a feature which enables users to follow other users. A user could for instance have tried a TonePrint created by a certain other user and like it to a degree of which he want's to see which other TonePrints that user have created, and wants to be notified when new ones are created.\\
+Feature 7, Recommendation, this feature is suggested to help users find and explore TonePrints. This could be recommendations like, "People who like this TonePrint also like these", "These are the highest rated TonePrints for your pedals" or "These TonePrints will at something new" etc.\\
+Feature 8, Community Profile, is a feature which sums it all up. This profile is going to be a 'Front Page' for the users containing their own TonePrints, their recommendations, the TonePrints of those they subscribe to and the option to make a personal description and link to personal youtube, soundcloud or likewise sites, as a self-promoting feature.\\
+\\
+How the eight features above works on a detailed and technical level won't be a concern at the conceptual model. The goal of the conceptual model is to explain the relationship between functions, which can be used to perform the activities necessary for the user to reach a goal \parencite{Henderson2012}(Kilden skal opdateres så der er et kapitel mere med).
+
+
+\subsection{Community Model}
+\label{CommunityModel}
+(Opdater billede, spell check, add follower list)
+The Toneprint communitys conceptual model consists of several concepts, which includes the already mentioned features \autoref{tab:ListOfCommunityFeatures}, which works together to accommodate the users needs. The conceptual model of the TonePrint Community is illustrated on \autoref{fig:CommunityConceptualModel}.\\
+At first there is the User TonePrint concept which contains: Parameter settings for the TonePrint. The name of the TonePrint. A description of the TonePrint (Feature 3 in \autoref{tab:ListOfCommunityFeatures}). Tags that categorize the TonePrint (Feature 2 in \autoref{tab:ListOfCommunityFeatures}). The beaming functionality (\footnote{Skal det med}). And lastly User ID, which is inherited from the Community Profile, which identifies the creator. This concepts differs from the original User TonePrint concept by adding the Description, tags and User ID, which all are new additions which aims to accommodate and ease the use of the Community. The User TonePrints are uploaded to the Communitys TonePrint library, for all user to find. It's also uploaded to the users own Community Profile so it's always easy accessible.\\
+Secondly there is the Community Profile which contains: User ID that is used to identify the profile. Self-promotion which could include self description or links to other personal sites etc. Subscription list, which is a list of the user whom the user are subscribing to. Follower list, which is a list of those whom subscribe to the user. And lastly the User TonePrints which is a list of the users self created TonePrints. 
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=0.85\textwidth]{CommunityFirstDraft.pdf}
-	\caption{a graphical overview of the TonePrint Community concept}
+	\includegraphics[width=0.90\textwidth]{CommunityFirstDraft.pdf}
+	\caption{Illustration of the relationships of the concepts that makes up the Communities conceptual model}
 	\label{fig:CommunityConceptualModel}
 \end{figure}
 
@@ -51,7 +69,7 @@ The features 1, 2 and 3 in \autoref{tab:ListOfCommunityFeatures} are all closely
 
 \begin{figure}
 	\centering
-	\includegraphics[width=0.85\textwidth]{CommunityUseCaseOne.pdf}
+	\includegraphics[width=0.95\textwidth]{CommunityUseCaseOne.pdf}
 	\caption{a graphical overview of the TonePrint Community use case}
 	\label{fig:CommunityConceptualUseCase}
 \end{figure}

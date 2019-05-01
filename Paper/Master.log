@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.21)  1 MAY 2019 17:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.21)  2 MAY 2019 01:05
 entering extended mode
 **./Master.tex
 (Master.tex
@@ -1552,7 +1552,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 LaTeX Warning: Citation 'PDF:Scrum' on page 8 undefined on input line 40.
 
 [8]
-<Graphics/SCRUM.png, id=161, 803.0pt x 602.25pt>
+<Graphics/SCRUM.png, id=166, 803.0pt x 602.25pt>
 File: Graphics/SCRUM.png Graphic file (type png)
 <use Graphics/SCRUM.png>
 Package pdftex.def Info: Graphics/SCRUM.png  used on input line 45.
@@ -1565,7 +1565,7 @@ File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Warning: Citation 'PDF:TonePrintAnalyse' on page 9 undefined on input lin
 e 53.
 
-<Graphics/EffectPedalExample.png, id=166, 413.545pt x 803.0pt>
+<Graphics/EffectPedalExample.png, id=171, 413.545pt x 803.0pt>
 File: Graphics/EffectPedalExample.png Graphic file (type png)
 <use Graphics/EffectPedalExample.png>
 Package pdftex.def Info: Graphics/EffectPedalExample.png  used on input line 57
@@ -1578,7 +1578,7 @@ onic / Guitar / Stompboxes /
  []
 
 [9 <./Graphics/SCRUM.png>] [10 <./Graphics/EffectPedalExample.png>]
-<Graphics/TonePrintAppExample.png, id=185, 1025.8325pt x 770.88pt>
+<Graphics/TonePrintAppExample.png, id=190, 1025.8325pt x 770.88pt>
 File: Graphics/TonePrintAppExample.png Graphic file (type png)
 <use Graphics/TonePrintAppExample.png>
 Package pdftex.def Info: Graphics/TonePrintAppExample.png  used on input line 6
@@ -1824,39 +1824,51 @@ LaTeX Warning: Citation 'PDF:Henderson2012' on page 33 undefined on input line
 [33
 
 ]
-<Graphics/TonePrintConcept.pdf, id=370, 334.3692pt x 132.495pt>
+<Graphics/TonePrintConcept.pdf, id=375, 334.3692pt x 132.495pt>
 File: Graphics/TonePrintConcept.pdf Graphic file (type pdf)
 <use Graphics/TonePrintConcept.pdf>
 Package pdftex.def Info: Graphics/TonePrintConcept.pdf  used on input line 18.
 (pdftex.def)             Requested size: 355.51817pt x 140.88474pt.
- [34 <./Graphics/TonePrintConcept.pdf
+
+
+LaTeX Warning: Citation 'Henderson2012' on page 34 undefined on input line 51.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--52
+
+ []
+
+[34 <./Graphics/TonePrintConcept.pdf
 
 pdfTeX warning: pdflatex (file ./Graphics/TonePrintConcept.pdf): PDF inclusion:
  invalid other resource which is no dict (key 'ProcSets', type <array>); ignore
 d.
 >]
-<Graphics/CommunityFirstDraft.pdf, id=388, 484.69078pt x 288.11641pt>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [35]
+<Graphics/CommunityFirstDraft.pdf, id=405, 484.69078pt x 288.11641pt>
 File: Graphics/CommunityFirstDraft.pdf Graphic file (type pdf)
 <use Graphics/CommunityFirstDraft.pdf>
-Package pdftex.def Info: Graphics/CommunityFirstDraft.pdf  used on input line 4
-5.
-(pdftex.def)             Requested size: 355.51817pt x 211.32997pt.
-<Graphics/CommunityUseCaseOne.pdf, id=389, 598.15468pt x 845.07718pt>
+Package pdftex.def Info: Graphics/CommunityFirstDraft.pdf  used on input line 6
+3.
+(pdftex.def)             Requested size: 376.42575pt x 223.7583pt.
+<Graphics/CommunityUseCaseOne.pdf, id=406, 598.15468pt x 845.07718pt>
 File: Graphics/CommunityUseCaseOne.pdf Graphic file (type pdf)
 <use Graphics/CommunityUseCaseOne.pdf>
-Package pdftex.def Info: Graphics/CommunityUseCaseOne.pdf  used on input line 5
-4.
-(pdftex.def)             Requested size: 355.51817pt x 502.29204pt.
+Package pdftex.def Info: Graphics/CommunityUseCaseOne.pdf  used on input line 7
+2.
+(pdftex.def)             Requested size: 397.3397pt x 561.389pt.
 )
 
 LaTeX Warning: Empty bibliography on input line 28.
 
-(Content/Appendix/Appendix.tex) [35 <./Graphics/CommunityFirstDraft.pdf
+(Content/Appendix/Appendix.tex) [36 <./Graphics/CommunityFirstDraft.pdf
 
 pdfTeX warning: pdflatex (file ./Graphics/CommunityFirstDraft.pdf): PDF inclusi
 on: invalid other resource which is no dict (key 'ProcSets', type <array>); ign
 ored.
->] [36 <./Graphics/CommunityUseCaseOne.pdf
+>] [37 <./Graphics/CommunityUseCaseOne.pdf
 
 pdfTeX warning: pdflatex (file ./Graphics/CommunityUseCaseOne.pdf): PDF inclusi
 on: invalid other resource which is no dict (key 'ProcSets', type <array>); ign
@@ -1868,7 +1880,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 35.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 35.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 35.
 Package rerunfilecheck Info: File `Master.out' has not changed.
-(rerunfilecheck)             Checksum: 40DE978B6E2F4B10495A615835E813AB;1407.
+(rerunfilecheck)             Checksum: 00F015FB307446543884E7C960FFF635;1477.
 
 
 LaTeX Warning: There were undefined references.
@@ -1883,10 +1895,10 @@ Package logreq Info: Writing requests to 'Master.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39333 strings out of 492946
- 756207 string characters out of 3135518
- 1258563 words of memory out of 3000000
- 42536 multiletter control sequences out of 15000+200000
+ 39339 strings out of 492946
+ 756288 string characters out of 3135518
+ 1257681 words of memory out of 3000000
+ 42538 multiletter control sequences out of 15000+200000
  561120 words of font info for 99 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,10n,78p,2663b,1669s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1913,9 +1925,9 @@ amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10
 .pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pf
 b>
-Output written on Master.pdf (36 pages, 1084327 bytes).
+Output written on Master.pdf (37 pages, 1090771 bytes).
 PDF statistics:
- 1068 PDF objects out of 1200 (max. 8388607)
- 125 named destinations out of 1000 (max. 500000)
- 211 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1091 PDF objects out of 1200 (max. 8388607)
+ 129 named destinations out of 1000 (max. 500000)
+ 219 words of extra memory for PDF output out of 10000 (max. 10000000)
 

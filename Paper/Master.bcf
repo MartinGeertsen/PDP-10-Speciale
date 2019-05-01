@@ -2020,6 +2020,7 @@
     <bcf:citekey order="22">PDF:Scrum</bcf:citekey>
     <bcf:citekey order="23">PDF:TonePrintAnalyse</bcf:citekey>
     <bcf:citekey order="24">PDF:Henderson2012</bcf:citekey>
+    <bcf:citekey order="25">Henderson2012</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
