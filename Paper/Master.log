@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.21)  2 MAY 2019 01:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.21)  2 MAY 2019 10:33
 entering extended mode
 **./Master.tex
 (Master.tex
@@ -1844,31 +1844,38 @@ pdfTeX warning: pdflatex (file ./Graphics/TonePrintConcept.pdf): PDF inclusion:
  invalid other resource which is no dict (key 'ProcSets', type <array>); ignore
 d.
 >]
+Underfull \hbox (badness 10000) in paragraph at lines 56--58
+
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [35]
-<Graphics/CommunityFirstDraft.pdf, id=405, 484.69078pt x 288.11641pt>
+<Graphics/CommunityFirstDraft.pdf, id=403, 484.69078pt x 288.11641pt>
 File: Graphics/CommunityFirstDraft.pdf Graphic file (type pdf)
 <use Graphics/CommunityFirstDraft.pdf>
 Package pdftex.def Info: Graphics/CommunityFirstDraft.pdf  used on input line 6
-3.
+1.
 (pdftex.def)             Requested size: 376.42575pt x 223.7583pt.
-<Graphics/CommunityUseCaseOne.pdf, id=406, 598.15468pt x 845.07718pt>
+
+[36 <./Graphics/CommunityFirstDraft.pdf
+
+pdfTeX warning: pdflatex (file ./Graphics/CommunityFirstDraft.pdf): PDF inclusi
+on: invalid other resource which is no dict (key 'ProcSets', type <array>); ign
+ored.
+>]
+<Graphics/CommunityUseCaseOne.pdf, id=442, 598.15468pt x 845.07718pt>
 File: Graphics/CommunityUseCaseOne.pdf Graphic file (type pdf)
 <use Graphics/CommunityUseCaseOne.pdf>
 Package pdftex.def Info: Graphics/CommunityUseCaseOne.pdf  used on input line 7
-2.
+5.
 (pdftex.def)             Requested size: 397.3397pt x 561.389pt.
 )
 
 LaTeX Warning: Empty bibliography on input line 28.
 
-(Content/Appendix/Appendix.tex) [36 <./Graphics/CommunityFirstDraft.pdf
-
-pdfTeX warning: pdflatex (file ./Graphics/CommunityFirstDraft.pdf): PDF inclusi
-on: invalid other resource which is no dict (key 'ProcSets', type <array>); ign
-ored.
->] [37 <./Graphics/CommunityUseCaseOne.pdf
+(Content/Appendix/Appendix.tex) [37] [38 <./Graphics/CommunityUseCaseOne.pdf
 
 pdfTeX warning: pdflatex (file ./Graphics/CommunityUseCaseOne.pdf): PDF inclusi
 on: invalid other resource which is no dict (key 'ProcSets', type <array>); ign
@@ -1895,9 +1902,9 @@ Package logreq Info: Writing requests to 'Master.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39339 strings out of 492946
- 756288 string characters out of 3135518
- 1257681 words of memory out of 3000000
+ 39342 strings out of 492946
+ 756319 string characters out of 3135518
+ 1257682 words of memory out of 3000000
  42538 multiletter control sequences out of 15000+200000
  561120 words of font info for 99 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1925,9 +1932,9 @@ amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10
 .pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pf
 b>
-Output written on Master.pdf (37 pages, 1090771 bytes).
+Output written on Master.pdf (38 pages, 1097556 bytes).
 PDF statistics:
- 1091 PDF objects out of 1200 (max. 8388607)
- 129 named destinations out of 1000 (max. 500000)
+ 1114 PDF objects out of 1200 (max. 8388607)
+ 132 named destinations out of 1000 (max. 500000)
  219 words of extra memory for PDF output out of 10000 (max. 10000000)
 
