@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.21)  2 MAY 2019 10:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.21)  2 MAY 2019 13:11
 entering extended mode
 **./Master.tex
 (Master.tex
@@ -1865,11 +1865,11 @@ pdfTeX warning: pdflatex (file ./Graphics/CommunityFirstDraft.pdf): PDF inclusi
 on: invalid other resource which is no dict (key 'ProcSets', type <array>); ign
 ored.
 >]
-<Graphics/CommunityUseCaseOne.pdf, id=442, 598.15468pt x 845.07718pt>
+<Graphics/CommunityUseCaseOne.pdf, id=444, 598.15468pt x 845.07718pt>
 File: Graphics/CommunityUseCaseOne.pdf Graphic file (type pdf)
 <use Graphics/CommunityUseCaseOne.pdf>
-Package pdftex.def Info: Graphics/CommunityUseCaseOne.pdf  used on input line 7
-5.
+Package pdftex.def Info: Graphics/CommunityUseCaseOne.pdf  used on input line 9
+1.
 (pdftex.def)             Requested size: 397.3397pt x 561.389pt.
 )
 
@@ -1887,10 +1887,13 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 35.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 35.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 35.
 Package rerunfilecheck Info: File `Master.out' has not changed.
-(rerunfilecheck)             Checksum: 00F015FB307446543884E7C960FFF635;1477.
+(rerunfilecheck)             Checksum: 65569E21816ED520A1DDD82362C00DF7;1488.
 
 
 LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 
 Package biblatex Warning: Please (re)run Biber on the file:
@@ -1902,39 +1905,41 @@ Package logreq Info: Writing requests to 'Master.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39342 strings out of 492946
- 756319 string characters out of 3135518
- 1257682 words of memory out of 3000000
- 42538 multiletter control sequences out of 15000+200000
+ 39353 strings out of 492946
+ 756449 string characters out of 3135518
+ 1258791 words of memory out of 3000000
+ 42544 multiletter control sequences out of 15000+200000
  561120 words of font info for 99 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,10n,78p,2663b,1669s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi6
-00\ecrm0900.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jkn
-appen/ec/dpi600\ecrm0600.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/
-pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\Marianne\AppData\Local\MiKT
-eX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\Marianne\AppDa
-ta\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk> <C:\Users\M
-arianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk
-> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi60
-0\ecbx1440.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jkna
-ppen/ec/dpi600\ecti1095.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/p
-k/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\Marianne\AppData\Local\MiKTe
-X\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\Marianne\AppDat
-a\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\Ma
-rianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk>
+pdfTeX warning (dest): name{figure.caption.58} has been referenced but does n
+ot exist, replaced by a fixed one
+
  <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600
-\ecbx2074.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknap
-pen/ec/dpi600\ecrm1000.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk
-/ljfour/jknappen/ec/dpi600\ecbx1000.pk><C:/Program Files/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
-amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10
-.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pf
-b>
-Output written on Master.pdf (38 pages, 1097556 bytes).
+\ecrm0900.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ecrm0600.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk
+/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\Marianne\AppData\Local\MiKTeX
+\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\Marianne\AppData
+\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk> <C:\Users\Mar
+ianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> 
+<C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
+ecbx1440.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknapp
+en/ec/dpi600\ecti1095.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/
+ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\
+2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\Marianne\AppData\
+Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\Mari
+anne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <
+C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\e
+cbx2074.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappe
+n/ec/dpi600\ecrm1000.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/l
+jfour/jknappen/ec/dpi600\ecbx1000.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on Master.pdf (38 pages, 1098970 bytes).
 PDF statistics:
- 1114 PDF objects out of 1200 (max. 8388607)
- 132 named destinations out of 1000 (max. 500000)
+ 1122 PDF objects out of 1200 (max. 8388607)
+ 137 named destinations out of 1000 (max. 500000)
  219 words of extra memory for PDF output out of 10000 (max. 10000000)
 
