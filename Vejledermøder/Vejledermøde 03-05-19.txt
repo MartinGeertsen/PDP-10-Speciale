@@ -1,0 +1,39 @@
+Det ville være interessant også at inddrage TC i beslutningstagen af, hvilken metode vi skal lave ud fra de tasks der er - De skal have den prioriterede liste.
+
+Vi finder på en række tasks, vi vurderer, der skal laves til udviklingen af communitiet. Man kan i princippet finde på en lang række tasks, som vi ikke nævner, og det er ikke fordi det skal negliceres, men vores fokus er på, hvad der skal gøres nu, og ikke hvad der skal gøres i et længere forløb hen mod at have en færdig app.
+
+
+2 bud til informationsstrukturen:
+- konkret tests
+Vi kan lave forslag til, hvordan det skal se ud og så lave en test, der undersøger, hvad der fungerer, og hvad der ikke fungerer - Eksempelvis med en cognitive walktrhough
+- Participary design phase:
+Vi har et konkret mål, vi skal opnå med de her elementer, hvordan vil brugerne sætte det sammen? - eksempelvis med papirstykker, de skal placere, så det giver mening.
+Er der fordele i at trække nogle paralleler fra andre systemer i forhold til designet af communitiet? - Skal vi bruge 100p rigtige brugere, eller kan vi sætte noget op med genereiske brugere?
+
+Tags:
+Analyse af deres eksisterende database om TonePrints - Er der nogle naturlige grupperinger, der dukker op, som kan bruges som tags?
+Rop er ikke fan
+Hvis man vil gå ind og lave word elicitation, skal man forholde sig til nogle ting, der allerede er predefineret - fx effekttype i forhold til pedaler
+Overordnede  kategorier, der er systemdefineret
+herefter kommer der de mere subjektive indelinger - fx et eksempel på en systemdefineret tag kunne være Flanger, herefter kan en subjektiv inddeling beslutte, om hvor mange typer flanger, man skal have.
+
+Self-promoting functionalities:
+Rop synes, det vil være vigtigere blot at kunne lægge et TonePrint ud, så andre brugere kan forstå, hvor det er ud fra navn eller lidt information
+Det vil være dumt at prøve at opfinde hjulet igen - Rops holdning er helt klart at kigge på lignende sociale medier etc. og anvende analogier derfra.
+Man er nødt til at have et aktivt community før man kan tage diskussionen om elvpromoveringen
+
+Appearance of GUI and app:
+Vil nok starte en usability test, hvor man kommer med ændrignsforslag bagefter.
+Det ville give mening, hvis en UX'er tager udgangspunkt i et konkret designforslag fra deres side og ser, hvor god UX eller Usability, det har.
+Rop vil anbefale, at man arbejder i mange testiterationer, så det også lægger sig tæt op af scrum/agility
+
+Defining user groups:
+Værdien i personaer er at kigge på, hvordan forskellige personaer vil reagere på forskellige designforslag.
+Vi ville have brug for at lave omfattende interviews og observationsstudier, og det kan vi ikke nå.
+Det vi ville kunne nå er kun at lave en demografisk sortering, og det er der ikke meget værdi i.
+I sidste ende er det man bruger personaer til at kunne tage nogle beslutninger undervejs uden at inddrage brugerne aktivt.
+
+De mest sigende personaer, man kan lave ville være at udføre mange brugerstudier, hvor man også undersøger user behavior. Så i stedet for at anvende personametoden, kan man opstille personaer ud fra en masse korte usabilitytests. - Rop: Man opstiller en "Frankenstein" ud fra de vigtige aspekter af de tests.
+
+
+Til hver eneste af disse forslag skal vi opstille det i en prioriteret liste til Jesper - Hvad har vi brug for fra dem? Hvad er tidsaspektet? (vær realistisk) Hvad er målet, hvad skal vi bruge af materiale og forsøgspersoner?
