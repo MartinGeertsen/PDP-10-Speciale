@@ -125,6 +125,25 @@
       \field{pages}{32}
       \warn{\item Datamodel: Entry 'WEB:UXISO' (/Users/jeppeknudsen/Documents/AAU/PDP10/Paper/Bibliography/Bibliography.bib): Invalid format '15' of date field 'date' - ignoring}
     \endentry
+    \entry{PDF:Henderson2012}{inbook}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=1805e103501075ef0b21851b4259f4a3}{Johnson}{J\bibinitperiod}{Jeff}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=72fc4e475191e4fae4410a06b78bc273}{Henderson}{H\bibinitperiod}{Austin}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=1805e103501075ef0b21851b4259f4a3}{Johnson}{J\bibinitperiod}{Jeff}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=72fc4e475191e4fae4410a06b78bc273}{Henderson}{H\bibinitperiod}{Austin}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{46151f26f025ffd5f9bcb3c6acbe8a11}
+      \strng{fullhash}{46151f26f025ffd5f9bcb3c6acbe8a11}
+      \field{sortinit}{J}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Chapter 3: Definition}
+      \field{booktitle}{Conceptual Models: Core to Good Design}
+      \field{title}{Chapter 3: Definition}
+      \field{year}{2012}
+    \endentry
     \entry{WEB:UXResponsibilitiesInScrum}{article}{}
       \name{labelname}{1}{}{%
         {{uniquename=0,hash=26e27372c19668ba044d3671f438604d}{Kaley}{K\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
@@ -326,6 +345,7 @@
       \field{pages}{28\bibrangedash 34}
     \endentry
   \endsortlist
+  \missing{Henderson2012}
 \endrefsection
 \endinput
 
