@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.21)  2 MAY 2019 23:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.21)  3 MAY 2019 08:43
 entering extended mode
 **./Master.tex
 (Master.tex
@@ -1897,9 +1897,6 @@ Package rerunfilecheck Info: File `Master.out' has not changed.
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                Master
 (biblatex)                and rerun LaTeX afterwards.
@@ -1911,7 +1908,7 @@ Package logreq Info: Writing requests to 'Master.run.xml'.
 Here is how much of TeX's memory you used:
  39364 strings out of 492946
  756612 string characters out of 3135518
- 1258952 words of memory out of 3000000
+ 1259178 words of memory out of 3000000
  42550 multiletter control sequences out of 15000+200000
  561120 words of font info for 99 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1939,9 +1936,9 @@ amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10
 .pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pf
 b>
-Output written on Master.pdf (40 pages, 1106723 bytes).
+Output written on Master.pdf (40 pages, 1107104 bytes).
 PDF statistics:
- 1149 PDF objects out of 1200 (max. 8388607)
+ 1150 PDF objects out of 1200 (max. 8388607)
  139 named destinations out of 1000 (max. 500000)
  243 words of extra memory for PDF output out of 10000 (max. 10000000)
 
