@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.21)  3 MAY 2019 08:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.21)  8 MAY 2019 10:35
 entering extended mode
 **./Master.tex
 (Master.tex
@@ -1878,23 +1878,88 @@ on: invalid other resource which is no dict (key 'ProcSets', type <array>); ign
 ored.
 >]
 Chapter 6.
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--19
+
+ []
+
 [39
 
-])
+]
+Underfull \hbox (badness 10000) in paragraph at lines 20--22
+
+ []
+
+
+Underfull \vbox (badness 3000) has occurred while \output is active []
+
+ [40]
+Underfull \hbox (badness 10000) in paragraph at lines 69--72
+
+ []
+
+[41]
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--108
+
+ []
+
+[42]
+Underfull \hbox (badness 10000) in paragraph at lines 109--112
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [43]
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--136
+
+ []
+
+[44]
+Underfull \hbox (badness 10000) in paragraph at lines 137--140
+
+ []
+
+)
 
 LaTeX Warning: Empty bibliography on input line 29.
 
-(Content/Appendix/Appendix.tex) [40]
+(Content/Appendix/Appendix.tex) [45]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 36.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 36.
  (Master.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 36.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 36.
-Package rerunfilecheck Info: File `Master.out' has not changed.
-(rerunfilecheck)             Checksum: BCBC450FF40DB6F5F6D0E0806D4C62B7;1745.
 
+
+Package rerunfilecheck Warning: File `Master.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Master.out':
+(rerunfilecheck)             Before: BCBC450FF40DB6F5F6D0E0806D4C62B7;1745
+(rerunfilecheck)             After:  8467FA2B76F2C26BC30C9174C40C7351;2008.
 
 LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 
 Package biblatex Warning: Please (re)run Biber on the file:
@@ -1906,10 +1971,10 @@ Package logreq Info: Writing requests to 'Master.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39364 strings out of 492946
- 756612 string characters out of 3135518
+ 39375 strings out of 492946
+ 756733 string characters out of 3135518
  1259178 words of memory out of 3000000
- 42550 multiletter control sequences out of 15000+200000
+ 42552 multiletter control sequences out of 15000+200000
  561120 words of font info for 99 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,10n,78p,2663b,1669s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1936,9 +2001,9 @@ amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10
 .pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pf
 b>
-Output written on Master.pdf (40 pages, 1107104 bytes).
+Output written on Master.pdf (45 pages, 1128420 bytes).
 PDF statistics:
- 1150 PDF objects out of 1200 (max. 8388607)
- 139 named destinations out of 1000 (max. 500000)
+ 1187 PDF objects out of 1200 (max. 8388607)
+ 148 named destinations out of 1000 (max. 500000)
  243 words of extra memory for PDF output out of 10000 (max. 10000000)
 

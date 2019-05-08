@@ -1,0 +1,24 @@
+Møde med Jesper om brugertest:
+
+- der mangler kilder/referencer
+- beskriv hvad formålet er med at udvælge en af testene
+- der mangler en intro til hvad basic concept tasks er
+
+- i forhold tidsestimaterne savner Jesper noget forklaring på, hvordan de tidsestimater er opstillet. er det ud fra litteratur, erfaring, eller simpelthen bare fordi det skal passe til 3 uger. Jesper synes, det ville være smart, hvis vi referer til tidligere erfaringer med anvendelse af metoderne.
+
+- Instant data analysis mangler noget uddybning - citat fra Tina kan nok bruges her
+
+- task 4: det vil være godt med en reflektering over, det forberedelsesarbejde, der skal laves - Hvilken betydning har forberedelses arbejdet for udviklerne, og er der noget af, som UX'erne kan lave i stedet for udviklerne.
+
+- Der er forskellige tilgange til personaer. overvej at sammenligne det - bl.a. det vi allerede har skrevet i forhold til Nielsen kilden (Jesper siger hendes tilgang minder om engaging personas)
+
+- sørg for at tage udgangspunkt i at opgaven skal passe ind i sprint-længder, så vi kan lave en rød tråd til TC's arbejdsprocess.
+
+
+- TAGS: Jesper forestiller sig, at der lige så godt allerede kan være forestillinger om, hvordan de her tags skal formuleres, men det er ikke skrevet ned nogen steder. Vores opgave vil så være at tage hul på bylden.
+
+- Delta institut - skive med en masse attributter = "tags" som vi måske kunne blive inspireret af. der ikke møntet på genre men mere, hvordan de synes det lyder..
+
+- Når vi skriver opgaven ,så reflekter over, hvordan workshoppen bidrager med noget ny viden i forhold til det tidligere arbejde fra TC, så det bliver berettiget.
+
+- Hvis man skulle afholde flere workshops, kan vi reflektere mellem dem, uanset, om vi afholder mere end en.
