@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.21)  8 MAY 2019 10:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.21)  13 MAY 2019 09:34
 entering extended mode
 **./Master.tex
 (Master.tex
@@ -1552,7 +1552,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 LaTeX Warning: Citation 'PDF:Scrum' on page 8 undefined on input line 40.
 
 [8]
-<Graphics/SCRUM.png, id=181, 803.0pt x 602.25pt>
+<Graphics/SCRUM.png, id=196, 803.0pt x 602.25pt>
 File: Graphics/SCRUM.png Graphic file (type png)
 <use Graphics/SCRUM.png>
 Package pdftex.def Info: Graphics/SCRUM.png  used on input line 45.
@@ -1565,7 +1565,7 @@ File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Warning: Citation 'PDF:TonePrintAnalyse' on page 9 undefined on input lin
 e 53.
 
-<Graphics/EffectPedalExample.png, id=186, 413.545pt x 803.0pt>
+<Graphics/EffectPedalExample.png, id=201, 413.545pt x 803.0pt>
 File: Graphics/EffectPedalExample.png Graphic file (type png)
 <use Graphics/EffectPedalExample.png>
 Package pdftex.def Info: Graphics/EffectPedalExample.png  used on input line 57
@@ -1578,7 +1578,7 @@ onic / Guitar / Stompboxes /
  []
 
 [9 <./Graphics/SCRUM.png>] [10 <./Graphics/EffectPedalExample.png>]
-<Graphics/TonePrintAppExample.png, id=205, 1025.8325pt x 770.88pt>
+<Graphics/TonePrintAppExample.png, id=220, 1025.8325pt x 770.88pt>
 File: Graphics/TonePrintAppExample.png Graphic file (type png)
 <use Graphics/TonePrintAppExample.png>
 Package pdftex.def Info: Graphics/TonePrintAppExample.png  used on input line 6
@@ -1591,16 +1591,6 @@ Package pdftex.def Info: Graphics/TonePrintAppExample.png  used on input line 6
 ]
 Chapter 2.
 [13] [14]
-Underfull \hbox (badness 10000) in paragraph at lines 62--63
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 63--64
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 64--65
 
  []
@@ -1611,21 +1601,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--66
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
 
  []
 
 [15]
-Underfull \hbox (badness 10000) in paragraph at lines 82--83
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 83--84
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 84--85
 
  []
@@ -1651,22 +1641,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 88--89
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--95
-
- []
-
-[16]
-Underfull \hbox (badness 10000) in paragraph at lines 95--96
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--107
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--113
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16]
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
 
  []
 
@@ -1804,15 +1807,13 @@ Overfull \hbox (7.69888pt too wide) in paragraph at lines 33--33
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [23]
-[24] [25]
-Overfull \hbox (1.84776pt too wide) in paragraph at lines 81--81
+[24] [25] [26]
+Overfull \hbox (1.84776pt too wide) in paragraph at lines 89--89
 [][]\T1/cmr/bx/n/12 Decision based on con-vivi-al-ity(Beslutning på bag-grund a
 f bekvem-lighed) 
  []
 
-[26] [27] [28] [29] [30]) (Content/CommunityConcept.tex [31] [32
-
-]
+[27] [28] [29] [30]) (Content/CommunityConcept.tex [31] [32]
 Chapter 5.
 
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
@@ -1823,8 +1824,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--5
 LaTeX Warning: Citation 'PDF:Henderson2012' on page 33 undefined on input line 
 8.
 
-[33]
-<Graphics/TonePrintConcept.pdf, id=378, 334.3692pt x 132.495pt>
+[33
+
+]
+<Graphics/TonePrintConcept.pdf, id=394, 334.3692pt x 132.495pt>
 File: Graphics/TonePrintConcept.pdf Graphic file (type pdf)
 <use Graphics/TonePrintConcept.pdf>
 Package pdftex.def Info: Graphics/TonePrintConcept.pdf  used on input line 18.
@@ -1852,7 +1855,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--58
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [35]
-<Graphics/CommunityFirstDraft.pdf, id=406, 484.69078pt x 288.11641pt>
+<Graphics/CommunityFirstDraft.pdf, id=424, 484.69078pt x 288.11641pt>
 File: Graphics/CommunityFirstDraft.pdf Graphic file (type pdf)
 <use Graphics/CommunityFirstDraft.pdf>
 Package pdftex.def Info: Graphics/CommunityFirstDraft.pdf  used on input line 6
@@ -1865,7 +1868,7 @@ pdfTeX warning: pdflatex (file ./Graphics/CommunityFirstDraft.pdf): PDF inclusi
 on: invalid other resource which is no dict (key 'ProcSets', type <array>); ign
 ored.
 >]
-<Graphics/CommunityUseCaseOne.pdf, id=447, 598.15468pt x 845.07718pt>
+<Graphics/CommunityUseCaseOne.pdf, id=466, 598.15468pt x 845.07718pt>
 File: Graphics/CommunityUseCaseOne.pdf Graphic file (type pdf)
 <use Graphics/CommunityUseCaseOne.pdf>
 Package pdftex.def Info: Graphics/CommunityUseCaseOne.pdf  used on input line 9
@@ -1953,8 +1956,8 @@ Package rerunfilecheck Warning: File `Master.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `Master.out':
-(rerunfilecheck)             Before: BCBC450FF40DB6F5F6D0E0806D4C62B7;1745
-(rerunfilecheck)             After:  8467FA2B76F2C26BC30C9174C40C7351;2008.
+(rerunfilecheck)             Before: 8467FA2B76F2C26BC30C9174C40C7351;2008
+(rerunfilecheck)             After:  9D08BC93016FF9B43A2F49B41A0AFC00;1896.
 
 LaTeX Warning: There were undefined references.
 
@@ -1971,39 +1974,53 @@ Package logreq Info: Writing requests to 'Master.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39375 strings out of 492946
- 756733 string characters out of 3135518
- 1259178 words of memory out of 3000000
- 42552 multiletter control sequences out of 15000+200000
+ 39384 strings out of 492946
+ 756886 string characters out of 3135518
+ 1258124 words of memory out of 3000000
+ 42556 multiletter control sequences out of 15000+200000
  561120 words of font info for 99 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,10n,78p,2663b,1669s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi6
-00\ecrm0900.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jkn
-appen/ec/dpi600\ecrm0600.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/
-pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\Marianne\AppData\Local\MiKT
-eX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\Marianne\AppDa
-ta\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk> <C:\Users\M
-arianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk
-> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi60
-0\ecbx1440.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jkna
-ppen/ec/dpi600\ecti1095.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/p
-k/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\Marianne\AppData\Local\MiKTe
-X\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\Marianne\AppDat
-a\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\Ma
-rianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk>
+pdfTeX warning (dest): name{figure.caption.58} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.53} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{table.caption.52} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.51} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.4.2.2} has been referenced but does not 
+exist, replaced by a fixed one
+
  <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600
-\ecbx2074.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknap
-pen/ec/dpi600\ecrm1000.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk
-/ljfour/jknappen/ec/dpi600\ecbx1000.pk><C:/Program Files/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
-amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10
-.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pf
-b>
-Output written on Master.pdf (45 pages, 1128420 bytes).
+\ecrm0900.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ecrm0600.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk
+/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\Marianne\AppData\Local\MiKTeX
+\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\Marianne\AppData
+\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk> <C:\Users\Mar
+ianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> 
+<C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
+ecbx1440.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknapp
+en/ec/dpi600\ecti1095.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/
+ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\
+2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\Marianne\AppData\
+Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\Mari
+anne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <
+C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\e
+cbx2074.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappe
+n/ec/dpi600\ecrm1000.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/l
+jfour/jknappen/ec/dpi600\ecbx1000.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on Master.pdf (45 pages, 1130867 bytes).
 PDF statistics:
- 1187 PDF objects out of 1200 (max. 8388607)
- 148 named destinations out of 1000 (max. 500000)
- 243 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1205 PDF objects out of 1440 (max. 8388607)
+ 153 named destinations out of 1000 (max. 500000)
+ 267 words of extra memory for PDF output out of 10000 (max. 10000000)
 

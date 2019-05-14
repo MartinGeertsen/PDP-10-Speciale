@@ -13,11 +13,11 @@
 \contentsline {subsubsection}{Match between systems and the real world}{15}{section*.9}% 
 \contentsline {subsubsection}{User control and freedom}{16}{section*.10}% 
 \contentsline {subsubsection}{Consistency and standards}{16}{section*.11}% 
-\contentsline {subsubsection}{Error prevention}{16}{section*.12}% 
+\contentsline {subsubsection}{Error prevention}{17}{section*.12}% 
 \contentsline {subsubsection}{Recognition rather than recall}{17}{section*.13}% 
 \contentsline {subsubsection}{Flexibility and efficiency of use}{17}{section*.14}% 
 \contentsline {subsubsection}{Aesthetic and minimalist design}{17}{section*.15}% 
-\contentsline {subsubsection}{Help users recognise, diagnose, and recover from errors}{17}{section*.16}% 
+\contentsline {subsubsection}{Help users recognise, diagnose, and recover from errors}{18}{section*.16}% 
 \contentsline {subsubsection}{Help and documentation}{18}{section*.17}% 
 \contentsline {chapter}{\numberline {3}The Design process of TC Electronic}{19}{chapter.3}% 
 \contentsline {section}{\numberline {3.1}Interview with TC}{19}{section.3.1}% 
@@ -25,22 +25,21 @@
 \contentsline {chapter}{\numberline {4}Thematic Analysis}{23}{chapter.4}% 
 \contentsline {section}{\numberline {4.1}Method}{23}{section.4.1}% 
 \contentsline {section}{\numberline {4.2}Themes}{23}{section.4.2}% 
-\contentsline {subsection}{\numberline {4.2.1}Native UI / Slow app feedback (Feedback om langsom app)}{29}{subsection.4.2.1}% 
-\contentsline {subsection}{\numberline {4.2.2}Community Features 'Not tags'}{30}{subsection.4.2.2}% 
+\contentsline {subsection}{\numberline {4.2.1}Community Features 'Not tags'}{30}{subsection.4.2.1}% 
 \contentsline {section}{\numberline {4.3}Interview conclusions}{31}{section.4.3}% 
 \contentsline {chapter}{\numberline {5}Community concept}{33}{chapter.5}% 
 \contentsline {section}{\numberline {5.1}Conceptual model}{33}{section.5.1}% 
 \contentsline {subsection}{\numberline {5.1.1}The TonePrint Concept model}{33}{subsection.5.1.1}% 
 \contentsline {subsection}{\numberline {5.1.2}Community Model}{36}{subsection.5.1.2}% 
 \contentsline {subsection}{\numberline {5.1.3}Community Use Cases}{37}{subsection.5.1.3}% 
-\contentsline {subsubsection}{Use Case 1}{37}{section*.54}% 
-\contentsline {subsubsection}{Use Case 2}{37}{section*.55}% 
-\contentsline {subsubsection}{Use Case 3}{37}{section*.56}% 
-\contentsline {subsubsection}{Use Case 4}{37}{section*.57}% 
+\contentsline {subsubsection}{Use Case 1}{37}{section*.55}% 
+\contentsline {subsubsection}{Use Case 2}{37}{section*.56}% 
+\contentsline {subsubsection}{Use Case 3}{37}{section*.57}% 
+\contentsline {subsubsection}{Use Case 4}{37}{section*.58}% 
 \contentsline {chapter}{\numberline {6}Task and Methods}{39}{chapter.6}% 
 \contentsline {section}{\numberline {6.1}Basic Concept Tasks}{39}{section.6.1}% 
 \contentsline {subsection}{\numberline {6.1.1}Task 1: Designing the informational structure}{39}{subsection.6.1.1}% 
 \contentsline {subsection}{\numberline {6.1.2}Task 2: Tags}{41}{subsection.6.1.2}% 
 \contentsline {subsection}{\numberline {6.1.3}Task 3: Self-promoting functionalities}{42}{subsection.6.1.3}% 
 \contentsline {subsection}{\numberline {6.1.4}Task 4: Appearance and GUI of the App}{42}{subsection.6.1.4}% 
-\contentsline {subsubsection}{Task 5: Defining the user groups}{44}{section*.59}% 
+\contentsline {subsubsection}{Task 5: Defining the user groups}{44}{section*.60}% 
