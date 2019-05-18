@@ -44,4 +44,5 @@
 \contentsline {subsection}{\numberline {6.1.3}Task 3: Self-promoting functionalities}{42}{subsection.6.1.3}
 \contentsline {subsection}{\numberline {6.1.4}Task 4: Appearance and GUI of the App}{42}{subsection.6.1.4}
 \contentsline {subsubsection}{Task 5: Defining the user groups}{44}{section*.60}
-\contentsline {chapter}{\numberline {A}Interview Themes}{49}{appendix.A}
+\contentsline {chapter}{\numberline {7}Workshop}{47}{chapter.7}
+\contentsline {chapter}{\numberline {A}Interview Themes}{51}{appendix.A}
