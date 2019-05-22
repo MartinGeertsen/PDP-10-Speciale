@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.23)  20 MAY 2019 15:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.23)  21 MAY 2019 09:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2108,11 +2108,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
-) [49
+[49
 
-] [50
+]) [50] [51
 
-] [51] (./Content/Appendix/Appendix.tex (./Content/Appendix/Themes.tex [52]
+] (./Content/Appendix/Appendix.tex (./Content/Appendix/Themes.tex [52]
 Appendix A.
 )) [53
 
@@ -2141,7 +2141,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  56i,10n,78p,10428b,2188s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on /Users/jeppeknudsen/Documents/AAU/PDP10/Paper/.texpadtmp/Master.pdf (53 pages, 1275201 bytes).
+Output written on /Users/jeppeknudsen/Documents/AAU/PDP10/Paper/.texpadtmp/Master.pdf (53 pages, 1275973 bytes).
 PDF statistics:
  764 PDF objects out of 1000 (max. 8388607)
  648 compressed objects within 7 object streams
