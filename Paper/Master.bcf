@@ -2019,8 +2019,15 @@
     <bcf:citekey order="21">PDF:Scrum</bcf:citekey>
     <bcf:citekey order="22">PDF:Scrum</bcf:citekey>
     <bcf:citekey order="23">PDF:TonePrintAnalyse</bcf:citekey>
-    <bcf:citekey order="24">PDF:Henderson2012</bcf:citekey>
-    <bcf:citekey order="25">Henderson2012</bcf:citekey>
+    <bcf:citekey order="24">WEB:Nielsen1994HowTo</bcf:citekey>
+    <bcf:citekey order="25">WEB:Nielsen1994HowTo</bcf:citekey>
+    <bcf:citekey order="26">WEB:Nielsen1994</bcf:citekey>
+    <bcf:citekey order="27">WEB:Nielsen1994</bcf:citekey>
+    <bcf:citekey order="28">WEB:Nielsen1994Ten</bcf:citekey>
+    <bcf:citekey order="29">WEB:Nielsen1994</bcf:citekey>
+    <bcf:citekey order="30">WEB:Nielsen1994</bcf:citekey>
+    <bcf:citekey order="32">PDF:Henderson2012</bcf:citekey>
+    <bcf:citekey order="33">Henderson2012</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
