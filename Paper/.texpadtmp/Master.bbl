@@ -19,6 +19,26 @@
 
 \refsection{0}
   \sortlist{entry}{nty}
+    \entry{PDF:BrugerWorkshopUserTonePrints}{report}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=e69a6545618c2cfef8b6b50fadad3937}{Andersen}{A\bibinitperiod}{Jesper\bibnamedelima Lumbye}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=e69a6545618c2cfef8b6b50fadad3937}{Andersen}{A\bibinitperiod}{Jesper\bibnamedelima Lumbye}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {TC Electronic}%
+      }
+      \strng{namehash}{e69a6545618c2cfef8b6b50fadad3937}
+      \strng{fullhash}{e69a6545618c2cfef8b6b50fadad3937}
+      \field{sortinit}{A}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Gennemførelse af bruger-workshop for oplevelsesdesign af deling af User TonePrints}
+      \field{title}{Gennemførelse af bruger-workshop for oplevelsesdesign af deling af User TonePrints}
+      \field{type}{Report}
+      \field{year}{2015}
+    \endentry
     \entry{PDF:TonePrintAnalyse}{report}{}
       \name{labelname}{1}{}{%
         {{uniquename=0,hash=e69a6545618c2cfef8b6b50fadad3937}{Andersen}{A\bibinitperiod}{Jesper\bibnamedelima Lumbye}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
@@ -347,6 +367,32 @@
       \verb https://www.uxmatters.com/mt/archives/2017/12/the-benefits-of-user-experience.php
       \endverb
     \endentry
+    \entry{PDF:InformationArchitecture}{book}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=ce678185832a3d6d30797bea38563a54}{Rosenfeld}{R\bibinitperiod}{Louis}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e7f06f2b98c047d8c26a680d59bebe98}{Morville}{M\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=83de960fc462cdd39e669b449f9296e7}{Arango}{A\bibinitperiod}{Jorge}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=ce678185832a3d6d30797bea38563a54}{Rosenfeld}{R\bibinitperiod}{Louis}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e7f06f2b98c047d8c26a680d59bebe98}{Morville}{M\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=83de960fc462cdd39e669b449f9296e7}{Arango}{A\bibinitperiod}{Jorge}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {O'Reily Media, Incorporated}%
+      }
+      \strng{namehash}{2cb855505116c1c0f04873cb5c3adeb6}
+      \strng{fullhash}{609547c569ecb4f1c6c2d33d4ef7f7e8}
+      \field{sortinit}{R}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Information Architecture}
+      \field{edition}{4}
+      \field{subtitle}{For the Web and Beyond}
+      \field{title}{Information Architecture}
+      \field{year}{2015}
+      \field{pages}{485}
+    \endentry
     \entry{PDF:EvolutionofagileUXD}{article}{}
       \name{labelname}{4}{}{%
         {{uniquename=0,hash=331bd233685ffab8b54a070b7e27cbf1}{Silva}{S\bibinitperiod}{Tiago\bibnamedelimb Silva\bibnamedelima Da}{T\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
@@ -373,6 +419,27 @@
       \field{volume}{102}
       \field{year}{2018}
       \field{pages}{1\bibrangedash 5}
+    \endentry
+    \entry{WEB:DonnaSpencer}{book}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=b1152f20bfebda88097acbc706188eab}{Spencer}{S\bibinitperiod}{Donna}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=b1152f20bfebda88097acbc706188eab}{Spencer}{S\bibinitperiod}{Donna}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Rosenfeld Media}%
+      }
+      \strng{namehash}{b1152f20bfebda88097acbc706188eab}
+      \strng{fullhash}{b1152f20bfebda88097acbc706188eab}
+      \field{sortinit}{S}
+      \field{labelyear}{2009}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Card Sorting}
+      \field{edition}{1}
+      \field{title}{Card Sorting}
+      \field{year}{2009}
+      \field{pages}{282}
     \endentry
     \entry{WEB:UXDefinitions}{online}{}
       \name{labelname}{1}{}{%

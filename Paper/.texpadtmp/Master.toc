@@ -46,5 +46,7 @@
 \contentsline {section}{\numberline {6.5}Task 5: Defining the user groups}{46}{section.6.5}
 \contentsline {chapter}{\numberline {7}User Study of The TP Community}{49}{chapter.7}
 \contentsline {section}{\numberline {7.1}Deciding on a task}{49}{section.7.1}
-\contentsline {section}{\numberline {7.2}Workshop approach}{50}{section.7.2}
-\contentsline {chapter}{\numberline {A}Interview Themes}{53}{appendix.A}
+\contentsline {section}{\numberline {7.2}Mental Models}{50}{section.7.2}
+\contentsline {section}{\numberline {7.3}Experimental design}{50}{section.7.3}
+\contentsline {section}{\numberline {7.4}Fitting the methods to the task}{51}{section.7.4}
+\contentsline {chapter}{\numberline {A}Interview Themes}{55}{appendix.A}

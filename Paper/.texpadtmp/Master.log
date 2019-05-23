@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.23)  22 MAY 2019 21:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.23)  23 MAY 2019 17:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1750,7 +1750,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--37
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 38--40
+Underfull \hbox (badness 10000) in paragraph at lines 38--41
 
  []
 
@@ -1758,40 +1758,40 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--40
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [7]
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--53
+Underfull \hbox (badness 10000) in paragraph at lines 52--54
 
  []
 
-[8] <Graphics/SCRUM.png, id=253, 803.0pt x 602.25pt>
+[8] <Graphics/SCRUM.png, id=263, 803.0pt x 602.25pt>
 File: Graphics/SCRUM.png Graphic file (type png)
  <use Graphics/SCRUM.png>
-Package pdftex.def Info: Graphics/SCRUM.png used on input line 74.
+Package pdftex.def Info: Graphics/SCRUM.png used on input line 75.
 (pdftex.def)             Requested size: 418.25368pt x 313.6956pt.
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 75.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 76.
  (/usr/local/texlive/2014/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [9] <Graphics/EffectPedalExample.png, id=264, 413.545pt x 803.0pt>
+ [9] <Graphics/EffectPedalExample.png, id=274, 413.545pt x 803.0pt>
 File: Graphics/EffectPedalExample.png Graphic file (type png)
  <use Graphics/EffectPedalExample.png>
-Package pdftex.def Info: Graphics/EffectPedalExample.png used on input line 86.
+Package pdftex.def Info: Graphics/EffectPedalExample.png used on input line 87.
 (pdftex.def)             Requested size: 83.64944pt x 162.42282pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
 []$\T1/cmtt/m/n/10 https : / / www . tcelectronic . com / Categories / Tcelectronic / Guitar / Stompboxes /
  []
 
-[10 <./Graphics/SCRUM.png>] [11 <./Graphics/EffectPedalExample.png>] <Graphics/TonePrintAppExample.png, id=284, 1025.8325pt x 770.88pt>
+[10 <./Graphics/SCRUM.png>] [11 <./Graphics/EffectPedalExample.png>] <Graphics/TonePrintAppExample.png, id=294, 1025.8325pt x 770.88pt>
 File: Graphics/TonePrintAppExample.png Graphic file (type png)
  <use Graphics/TonePrintAppExample.png>
-Package pdftex.def Info: Graphics/TonePrintAppExample.png used on input line 97.
+Package pdftex.def Info: Graphics/TonePrintAppExample.png used on input line 98.
 (pdftex.def)             Requested size: 418.25368pt x 314.29845pt.
 ) (./Content/HeuristicEvaluation.tex [12 <./Graphics/TonePrintAppExample.png>]
 Chapter 2.
@@ -2022,7 +2022,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
 [35
 
-] <Graphics/TonePrintConcept.pdf, id=483, 334.3692pt x 132.495pt>
+] <Graphics/TonePrintConcept.pdf, id=493, 334.3692pt x 132.495pt>
 File: Graphics/TonePrintConcept.pdf Graphic file (type pdf)
  <use Graphics/TonePrintConcept.pdf>
 Package pdftex.def Info: Graphics/TonePrintConcept.pdf used on input line 18.
@@ -2043,7 +2043,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--58
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [37] <Graphics/CommunityFirstDraft.pdf, id=512, 484.69078pt x 288.11641pt>
+ [37] <Graphics/CommunityFirstDraft.pdf, id=522, 484.69078pt x 288.11641pt>
 File: Graphics/CommunityFirstDraft.pdf Graphic file (type pdf)
  <use Graphics/CommunityFirstDraft.pdf>
 Package pdftex.def Info: Graphics/CommunityFirstDraft.pdf used on input line 61.
@@ -2051,7 +2051,7 @@ Package pdftex.def Info: Graphics/CommunityFirstDraft.pdf used on input line 61.
  [38 <./Graphics/CommunityFirstDraft.pdf
 
 pdfTeX warning: /usr/local/texlive/2014/bin/x86_64-darwin/pdflatex (file ./Graphics/CommunityFirstDraft.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
->] <Graphics/CommunityUseCaseOne.pdf, id=553, 598.15468pt x 845.07718pt>
+>] <Graphics/CommunityUseCaseOne.pdf, id=563, 598.15468pt x 845.07718pt>
 File: Graphics/CommunityUseCaseOne.pdf Graphic file (type pdf)
  <use Graphics/CommunityUseCaseOne.pdf>
 Package pdftex.def Info: Graphics/CommunityUseCaseOne.pdf used on input line 91.
@@ -2128,11 +2128,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--14
 
  []
 
-) [50] [51
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 20.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/t1cmss.fd
+File: t1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+Package hyperref Info: bookmark level for unknown fixme defaults to 0 on input line 20.
+ [50]) [51] [52
 
-] (./Content/Appendix/Appendix.tex (./Content/Appendix/Themes.tex [52]
+] [53] (./Content/Appendix/Appendix.tex (./Content/Appendix/Themes.tex [54]
 Appendix A.
-)) [53
+)) [55
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 37.
@@ -2151,18 +2156,18 @@ Package logreq Info: Writing requests to 'Master.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32971 strings out of 493117
- 629743 string characters out of 6135432
- 1095966 words of memory out of 5000000
- 35684 multiletter control sequences out of 15000+600000
- 33412 words of font info for 91 fonts, out of 8000000 for 9000
+ 33018 strings out of 493117
+ 630831 string characters out of 6135432
+ 1096200 words of memory out of 5000000
+ 35718 multiletter control sequences out of 15000+600000
+ 34181 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,10n,78p,10428b,2188s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on /Users/jeppeknudsen/Documents/AAU/PDP10/Paper/.texpadtmp/Master.pdf (53 pages, 1284426 bytes).
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
+Output written on /Users/jeppeknudsen/Documents/AAU/PDP10/Paper/.texpadtmp/Master.pdf (55 pages, 1297731 bytes).
 PDF statistics:
- 805 PDF objects out of 1000 (max. 8388607)
- 688 compressed objects within 7 object streams
- 181 named destinations out of 1000 (max. 500000)
- 299 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 844 PDF objects out of 1000 (max. 8388607)
+ 723 compressed objects within 8 object streams
+ 190 named destinations out of 1000 (max. 500000)
+ 315 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1997,6 +1997,11 @@
     <bcf:citekey order="31">WEB:Nielsen1994HowTo</bcf:citekey>
     <bcf:citekey order="32">PDF:Henderson2012</bcf:citekey>
     <bcf:citekey order="33">Henderson2012</bcf:citekey>
+    <bcf:citekey order="34">PDF:DonNorman</bcf:citekey>
+    <bcf:citekey order="35">PDF:InformationArchitecture</bcf:citekey>
+    <bcf:citekey order="36">PDF:BrugerWorkshopUserTonePrints</bcf:citekey>
+    <bcf:citekey order="37">PDF:BrugerWorkshopUserTonePrints</bcf:citekey>
+    <bcf:citekey order="38">WEB:DonnaSpencer</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" type="entry" label="nty">
   <bcf:sorting>
