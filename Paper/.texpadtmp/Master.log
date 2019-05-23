@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.23)  23 MAY 2019 17:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.23)  23 MAY 2019 18:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1767,7 +1767,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 52--54
 
  []
 
-[8] <Graphics/SCRUM.png, id=263, 803.0pt x 602.25pt>
+[8] <Graphics/SCRUM.png, id=268, 803.0pt x 602.25pt>
 File: Graphics/SCRUM.png Graphic file (type png)
  <use Graphics/SCRUM.png>
 Package pdftex.def Info: Graphics/SCRUM.png used on input line 75.
@@ -1778,7 +1778,7 @@ File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [9] <Graphics/EffectPedalExample.png, id=274, 413.545pt x 803.0pt>
+ [9] <Graphics/EffectPedalExample.png, id=279, 413.545pt x 803.0pt>
 File: Graphics/EffectPedalExample.png Graphic file (type png)
  <use Graphics/EffectPedalExample.png>
 Package pdftex.def Info: Graphics/EffectPedalExample.png used on input line 87.
@@ -1788,7 +1788,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 88--88
 []$\T1/cmtt/m/n/10 https : / / www . tcelectronic . com / Categories / Tcelectronic / Guitar / Stompboxes /
  []
 
-[10 <./Graphics/SCRUM.png>] [11 <./Graphics/EffectPedalExample.png>] <Graphics/TonePrintAppExample.png, id=294, 1025.8325pt x 770.88pt>
+[10 <./Graphics/SCRUM.png>] [11 <./Graphics/EffectPedalExample.png>] <Graphics/TonePrintAppExample.png, id=299, 1025.8325pt x 770.88pt>
 File: Graphics/TonePrintAppExample.png Graphic file (type png)
  <use Graphics/TonePrintAppExample.png>
 Package pdftex.def Info: Graphics/TonePrintAppExample.png used on input line 98.
@@ -2022,7 +2022,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
 [35
 
-] <Graphics/TonePrintConcept.pdf, id=493, 334.3692pt x 132.495pt>
+] <Graphics/TonePrintConcept.pdf, id=498, 334.3692pt x 132.495pt>
 File: Graphics/TonePrintConcept.pdf Graphic file (type pdf)
  <use Graphics/TonePrintConcept.pdf>
 Package pdftex.def Info: Graphics/TonePrintConcept.pdf used on input line 18.
@@ -2043,7 +2043,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--58
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [37] <Graphics/CommunityFirstDraft.pdf, id=522, 484.69078pt x 288.11641pt>
+ [37] <Graphics/CommunityFirstDraft.pdf, id=527, 484.69078pt x 288.11641pt>
 File: Graphics/CommunityFirstDraft.pdf Graphic file (type pdf)
  <use Graphics/CommunityFirstDraft.pdf>
 Package pdftex.def Info: Graphics/CommunityFirstDraft.pdf used on input line 61.
@@ -2051,7 +2051,7 @@ Package pdftex.def Info: Graphics/CommunityFirstDraft.pdf used on input line 61.
  [38 <./Graphics/CommunityFirstDraft.pdf
 
 pdfTeX warning: /usr/local/texlive/2014/bin/x86_64-darwin/pdflatex (file ./Graphics/CommunityFirstDraft.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
->] <Graphics/CommunityUseCaseOne.pdf, id=563, 598.15468pt x 845.07718pt>
+>] <Graphics/CommunityUseCaseOne.pdf, id=568, 598.15468pt x 845.07718pt>
 File: Graphics/CommunityUseCaseOne.pdf Graphic file (type pdf)
  <use Graphics/CommunityUseCaseOne.pdf>
 Package pdftex.def Info: Graphics/CommunityUseCaseOne.pdf used on input line 91.
@@ -2133,11 +2133,20 @@ LaTeX Font Info:    Try loading font information for T1+cmss on input line 20.
 File: t1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 Package hyperref Info: bookmark level for unknown fixme defaults to 0 on input line 20.
- [50]) [51] [52
+ [50]) (./Content/WorkshopResults.tex [51] [52
 
-] [53] (./Content/Appendix/Appendix.tex (./Content/Appendix/Themes.tex [54]
+]
+Chapter 8.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 4--26
+
+ []
+
+[53] [54
+
+] [55] (./Content/Appendix/Appendix.tex (./Content/Appendix/Themes.tex [56]
 Appendix A.
-)) [55
+)) [57
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 37.
@@ -2156,18 +2165,18 @@ Package logreq Info: Writing requests to 'Master.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33018 strings out of 493117
- 630831 string characters out of 6135432
- 1096200 words of memory out of 5000000
- 35718 multiletter control sequences out of 15000+600000
+ 33026 strings out of 493117
+ 630958 string characters out of 6135432
+ 1096223 words of memory out of 5000000
+ 35720 multiletter control sequences out of 15000+600000
  34181 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,10n,78p,10428b,2188s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on /Users/jeppeknudsen/Documents/AAU/PDP10/Paper/.texpadtmp/Master.pdf (55 pages, 1297731 bytes).
+Output written on /Users/jeppeknudsen/Documents/AAU/PDP10/Paper/.texpadtmp/Master.pdf (57 pages, 1299237 bytes).
 PDF statistics:
- 844 PDF objects out of 1000 (max. 8388607)
- 723 compressed objects within 8 object streams
- 190 named destinations out of 1000 (max. 500000)
- 315 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 858 PDF objects out of 1000 (max. 8388607)
+ 735 compressed objects within 8 object streams
+ 193 named destinations out of 1000 (max. 500000)
+ 323 words of extra memory for PDF output out of 10000 (max. 10000000)
 

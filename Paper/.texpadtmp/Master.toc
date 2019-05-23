@@ -49,4 +49,5 @@
 \contentsline {section}{\numberline {7.2}Mental Models}{50}{section.7.2}
 \contentsline {section}{\numberline {7.3}Experimental design}{50}{section.7.3}
 \contentsline {section}{\numberline {7.4}Fitting the methods to the task}{51}{section.7.4}
-\contentsline {chapter}{\numberline {A}Interview Themes}{55}{appendix.A}
+\contentsline {chapter}{\numberline {8}Workshop Results}{53}{chapter.8}
+\contentsline {chapter}{\numberline {A}Interview Themes}{57}{appendix.A}
