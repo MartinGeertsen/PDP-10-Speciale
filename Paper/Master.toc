@@ -17,7 +17,7 @@
 \contentsline {subsubsection}{Error prevention}{19}{section*.13}% 
 \contentsline {subsubsection}{Recognition rather than recall}{19}{section*.14}% 
 \contentsline {subsubsection}{Flexibility and efficiency of use}{19}{section*.15}% 
-\contentsline {subsubsection}{Aesthetic and minimalist design}{19}{section*.16}% 
+\contentsline {subsubsection}{Aesthetic and minimalist design}{20}{section*.16}% 
 \contentsline {subsubsection}{Help users recognise, diagnose, and recover from errors}{20}{section*.17}% 
 \contentsline {subsubsection}{Help and documentation}{20}{section*.18}% 
 \contentsline {chapter}{\numberline {3}The Design process of TC Electronic}{21}{chapter.3}% 
