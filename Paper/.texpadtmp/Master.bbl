@@ -164,6 +164,85 @@
       \field{year}{2019}
       \warn{\item Datamodel: Entry 'WEB:UXResponsibilitiesInScrum' (/Users/jeppeknudsen/Documents/AAU/PDP10/Paper/Bibliography/Bibliography.bib): Invalid format '21' of date field 'date' - ignoring}
     \endentry
+    \entry{WEB:Nielsen1994Ten}{online}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=753054f71283d85f82cda8e35daf6bac}{Nielsen}{N\bibinitperiod}{Jakob}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=753054f71283d85f82cda8e35daf6bac}{Nielsen}{N\bibinitperiod}{Jakob}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=14f7db02b6cf518184c32b7bd6b7dc38}{Group}{G\bibinitperiod}{N.\bibnamedelimi N.}{N\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{fullhash}{753054f71283d85f82cda8e35daf6bac}
+      \field{sortinit}{N}
+      \field{extrayear}{1}
+      \field{labelyear}{1994}
+      \field{labelmonth}{04}
+      \field{labelday}{24}
+      \field{datelabelsource}{}
+      \field{labeltitle}{10 Usability Heuristics for User Interface Design}
+      \field{day}{24}
+      \field{month}{04}
+      \field{title}{10 Usability Heuristics for User Interface Design}
+      \field{year}{1994}
+      \verb{url}
+      \verb https://www.nngroup.com/articles/ten-usability-heuristics/
+      \endverb
+      \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'WEB:Nielsen1994Ten'}
+    \endentry
+    \entry{WEB:Nielsen1994}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=753054f71283d85f82cda8e35daf6bac}{Nielsen}{N\bibinitperiod}{Jakob}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=753054f71283d85f82cda8e35daf6bac}{Nielsen}{N\bibinitperiod}{Jakob}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{fullhash}{753054f71283d85f82cda8e35daf6bac}
+      \field{sortinit}{N}
+      \field{extrayear}{2}
+      \field{labelyear}{1994}
+      \field{labelmonth}{04}
+      \field{labelday}{24}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Enhancing the Explanatory Power of Usability Heuristics}
+      \field{day}{24}
+      \field{journaltitle}{Human factors in computing systems}
+      \field{month}{04}
+      \field{title}{Enhancing the Explanatory Power of Usability Heuristics}
+      \field{year}{1994}
+      \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'WEB:Nielsen1994'}
+    \endentry
+    \entry{WEB:Nielsen1994HowTo}{online}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=753054f71283d85f82cda8e35daf6bac}{Nielsen}{N\bibinitperiod}{Jakob}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=753054f71283d85f82cda8e35daf6bac}{Nielsen}{N\bibinitperiod}{Jakob}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=4bd7920e404439faaa4db2bdd71e50bc}{Group}{G\bibinitperiod}{Nielsen\bibnamedelima Norman}{N\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{fullhash}{753054f71283d85f82cda8e35daf6bac}
+      \field{sortinit}{N}
+      \field{extrayear}{3}
+      \field{labelyear}{1994}
+      \field{labelmonth}{11}
+      \field{labelday}{01}
+      \field{datelabelsource}{}
+      \field{labeltitle}{How to Conduct a Heuristic Evaluation}
+      \field{day}{01}
+      \field{month}{11}
+      \field{title}{How to Conduct a Heuristic Evaluation}
+      \field{year}{1994}
+      \verb{url}
+      \verb https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/
+      \endverb
+      \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'WEB:Nielsen1994HowTo'}
+    \endentry
     \entry{WEB:DonNormanOnUX}{online}{}
       \name{labelname}{1}{}{%
         {{uniquename=0,hash=23f12bb124db5cb91003802eaee52457}{Norman}{N\bibinitperiod}{Don}{D\bibinitperiod}{}{}{}{}}%
