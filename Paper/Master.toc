@@ -37,12 +37,17 @@
 \contentsline {subsubsection}{Use Case 2}{39}{section*.57}% 
 \contentsline {subsubsection}{Use Case 3}{39}{section*.58}% 
 \contentsline {subsubsection}{Use Case 4}{39}{section*.59}% 
-\contentsline {chapter}{\numberline {6}Task and Methods}{41}{chapter.6}% 
-\contentsline {section}{\numberline {6.1}Basic Concept Tasks}{42}{section.6.1}% 
-\contentsline {subsection}{\numberline {6.1.1}Task 1: Designing the informational structure}{42}{subsection.6.1.1}% 
-\contentsline {subsection}{\numberline {6.1.2}Task 2: Tags}{44}{subsection.6.1.2}% 
-\contentsline {subsection}{\numberline {6.1.3}Task 3: Self-promoting functionalities}{45}{subsection.6.1.3}% 
-\contentsline {subsection}{\numberline {6.1.4}Task 4: Appearance and GUI of the App}{45}{subsection.6.1.4}% 
-\contentsline {subsubsection}{Task 5: Defining the user groups}{46}{section*.61}% 
-\contentsline {chapter}{\numberline {7}Workshop}{49}{chapter.7}% 
-\contentsline {chapter}{\numberline {A}Interview Themes}{51}{appendix.A}% 
+\contentsline {chapter}{\numberline {6}Tasks and Methods}{41}{chapter.6}% 
+\contentsline {section}{\numberline {6.1}Task 1: Designing the information architecture}{42}{section.6.1}% 
+\contentsline {section}{\numberline {6.2}Task 2: Tags}{44}{section.6.2}% 
+\contentsline {section}{\numberline {6.3}Task 3: Self-promoting functionalities}{45}{section.6.3}% 
+\contentsline {section}{\numberline {6.4}Task 4: Appearance and GUI of the App}{45}{section.6.4}% 
+\contentsline {section}{\numberline {6.5}Task 5: Defining the user groups}{46}{section.6.5}% 
+\contentsline {chapter}{\numberline {7}User Study of The TP Community}{49}{chapter.7}% 
+\contentsline {section}{\numberline {7.1}Deciding on a task}{49}{section.7.1}% 
+\contentsline {section}{\numberline {7.2}Mental Models}{50}{section.7.2}% 
+\contentsline {section}{\numberline {7.3}Workshop approach}{50}{section.7.3}% 
+\contentsline {chapter}{\numberline {8}Workshop Results}{51}{chapter.8}% 
+\contentsline {section}{\numberline {8.1}Analysis Constructed Shared Mental Model}{51}{section.8.1}% 
+\contentsline {subsection}{\numberline {8.1.1}Coding of the ICMM's}{52}{subsection.8.1.1}% 
+\contentsline {chapter}{\numberline {A}Interview Themes}{61}{appendix.A}% 

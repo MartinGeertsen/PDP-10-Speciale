@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.21)  22 MAY 2019 09:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.21)  23 MAY 2019 21:27
 entering extended mode
 **./Master.tex
 (Master.tex
@@ -1552,7 +1552,7 @@ LaTeX Warning: Citation 'PDF:Scrum' on page 8 undefined on input line 61.
 
 LaTeX Warning: Citation 'PDF:Scrum' on page 9 undefined on input line 69.
 
-<Graphics/SCRUM.png, id=206, 803.0pt x 602.25pt>
+<Graphics/SCRUM.png, id=236, 803.0pt x 602.25pt>
 File: Graphics/SCRUM.png Graphic file (type png)
 <use Graphics/SCRUM.png>
 Package pdftex.def Info: Graphics/SCRUM.png  used on input line 74.
@@ -1568,7 +1568,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 LaTeX Warning: Citation 'PDF:TonePrintAnalyse' on page 10 undefined on input li
 ne 82.
 
-<Graphics/EffectPedalExample.png, id=216, 413.545pt x 803.0pt>
+<Graphics/EffectPedalExample.png, id=246, 413.545pt x 803.0pt>
 File: Graphics/EffectPedalExample.png Graphic file (type png)
 <use Graphics/EffectPedalExample.png>
 Package pdftex.def Info: Graphics/EffectPedalExample.png  used on input line 86
@@ -1581,7 +1581,7 @@ onic / Guitar / Stompboxes /
  []
 
 [10 <./Graphics/SCRUM.png>] [11 <./Graphics/EffectPedalExample.png>]
-<Graphics/TonePrintAppExample.png, id=235, 1025.8325pt x 770.88pt>
+<Graphics/TonePrintAppExample.png, id=265, 1025.8325pt x 770.88pt>
 File: Graphics/TonePrintAppExample.png Graphic file (type png)
 <use Graphics/TonePrintAppExample.png>
 Package pdftex.def Info: Graphics/TonePrintAppExample.png  used on input line 9
@@ -1859,7 +1859,7 @@ LaTeX Warning: Citation 'PDF:Henderson2012' on page 35 undefined on input line
 [35
 
 ]
-<Graphics/TonePrintConcept.pdf, id=419, 334.3692pt x 132.495pt>
+<Graphics/TonePrintConcept.pdf, id=449, 334.3692pt x 132.495pt>
 File: Graphics/TonePrintConcept.pdf Graphic file (type pdf)
 <use Graphics/TonePrintConcept.pdf>
 Package pdftex.def Info: Graphics/TonePrintConcept.pdf  used on input line 18.
@@ -1887,7 +1887,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--58
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [37]
-<Graphics/CommunityFirstDraft.pdf, id=448, 484.69078pt x 288.11641pt>
+<Graphics/CommunityFirstDraft.pdf, id=478, 484.69078pt x 288.11641pt>
 File: Graphics/CommunityFirstDraft.pdf Graphic file (type pdf)
 <use Graphics/CommunityFirstDraft.pdf>
 Package pdftex.def Info: Graphics/CommunityFirstDraft.pdf  used on input line 6
@@ -1900,7 +1900,7 @@ pdfTeX warning: pdflatex (file ./Graphics/CommunityFirstDraft.pdf): PDF inclusi
 on: invalid other resource which is no dict (key 'ProcSets', type <array>); ign
 ored.
 >]
-<Graphics/CommunityUseCaseOne.pdf, id=489, 598.15468pt x 845.07718pt>
+<Graphics/CommunityUseCaseOne.pdf, id=519, 598.15468pt x 845.07718pt>
 File: Graphics/CommunityUseCaseOne.pdf Graphic file (type pdf)
 <use Graphics/CommunityUseCaseOne.pdf>
 Package pdftex.def Info: Graphics/CommunityUseCaseOne.pdf  used on input line 9
@@ -1916,83 +1916,199 @@ Chapter 6.
 [41
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 47--48
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--51
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
 
  []
 
 [42]
-Underfull \hbox (badness 10000) in paragraph at lines 52--54
+Underfull \hbox (badness 10000) in paragraph at lines 49--51
 
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 3000) has occurred while \output is active []
 
  [43]
-Underfull \hbox (badness 10000) in paragraph at lines 101--104
+Underfull \hbox (badness 10000) in paragraph at lines 98--101
 
  []
 
 [44]
-Underfull \hbox (badness 10000) in paragraph at lines 135--136
+Underfull \hbox (badness 10000) in paragraph at lines 132--133
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 137--140
+Underfull \hbox (badness 10000) in paragraph at lines 134--137
 
  []
 
 [45]
-Underfull \hbox (badness 10000) in paragraph at lines 141--144
+Underfull \hbox (badness 10000) in paragraph at lines 138--141
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 153--154
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
 
  []
 
 [46]
-Underfull \hbox (badness 10000) in paragraph at lines 166--168
+Underfull \hbox (badness 10000) in paragraph at lines 163--165
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 169--172
+Underfull \hbox (badness 10000) in paragraph at lines 166--169
 
  []
 
-) (Content/Workshop.tex [47] [48]
+) (Content/Workshop.tex
+Underfull \vbox (badness 1264) has occurred while \output is active []
+
+ [47]
+[48]
 Chapter 7.
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-
- []
-
 [49
 
-])
+]
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+) (Content/WorkshopResults.tex [50]
+Chapter 8.
+
+LaTeX Warning: Citation 'WEB:ConceptMapAnalysis' on page 51 undefined on input 
+line 5.
+
+
+Overfull \hbox (27.03375pt too wide) in paragraph at lines 4--6
+\T1/cmr/m/n/10.95 mu-nity, it's de-sired to look at sim-i-lar-i-ties of the men
+-tal mod-els. []
+ []
+
+
+LaTeX Warning: Citation 'WEB:ConceptMapAnalysis' on page 51 undefined on input 
+line 9.
+
+
+
+pdfTeX warning: pdflatex (file ./Graphics/ACSMM.pdf): PDF inclusion: found PDF 
+version <1.7>, but at most version <1.5> allowed
+<Graphics/ACSMM.pdf, id=633, 963.6pt x 542.025pt>
+File: Graphics/ACSMM.pdf Graphic file (type pdf)
+<use Graphics/ACSMM.pdf>
+Package pdftex.def Info: Graphics/ACSMM.pdf  used on input line 13.
+(pdftex.def)             Requested size: 418.25368pt x 235.26619pt.
+
+Underfull \vbox (badness 6927) has occurred while \output is active []
+
+ [51
+
+]
+
+LaTeX Warning: Citation 'WEB:ConceptMapAnalysis' on page 52 undefined on input 
+line 18.
+
+
+LaTeX Warning: Citation 'WEB:ConceptMapAnalysis' on page 52 undefined on input 
+line 18.
+
+
+Overfull \hbox (62.78067pt too wide) in paragraph at lines 18--19
+[]\T1/cmr/m/n/10.95 The step of go-ing from mul-ti-ple ICMM to a AC-SMM is de-s
+cribed in []
+ []
+
+
+Underfull \vbox (badness 5711) has occurred while \output is active []
+
+ [52 <./Graphics/ACSMM.pdf>] [53]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 46.
+
+<Graphics/ICMM_Subject1.pdf, id=674, 845.1575pt x 1196.47pt>
+File: Graphics/ICMM_Subject1.pdf Graphic file (type pdf)
+<use Graphics/ICMM_Subject1.pdf>
+Package pdftex.def Info: Graphics/ICMM_Subject1.pdf  used on input line 48.
+(pdftex.def)             Requested size: 418.25368pt x 592.11757pt.
+
+LaTeX Warning: Float too large for page by 22.58737pt on input line 51.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 53.
+
+<Graphics/ICMM_Subject2.pdf, id=675, 845.1575pt x 1196.47pt>
+File: Graphics/ICMM_Subject2.pdf Graphic file (type pdf)
+<use Graphics/ICMM_Subject2.pdf>
+Package pdftex.def Info: Graphics/ICMM_Subject2.pdf  used on input line 55.
+(pdftex.def)             Requested size: 418.25368pt x 592.11757pt.
+
+LaTeX Warning: Float too large for page by 22.58737pt on input line 58.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 60.
+
+<Graphics/ICMM_Subject3.pdf, id=676, 845.1575pt x 1196.47pt>
+File: Graphics/ICMM_Subject3.pdf Graphic file (type pdf)
+<use Graphics/ICMM_Subject3.pdf>
+Package pdftex.def Info: Graphics/ICMM_Subject3.pdf  used on input line 62.
+(pdftex.def)             Requested size: 418.25368pt x 592.11757pt.
+
+LaTeX Warning: Float too large for page by 22.58737pt on input line 65.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 67.
+
+<Graphics/ICMM_Subject4.pdf, id=677, 845.1575pt x 1196.47pt>
+File: Graphics/ICMM_Subject4.pdf Graphic file (type pdf)
+<use Graphics/ICMM_Subject4.pdf>
+Package pdftex.def Info: Graphics/ICMM_Subject4.pdf  used on input line 69.
+(pdftex.def)             Requested size: 418.25368pt x 592.11757pt.
+
+LaTeX Warning: Float too large for page by 22.58737pt on input line 72.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 74.
+
+<Graphics/ICMM_Subject5.pdf, id=678, 845.1575pt x 1196.47pt>
+File: Graphics/ICMM_Subject5.pdf Graphic file (type pdf)
+<use Graphics/ICMM_Subject5.pdf>
+Package pdftex.def Info: Graphics/ICMM_Subject5.pdf  used on input line 76.
+(pdftex.def)             Requested size: 418.25368pt x 592.11757pt.
+
+LaTeX Warning: Float too large for page by 22.58737pt on input line 79.
+
+)
 
 LaTeX Warning: Empty bibliography on input line 30.
 
-(Content/Appendix/Appendix.tex (Content/Appendix/Themes.tex [50]
-Appendix A.
-)) [51
+(Content/Appendix/Appendix.tex (Content/Appendix/Themes.tex [54] [55 <./Graphic
+s/ICMM_Subject1.pdf>] [56 <./Graphics/ICMM_Subject2.pdf>] [57 <./Graphics/ICMM_
+Subject3.pdf>] [58 <./Graphics/ICMM_Subject4.pdf>] [59 <./Graphics/ICMM_Subject
+5.pdf>] [60
 
 ]
+Appendix A.
+)) [61]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 37.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 37.
  (Master.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 37.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 37.
 Package rerunfilecheck Info: File `Master.out' has not changed.
-(rerunfilecheck)             Checksum: 3F4AAB1230D9CCAFF29D03943FC51043;2059.
+(rerunfilecheck)             Checksum: 66CE48442C7ACEB529B1C6D45A0C4AA3;2476.
 
 
 LaTeX Warning: There were undefined references.
@@ -2010,10 +2126,10 @@ Package logreq Info: Writing requests to 'Master.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39401 strings out of 492946
- 757175 string characters out of 3135518
- 1258445 words of memory out of 3000000
- 42561 multiletter control sequences out of 15000+200000
+ 39482 strings out of 492946
+ 758769 string characters out of 3135518
+ 1259478 words of memory out of 3000000
+ 42607 multiletter control sequences out of 15000+200000
  561120 words of font info for 99 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,10n,78p,2663b,2381s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2041,9 +2157,9 @@ type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symb
 ols/msam10.pfb>
-Output written on Master.pdf (51 pages, 1159926 bytes).
+Output written on Master.pdf (61 pages, 1517807 bytes).
 PDF statistics:
- 1281 PDF objects out of 1440 (max. 8388607)
- 159 named destinations out of 1000 (max. 500000)
- 283 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1490 PDF objects out of 1728 (max. 8388607)
+ 185 named destinations out of 1000 (max. 500000)
+ 361 words of extra memory for PDF output out of 10000 (max. 10000000)
 
