@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.21)  21 MAY 2019 23:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.21)  22 MAY 2019 09:49
 entering extended mode
 **./Master.tex
 (Master.tex
@@ -1552,7 +1552,7 @@ LaTeX Warning: Citation 'PDF:Scrum' on page 8 undefined on input line 61.
 
 LaTeX Warning: Citation 'PDF:Scrum' on page 9 undefined on input line 69.
 
-<Graphics/SCRUM.png, id=201, 803.0pt x 602.25pt>
+<Graphics/SCRUM.png, id=206, 803.0pt x 602.25pt>
 File: Graphics/SCRUM.png Graphic file (type png)
 <use Graphics/SCRUM.png>
 Package pdftex.def Info: Graphics/SCRUM.png  used on input line 74.
@@ -1568,7 +1568,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 LaTeX Warning: Citation 'PDF:TonePrintAnalyse' on page 10 undefined on input li
 ne 82.
 
-<Graphics/EffectPedalExample.png, id=211, 413.545pt x 803.0pt>
+<Graphics/EffectPedalExample.png, id=216, 413.545pt x 803.0pt>
 File: Graphics/EffectPedalExample.png Graphic file (type png)
 <use Graphics/EffectPedalExample.png>
 Package pdftex.def Info: Graphics/EffectPedalExample.png  used on input line 86
@@ -1581,7 +1581,7 @@ onic / Guitar / Stompboxes /
  []
 
 [10 <./Graphics/SCRUM.png>] [11 <./Graphics/EffectPedalExample.png>]
-<Graphics/TonePrintAppExample.png, id=230, 1025.8325pt x 770.88pt>
+<Graphics/TonePrintAppExample.png, id=235, 1025.8325pt x 770.88pt>
 File: Graphics/TonePrintAppExample.png Graphic file (type png)
 <use Graphics/TonePrintAppExample.png>
 Package pdftex.def Info: Graphics/TonePrintAppExample.png  used on input line 9
@@ -1625,6 +1625,10 @@ LaTeX Warning: Citation 'WEB:Nielsen1994' on page 16 undefined on input line 12
 LaTeX Warning: Citation 'WEB:Nielsen1994' on page 16 undefined on input line 12
 5.
 
+
+LaTeX Warning: Citation 'WEB:Nielsen1994HowTo' on page 16 undefined on input li
+ne 131.
+
 [16]
 Underfull \hbox (badness 10000) in paragraph at lines 142--143
 
@@ -1640,7 +1644,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 144--145
 
  []
 
-
+[17]
 Underfull \hbox (badness 10000) in paragraph at lines 145--146
 
  []
@@ -1650,7 +1654,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 151--152
 
  []
 
-[17]
+
 Underfull \hbox (badness 10000) in paragraph at lines 162--163
 
  []
@@ -1675,7 +1679,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 166--167
 
  []
 
-
+[18]
 Underfull \hbox (badness 10000) in paragraph at lines 167--168
 
  []
@@ -1685,7 +1689,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 168--169
 
  []
 
-[18]
+
 Underfull \hbox (badness 10000) in paragraph at lines 174--175
 
  []
@@ -1700,12 +1704,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 186--187
 
  []
 
-
+[19]
 Underfull \hbox (badness 10000) in paragraph at lines 192--193
 
  []
 
-[19]) (Content/Interview.tex [20]
+) (Content/Interview.tex [20]
 Chapter 3.
 [21
 
@@ -1855,7 +1859,7 @@ LaTeX Warning: Citation 'PDF:Henderson2012' on page 35 undefined on input line
 [35
 
 ]
-<Graphics/TonePrintConcept.pdf, id=414, 334.3692pt x 132.495pt>
+<Graphics/TonePrintConcept.pdf, id=419, 334.3692pt x 132.495pt>
 File: Graphics/TonePrintConcept.pdf Graphic file (type pdf)
 <use Graphics/TonePrintConcept.pdf>
 Package pdftex.def Info: Graphics/TonePrintConcept.pdf  used on input line 18.
@@ -1883,7 +1887,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--58
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [37]
-<Graphics/CommunityFirstDraft.pdf, id=443, 484.69078pt x 288.11641pt>
+<Graphics/CommunityFirstDraft.pdf, id=448, 484.69078pt x 288.11641pt>
 File: Graphics/CommunityFirstDraft.pdf Graphic file (type pdf)
 <use Graphics/CommunityFirstDraft.pdf>
 Package pdftex.def Info: Graphics/CommunityFirstDraft.pdf  used on input line 6
@@ -1896,7 +1900,7 @@ pdfTeX warning: pdflatex (file ./Graphics/CommunityFirstDraft.pdf): PDF inclusi
 on: invalid other resource which is no dict (key 'ProcSets', type <array>); ign
 ored.
 >]
-<Graphics/CommunityUseCaseOne.pdf, id=484, 598.15468pt x 845.07718pt>
+<Graphics/CommunityUseCaseOne.pdf, id=489, 598.15468pt x 845.07718pt>
 File: Graphics/CommunityUseCaseOne.pdf Graphic file (type pdf)
 <use Graphics/CommunityUseCaseOne.pdf>
 Package pdftex.def Info: Graphics/CommunityUseCaseOne.pdf  used on input line 9
@@ -1971,31 +1975,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
-)
+[49
+
+])
 
 LaTeX Warning: Empty bibliography on input line 30.
 
-(Content/Appendix/Appendix.tex (Content/Appendix/Themes.tex [49
-
-] [50
+(Content/Appendix/Appendix.tex (Content/Appendix/Themes.tex [50]
+Appendix A.
+)) [51
 
 ]
-Appendix A.
-)) [51]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 37.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 37.
  (Master.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 37.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 37.
+Package rerunfilecheck Info: File `Master.out' has not changed.
+(rerunfilecheck)             Checksum: 3F4AAB1230D9CCAFF29D03943FC51043;2059.
 
-
-Package rerunfilecheck Warning: File `Master.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Master.out':
-(rerunfilecheck)             Before: C741199CF8D0A78AAE0A7000ED603629;1995
-(rerunfilecheck)             After:  3F4AAB1230D9CCAFF29D03943FC51043;2059.
 
 LaTeX Warning: There were undefined references.
 
@@ -2012,10 +2010,10 @@ Package logreq Info: Writing requests to 'Master.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39400 strings out of 492946
- 757157 string characters out of 3135518
- 1258323 words of memory out of 3000000
- 42560 multiletter control sequences out of 15000+200000
+ 39401 strings out of 492946
+ 757175 string characters out of 3135518
+ 1258445 words of memory out of 3000000
+ 42561 multiletter control sequences out of 15000+200000
  561120 words of font info for 99 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,10n,78p,2663b,2381s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2043,9 +2041,9 @@ type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symb
 ols/msam10.pfb>
-Output written on Master.pdf (51 pages, 1157742 bytes).
+Output written on Master.pdf (51 pages, 1159926 bytes).
 PDF statistics:
- 1276 PDF objects out of 1440 (max. 8388607)
+ 1281 PDF objects out of 1440 (max. 8388607)
  159 named destinations out of 1000 (max. 500000)
- 275 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 283 words of extra memory for PDF output out of 10000 (max. 10000000)
 
