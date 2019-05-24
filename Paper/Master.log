@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.21)  24 MAY 2019 00:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.21)  24 MAY 2019 19:21
 entering extended mode
 **./Master.tex
 (Master.tex
@@ -2077,81 +2077,78 @@ ended by []
 
 Underfull \vbox (badness 5711) has occurred while \output is active []
 
- [54 <./Graphics/ACSMM.pdf>] [55] [56]
+ [54 <./Graphics/ACSMM.pdf>]
+<Graphics/1ICMM_new.pdf, id=698, 656.4525pt x 456.74638pt>
+File: Graphics/1ICMM_new.pdf Graphic file (type pdf)
+<use Graphics/1ICMM_new.pdf>
+Package pdftex.def Info: Graphics/1ICMM_new.pdf  used on input line 45.
+(pdftex.def)             Requested size: 250.95476pt x 174.61082pt.
+<Graphics/2ICMM_new.pdf, id=699, 301.125pt x 290.0436pt>
+File: Graphics/2ICMM_new.pdf Graphic file (type pdf)
+<use Graphics/2ICMM_new.pdf>
+Package pdftex.def Info: Graphics/2ICMM_new.pdf  used on input line 57.
+(pdftex.def)             Requested size: 167.2989pt x 161.1487pt.
+ [55 <./Graphics/1ICMM_new.pdf
+
+pdfTeX warning: pdflatex (file ./Graphics/1ICMM_new.pdf): PDF inclusion: invali
+d other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<Graphics/3ICMM_new.pdf, id=715, 195.6108pt x 283.0575pt>
+File: Graphics/3ICMM_new.pdf Graphic file (type pdf)
+<use Graphics/3ICMM_new.pdf>
+Package pdftex.def Info: Graphics/3ICMM_new.pdf  used on input line 68.
+(pdftex.def)             Requested size: 167.2989pt x 242.08577pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [56 <./Graphics/2ICMM_new.pdf
+
+pdfTeX warning: pdflatex (file ./Graphics/2ICMM_new.pdf): PDF inclusion: invali
+d other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<Graphics/4ICMM_new.pdf, id=730, 409.53pt x 627.30356pt>
+File: Graphics/4ICMM_new.pdf Graphic file (type pdf)
+<use Graphics/4ICMM_new.pdf>
+Package pdftex.def Info: Graphics/4ICMM_new.pdf  used on input line 79.
+(pdftex.def)             Requested size: 167.2989pt x 256.26764pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [57 <./Graphics/3ICMM_new.pdf
+
+pdfTeX warning: pdflatex (file ./Graphics/3ICMM_new.pdf): PDF inclusion: invali
+d other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<Graphics/5ICMM_new.pdf, id=745, 557.20169pt x 572.1375pt>
+File: Graphics/5ICMM_new.pdf Graphic file (type pdf)
+<use Graphics/5ICMM_new.pdf>
+Package pdftex.def Info: Graphics/5ICMM_new.pdf  used on input line 90.
+(pdftex.def)             Requested size: 167.2989pt x 171.78224pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [58 <./Graphics/4ICMM_new.pdf
+
+pdfTeX warning: pdflatex (file ./Graphics/4ICMM_new.pdf): PDF inclusion: invali
+d other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [59 <./Graphics/5ICMM_new.pdf
+
+pdfTeX warning: pdflatex (file ./Graphics/5ICMM_new.pdf): PDF inclusion: invali
+d other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
 Overfull \vbox (32.8694pt too high) has occurred while \output is active []
 
 
-[57]
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 184.
-
-<Graphics/ICMM_Subject1.pdf, id=715, 845.1575pt x 1196.47pt>
-File: Graphics/ICMM_Subject1.pdf Graphic file (type pdf)
-<use Graphics/ICMM_Subject1.pdf>
-Package pdftex.def Info: Graphics/ICMM_Subject1.pdf  used on input line 186.
-(pdftex.def)             Requested size: 418.25368pt x 592.11757pt.
-
-LaTeX Warning: Float too large for page by 22.58737pt on input line 189.
-
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 191.
-
-<Graphics/ICMM_Subject2.pdf, id=716, 845.1575pt x 1196.47pt>
-File: Graphics/ICMM_Subject2.pdf Graphic file (type pdf)
-<use Graphics/ICMM_Subject2.pdf>
-Package pdftex.def Info: Graphics/ICMM_Subject2.pdf  used on input line 193.
-(pdftex.def)             Requested size: 418.25368pt x 592.11757pt.
-
-LaTeX Warning: Float too large for page by 22.58737pt on input line 196.
-
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 198.
-
-<Graphics/ICMM_Subject3.pdf, id=717, 845.1575pt x 1196.47pt>
-File: Graphics/ICMM_Subject3.pdf Graphic file (type pdf)
-<use Graphics/ICMM_Subject3.pdf>
-Package pdftex.def Info: Graphics/ICMM_Subject3.pdf  used on input line 200.
-(pdftex.def)             Requested size: 418.25368pt x 592.11757pt.
-
-LaTeX Warning: Float too large for page by 22.58737pt on input line 203.
-
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 205.
-
-<Graphics/ICMM_Subject4.pdf, id=718, 845.1575pt x 1196.47pt>
-File: Graphics/ICMM_Subject4.pdf Graphic file (type pdf)
-<use Graphics/ICMM_Subject4.pdf>
-Package pdftex.def Info: Graphics/ICMM_Subject4.pdf  used on input line 207.
-(pdftex.def)             Requested size: 418.25368pt x 592.11757pt.
-
-LaTeX Warning: Float too large for page by 22.58737pt on input line 210.
-
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 212.
-
-<Graphics/ICMM_Subject5.pdf, id=719, 845.1575pt x 1196.47pt>
-File: Graphics/ICMM_Subject5.pdf Graphic file (type pdf)
-<use Graphics/ICMM_Subject5.pdf>
-Package pdftex.def Info: Graphics/ICMM_Subject5.pdf  used on input line 214.
-(pdftex.def)             Requested size: 418.25368pt x 592.11757pt.
-
-LaTeX Warning: Float too large for page by 22.58737pt on input line 217.
-
-)
+[60])
 
 LaTeX Warning: Empty bibliography on input line 30.
 
-(Content/Appendix/Appendix.tex (Content/Appendix/Themes.tex [58 <./Graphics/ICM
-M_Subject1.pdf>] [59 <./Graphics/ICMM_Subject2.pdf>] [60 <./Graphics/ICMM_Subje
-ct3.pdf>] [61 <./Graphics/ICMM_Subject4.pdf>] [62 <./Graphics/ICMM_Subject5.pdf
->]
+(Content/Appendix/Appendix.tex (Content/Appendix/Themes.tex
 Appendix A.
-)) [63
+)) [61
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 37.
@@ -2175,9 +2172,9 @@ Package logreq Info: Writing requests to 'Master.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39522 strings out of 492946
- 759714 string characters out of 3135518
- 1262222 words of memory out of 3000000
+ 39520 strings out of 492946
+ 759600 string characters out of 3135518
+ 1260224 words of memory out of 3000000
  42635 multiletter control sequences out of 15000+200000
  561889 words of font info for 100 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2207,9 +2204,9 @@ eX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fo
 nts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 /public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
 amsfonts/symbols/msam10.pfb>
-Output written on Master.pdf (63 pages, 1532981 bytes).
+Output written on Master.pdf (61 pages, 1397967 bytes).
 PDF statistics:
- 1537 PDF objects out of 1728 (max. 8388607)
- 193 named destinations out of 1000 (max. 500000)
+ 1509 PDF objects out of 1728 (max. 8388607)
+ 191 named destinations out of 1000 (max. 500000)
  377 words of extra memory for PDF output out of 10000 (max. 10000000)
 
