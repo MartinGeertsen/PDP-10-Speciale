@@ -1,0 +1,10 @@
+Mental model: fokusset bør være på, hvorfor det er interessant, at der skal være en fælles model for interaktionen.
+En fælles model er en fælles forståelse for struktur, koncepter, komponenter osv. og hvordan de snakker sammen.
+- Ikke nødvendigvis hvordan den ser ud
+
+Rop vil dele det op, så tabeller indeholder struktur/koncepter og handlinger hver for sig
+Beskrivelserne:
+- vi tager en person af gangen
+- Her inkluderes: tekstbeskrivelse, tabel med vigtige items, og selve map'et
+- Deres map skal muligvis tegnes i noget software, så det bliver mere forståeligt
+
