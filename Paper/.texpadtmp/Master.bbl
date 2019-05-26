@@ -147,11 +147,11 @@
     \endentry
     \entry{PDF:Henderson2012}{inbook}{}
       \name{labelname}{2}{}{%
-        {{uniquename=0,hash=1805e103501075ef0b21851b4259f4a3}{Johnson}{J\bibinitperiod}{Jeff}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=1805e103501075ef0b21851b4259f4a3}{Johnson}{J\bibinitperiod}{Jeff}{J\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=72fc4e475191e4fae4410a06b78bc273}{Henderson}{H\bibinitperiod}{Austin}{A\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{2}{}{%
-        {{uniquename=0,hash=1805e103501075ef0b21851b4259f4a3}{Johnson}{J\bibinitperiod}{Jeff}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=1805e103501075ef0b21851b4259f4a3}{Johnson}{J\bibinitperiod}{Jeff}{J\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=72fc4e475191e4fae4410a06b78bc273}{Henderson}{H\bibinitperiod}{Austin}{A\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{46151f26f025ffd5f9bcb3c6acbe8a11}
@@ -163,6 +163,30 @@
       \field{booktitle}{Conceptual Models: Core to Good Design}
       \field{title}{Chapter 3: Definition}
       \field{year}{2012}
+    \endentry
+    \entry{WEB:ConceptMapAnalysis}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=1,hash=867ffdae8c9ced5da567569d9ce8781b}{Johnson}{J\bibinitperiod}{Tristan\bibnamedelima E.}{T\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d91449db957367c5c29b71a804792de9}{O'Connor}{O\bibinitperiod}{Debra\bibnamedelima L.}{D\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=1,hash=867ffdae8c9ced5da567569d9ce8781b}{Johnson}{J\bibinitperiod}{Tristan\bibnamedelima E.}{T\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d91449db957367c5c29b71a804792de9}{O'Connor}{O\bibinitperiod}{Debra\bibnamedelima L.}{D\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{572bdb1557439f7cd6bd08babbc6237a}
+      \strng{fullhash}{572bdb1557439f7cd6bd08babbc6237a}
+      \field{sortinit}{J}
+      \field{labelyear}{2008}
+      \field{labelmonth}{10}
+      \field{labelday}{20}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Measuring team shared understanding using the analysis-constructed shared mental model methodology}
+      \field{day}{20}
+      \field{journaltitle}{Wiley InterScience}
+      \field{month}{10}
+      \field{title}{Measuring team shared understanding using the analysis-constructed shared mental model methodology}
+      \field{year}{2008}
+      \field{pages}{113\bibrangedash 134}
     \endentry
     \entry{WEB:UXResponsibilitiesInScrum}{article}{}
       \name{labelname}{1}{}{%
