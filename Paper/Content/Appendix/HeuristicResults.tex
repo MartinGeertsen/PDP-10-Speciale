@@ -1,6 +1,6 @@
 \chapter{Usability problems of the TonePrint App}
 \label{AppendixHeuristics}
-The content of this appendix is the usability problems defined through the heuristic evaluation of the TonePrint application \fxnote{Her skal der refereres til udførelsen af den heuristiske evaluering}. The problems are listed in accordance with the heuristic it violates. No problems were identified for the "User control and freedom" and "Help users recognise, diagnose, and recover from errors", which is why the two heuristics aren't mentioned below.
+The content of this appendix is the usability problems defined through the heuristic evaluation of the TonePrint application \fxnote{Her skal der refereres til udførelsen af den heuristiske evaluering}. The problems are listed in accordance with the heuristic it violates. No problems were identified for the "User control and freedom" and "Help users recognise, diagnose, and recover from errors", which is why the two heuristics aren't mentioned below.\fxnote{Skal de engelte problemer have en mere fyldsgørende beskrivelse?}
 
 \subsubsection{Visibility of system status}
 \begin{itemize}
@@ -8,7 +8,8 @@ The content of this appendix is the usability problems defined through the heuri
 	\item There is a lack of indication to which instrument is selected, as this selection happens in settings and not in the list itself. If either \textit{guitar} or \textit{bass} is selected under the instrument filter, and not \textit{all}, the message in the list \textit{"all TonePrints by…”} is misleading, as the user is only going to find TonePrints for one instruments.\\
 	\item When pressing \textit{user} on the computer application there are no indications of what to do next. The user is just presented a blank column with nothing in it.\\
 	\item When selecting the \textbf{Helix Phaser} with the \textit{guitar} filter active on the computer app, nothing happens. When trying this on the Iphone app, it opens one TonePrint, and when opening it on an android unit, the app crashes.\\
-	\item When pressing the video icon on the android and computer app, it isn't clear that the unit will open youtube in a web browser compared to the Iphone app.
+	\item When pressing the video icon on the android and computer app, it isn't clear that the unit will open youtube in a web browser compared to the Iphone app.\\
+	\item There is no indication of which TonePrint you already have stored in the pedal connected. \fxnote{Spell check: Jeppe}
 \end{itemize}
 %
 \subsubsection{Match between systems and the real world}
@@ -31,14 +32,18 @@ The content of this appendix is the usability problems defined through the heuri
 	\item When choosing the \textbf{SpectraComp Bass Compressor} with the \textit{guitar} filter on, the user dosen't get the same menu as when choosing other pedals. This is probably due to it being a bass effect.\\
 	\item When creating a favourites list, the TonePrints are sorted by pedal name, even if the user selects \textit{sort by artist}.\\
 	\item When opening the app on an android unit, the user gets informed that he needs a midi connection. This message doesn't appear on the desktop version, even though the same goes for that.\\
-	\item The user has a search functionality available on the android system but not on either the desktop or Iphone version.
+	\item The user has a search functionality available on the android system but not on either the desktop or Iphone version.\\
+	\item After connecting the pedal and setting the app to ‘browse by artist’, the artists who have a TonePrint applicable for the pedal aren’t highlighted. This contradicts what happens if the app is set to Brows by Pedal.\\
+	\item After you have created your own TonePrint and saved it, it becomes visible in the user menu and three dots to the right of it indicates interaction possibilities. On a mac and as a mac user it’s expected that you can swipe on the computer’s trackpad, instead of using the three dots, this is however not true in this case. \fxnote{Spell check: Jeppe}
 \end{itemize}
 %
 \subsubsection{Error prevention}
 \begin{itemize}
 	\item The typical confirmation dialogue of either \textcolor{xGreen}{\textbf{$\checkmark$}} or \textcolor{xRed}{\textbf{$\times$}} is presented to the users with these icons inside the button on the Iphone app. As such it isn’t clear whether the user selects an action when it is visible, or if this visibility means that it is already selected.\\
 	\item When the user is beaming a TonePrint to the pedal, he is given the instruction: \textit{If your pedal flashed like this beaming was a succes}. In order to follow this instruction the user would have to focus on the pedal, and by doing this he wouldn't have seen this instruction in the first place. As such, the user has to focus on two things at once.\\
-	\item The user can assign different parameters to the same physical button on the pedal, allowing for live editing of the TonePrint. However, the pedal comes with a print above the knob on the pedal itself, which can't change. As such, the user can potentially edit a parameter, even though the knob says something different.
+	\item The user can assign different parameters to the same physical button on the pedal, allowing for live editing of the TonePrint. However, the pedal comes with a print above the knob on the pedal itself, which can't change. As such, the user can potentially edit a parameter, even though the knob says something different.\\
+	\item In the mapping settings of the editor part it’s possible to select which parameters the physical buttons of the pedal should affect and map their behavior. When changing the parameters, the mapping of the new parameters is set to a default. If you regret and wants to use the former parameter as it was mapped you would have to remember how it was mapped, because it’s also given the default mapping. \fxnote{Spell check: Jeppe}\\
+	\item Knob range: The indications of what’s represented on the x and y axis in the mapping part of the editor is not very clear. The writing is dark blue on a dark blue background.\fxnote{Spell check: Jeppe}
 \end{itemize}
 %
 \subsubsection{Recognition rather than recall}
@@ -49,7 +54,8 @@ The content of this appendix is the usability problems defined through the heuri
 \subsubsection{Flexibility and efficiency of use}
 \begin{itemize}
 	\item In general there are limited ways of customising the canvas, for example the favourite list.\\
-	\item The search functionality on the android app only allows for searching in the open menu, making it almost redundant. The user still needs to to go to the right menu before searching for specifics, making scrolling a faster way of finding the right TonePrint.
+	\item The search functionality on the android app only allows for searching in the open menu, making it almost redundant. The user still needs to to go to the right menu before searching for specifics, making scrolling a faster way of finding the right TonePrint. \\
+	\item While browsing the TonePrints in the Library menu or the templates menu you are forced to use the “Back arrow”, in the upper left corner, to navigate back to the main page of the menu. This contradicts with the expectations of the menu icons also being applicable for this interaction, which stems from interaction with other systems. \fxnote{Spell check: Jeppe}
 \end{itemize}
 %
 \subsubsection{Aesthetic and minimalist design}
