@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.23)  24 MAY 2019 09:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.23)  26 MAY 2019 16:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2146,7 +2146,7 @@ LaTeX Warning: Reference `WorkshopApproach' on page 53 undefined on input line 9
 
 
 pdfTeX warning: /usr/local/texlive/2014/bin/x86_64-darwin/pdflatex (file ./Graphics/ACSMM.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Graphics/ACSMM.pdf, id=722, 963.6pt x 542.025pt>
+<Graphics/ACSMM.pdf, id=720, 963.6pt x 542.025pt>
 File: Graphics/ACSMM.pdf Graphic file (type pdf)
  <use Graphics/ACSMM.pdf>
 Package pdftex.def Info: Graphics/ACSMM.pdf used on input line 13.
@@ -2161,80 +2161,66 @@ LaTeX Warning: Reference `WorkshopApproach' on page 54 undefined on input line 1
 
 Underfull \vbox (badness 5711) has occurred while \output is active []
 
- [54 <./Graphics/ACSMM.pdf>] [55] [56]
+ [54 <./Graphics/ACSMM.pdf>] <Graphics/1ICMM_new.pdf, id=766, 656.4525pt x 456.74638pt>
+File: Graphics/1ICMM_new.pdf Graphic file (type pdf)
+ <use Graphics/1ICMM_new.pdf>
+Package pdftex.def Info: Graphics/1ICMM_new.pdf used on input line 45.
+(pdftex.def)             Requested size: 250.95476pt x 174.61082pt.
+ <Graphics/2ICMM_new.pdf, id=767, 301.125pt x 290.0436pt>
+File: Graphics/2ICMM_new.pdf Graphic file (type pdf)
+ <use Graphics/2ICMM_new.pdf>
+Package pdftex.def Info: Graphics/2ICMM_new.pdf used on input line 57.
+(pdftex.def)             Requested size: 167.2989pt x 161.1487pt.
+ [55 <./Graphics/1ICMM_new.pdf
+
+pdfTeX warning: /usr/local/texlive/2014/bin/x86_64-darwin/pdflatex (file ./Graphics/1ICMM_new.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>] <Graphics/3ICMM_new.pdf, id=783, 195.6108pt x 283.0575pt>
+File: Graphics/3ICMM_new.pdf Graphic file (type pdf)
+ <use Graphics/3ICMM_new.pdf>
+Package pdftex.def Info: Graphics/3ICMM_new.pdf used on input line 68.
+(pdftex.def)             Requested size: 167.2989pt x 242.08577pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [56 <./Graphics/2ICMM_new.pdf
+
+pdfTeX warning: /usr/local/texlive/2014/bin/x86_64-darwin/pdflatex (file ./Graphics/2ICMM_new.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>] <Graphics/4ICMM_new.pdf, id=798, 409.53pt x 627.30356pt>
+File: Graphics/4ICMM_new.pdf Graphic file (type pdf)
+ <use Graphics/4ICMM_new.pdf>
+Package pdftex.def Info: Graphics/4ICMM_new.pdf used on input line 79.
+(pdftex.def)             Requested size: 167.2989pt x 256.26764pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [57 <./Graphics/3ICMM_new.pdf
+
+pdfTeX warning: /usr/local/texlive/2014/bin/x86_64-darwin/pdflatex (file ./Graphics/3ICMM_new.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>] <Graphics/5ICMM_new.pdf, id=814, 557.20169pt x 572.1375pt>
+File: Graphics/5ICMM_new.pdf Graphic file (type pdf)
+ <use Graphics/5ICMM_new.pdf>
+Package pdftex.def Info: Graphics/5ICMM_new.pdf used on input line 90.
+(pdftex.def)             Requested size: 167.2989pt x 171.78224pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [58 <./Graphics/4ICMM_new.pdf
+
+pdfTeX warning: /usr/local/texlive/2014/bin/x86_64-darwin/pdflatex (file ./Graphics/4ICMM_new.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [59 <./Graphics/5ICMM_new.pdf
+
+pdfTeX warning: /usr/local/texlive/2014/bin/x86_64-darwin/pdflatex (file ./Graphics/5ICMM_new.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
 Overfull \vbox (32.8694pt too high) has occurred while \output is active []
 
- [57]
+ [60]) [61
 
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 184.
-
-<Graphics/ICMM_Subject1.pdf, id=785, 845.1575pt x 1196.47pt>
-File: Graphics/ICMM_Subject1.pdf Graphic file (type pdf)
- <use Graphics/ICMM_Subject1.pdf>
-Package pdftex.def Info: Graphics/ICMM_Subject1.pdf used on input line 186.
-(pdftex.def)             Requested size: 418.25368pt x 592.11757pt.
-
-
-LaTeX Warning: Float too large for page by 22.58737pt on input line 189.
-
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 191.
-
-<Graphics/ICMM_Subject2.pdf, id=786, 845.1575pt x 1196.47pt>
-File: Graphics/ICMM_Subject2.pdf Graphic file (type pdf)
- <use Graphics/ICMM_Subject2.pdf>
-Package pdftex.def Info: Graphics/ICMM_Subject2.pdf used on input line 193.
-(pdftex.def)             Requested size: 418.25368pt x 592.11757pt.
-
-
-LaTeX Warning: Float too large for page by 22.58737pt on input line 196.
-
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 198.
-
-<Graphics/ICMM_Subject3.pdf, id=787, 845.1575pt x 1196.47pt>
-File: Graphics/ICMM_Subject3.pdf Graphic file (type pdf)
- <use Graphics/ICMM_Subject3.pdf>
-Package pdftex.def Info: Graphics/ICMM_Subject3.pdf used on input line 200.
-(pdftex.def)             Requested size: 418.25368pt x 592.11757pt.
-
-
-LaTeX Warning: Float too large for page by 22.58737pt on input line 203.
-
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 205.
-
-<Graphics/ICMM_Subject4.pdf, id=788, 845.1575pt x 1196.47pt>
-File: Graphics/ICMM_Subject4.pdf Graphic file (type pdf)
- <use Graphics/ICMM_Subject4.pdf>
-Package pdftex.def Info: Graphics/ICMM_Subject4.pdf used on input line 207.
-(pdftex.def)             Requested size: 418.25368pt x 592.11757pt.
-
-
-LaTeX Warning: Float too large for page by 22.58737pt on input line 210.
-
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 212.
-
-<Graphics/ICMM_Subject5.pdf, id=789, 845.1575pt x 1196.47pt>
-File: Graphics/ICMM_Subject5.pdf Graphic file (type pdf)
- <use Graphics/ICMM_Subject5.pdf>
-Package pdftex.def Info: Graphics/ICMM_Subject5.pdf used on input line 214.
-(pdftex.def)             Requested size: 418.25368pt x 592.11757pt.
-
-
-LaTeX Warning: Float too large for page by 22.58737pt on input line 217.
-
-) [58 <./Graphics/ICMM_Subject1.pdf>] [59 <./Graphics/ICMM_Subject2.pdf>] [60 <./Graphics/ICMM_Subject3.pdf>] [61 <./Graphics/ICMM_Subject4.pdf>] [62 <./Graphics/ICMM_Subject5.pdf>] [63
-
-] (./Content/Appendix/Appendix.tex (./Content/Appendix/Themes.tex [64]
+] (./Content/Appendix/Appendix.tex (./Content/Appendix/Themes.tex [62]
 Appendix A.
-)) [65
+)) [63
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 37.
@@ -2253,18 +2239,18 @@ Package logreq Info: Writing requests to 'Master.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33112 strings out of 493117
- 632526 string characters out of 6135432
- 1099498 words of memory out of 5000000
+ 33109 strings out of 493117
+ 632401 string characters out of 6135432
+ 1097500 words of memory out of 5000000
  35775 multiletter control sequences out of 15000+600000
  34181 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,10n,78p,10428b,2188s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on /Users/jeppeknudsen/Documents/AAU/PDP10/Paper/.texpadtmp/Master.pdf (65 pages, 1638365 bytes).
+Output written on /Users/jeppeknudsen/Documents/AAU/PDP10/Paper/.texpadtmp/Master.pdf (63 pages, 1499856 bytes).
 PDF statistics:
- 1030 PDF objects out of 1200 (max. 8388607)
- 838 compressed objects within 9 object streams
- 218 named destinations out of 1000 (max. 500000)
+ 998 PDF objects out of 1000 (max. 8388607)
+ 847 compressed objects within 9 object streams
+ 215 named destinations out of 1000 (max. 500000)
  377 words of extra memory for PDF output out of 10000 (max. 10000000)
 
