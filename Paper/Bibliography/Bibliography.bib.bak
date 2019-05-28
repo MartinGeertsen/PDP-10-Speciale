@@ -1,7 +1,60 @@
-% Encoding: UTF-8
+%% This BibTeX bibliography file was created using BibDesk.
+%% http://bibdesk.sourceforge.net/
+
+
+%% Created for Jeppe Knudsen at 2019-05-23 10:43:48 +0200 
+
+
+%% Saved with string encoding Unicode (UTF-8) 
+
+
+@comment{jabref-meta: databaseType:biblatex;}
 
 
 
+@article{WEB:NielsenNormanCardSort,
+	Author = {Katie Sherwin},
+	Date-Added = {2019-05-23 10:37:33 +0200},
+	Date-Modified = {2019-05-23 10:43:48 +0200},
+	Day = {18},
+	Journaltitle = {Nielsen Norman Group},
+	Month = {March},
+	Subtitle = {Uncover Users' Mental Models for Better Information Achitecture},
+	Title = {Card Sorting},
+	Url = {https://www.nngroup.com/articles/card-sorting-definition/},
+	Year = {2018}}
+
+@book{WEB:DonnaSpencer,
+	Author = {Donna Spencer},
+	Date-Added = {2019-05-23 10:34:22 +0200},
+	Date-Modified = {2019-05-23 10:36:38 +0200},
+	Edition = {1},
+	Pages = {282},
+	Publisher = {Rosenfeld Media},
+	Title = {Card Sorting},
+	Year = {2009}}
+
+@book{PDF:InformationArchitecture,
+	Author = {Louis Rosenfeld and Peter Morville and Jorge Arango},
+	Date-Added = {2019-05-22 16:56:46 +0200},
+	Date-Modified = {2019-05-22 16:59:54 +0200},
+	Edition = {4},
+	Pages = {485},
+	Publisher = {O'Reily Media, Incorporated},
+	Subtitle = {For the Web and Beyond},
+	Title = {Information Architecture},
+	Year = {2015}}
+
+@article{WEB:ConceptMapAnalysis,
+	Author = {Tristan E. Johnson and Debra L. O'Connor},
+	Date-Added = {2019-05-22 16:50:31 +0200},
+	Date-Modified = {2019-05-22 16:54:48 +0200},
+	Day = {20},
+	Journaltitle = {Wiley InterScience},
+	Month = {October},
+	Pages = {113 - 134},
+	Title = {Measuring team shared understanding using the analysis-constructed shared mental model methodology},
+	Year = {2008}}
 
 @online{WEB:TCElectronic,
 	Author = {TC Electronic},
@@ -9,7 +62,8 @@
 	Date-Modified = {2019-04-25 14:08:32 +0200},
 	Title = {About: Our Story},
 	Url = {https://www.tcelectronic.com/brand/tcelectronic/our-story#googtrans(en|en)},
-	Year = {2019}}
+	Year = {2019},
+	Bdsk-Url-1 = {https://www.tcelectronic.com/brand/tcelectronic/our-story#googtrans(en%7Cen)}}
 
 @article{PDF:Scrum,
 	Author = {Luis Gon{\c c}alves},
@@ -138,8 +192,9 @@
 	Year = {2013}}
 
 @online{WEB:AboutTonePrints,
+	Author = {TC Electronic},
 	Date-Added = {2019-02-19 14:50:15 +0100},
-	Date-Modified = {2019-02-19 14:54:12 +0100},
+	Date-Modified = {2019-05-23 09:37:31 +0200},
 	Organization = {TC Electronic},
 	Title = {What's TonePrint?},
 	Url = {https://www.tcelectronic.com/toneprints##googtrans(en|en)},
@@ -175,38 +230,34 @@
 	Year = {2012},
 	Bdsk-File-1 = {YnBsaXN0MDDSAQIDBFxyZWxhdGl2ZVBhdGhZYWxpYXNEYXRhXxA9U291cmNlcy9UZW9yZXRpc2tfYW5hbHlzZV9hZl9vcGxldmVsc2VzZGVzaWduX2lfVG9uZVByaW50LnBkZk8RAjoAAAAAAjoAAgAADE1hY2ludG9zaCBIRAAAAAAAAAAAAAAAAAAAAAAAAABCRAAB/////x9UZW9yZXRpc2tfYW5hbHlzZV8jRkZGRkZGRkYucGRmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////AAAAAAAAAAAAAAAAAAEAAwAACiBjdQAAAAAAAAAAAAAAAAAHU291cmNlcwAAAgB5LzpVc2VyczpqZXBwZWtudWRzZW46RG9jdW1lbnRzOkFBVTpQRFAxMDpQYXBlcjpCaWJsaW9ncmFwaHk6U291cmNlczpUZW9yZXRpc2tfYW5hbHlzZV9hZl9vcGxldmVsc2VzZGVzaWduX2lfVG9uZVByaW50LnBkZgAADgBsADUAVABlAG8AcgBlAHQAaQBzAGsAXwBhAG4AYQBsAHkAcwBlAF8AYQBmAF8AbwBwAGwAZQB2AGUAbABzAGUAcwBkAGUAcwBpAGcAbgBfAGkAXwBUAG8AbgBlAFAAcgBpAG4AdAAuAHAAZABmAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIAd1VzZXJzL2plcHBla251ZHNlbi9Eb2N1bWVudHMvQUFVL1BEUDEwL1BhcGVyL0JpYmxpb2dyYXBoeS9Tb3VyY2VzL1Rlb3JldGlza19hbmFseXNlX2FmX29wbGV2ZWxzZXNkZXNpZ25faV9Ub25lUHJpbnQucGRmAAATAAEvAAAVAAIAE///AAAACAANABoAJABkAAAAAAAAAgEAAAAAAAAABQAAAAAAAAAAAAAAAAAAAqI=}}
 
-@InBook{PDF:Henderson2012,
-  author    = {Jeff Johnson and Austin Henderson},
-  title     = {Chapter 3: Definition},
-  booktitle = {Conceptual Models: Core to Good Design},
-  year      = {2012},
-}
+@inbook{PDF:Henderson2012,
+	Author = {Jeff Johnson and Austin Henderson},
+	Booktitle = {Conceptual Models: Core to Good Design},
+	Title = {Chapter 3: Definition},
+	Year = {2012}}
 
-@Article{WEB:Nielsen1994,
-  author       = {Jakob Nielsen},
-  title        = {Enhancing the Explanatory Power of Usability Heuristics},
-  journal      = {Proceedings of the SIGCHI Conference on Human Factors in Computing Systems},
-  journaltitle = {Human factors in computing systems},
-  year         = {1994},
-  date         = {1994-04-24},
-}
+@article{WEB:Nielsen1994,
+	Author = {Jakob Nielsen},
+	Date = {1994-04-24},
+	Journal = {Proceedings of the SIGCHI Conference on Human Factors in Computing Systems},
+	Journaltitle = {Human factors in computing systems},
+	Title = {Enhancing the Explanatory Power of Usability Heuristics},
+	Year = {1994}}
 
-@Online{Web:Nielsen1994HowTo,
-  author = {Jakob Nielsen},
-  editor = {Nielsen Norman Group},
-  title  = {How to Conduct a Heuristic Evaluation},
-  year   = {1994},
-  date   = {1994-11-01},
-  url    = {https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/},
-}
+@online{WEB:Nielsen1994HowTo,
+	Author = {Jakob Nielsen},
+	Date = {1994-11-01},
+	Editor = {Nielsen Norman Group},
+	Title = {How to Conduct a Heuristic Evaluation},
+	Url = {https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/},
+	Year = {1994},
+	Bdsk-Url-1 = {https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/}}
 
-@Online{WEB:Nielsen1994Ten,
-  author = {Jakob Nielsen},
-  editor = {Group, N. N.},
-  title  = {10 Usability Heuristics for User Interface Design},
-  year   = {1994},
-  date   = {1994-04-24},
-  url    = {https://www.nngroup.com/articles/ten-usability-heuristics/},
-}
-
-@Comment{jabref-meta: databaseType:biblatex;}
+@online{WEB:Nielsen1994Ten,
+	Author = {Jakob Nielsen},
+	Date = {1994-04-24},
+	Editor = {Group, N. N.},
+	Title = {10 Usability Heuristics for User Interface Design},
+	Url = {https://www.nngroup.com/articles/ten-usability-heuristics/},
+	Year = {1994},
+	Bdsk-Url-1 = {https://www.nngroup.com/articles/ten-usability-heuristics/}}

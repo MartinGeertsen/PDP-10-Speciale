@@ -7,13 +7,14 @@
 \contentsline {section}{\numberline {1.3}The TonePrint concept}{10}{section.1.3}% 
 \contentsline {subsection}{\numberline {1.3.1}The TonePrint Software}{11}{subsection.1.3.1}% 
 \contentsline {chapter}{\numberline {2}Exploring the TonePrint application}{13}{chapter.2}% 
-\contentsline {section}{\numberline {2.1}Heuristic evaluation}{15}{section.2.1}% 
-\contentsline {subsection}{\numberline {2.1.1}Procedure}{16}{subsection.2.1.1}% 
-\contentsline {subsection}{\numberline {2.1.2}Evaluation Results}{17}{subsection.2.1.2}% 
-\contentsline {subsection}{\numberline {2.1.3}Discussion}{17}{subsection.2.1.3}% 
+\contentsline {section}{\numberline {2.1}Analyzing the design process of the TonePrint App}{14}{section.2.1}% 
+\contentsline {section}{\numberline {2.2}Heuristic evaluation}{16}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1}Procedure}{17}{subsection.2.2.1}% 
+\contentsline {subsection}{\numberline {2.2.2}Evaluation Results}{17}{subsection.2.2.2}% 
+\contentsline {subsection}{\numberline {2.2.3}Discussion}{17}{subsection.2.2.3}% 
 \contentsline {chapter}{\numberline {3}The Design process of TC Electronic}{19}{chapter.3}% 
 \contentsline {section}{\numberline {3.1}Interview with TC}{20}{section.3.1}% 
-\contentsline {subsubsection}{Introduction}{20}{section*.9}% 
+\contentsline {subsubsection}{Introduction}{20}{section*.8}% 
 \contentsline {chapter}{\numberline {4}Thematic Analysis}{23}{chapter.4}% 
 \contentsline {section}{\numberline {4.1}Method}{23}{section.4.1}% 
 \contentsline {section}{\numberline {4.2}Themes}{23}{section.4.2}% 
@@ -24,10 +25,10 @@
 \contentsline {subsection}{\numberline {5.1.1}The TonePrint Concept model}{33}{subsection.5.1.1}% 
 \contentsline {subsection}{\numberline {5.1.2}Community Model}{36}{subsection.5.1.2}% 
 \contentsline {subsection}{\numberline {5.1.3}Community Use Cases}{37}{subsection.5.1.3}% 
-\contentsline {subsubsection}{Use Case 1}{37}{section*.46}% 
-\contentsline {subsubsection}{Use Case 2}{37}{section*.47}% 
-\contentsline {subsubsection}{Use Case 3}{37}{section*.48}% 
-\contentsline {subsubsection}{Use Case 4}{37}{section*.49}% 
+\contentsline {subsubsection}{Use Case 1}{37}{section*.45}% 
+\contentsline {subsubsection}{Use Case 2}{37}{section*.46}% 
+\contentsline {subsubsection}{Use Case 3}{37}{section*.47}% 
+\contentsline {subsubsection}{Use Case 4}{37}{section*.48}% 
 \contentsline {chapter}{\numberline {6}Tasks and Methods}{39}{chapter.6}% 
 \contentsline {section}{\numberline {6.1}Task 1: Designing the information architecture}{40}{section.6.1}% 
 \contentsline {section}{\numberline {6.2}Task 2: Tags}{42}{section.6.2}% 
@@ -43,18 +44,18 @@
 \contentsline {section}{\numberline {8.1}Analysis Constructed Shared Mental Model}{51}{section.8.1}% 
 \contentsline {subsection}{\numberline {8.1.1}Coding of the ICMM's}{52}{subsection.8.1.1}% 
 \contentsline {subsection}{\numberline {8.1.2}Shared Analysis}{53}{subsection.8.1.2}% 
-\contentsline {subsubsection}{Subject 1}{53}{section*.53}% 
-\contentsline {subsubsection}{Subject 2}{54}{section*.55}% 
-\contentsline {subsubsection}{Subject 3}{55}{section*.57}% 
-\contentsline {subsubsection}{Subject 4}{56}{section*.59}% 
-\contentsline {subsubsection}{Subject 5}{57}{section*.61}% 
-\contentsline {chapter}{\numberline {A}Usability problems of the TonePrint App}{59}{appendix.A}% 
-\contentsline {subsubsection}{Visibility of system status}{59}{section*.64}% 
-\contentsline {subsubsection}{Match between systems and the real world}{60}{section*.65}% 
-\contentsline {subsubsection}{Consistency and standards}{60}{section*.66}% 
-\contentsline {subsubsection}{Error prevention}{61}{section*.67}% 
-\contentsline {subsubsection}{Recognition rather than recall}{62}{section*.68}% 
-\contentsline {subsubsection}{Flexibility and efficiency of use}{62}{section*.69}% 
-\contentsline {subsubsection}{Aesthetic and minimalist design}{62}{section*.70}% 
-\contentsline {subsubsection}{Help and documentation}{62}{section*.71}% 
-\contentsline {chapter}{\numberline {B}Interview Themes}{63}{appendix.B}% 
+\contentsline {subsubsection}{Subject 1}{54}{section*.52}% 
+\contentsline {subsubsection}{Subject 2}{55}{section*.54}% 
+\contentsline {subsubsection}{Subject 3}{56}{section*.56}% 
+\contentsline {subsubsection}{Subject 4}{57}{section*.58}% 
+\contentsline {subsubsection}{Subject 5}{58}{section*.60}% 
+\contentsline {chapter}{\numberline {A}Usability problems of the TonePrint App}{61}{appendix.A}% 
+\contentsline {subsubsection}{Visibility of system status}{61}{section*.63}% 
+\contentsline {subsubsection}{Match between systems and the real world}{62}{section*.64}% 
+\contentsline {subsubsection}{Consistency and standards}{62}{section*.65}% 
+\contentsline {subsubsection}{Error prevention}{63}{section*.66}% 
+\contentsline {subsubsection}{Recognition rather than recall}{64}{section*.67}% 
+\contentsline {subsubsection}{Flexibility and efficiency of use}{64}{section*.68}% 
+\contentsline {subsubsection}{Aesthetic and minimalist design}{64}{section*.69}% 
+\contentsline {subsubsection}{Help and documentation}{64}{section*.70}% 
+\contentsline {chapter}{\numberline {B}Interview Themes}{65}{appendix.B}% 
