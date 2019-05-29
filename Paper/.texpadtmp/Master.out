@@ -1,39 +1,40 @@
 \BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
-\BOOKMARK [1][-]{section.1.1}{The benefits of user centered design}{chapter.1}% 2
-\BOOKMARK [1][-]{section.1.2}{Focus of the project}{chapter.1}% 3
-\BOOKMARK [2][-]{subsection.1.2.1}{The Scrum framework}{section.1.2}% 4
-\BOOKMARK [1][-]{section.1.3}{The TonePrint concept}{chapter.1}% 5
-\BOOKMARK [2][-]{subsection.1.3.1}{The TonePrint Software}{section.1.3}% 6
-\BOOKMARK [0][-]{chapter.2}{Exploring the TonePrint application}{}% 7
-\BOOKMARK [1][-]{section.2.1}{Heuristic evaluation}{chapter.2}% 8
-\BOOKMARK [2][-]{subsection.2.1.1}{Procedure}{section.2.1}% 9
-\BOOKMARK [2][-]{subsection.2.1.2}{Evaluation Results}{section.2.1}% 10
-\BOOKMARK [2][-]{subsection.2.1.3}{Discussion}{section.2.1}% 11
-\BOOKMARK [0][-]{chapter.3}{The Design process of TC Electronic}{}% 12
-\BOOKMARK [1][-]{section.3.1}{Interview with TC}{chapter.3}% 13
-\BOOKMARK [0][-]{chapter.4}{Thematic Analysis}{}% 14
-\BOOKMARK [1][-]{section.4.1}{Method}{chapter.4}% 15
-\BOOKMARK [1][-]{section.4.2}{Themes}{chapter.4}% 16
-\BOOKMARK [1][-]{section.4.3}{Interview conclusions}{chapter.4}% 17
-\BOOKMARK [0][-]{chapter.5}{Community concept}{}% 18
-\BOOKMARK [1][-]{section.5.1}{Conceptual model}{chapter.5}% 19
-\BOOKMARK [2][-]{subsection.5.1.1}{The TonePrint Concept model}{section.5.1}% 20
-\BOOKMARK [2][-]{subsection.5.1.2}{Community Model}{section.5.1}% 21
-\BOOKMARK [2][-]{subsection.5.1.3}{Community Use Cases}{section.5.1}% 22
-\BOOKMARK [0][-]{chapter.6}{Tasks and Methods}{}% 23
-\BOOKMARK [1][-]{section.6.1}{Task 1: Designing the information architecture}{chapter.6}% 24
-\BOOKMARK [1][-]{section.6.2}{Task 2: Tags}{chapter.6}% 25
-\BOOKMARK [1][-]{section.6.3}{Task 3: Self-promoting functionalities}{chapter.6}% 26
-\BOOKMARK [1][-]{section.6.4}{Task 4: Appearance and GUI of the App}{chapter.6}% 27
-\BOOKMARK [1][-]{section.6.5}{Task 5: Defining the user groups}{chapter.6}% 28
-\BOOKMARK [0][-]{chapter.7}{User Study of The TP Community}{}% 29
-\BOOKMARK [1][-]{section.7.1}{Deciding on a task}{chapter.7}% 30
-\BOOKMARK [1][-]{section.7.2}{Mental Models}{chapter.7}% 31
-\BOOKMARK [1][-]{section.7.3}{Experimental design}{chapter.7}% 32
-\BOOKMARK [2][-]{subsection.7.3.1}{The card sorting method}{section.7.3}% 33
-\BOOKMARK [0][-]{chapter.8}{Workshop Results}{}% 34
-\BOOKMARK [1][-]{section.8.1}{Analysis Constructed Shared Mental Model}{chapter.8}% 35
-\BOOKMARK [2][-]{subsection.8.1.1}{Coding of the ICMM's}{section.8.1}% 36
-\BOOKMARK [2][-]{subsection.8.1.2}{Shared Analysis}{section.8.1}% 37
-\BOOKMARK [0][-]{appendix.A}{Usability problems of the TonePrint App}{}% 38
-\BOOKMARK [0][-]{appendix.B}{Interview Themes}{}% 39
+\BOOKMARK [1][-]{section.1.1}{Focus of the project}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{The benefits of user centered design}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{The Scrum framework}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.4}{The TonePrint concept}{chapter.1}% 5
+\BOOKMARK [2][-]{subsection.1.4.1}{The TonePrint Software}{section.1.4}% 6
+\BOOKMARK [1][-]{section.1.5}{Research question}{chapter.1}% 7
+\BOOKMARK [0][-]{chapter.2}{Exploring the TonePrint application}{}% 8
+\BOOKMARK [1][-]{section.2.1}{Heuristic evaluation}{chapter.2}% 9
+\BOOKMARK [2][-]{subsection.2.1.1}{Procedure}{section.2.1}% 10
+\BOOKMARK [2][-]{subsection.2.1.2}{Evaluation Results}{section.2.1}% 11
+\BOOKMARK [2][-]{subsection.2.1.3}{Discussion}{section.2.1}% 12
+\BOOKMARK [0][-]{chapter.3}{The Design process of TC Electronic}{}% 13
+\BOOKMARK [1][-]{section.3.1}{Interview with TC}{chapter.3}% 14
+\BOOKMARK [0][-]{chapter.4}{Thematic Analysis}{}% 15
+\BOOKMARK [1][-]{section.4.1}{Method}{chapter.4}% 16
+\BOOKMARK [1][-]{section.4.2}{Themes}{chapter.4}% 17
+\BOOKMARK [1][-]{section.4.3}{Interview conclusions}{chapter.4}% 18
+\BOOKMARK [0][-]{chapter.5}{Community concept}{}% 19
+\BOOKMARK [1][-]{section.5.1}{Conceptual model}{chapter.5}% 20
+\BOOKMARK [2][-]{subsection.5.1.1}{The TonePrint Concept model}{section.5.1}% 21
+\BOOKMARK [2][-]{subsection.5.1.2}{Community Model}{section.5.1}% 22
+\BOOKMARK [2][-]{subsection.5.1.3}{Community Use Cases}{section.5.1}% 23
+\BOOKMARK [0][-]{chapter.6}{Tasks and Methods}{}% 24
+\BOOKMARK [1][-]{section.6.1}{Task 1: Designing the information architecture}{chapter.6}% 25
+\BOOKMARK [1][-]{section.6.2}{Task 2: Tags}{chapter.6}% 26
+\BOOKMARK [1][-]{section.6.3}{Task 3: Self-promoting functionalities}{chapter.6}% 27
+\BOOKMARK [1][-]{section.6.4}{Task 4: Appearance and GUI of the App}{chapter.6}% 28
+\BOOKMARK [1][-]{section.6.5}{Task 5: Defining the user groups}{chapter.6}% 29
+\BOOKMARK [0][-]{chapter.7}{User Study of The TP Community}{}% 30
+\BOOKMARK [1][-]{section.7.1}{Deciding on a task}{chapter.7}% 31
+\BOOKMARK [1][-]{section.7.2}{Mental Models}{chapter.7}% 32
+\BOOKMARK [1][-]{section.7.3}{Experimental design}{chapter.7}% 33
+\BOOKMARK [2][-]{subsection.7.3.1}{The card sorting method}{section.7.3}% 34
+\BOOKMARK [0][-]{chapter.8}{Workshop Results}{}% 35
+\BOOKMARK [1][-]{section.8.1}{Analysis Constructed Shared Mental Model}{chapter.8}% 36
+\BOOKMARK [2][-]{subsection.8.1.1}{Coding of the ICMM's}{section.8.1}% 37
+\BOOKMARK [2][-]{subsection.8.1.2}{Shared Analysis}{section.8.1}% 38
+\BOOKMARK [0][-]{appendix.A}{Usability problems of the TonePrint App}{}% 39
+\BOOKMARK [0][-]{appendix.B}{Interview Themes}{}% 40
