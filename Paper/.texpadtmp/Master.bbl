@@ -19,6 +19,51 @@
 
 \refsection{0}
   \sortlist{entry}{nty}
+    \entry{WEB:ConductingSemiStructured}{inbook}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=8d895b04d7683af7eaf940597fad361e}{Adams}{A\bibinitperiod}{William\bibnamedelima C.}{W\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=8d895b04d7683af7eaf940597fad361e}{Adams}{A\bibinitperiod}{William\bibnamedelima C.}{W\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{bookauthor}{3}{}{%
+        {{hash=e20aa61dc5038ea7a6a198ed63d0d483}{Newcomer}{N\bibinitperiod}{Kathry\bibnamedelima E.}{K\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=32b0f0eaa3722587e260a80cd3887b72}{Hatry}{H\bibinitperiod}{Harry\bibnamedelima P.}{H\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=c60f77af9de8bdee1e58e9f9d306ba20}{Wholey}{W\bibinitperiod}{Joseph\bibnamedelima S.}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=a78eb01941f9316d145c811f052b19e5}{4th.}{4\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{8d895b04d7683af7eaf940597fad361e}
+      \strng{fullhash}{8d895b04d7683af7eaf940597fad361e}
+      \field{sortinit}{A}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Conducting Semi-Structured Interviews}
+      \field{booktitle}{Handbook of Practical Program Evaluation}
+      \field{title}{Conducting Semi-Structured Interviews}
+      \field{year}{2015}
+    \endentry
+    \entry{PDF:DesignforloebAfUserTonePrint}{report}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=e69a6545618c2cfef8b6b50fadad3937}{Andersen}{A\bibinitperiod}{Jesper\bibnamedelima Lumbye}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=e69a6545618c2cfef8b6b50fadad3937}{Andersen}{A\bibinitperiod}{Jesper\bibnamedelima Lumbye}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {TC Electronic}%
+      }
+      \strng{namehash}{e69a6545618c2cfef8b6b50fadad3937}
+      \strng{fullhash}{e69a6545618c2cfef8b6b50fadad3937}
+      \field{sortinit}{A}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Forslag til designforløb for oplevelsesdesign af deling af User TonePrint}
+      \field{title}{Forslag til designforløb for oplevelsesdesign af deling af User TonePrint}
+      \field{type}{Report}
+      \field{year}{2014}
+    \endentry
     \entry{PDF:BrugerWorkshopUserTonePrints}{report}{}
       \name{labelname}{1}{}{%
         {{uniquename=0,hash=e69a6545618c2cfef8b6b50fadad3937}{Andersen}{A\bibinitperiod}{Jesper\bibnamedelima Lumbye}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
@@ -69,6 +114,7 @@
       \strng{namehash}{2e6c0687768711a8952be82ecdc4620b}
       \strng{fullhash}{2e6c0687768711a8952be82ecdc4620b}
       \field{sortinit}{E}
+      \field{extrayear}{1}
       \field{labelyear}{2019}
       \field{datelabelsource}{}
       \field{labeltitle}{About: Our Story}
@@ -76,6 +122,29 @@
       \field{year}{2019}
       \verb{url}
       \verb https://www.tcelectronic.com/brand/tcelectronic/our-story#googtrans(en%7Cen)
+      \endverb
+    \endentry
+    \entry{WEB:AboutTonePrints}{online}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=2e6c0687768711a8952be82ecdc4620b}{Electronic}{E\bibinitperiod}{TC}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=2e6c0687768711a8952be82ecdc4620b}{Electronic}{E\bibinitperiod}{TC}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {TC Electronic}%
+      }
+      \strng{namehash}{2e6c0687768711a8952be82ecdc4620b}
+      \strng{fullhash}{2e6c0687768711a8952be82ecdc4620b}
+      \field{sortinit}{E}
+      \field{extrayear}{2}
+      \field{labelyear}{2019}
+      \field{datelabelsource}{}
+      \field{labeltitle}{What's TonePrint?}
+      \field{title}{What's TonePrint?}
+      \field{year}{2019}
+      \verb{url}
+      \verb https://www.tcelectronic.com/toneprints##googtrans(en%7Cen)
       \endverb
     \endentry
     \entry{WEB:UXDesign}{online}{}
