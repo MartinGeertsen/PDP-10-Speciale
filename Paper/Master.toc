@@ -51,14 +51,14 @@
 \contentsline {subsubsection}{Subject 5}{49}{section*.26}% 
 \contentsline {subsection}{\numberline {8.1.2}Shared Analysis}{49}{subsection.8.1.2}% 
 \contentsline {chapter}{\numberline {A}Usability problems of the TonePrint App}{53}{appendix.A}% 
-\contentsline {subsubsection}{Visibility of system status}{53}{section*.30}% 
-\contentsline {subsubsection}{Match between systems and the real world}{54}{section*.31}% 
-\contentsline {subsubsection}{Consistency and standards}{54}{section*.32}% 
-\contentsline {subsubsection}{Error prevention}{55}{section*.33}% 
-\contentsline {subsubsection}{Recognition rather than recall}{56}{section*.34}% 
-\contentsline {subsubsection}{Flexibility and efficiency of use}{56}{section*.35}% 
-\contentsline {subsubsection}{Aesthetic and minimalist design}{56}{section*.36}% 
-\contentsline {subsubsection}{Help and documentation}{56}{section*.37}% 
+\contentsline {subsubsection}{Visibility of system status}{53}{section*.31}% 
+\contentsline {subsubsection}{Match between systems and the real world}{54}{section*.32}% 
+\contentsline {subsubsection}{Consistency and standards}{54}{section*.33}% 
+\contentsline {subsubsection}{Error prevention}{55}{section*.34}% 
+\contentsline {subsubsection}{Recognition rather than recall}{56}{section*.35}% 
+\contentsline {subsubsection}{Flexibility and efficiency of use}{56}{section*.36}% 
+\contentsline {subsubsection}{Aesthetic and minimalist design}{56}{section*.37}% 
+\contentsline {subsubsection}{Help and documentation}{56}{section*.38}% 
 \contentsline {chapter}{\numberline {B}Interview Themes}{57}{appendix.B}% 
 \contentsline {chapter}{\numberline {C}Concept maps from workshop}{67}{appendix.C}% 
 \contentsline {section}{\numberline {C.1}Drawn Concept Maps}{68}{section.C.1}% 
