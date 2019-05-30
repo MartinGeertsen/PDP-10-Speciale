@@ -41,24 +41,23 @@
 \contentsline {section}{\numberline {7.2}Mental Models}{40}{section.7.2}
 \contentsline {section}{\numberline {7.3}Experimental design}{40}{section.7.3}
 \contentsline {subsection}{\numberline {7.3.1}The card sorting method}{41}{subsection.7.3.1}
-\contentsline {chapter}{\numberline {8}Workshop Results}{43}{chapter.8}
-\contentsline {section}{\numberline {8.1}Analysis Constructed Shared Mental Model}{43}{section.8.1}
-\contentsline {subsection}{\numberline {8.1.1}Coding of the ICMM's}{44}{subsection.8.1.1}
-\contentsline {subsubsection}{Subject 1}{45}{section*.18}
-\contentsline {subsubsection}{Subject 2}{46}{section*.20}
-\contentsline {subsubsection}{Subject 3}{47}{section*.22}
-\contentsline {subsubsection}{Subject 4}{48}{section*.24}
-\contentsline {subsubsection}{Subject 5}{49}{section*.26}
-\contentsline {subsection}{\numberline {8.1.2}Shared Analysis}{49}{subsection.8.1.2}
+\contentsline {section}{\numberline {7.4}Analysis Constructed Shared Mental Model}{42}{section.7.4}
+\contentsline {chapter}{\numberline {8}User study results}{45}{chapter.8}
+\contentsline {section}{\numberline {8.1}Workshop results}{45}{section.8.1}
+\contentsline {subsubsection}{Subject 2}{47}{section*.20}
+\contentsline {subsubsection}{Subject 3}{48}{section*.22}
+\contentsline {subsubsection}{Subject 4}{49}{section*.24}
+\contentsline {subsubsection}{Subject 5}{50}{section*.26}
+\contentsline {subsection}{\numberline {8.1.1}Shared Analysis}{50}{subsection.8.1.1}
 \contentsline {chapter}{\numberline {A}Usability problems of the TonePrint App}{55}{appendix.A}
-\contentsline {subsubsection}{Visibility of system status}{55}{section*.31}
-\contentsline {subsubsection}{Match between systems and the real world}{56}{section*.32}
-\contentsline {subsubsection}{Consistency and standards}{56}{section*.33}
-\contentsline {subsubsection}{Error prevention}{57}{section*.34}
-\contentsline {subsubsection}{Recognition rather than recall}{58}{section*.35}
-\contentsline {subsubsection}{Flexibility and efficiency of use}{58}{section*.36}
-\contentsline {subsubsection}{Aesthetic and minimalist design}{58}{section*.37}
-\contentsline {subsubsection}{Help and documentation}{58}{section*.38}
+\contentsline {subsubsection}{Visibility of system status}{55}{section*.32}
+\contentsline {subsubsection}{Match between systems and the real world}{56}{section*.33}
+\contentsline {subsubsection}{Consistency and standards}{56}{section*.34}
+\contentsline {subsubsection}{Error prevention}{57}{section*.35}
+\contentsline {subsubsection}{Recognition rather than recall}{58}{section*.36}
+\contentsline {subsubsection}{Flexibility and efficiency of use}{58}{section*.37}
+\contentsline {subsubsection}{Aesthetic and minimalist design}{58}{section*.38}
+\contentsline {subsubsection}{Help and documentation}{58}{section*.39}
 \contentsline {chapter}{\numberline {B}Interview Themes}{59}{appendix.B}
 \contentsline {chapter}{\numberline {C}Concept maps from workshop}{69}{appendix.C}
 \contentsline {section}{\numberline {C.1}Drawn Concept Maps}{70}{section.C.1}
