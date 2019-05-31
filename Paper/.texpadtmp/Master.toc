@@ -42,22 +42,26 @@
 \contentsline {section}{\numberline {7.3}Experimental design}{40}{section.7.3}
 \contentsline {subsection}{\numberline {7.3.1}The card sorting method}{41}{subsection.7.3.1}
 \contentsline {section}{\numberline {7.4}Analysis Constructed Shared Mental Model}{42}{section.7.4}
-\contentsline {chapter}{\numberline {8}User study results}{45}{chapter.8}
-\contentsline {section}{\numberline {8.1}Workshop results}{45}{section.8.1}
-\contentsline {subsubsection}{Subject 3}{49}{section*.24}
-\contentsline {subsubsection}{Subject 4}{50}{section*.27}
-\contentsline {subsubsection}{Subject 5}{51}{section*.30}
-\contentsline {subsection}{\numberline {8.1.1}Shared Analysis}{52}{subsection.8.1.1}
-\contentsline {chapter}{\numberline {A}Usability problems of the TonePrint App}{57}{appendix.A}
-\contentsline {subsubsection}{Visibility of system status}{57}{section*.36}
-\contentsline {subsubsection}{Match between systems and the real world}{58}{section*.37}
-\contentsline {subsubsection}{Consistency and standards}{58}{section*.38}
-\contentsline {subsubsection}{Error prevention}{59}{section*.39}
-\contentsline {subsubsection}{Recognition rather than recall}{60}{section*.40}
-\contentsline {subsubsection}{Flexibility and efficiency of use}{60}{section*.41}
-\contentsline {subsubsection}{Aesthetic and minimalist design}{60}{section*.42}
-\contentsline {subsubsection}{Help and documentation}{60}{section*.43}
-\contentsline {chapter}{\numberline {B}Interview Themes}{61}{appendix.B}
-\contentsline {chapter}{\numberline {C}Concept maps from workshop}{71}{appendix.C}
-\contentsline {section}{\numberline {C.1}Drawn Concept Maps}{72}{section.C.1}
-\contentsline {section}{\numberline {C.2}ICMM's Derived from presentation}{77}{section.C.2}
+\contentsline {chapter}{\numberline {8}Card Sort Analysis}{45}{chapter.8}
+\contentsline {section}{\numberline {8.1}Summary of Results}{45}{section.8.1}
+\contentsline {chapter}{\numberline {9}Workshop results}{47}{chapter.9}
+\contentsline {section}{\numberline {9.1}The individual task}{47}{section.9.1}
+\contentsline {subsubsection}{Subject 3}{50}{section*.24}
+\contentsline {subsubsection}{Subject 4}{51}{section*.27}
+\contentsline {subsubsection}{Subject 5}{52}{section*.30}
+\contentsline {section}{\numberline {9.2}Reflecting on the task results}{54}{section.9.2}
+\contentsline {section}{\numberline {9.3}Group task result}{55}{section.9.3}
+\contentsline {section}{\numberline {9.4}Reflecting on group task}{56}{section.9.4}
+\contentsline {chapter}{\numberline {A}Usability problems of the TonePrint App}{59}{appendix.A}
+\contentsline {subsubsection}{Visibility of system status}{59}{section*.34}
+\contentsline {subsubsection}{Match between systems and the real world}{60}{section*.35}
+\contentsline {subsubsection}{Consistency and standards}{60}{section*.36}
+\contentsline {subsubsection}{Error prevention}{61}{section*.37}
+\contentsline {subsubsection}{Recognition rather than recall}{62}{section*.38}
+\contentsline {subsubsection}{Flexibility and efficiency of use}{62}{section*.39}
+\contentsline {subsubsection}{Aesthetic and minimalist design}{62}{section*.40}
+\contentsline {subsubsection}{Help and documentation}{62}{section*.41}
+\contentsline {chapter}{\numberline {B}Interview Themes}{63}{appendix.B}
+\contentsline {chapter}{\numberline {C}Concept maps from workshop}{73}{appendix.C}
+\contentsline {section}{\numberline {C.1}Drawn Concept Maps}{74}{section.C.1}
+\contentsline {section}{\numberline {C.2}ICMM's Derived from presentation}{79}{section.C.2}
