@@ -2041,15 +2041,13 @@
     <bcf:citekey order="40">PDF:BrugerWorkshopUserTonePrints</bcf:citekey>
     <bcf:citekey order="41">PDF:BrugerWorkshopUserTonePrints</bcf:citekey>
     <bcf:citekey order="42">WEB:DonnaSpencer</bcf:citekey>
-    <bcf:citekey order="43">WEB:DonnaSpencer</bcf:citekey>
+    <bcf:citekey order="43">WEB:ConceptMapAnalysis</bcf:citekey>
     <bcf:citekey order="44">WEB:ConceptMapAnalysis</bcf:citekey>
     <bcf:citekey order="45">WEB:ConceptMapAnalysis</bcf:citekey>
     <bcf:citekey order="46">WEB:ConceptMapAnalysis</bcf:citekey>
-    <bcf:citekey order="47">WEB:ConceptMapAnalysis</bcf:citekey>
-    <bcf:citekey order="48">WEB:ConceptMapAnalysis</bcf:citekey>
-    <bcf:citekey order="49">WEB:ConceptMapAnalysis</bcf:citekey>
-    <bcf:citekey order="50">PDF:BrugerWorkshopUserTonePrints</bcf:citekey>
-    <bcf:citekey order="51">PDF:BrugerWorkshopUserTonePrints</bcf:citekey>
+    <bcf:citekey order="47">WEB:DonnaSpencer</bcf:citekey>
+    <bcf:citekey order="48">PDF:BrugerWorkshopUserTonePrints</bcf:citekey>
+    <bcf:citekey order="49">PDF:BrugerWorkshopUserTonePrints</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
