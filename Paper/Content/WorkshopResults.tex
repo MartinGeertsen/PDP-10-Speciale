@@ -1,77 +1,175 @@
-\chapter{Workshop Results}
-\label{Chap:WorkshopResults}
+\chapter{Workshop results}
+\label{WorkshopResults}
+As it is elaborated on in \autoref{ChapterWorkshop}, the purpose of the card sort and workshop is to elicit mental models of the users' interaction with a TonePrint community platform. In the workshop this is investigated for two specific tasks, which on their own don't provide a full explanation for how the entire information architecture should be. The given tasks are the overall new features going from the current TonePrint app to a TonePrint community, and the results are as such also overall explanations. For further elaborating explanations, the various elements in each task should be investigated on their own as a set of subtasks. The subjects' mental models are derived from their hand drawn concept maps and subsequent explanations of them, which was video recorded, and the purpose of the following chapter is to present the results of this workshop before uniting them with the results of the card sort.
 
-The scope of the workshop is to evaluate the users mental models of the TonePrint Community, by describing how they imagine to use it for solving a specific task. As described in \autoref{WorkshopApproach} is concept maps used as a tool for the subjects, to depict their mental model for the context the task they have to solve. This results in Five different Concept maps describing Five different mental models for the individual task \autoref{TaskDecision}. \\
-For the purpose of using the users mental models to shape the IA of the TonePrint Community, it's desired to look at similarities of the mental models. \textcite{WEB:ConceptMapAnalysis} suggest a method for analyzing a teams Shared Mental Model (SMM). SMM represents a mental model shared by a group of people working together i.e  at solving a problem or a task. It's important that there is a some what mutual consensus of the SMM, otherwise it would be difficult for the people working together, because they may not know the purpose of what their fellow team members do and it could cause miss communication. The scope of identifying the SMM in this study is however not to evaluate how well users may work together. It's desired to investigate this SMM let the IA accomodate the different mental models \autoref{TaskDecision}.
+\section{The individual task}
+\label{IndividualTaskResults}
+The workshop was conducted in a meeting room at TC Electronic's headquarters in Aarhus, and five members of their staff served as subjects for this. It's important to note that none of them have been affiliated with either the development or maintenance of the TonePrint application at any point, so they were considered fitting subjects for the workshop. The obvious bias of including developers of the TonePrint app would have meant that the workshop wouldn't have produced mental models representing those of the end-users. One of the subjects, however, was considered a potential bias as he develops templates for User TonePrints. He has not had any influence on the design of the TonePrint app though, so he was included in the individual task any way but instead served as an observer for the group task, leaving the remaining four subjects for this.
 
+For the individual task, the results produced five different hand drawn concept maps, these are all found in \autoref{App:WorkshopConceptMaps}. The results for the subjects are presented individually including their concept map, depicted with software to make it more presentable and readable, a table of their highlighted content and actions, and codings of their video presentations. For the depicting of the concept maps it was considered insufficient to create a complete remake of their drawings alone, as they differ greatly in terms of structure and detail. In order to balance these differences, the new concept maps are made from their presentation of their drawings. The major pieces of content such as sites, list etc. are depicted in rectangles, while the components within this content, such as search, filtering etc. are depicted in rounded rectangles. The connections and actions between these elements are depicted as pointers. The codings of their explanations are presented with the concept map with the important content and actions highlighted with \textbf{bold text}. This is done to put the content and actions into context and not only have them displayed in a table.
 
-\section{Analysis Constructed Shared Mental Model}
-\label{ACSMM}
-To analyze the SMM it's proposed by \textcite{WEB:ConceptMapAnalysis} to create a Analysis Constructed Shared Mental Model (ACSMM). \autoref{fig:ACSMM} illustrates a very simplistic view of the process of constructing a ACSMM. At the beginning there is the users Individual Mental Model (IMM). These IMM is what is addressed in \autoref{MentalModel}. The next part is to acquire the users Individual Constructed Mental Model ICMM, which is their mental model putted in their own words. In this workshop the ICMM's is visualized be the concept maps created by each subject, as described in \autoref{WorkshopApproach}. The ICMM's is then analyzed and compared, so that a ASCMM may be created for explaining a common mental model shared by the users \autoref{fig:ACSMM}.  
-
+\subsection*{Subject 1}
+\label{Subject1}
+Subject 1 starts from the \textbf{TonePrint app} where he wants to \textbf{Log in} in case he isn't already. Then he enters his \textbf{my TonePrints site} which contains a tab either called \textbf{friends}, \textbf{community} or something more fitting. He presses this tab and is redirected to either a \textbf{search friends} functionality or simply a \textbf{friends list}. The two could also be combined to include the search functionality within the friends list. He uses the search functionality by writing \textbf{user 1}, so it is the only name in the list, and by pressing the username he enters his \textbf{profile}. On this profile he is presented a \textbf{list of TonePrints} created by user 1. The list is divided into the tabs \textbf{by name} and \textbf{by type}. From the list of types, he selects the \textbf{Corona TonePrints} and under this he wants to select \textbf{Warm Corona}. This selection could either be confirmed by an \textbf{add to my list} option or a button with a gear symbol on it, even though he's not completely sure what would happen by pressing it. Instead he proposes pressing the name of the TonePrint which would unveil a heart, giving him the choice of \textbf{liking} the TonePrint. It would also present him with instructions in the shape of \textbf{about}, \textbf{how i use it}, and \textbf{number of users}.\\
+%
+\begin{table}[H]
+\begin{minipage}[b]{\linewidth}\centering
+	\begin{tabular} {|l|l|l|} \hline
+		\rowcolor{xGray25} \textbf{Content} & \textbf{Actions} \\  \hline
+		TonePrint app & Logging in \\
+		My TonePrints site & Pressing friends/community tab \\
+		Friends/Community tab & Writing "user 1" \\
+		Search functionality & Pressing user 1 name \\
+		Friends list & Filter by type \\
+		User 1 profile & Selecting Warm Corona \\
+		List of TonePrints & Pressing "add to my TonePrints" \\
+		Type and name filter & Pressing like functionality \\
+		Corona TonePrints & \\
+		Warm Corona & \\
+		Like functionality & \\
+		About this TonePrint & \\
+		How i use this TonePrint & \\
+		Number of users & \\ \hline
+	\end{tabular}
+	\caption{The important content and actions mentioned by subject 1}
+	\label{tab:Subject1ContentActions}
+\end{minipage}
+\end{table}
+%
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=\textwidth]{ACSMM.pdf}
-	\caption{Illustration of the process of crating a ACSMM}
-	\label{fig:ACSMM}
-\end{figure}
-
-The step of going from multiple ICMM to a ACSMM is described in \textcite{WEB:ConceptMapAnalysis} as a ICMM coding phase, a shared analysis phase and a SCSMM construction phase. In the coding phase the concepts, links and cluster depict in the ICMM's are transformed into codes, that is comparable. The coding process for this workshop will not only be conducted for the subjects concept maps, however will it be based on the subjects presentation of their concept maps, which has been recorded \autoref{WorkshopApproach}. This is due to the concept maps being constructed quite different and because when putted to word, a more representative description of the IMM may be derived. In the shared analysis phase the codes from each subject is analyzed in order to determine which items of the ICMM's the subjects shares. To determine this a criterion is set for percentages of subjects sharing an item. \textcite{WEB:ConceptMapAnalysis} suggest 50\% as criterion. Finally is the ACSMM constructed by taking the shared items from the previous step and use them to construct a Concept Map. After this the shared items is used to assembly a model which serves as the ACSMM. 
-
-
-\subsection{Coding of the ICMM's}
-\label{ICMMCoding}
-After gathering the workshop participants ICMM's the next phase is to code these, in order to compare them in the next phase. For the process of coding the ICMM's from this workshop it's not found sufficient to code the drawn concept maps alone. These maps differ greatly in terms of structure and detail, which is found to be difficult to code on a similar basis. The drawn concept maps can be seen in \autoref{WorkshopConceptMaps}. To accommodate for the differences it's chosen to base the coding on the participants presentation of their concept maps. In this context a set of "new" concept maps are created from their descriptions of their own, drawn concept maps. The new maps are presented alongside a description which describes the flow, described by the participant. The codes of the ICMM's is highlighted in the descriptions with \textbf{Bold text}, which can be found in \autoref{Subject1ICMM} to \autoref{Subject5ICMM} with the associated concept map. 
-
-%The concept maps created by each subject is placed at the end of this chapter and is seen on \autoref{fig:ICMM1}, \autoref{fig:ICMM2}, \autoref{fig:ICMM3}, \autoref{fig:ICMM4} and \autoref{fig:ICMM5}. The content of the recorded descriptions given by each subject is represented independently in \autoref{Subject1ICMM} to \autoref{Subject5ICMM}. The concepts are highlighted with \textbf{Bold text} in the descriptions. The subjects codes are summarized in \autoref{tab:Subject1Coded} to \autoref{tab:Subject5Coded}.
-
-\subsubsection{Subject 1}
-\label{Subject1ICMM}
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=0.6\textwidth]{1ICMM_new.pdf}
-	\caption{The Concept map created by subject 1.}
+	\includegraphics[width=\textwidth]{1ICMM_new.pdf}
+	\caption{The Concept for subject 1. The hand-drawn version is displayed in \autoref{fig:DrawnICMM1}.}
 	\label{fig:ICMM1}
 \end{figure}
 
-He begins at the \textbf{TP App} from which he wants to \textbf{Log in} If he isn’t already logged in. Than he enters his site \textbf{My TonePrints} which contains the buttons \textbf{Friends} and /or \textbf{Community}. He uses friends to either enter a \textbf{Search Friends} where he can find specific friends, or he enters \textbf{Friends List} where he gets an overview of all of his friends. He uses this to find/select user 1, hence entering \textbf{User 1 Profile}. On this profile he is presented a \textbf{List of TonePrints} created by user 1. The list is divided in \textbf{By Name} and \textbf{By Type}. From By Type he selects the Corona Type and is presented with a \textbf{Corona TP List}. From this list he’s able to use a checkbox saying \textbf{My List} which adds the TonePrint to his My TonePrints. There’s also a Gear/settings buttons, which he doesn’t know what does. He choses the \textbf{Warm Corona} TonePrint by clicking on the name, which presents him the \textbf{User 1 TP: Warm Corona} site. From this site he has the option to \textbf{Like} the TP, to se \textbf{Number of users using this} and read a description of \textbf{How I use It}.
 
-
-\subsubsection{Subject 2}
-\label{Subject2ICMM}
+\subsection*{Subject 2}
+\label{Subject2}
+Subject 2 starts by opening the \textbf{TonePrint app}, after this he has two options. The user can either open his list of \textbf{subscriptions}, if he's looking for a user that he already has subscribed to, or he can open another \textbf{list} and simply \textbf{search} for user 1. Whatever the approach, the next step is then to hook up a pedal and guitar, and select one of \textbf{user 1's Corona TonePrints}. He selects one of them and \textbf{Loads it to his pedal}. Subject 2 then tries out the TonePrint by playing the guitar, and if doesn't like it, he goes back and selects a new TonePrint. If he does like the TonePrint, he wants to \textbf{highlight} it as one of his \textbf{favourites}, so he can find it at another time. He would also like to \textbf{store it in his pedal}. Finally, by selecting to subscribe to the user, he would expect the system to send him \textbf{notifications}, when the user uploads \textbf{new TonePrints}, either directly in the app or maybe by mail. When all these steps are clear, subject 2 would then expect to unhook the pedal from the app and start playing with the TonePrint in question. \\
+%
+\begin{table}[H]
+\begin{minipage}[b]{\linewidth}\centering
+	\begin{tabular} {|l|l|l|} \hline
+		\rowcolor{xGray25} \textbf{Content} & \textbf{Actions} \\  \hline
+		TonePrint app & Looking through "subscribed to" users \\
+		Subscriptions list & Searching for user 1 \\
+		Search list & Hook up pedal and guitar \\
+		User 1 Corona TonePrints list & Selecting a user 1 TonePrint \\
+		Favourites list & Loading TonePrint to pedal \\
+		Notifications of new TonePrints & Trying out the TonePrint \\
+		 & Highlight as favourite \\
+		 & Storing TonePrint in pedal \\
+		 & Unhook pedal from the app \\ \hline
+	\end{tabular}
+	\caption{The important content and actions mentioned by subject 2}
+	\label{tab:Subject2ContentActions}
+\end{minipage}
+\end{table}
+%
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=0.4\textwidth]{2ICMM_new.pdf}
-	\caption{The Concept map created by subject 2.}
+	\includegraphics[width=0.9\textwidth]{2ICMM_new.pdf}
+	\caption{The Concept map for subject 2. The hand-drawn version is displayed in \autoref{fig:DrawnICMM2}.}
 	\label{fig:ICMM2}
 \end{figure}
 
-He begins by opening the \textbf{App}. He than have to opportunities, either he would open for his \textbf{Subscriptions} which is people he already subscribes, where he can find user 1, or he could go to another \textbf{list and search} for user 1. This list can be used for finding users who you don’t subscribe to. He then would Connect his pedal and guitar so that he can test the TP he’s about to find. He than go and chooses one of \textbf{User 1's Corona TonePrints} and \textbf{Loads it to his pedal}. He then tries the TP By playing he guitar. If he doesn’t like it, he would go find another. If he likes it he would like to have the option to \textbf{Subscribe to user 1} if he doesn’t already are a subscriber. He would also like the option to \textbf{Add the TonePrint as favorite}, so that it would be easier to find later. He than \textbf{Store the TonePrint} in his pedal. When he chooses to subscribe to user 1 he would like to have the option to select \textbf{Getting notification} either by mail or in app, when user 1 makes something new.
 
 \subsubsection{Subject 3}
-\label{Subject3ICMM}
+\label{Subject3}
+Subject 3 starts by opening the \textbf{TonePrint app} and gets a \textbf{notification} telling him that user 1, who he already \textbf{subscribes} to, has uploaded a new \textbf{Chorus TonePrint}. He tabs this notification, sending him directly to the specific \textbf{Chorus TonePrint site}, where he selects \textbf{save TonePrint}. From here he can then go to \textbf{user 1's profile} where he can check out other \textbf{TonePrints made by user 1}. He expects these to be sorted in a \textbf{logical order} such as \textbf{alphabetically} or something more fitting. \\
+%
+\begin{table}[H]
+\begin{minipage}[b]{\linewidth}\centering
+	\begin{tabular} {|l|l|l|} \hline
+		\rowcolor{xGray25} \textbf{Content} & \textbf{Actions} \\  \hline
+		TonePrint app & pressing notification \\
+		Notification system & Saving TonePrint \\
+		Chorus TonePrints & pressing user 1's profile name \\
+		Chorus TonePrint site &  \\
+		User 1 profile &  \\
+		User 1 TonePrint list &  \\
+		Alphabetical sorting &  \\ \hline
+	\end{tabular}
+	\caption{The important content and actions mentioned by subject 3}
+	\label{tab:Subject3ContentActions}
+\end{minipage}
+\end{table}
+%
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=0.4\textwidth]{3ICMM_new.pdf}
-	\caption{The Concept map created by subject 3.}
+	\includegraphics[width=0.9\textwidth]{3ICMM_new.pdf}
+	\caption{The Concept for subject 3. The hand-drawn version is displayed in \autoref{fig:DrawnICMM3}.}
 	\label{fig:ICMM3}
 \end{figure}
 
-The first thing he does is to open the \textbf{TP App}. When it opens I gets a \textbf{Notification} telling that user 1, who he \textbf{subscribes} to have uploaded a new Chorus TonePrint. He than taps on the notification, which sends him to the \textbf{Specific Chorus TP Site}, in which he selects to \textbf{Save TonePrint}. He then gets the opportunity go to \textbf{User 1 Profile} where he can check the rest of \textbf{User 1’s TonePrints}, which he expect is given a \textbf{Logical indexation} which could be alphabetical or something else.
 
 \subsubsection{Subject 4}
-\label{Subject4ICMM}
+\label{Subject4}
+Subject 4 starts by opening the \textbf{TonePrint app} which he expects to have the same infrastructure as the current TonePrint app. He then navigates to \textbf{User TonePrints} where he expects to find all of his own TonePrints as well as an option called \textbf{cloud library}. By selecting this, he is redirected to where \textbf{all user TonePrints} are stored, and he wants find a TonePrint from a user that he already knows. He expects there to be a \textbf{filtering system} of some sort, and he chooses to \textbf{filter by product}, presenting him with a list of all \textbf{cloud based Corona TonePrints}. Subject 4 would then like to \textbf{search} for user 1, redirecting the list to the Corona TonePrints made by user 1. An alternative approach would be to just search for user 1 in the first place and be presented for all \textbf{user 1 TonePrints}. He considers this a more direct approach, as it only requires one action, but by using the current infrastructure of the TonePrint app, he would expect the filtering system to be a part of the solution. Subject 4 then enters \textbf{User 1’s profile}, where he is presented the TonePrints of user 1, although just the Corona types given the filtering system. He then clicks on a TonePrint with the intention of \textbf{trying it out in real time}, indicating that he wants to \textbf{transfer the TonePrint to his pedal}. If he then likes it, he can choose to \textbf{save it to his own library} and \textbf{highlight it as a favourite}. He wants an interface like the current TonePrint app, where he can \textbf{Save the TonePrint} and \textbf{Store it in pedal}. \\
+%
+\begin{table}[H]
+\begin{minipage}[b]{\linewidth}\centering
+	\begin{tabular} {|l|l|l|} \hline
+		\rowcolor{xGray25} \textbf{Content} & \textbf{Actions} \\  \hline
+		TonePrint app & Selecting cloud library \\
+		User TonePrints & Filter by product \\
+		Cloud library & Searching for user 1 \\
+		List of all user TonePrints & Clicking on a Corona TonePrint \\
+		Filtering system & Trying TonePrint in real time \\
+		Cloud based Corona TonePrints & Transfering TonePrint to pedal \\
+		Search functionality & Saving TonePrint to his own library \\
+		User 1 Corona TonePrints & Highlighting TonePrint as a favourite \\
+		All user 1 TonePrints & Saving the TonePrint \\
+		User 1 profile & Store TonePrint in pedal \\ \hline
+	\end{tabular}
+	\caption{The important content and actions mentioned by subject 4}
+	\label{tab:Subject4ContentActions}
+\end{minipage}
+\end{table}
+%
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=0.4\textwidth]{4ICMM_new.pdf}
+	\includegraphics[width=\textwidth]{4ICMM_new.pdf}
 	\caption{The Concept map created by subject 4.}
 	\label{fig:ICMM4}
 \end{figure}
 
-He begins by opening the \textbf{TP App} where expect it to have something like the currently infra structure. He navigates to the \textbf{User TonePrints} where he expects to find all of his own User TonePrints and the option to choose \textbf{Cloud Library} in which all the User Toneprints is stored. He chooses the Cloud Library because he wants to find a TonePrint from another user. Then goes to a \textbf{Filter system} where he wants to \textbf{Filter by product} where he chooses to \textbf{filter by Corona}. This presents him a list containing all \textbf{Cloud based Corona TonePrints}. Then he would be able to \textbf{Search for User names} in a \textbf{list} until he finds User 1. He also mentions another approach where instead of filtering use a \textbf{Search Function} to find all of \textbf{User 1’s TonePrints}. After his filtering and searching on User 1 he enters \textbf{User 1’s profile site} Containing all of his TonePrints, however just the ones for Corona, given the filtering. In this \textbf{User 1 Corona TonePrint list} he clicks on one so that he can try it, indicating he is \textbf{Transferring the TP to his pedal}. After trying it he then have the option to save it to his own \textbf{User Toneprint Library} and he’s in doubt what happens if he leaves the TonePrint, so he would also like to \textbf{Add it to Favorites}. He wants a interface like the current where he can \textbf{Save the TonePrint} and \textbf{Store it in pedal}.
 
 \subsubsection{Subject 5}
-\label{Subject5ICMM}
+\label{Subject5}
+Subject 5 starts by saying it needs to feel as familiar as possible, \textbf{similar to other apps} such as Youtube. Everyone uses these, and they tend to be somewhat similar. In the \textbf{TonePrint app} he therefore imagines a \textbf{magnifying glass icon} in the corner for \textbf{searching}, and he further proposes an \textbf{advanced search} for personalising the search. In either case, he proposes that it should work as a \textbf{meta search option}, where everything fitting to the search criteria within the system is presented to the user. In order to present this more organised, he proposes \textbf{different icons representing different content}. In the case of searching for user 1, the system would then provide a \textbf{suggested user: user 1}. By pressing this, the user is then redirected to all the \textbf{public content for user 1}, \textbf{sorted by products}. From here, he selects \textbf{Corona TonePrints} which unveils a \textbf{miniature view} of all user 1's TonePrints for this product, and when selecting one of these, the user is presented a site with all the \textbf{TonePrint details} and maybe a \textbf{picture} attached to the description. Should he just right click on it or hold a finger on it on the smartphone version, he would see a \textbf{context menu} with the options: \textbf{Beam}, \textbf{clone}, or \textbf{add to personal library}, allowing him to \textbf{edit it} or \textbf{highlight it as a favourite}. Finally, he describes a \textbf{history functionality} which allows him to \textbf{backtrack his actions}, much like in a web browser. As such, he will be able to find a TonePrint, even if he didn't highlight it as a favourite \\
+%
+\begin{table}[H]
+\begin{minipage}[b]{\linewidth}\centering
+	\begin{tabular} {|l|l|l|} \hline
+		\rowcolor{xGray25} \textbf{Content} & \textbf{Actions} \\  \hline
+		Similar to other apps & Pressing magnifying glass \\
+		TonePrint app & Searching for user 1 \\
+		Magnifying glass icon & Pressing suggest user: User 1 \\
+		Search functionality & Selecting Corona TonePrints \\
+		Advanced search & Selecting a specific TonePrint \\
+		Meta search & Right clicking / holding a TonePrint \\
+		Different icons for different content & adding to personal library \\
+		Suggested user: User 1 & Further editing the TonePrint \\
+		Public content for user 1 & Highlighting as favourite \\
+		Corona TonePrints & Backtracking his actions \\
+		Miniature view &  \\
+		TonePrint details & \\
+		Picture with the description & \\
+		Context menu & \\
+		Beaming option & \\
+		Clone option & \\
+		Add to personal library & \\
+		Favourite option & \\
+		Edit option & \\
+		History functionality & \\ \hline
+	\end{tabular}
+	\caption{The important content and actions mentioned by subject 5}
+	\label{tab:Subject5ContentActions}
+\end{minipage}
+\end{table}
+%
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=0.4\textwidth]{5ICMM_new.pdf}
@@ -79,162 +177,95 @@ He begins by opening the \textbf{TP App} where expect it to have something like 
 	\label{fig:ICMM5}
 \end{figure}
 
-He wants the app to be simple and similar to some popular apps, so that it’s like something you have tried before. In the \textbf{TP App} he imagines a magnifying glass in the corner so that he can \textbf{Search}. He want to create a option for \textbf{Advanced Search}, where you can personalize what you are searching for, but also that the standard Search is a \textbf{Meta Search option}. This means that it search on ever thing int the system(TonePrints, User, Product…). He imagines that \textbf{Icons could indicate the category} of the search items. So when he searches User 1 it would \textbf{suggest User: User 1}. Then he comes to the \textbf{Public TonePrints by User 1}, which is \textbf{Lists organized by products}. From here he chooses a \textbf{Corona TP} from the \textbf{Corona list}. When selecting the TonePrint he’s presented with the \textbf{Toneprints details}, a \textbf{Picture} that has been attach and a \textbf{description}. If he just Right click or on the phone Hold he’s shown a \textbf{Context menu} where he can \textbf{Beam} the TonePrnt to his pedal, \textbf{Clone} it to his \textbf{Personal Library} where he can \textbf{edit it}, or \textbf{Favorite it} so it goes to his list of favorites. He want’s a \textbf{history function}, so even though he doesn’t save or favorites, he still have the option to backtrack to it, like in a web browser. 
 
-\subsection{Shared Analysis}
-\label{SharedAnalysis}
+
+\section{Reflecting on the task results}
+\label{IndividualTaskReflection}
+Before investigating the results of the group task, it seems fitting to first take a look at the results of the individual task in order to find common traits between the subjects. Had the workshop provided no major differences between them, then it would seem more or less straightforward, how the design of the information architecture should be approached, but this is not the case. It's also important to note that only 5 potential end-users participated as subjects in the workshop, and conducting more workshops with more subjects could just as well provide other results.
+
+All the subjects start the same way by opening the TonePrint app, with subject 4 even stating that he would expect to start from the current TonePrint app with the same infrastructure. They weren't instructed to approach the task on the basis of the current TonePrint app and the TonePrint community as one unit, but this might be due to bias from the task example. The route they then chose to reach the TonePrint made by user 1 turned out be rather different. Subject 1 and 4 propose they start by entering their own site of User TonePrints, where they have a tab giving them access to the public User TonePrints. subject 1 refers to this as \textit{friends} and \textit{community}, while subject 4 refers to it as \textit{cloud library}. For subject 2 and 5 it seems as the current app and community are completely unified, as they jump straight to a search functionality with subject 2 also proposing to enter a list of users that he already subscribes to. Subject 3 has the fastest route to the TonePrint of them all. He also proposes a subscription system, but in his version he receives a notification of a new TonePrint by user 1 that redirects him straight to it, skipping a lot of steps included by the other subjects.
+
+Subject 1 and 4 then proposes a search functionality as well. Subject 4 first want to filter the vast amount of TonePrints by product, but both of them, as well as subject 2 and 5, wants to write "user1" and press the search result. This points towards that a search functionality should be included, even though it's not completely clear how the action itself and subsequent search results should be presented, and how advanced it should be. From the search there also seems to be some difference to where the subjects then expect to be redirected to. Subject 2, 4, and 5 expects to be taking directly to a list of all the TonePrints for user 1, with subject 5 referring to it as all the public content for user 1. Subject 1 expects to be taken to a profile for user 1, and this concept of a profile is present for more subjects, but he is the only one expecting to be taken to it at this point. In reality, all except subject 2 mentions a profile at some point during their presentation, and this would imply that profiles should in some way be a part of the TonePrint community.
+
+When reaching the correct TonePrint, the subjects generally have the same idea of what to do next. all subjects except subject 3 wants to highlight it as a favourite, and subject 1, 4, and 5 also wants to save or add it to their own TonePrint library while subject 2 and 4 talks about storing the TonePrint to the pedal. Subject 2 and 4 furthermore want to play with the TonePrint in real time before deciding on whether to save it or not. As final remarks, the subjects also proposed content for the TonePrint community such as backtracking options, further editing the saved User TonePrints, and proper instructions for the TonePrint, including how to use it and its number of users.
+
+
+\section{Group task result}
+\label{GroupTaskResults}
+For the group assignment the participants were asked to work as a team to generate a map of how the given task should be solved in order to reach the end goal. One of the participants was excluded for this assignment because he were found to biased, on the account of his work. For the group assignment his knowledge could have had a to large affect on the end result in a way that it would reflect a developers mental model rather than a end users.\\ 
+Compared to the results of the individual assignment is the scope for the group assignment to let the participants discuss how the system should work in order for them to reach the goal. This should give a more reflective answer because the participants need to reach an agreement.\\
+
+\noindent
+For the process of making the parameter settings they find agree upon the current system is suitable and that after the TonePrint settings has been set the TonePrint is given a name. However for the description and tagging part the current system isn't sufficient. It's argued that both the description and the tags aren't necessary if the user doesn't want to share the TonePrint and only wants to use it  by himself. For the purpose of sharing ones TonePrint several thing are discussed in accordance to both description and tags. One thing overall is the distinction between description and tags, because they may have a lot in common in terms of purpose. They are both seen as a tool that describes the TonePrint. One participant even argues that the tags might even be included in the description, maybe in the shape of Hashtags. For the description they want it to be something that the user writes themselves in when the TonePrint is to be shared, when its not the system shouldn't force one to include it. One also argues that it should be allowed to include a picture in the description. \\
+When the participants are discussing tags it mostly focus around two ways of doing it. They suggest that after one have written the description the system should should present a list of "Suggested Tags". These suggested tags would be generated by the system and based on the settings of the TonePrint. It's also suggested that the system could use the user written description to generated suggested tags. When talking about suggested tags they imagines that it would be based on and thereby create tags describing Genre, Effect type, Settings of the TOnePrint, Description and Craziness, which describes if a setting is set at extreme levels. It's argued that the suggested tags could be automatically applied, while another argue that it could be suggested through a drop down menu. After the suggested they describe that it should be possible to create one's own tags, in the case of the suggested not being sufficient. \\
+After tagging they are discussing how they would like to be able to share the TonePrint. At the beginning it's seen as a simple function which just said "Public", but than it's argued that it could be nice if it was possible to be able to share one's TonePrint on other media as a link e.g. Facebook or via mail. This leads to a discussion of how it could be shared with e.g. band members, but at the same time not having it as a public TonePrint. The participants suggest two ways of sharing the TonePrint. Firstly there is the "Public" function, which allows every one to find the TonePrint by e.g. searching on the tags used to describe the it. The other solution is inspired by the smart-phone app Snapchat, whereas it's possible to send it to individual friends or to a group. This leads to three situations the participants suggest the TonePrint can end in. The TonePrint can be kept Private, so that it's only accessible to the created, it may end in the category the participants name "Unlisted" meaning its accessible for the created and the selected people he shares it with and will not appear if search upon by others. Lastly it could be categorized as public which means it's accessible to every one and it appears when search upon. When the TonePrint is public it suggested that one still should be able to share it with friends and groups of one's choosing.\\
+
+
+\section{Reflecting on group task}
+\label{GroupTaskReflection}
+To quickly summarize the model created during the group discussion.\\
+At first the TonePrint app is opened and a TonePrint i created and is given a name. Hereafter the user can save if he doesn't want to share it, however in this case he want to and therefore goes chooses to write a description of what what he think the TonePrint is useful fore and maybe add a picture of his band or his setup. Here after the system suggests a number of tags based on the TonePrint and the description he written. Hereafter the user have the option to add extra tags if he wishes to. After applying the desired tags the user has completed the TonePrint and shall choose the privacy settings of it. If he have regret to share it yet, he may select the "private" setting. If he want to just share it with his band and maybe a friend or two he can select the "Unlisted" setting and then send it to those he wishes. Finally he may select the "Public" setting, making in accessible for every other user, and still send it to those i want.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+%\subsection{Shared Analysis}
+%\label{SharedAnalysis}
+%%
+%The next phase is the shared analysis in which the codes derived from the ICMM's is used, in order to find items (concept and links) which is shared between them. In order to determine which items that identifies as shared a criterion needs to be defined. As described in \autoref{ACSMM} it's suggested to set the criterion at 50\% at the beginning, which afterwards may be adjusted. This means that a given item have to occur in atleast in 50\% of the ICMM's to be identified as shared.\\
+%To compare the codes they are first typed into tables, for the purpose of gathering the codes for easier overview. The tables containing the codes is \autoref{tab:Subject1Coded} to \autoref{tab:Subject5Coded}. 
 %
-The next phase is the shared analysis in which the codes derived from the ICMM's is used, in order to find items (concept and links) which is shared between them. In order to determine which items that identifies as shared a criterion needs to be defined. As described in \autoref{ACSMM} it's suggested to set the criterion at 50\% at the beginning, which afterwards may be adjusted. This means that a given item have to occur in atleast in 50\% of the ICMM's to be identified as shared.\\
-To compare the codes they are first typed into tables, for the purpose of gathering the codes for easier overview. The tables containing the codes is \autoref{tab:Subject1Coded} to \autoref{tab:Subject5Coded}. 
+%The lists containing the subjects individual codes, \autoref{tab:Subject1Coded} to \autoref{tab:Subject5Coded} are compared to each other to find the concepts which is shared. As recommended by \textcite{WEB:ConceptMapAnalysis} is the criterion for a concept to be identified as shared defined as 50\%. The concepts which is defined as shared is listed at \autoref{tab:SharedConcept}(WHich isn't finish). 
+%
+%It's deemed problematic to use the described steps from \textcite{WEB:ConceptMapAnalysis} to create a ACSMM. This is because the task of the workshop was for the subjects to solve a task with a they have to build up as they go. This gives the users full control in regards to which features that exists in the system, how they works and when they wants to use them. This results in the subjects going different ways around the task and solving it in their won way. This is quite similar to some system in the real world which give you the option to reach a certain goal different ways. This however creates one big problem regarding, them only describing the part of the system, which they uses. This makes it very difficult to compare one persons ICMM with another, because they may have chosen different ways of solving the task and theirby having a minimal of similar concepts in common. This doesn't necessarily mean that the two subject disagree on how the system should work and their mental models might be similar towards the system. They just have chosen different approaches for the task, ehich means that they don't uses the same branches of the system. \\
+%
+%\begin{table}[]
+%	\centering
+%	\begin{tabular}[width=\textwidth]{c|lllllc}
+%\hline 
+%Shared item & subject 1 & subject 2 & subject 3 & subject 4 & subject 5 & \%	\\ \hline
+%TP App & TP App & App & TP App & TP App & TP App & 100\%	\\ 
+%My User Toneptints & My TonePrint site &  &  & User TonePrints \& Own User TonePrint Library & Personal Library & 60\% \\
+%Search function & Search Friends & Search in List & & Search User Name \& Search Function & Search, Advanced search \& Meta Search Option & 80\% \\
+%User 1 Profile & User 1 Profile & & User 1 Profile & User 1 Profile site & & 60\% \\
+%User 1 TonePrints & User 1 TonePrint list & & User 1's Toneprints & User 1 TonePrints
+%	\end{tabular}
+%\end{table}
+%
+%\begin{table}[H]
+%	\centering
+%	\begin{tabular}[width=\textwidth]{|l|c|}
+%	\hline
+%	Shared concept & Sharedness level (\%) \\ \hline
+%	TP App & 100\% \\ 
+%	User TonePrint Library & 60\% \\ \hline
+%	\end{tabular}
+%	\caption{Shared concepts and sharedness level}
+%	\label{tab:SharedConcept}
+%\end{table}
 
-\begin{table}[]
-	\centering
-	\begin{tabular}[width=\textwidth]{c|lllllc}
-\hline 
-Shared item & subject 1 & subject 2 & subject 3 & subject 4 & subject 5 & \%	\\ \hline
-TP App & TP App & App & TP App & TP App & TP App & 100\%	\\ 
-My User Toneptints & My TonePrint site &  &  & User TonePrints \& Own User TonePrint Library & Personal Library & 60\% \\
-Search function & Search Friends & Search in List & & Search User Name \& Search Function & Search, Advanced search \& Meta Search Option & 80\% \\
-User 1 Profile & User 1 Profile & & User 1 Profile & User 1 Profile site & & 60\% \\
-User 1 TonePrints & User 1 TonePrint list & & User 1's Toneprints & User 1 TonePrints
-	\end{tabular}
-\end{table}
-
-The lists containing the subjects individual codes, \autoref{tab:Subject1Coded} to \autoref{tab:Subject5Coded} are compared to each other to find the concepts which is shared. As recommended by \textcite{WEB:ConceptMapAnalysis} is the criterion for a concept to be identified as shared defined as 50\%. The concepts which is defined as shared is listed at \autoref{tab:SharedConcept}(WHich isn't finish). 
-
-It's deemed problematic to use the described steps from \textcite{WEB:ConceptMapAnalysis} to create a ACSMM. This is because the task of the workshop was for the subjects to solve a task with a they have to build up as they go. This gives the users full control in regards to which features that exists in the system, how they works and when they wants to use them. This results in the subjects going different ways around the task and solving it in their won way. This is quite similar to some system in the real world which give you the option to reach a certain goal different ways. This however creates one big problem regarding, them only describing the part of the system, which they uses. This makes it very difficult to compare one persons ICMM with another, because they may have chosen different ways of solving the task and theirby having a minimal of similar concepts in common. This doesn't necessarily mean that the two subject disagree on how the system should work and their mental models might be similar towards the system. They just have chosen different approaches for the task, ehich means that they don't uses the same branches of the system. \\
-
-
-\begin{table}[H]
-	\centering
-	\begin{tabular}[width=\textwidth]{|l|c|}
-	\hline
-	Shared concept & Sharedness level (\%) \\ \hline
-	TP App & 100\% \\ 
-	User TonePrint Library & 60\% \\ \hline
-	\end{tabular}
-	\caption{Shared concepts and sharedness level}
-	\label{tab:SharedConcept}
-\end{table}
-
-
-
-\begin{table}[H]
-\begin{minipage}[b]{0.5\linewidth}\centering
-
-    \begin{tabular}{|l|}
-    \hline
-    Subject 1 \\ \hline
-    TP App  \\
-    Log in  \\
-    My TonePrint site  \\
-    Friends button  \\
-    Community button  \\
-    Search Friends  \\
-    Friends List  \\
-    User 1 Profile  \\
-    User 1 TonePrint List  \\
-    List by Name  \\
-    List by Type  \\
-    Corona TonePrint List  \\
-    My List Check-box  \\
-    Warm Corona TonePrint  \\
-    User 1 TP: Warm corona site  \\
-    Like  \\
-    Number of users using this  \\
-    How i use it  \\ \hline
-    \end{tabular}
-    \caption{List of subject 1's coded concepts}
-    \label{tab:Subject1Coded}
-    
-	\begin{tabular}{|l|}
-    \hline
-    Subject 2 \\ \hline
-    App \\
-    Subscriptions  \\
-    Search in List  \\
-    User 1's Corona TonePrints  \\
-    Load to Pedal  \\
-    Subscribe to user 1  \\
-    Add TonePrint to favorites  \\
-    Store in Pedal  \\
-    Getting notification  \\ \hline
-    \end{tabular}
-	\caption{List of subject 2's coded concepts}
-    \label{tab:Subject2Coded}    
-    
-    \begin{tabular}{|l|}
-    \hline
-    Subject 3 \\ \hline
-    TP App \\
-    Notification  \\
-    Subscribes  \\
-    Specific Chorus TP site \\
-    Save TonePrint \\
-    User 1 Profile \\
-    User 1's TonePrints \\
-    Logical Indexation  \\ \hline
-    \end{tabular}
-	\caption{List of subject 3's coded concepts}
-    \label{tab:Subject3Coded}
-    
-\end{minipage}
-\begin{minipage}[b]{0.49\linewidth}\centering
-
-    \begin{tabular}{|l|}
-    \hline
-    Subject 4 \\ \hline
-    TP App \\
-    User TonePrints \\
-    Cloud Library \\
-    Filter system \\
-    Filter by product \\
-    Filter by Corona \\
-    Cloud based Corona TonePrints \\
-    Search User Name \\
-    Users List \\
-    Search function \\
-    User 1's TonePrints \\
-    User 1 profile site \\
-    User 1 Corona TonePrint \\
-    Transfer to pedal \\
-    Own User TonePrint Library \\
-    Add to Favorites \\
-    Save TonePrint \\
-    Store in pedal  \\ \hline
-    \end{tabular}
-	\caption{List of subject 4's coded concepts}
-    \label{tab:Subject4Coded}    
-    
-	\begin{tabular}{|l|}
-    \hline
-    Subject 5 \\ \hline
-    TP App \\
-   	Search  \\
-    Advanced Search  \\
-    Meta Search option  \\
-    Icons indicating category  \\
-    Suggest User: user 1  \\
-    Public TonePrints by User 1  \\
-    List organized by Products  \\
-    Corona TonePrint \\
-    Corona List \\
-    TonePrints Details \\
-    Picture \\
-    Description \\
-    Context Menu \\
-    Beam \\
-    Clone \\
-    Personal Library \\
-    Edit \\
-    Favorite it \\
-    History function  \\ \hline
-    \end{tabular}
-	\caption{List of subject 5's coded concepts}
-    \label{tab:Subject5Coded}
-        
-\end{minipage}
-\end{table}
 
 
 
