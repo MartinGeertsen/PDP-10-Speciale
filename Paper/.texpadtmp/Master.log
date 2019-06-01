@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.23)  1 JUN 2019 11:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.23)  1 JUN 2019 11:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2065,27 +2065,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--12
 
  []
 
-[45]
-Package FiXme Info: inner mode detected;
-(FiXme)             turning marginclue layout form off on input line 25.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[46]) (./Content/WorkshopResults.tex [47]
-
-./Content/WorkshopResults.tex:1: LaTeX Error: Float(s) lost.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 \chapter
-            {Workshop results}
-You've lost some text.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[48
+[45] [46]) (./Content/WorkshopResults.tex [47] [48
 
 ]
 Chapter 9.
@@ -2094,7 +2074,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--37
 
  []
 
-<Graphics/1ICMM_new.pdf, id=762, 730.64969pt x 310.27919pt>
+<Graphics/1ICMM_new.pdf, id=761, 730.64969pt x 310.27919pt>
 File: Graphics/1ICMM_new.pdf Graphic file (type pdf)
  <use Graphics/1ICMM_new.pdf>
 Package pdftex.def Info: Graphics/1ICMM_new.pdf used on input line 41.
@@ -2104,7 +2084,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 49--68
 
  []
 
-<Graphics/2ICMM_new.pdf, id=771, 549.97469pt x 189.8292pt>
+<Graphics/2ICMM_new.pdf, id=770, 549.97469pt x 189.8292pt>
 File: Graphics/2ICMM_new.pdf Graphic file (type pdf)
  <use Graphics/2ICMM_new.pdf>
 Package pdftex.def Info: Graphics/2ICMM_new.pdf used on input line 72.
@@ -2117,7 +2097,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 80--97
 
  []
 
-<Graphics/3ICMM_new.pdf, id=791, 549.97469pt x 131.53139pt>
+<Graphics/3ICMM_new.pdf, id=790, 549.97469pt x 131.53139pt>
 File: Graphics/3ICMM_new.pdf Graphic file (type pdf)
  <use Graphics/3ICMM_new.pdf>
 Package pdftex.def Info: Graphics/3ICMM_new.pdf used on input line 101.
@@ -2133,7 +2113,7 @@ pdfTeX warning: /usr/local/texlive/2014/bin/x86_64-darwin/pdflatex (file ./Graph
 > <./Graphics/3ICMM_new.pdf
 
 pdfTeX warning: /usr/local/texlive/2014/bin/x86_64-darwin/pdflatex (file ./Graphics/3ICMM_new.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
->] [53] <Graphics/4ICMM_new.pdf, id=828, 665.60669pt x 290.0436pt>
+>] [53] <Graphics/4ICMM_new.pdf, id=827, 665.60669pt x 290.0436pt>
 File: Graphics/4ICMM_new.pdf Graphic file (type pdf)
  <use Graphics/4ICMM_new.pdf>
 Package pdftex.def Info: Graphics/4ICMM_new.pdf used on input line 135.
@@ -2146,7 +2126,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 143--145
 [54 <./Graphics/4ICMM_new.pdf
 
 pdfTeX warning: /usr/local/texlive/2014/bin/x86_64-darwin/pdflatex (file ./Graphics/4ICMM_new.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
->] <Graphics/5ICMM_new.pdf, id=848, 665.60669pt x 276.07141pt>
+>] <Graphics/5ICMM_new.pdf, id=847, 665.60669pt x 276.07141pt>
 File: Graphics/5ICMM_new.pdf Graphic file (type pdf)
  <use Graphics/5ICMM_new.pdf>
 Package pdftex.def Info: Graphics/5ICMM_new.pdf used on input line 179.
@@ -2300,12 +2280,12 @@ LaTeX Warning: Reference `Chap:WorkshopResults' on page 75 undefined on input li
 
 LaTeX Warning: Reference `ICMMCoding' on page 75 undefined on input line 3.
 
-<Graphics/ICMM_Subject1.pdf, id=1023, 845.1575pt x 1196.47pt>
+<Graphics/ICMM_Subject1.pdf, id=1022, 845.1575pt x 1196.47pt>
 File: Graphics/ICMM_Subject1.pdf Graphic file (type pdf)
  <use Graphics/ICMM_Subject1.pdf>
 Package pdftex.def Info: Graphics/ICMM_Subject1.pdf used on input line 10.
 (pdftex.def)             Requested size: 376.42575pt x 532.91129pt.
- <Graphics/ICMM_Subject2.pdf, id=1024, 845.1575pt x 1196.47pt>
+ <Graphics/ICMM_Subject2.pdf, id=1023, 845.1575pt x 1196.47pt>
 File: Graphics/ICMM_Subject2.pdf Graphic file (type pdf)
  <use Graphics/ICMM_Subject2.pdf>
 Package pdftex.def Info: Graphics/ICMM_Subject2.pdf used on input line 17.
@@ -2313,12 +2293,12 @@ Package pdftex.def Info: Graphics/ICMM_Subject2.pdf used on input line 17.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [75] <Graphics/ICMM_Subject3.pdf, id=1029, 845.1575pt x 1196.47pt>
+ [75] <Graphics/ICMM_Subject3.pdf, id=1028, 845.1575pt x 1196.47pt>
 File: Graphics/ICMM_Subject3.pdf Graphic file (type pdf)
  <use Graphics/ICMM_Subject3.pdf>
 Package pdftex.def Info: Graphics/ICMM_Subject3.pdf used on input line 24.
 (pdftex.def)             Requested size: 376.42575pt x 532.91129pt.
- [76 <./Graphics/ICMM_Subject1.pdf>] <Graphics/ICMM_Subject4.pdf, id=1053, 845.1575pt x 1196.47pt>
+ [76 <./Graphics/ICMM_Subject1.pdf>] <Graphics/ICMM_Subject4.pdf, id=1052, 845.1575pt x 1196.47pt>
 File: Graphics/ICMM_Subject4.pdf Graphic file (type pdf)
  <use Graphics/ICMM_Subject4.pdf>
 Package pdftex.def Info: Graphics/ICMM_Subject4.pdf used on input line 31.
@@ -2326,7 +2306,7 @@ Package pdftex.def Info: Graphics/ICMM_Subject4.pdf used on input line 31.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [77 <./Graphics/ICMM_Subject2.pdf>] <Graphics/ICMM_Subject5.pdf, id=1073, 845.1575pt x 1196.47pt>
+ [77 <./Graphics/ICMM_Subject2.pdf>] <Graphics/ICMM_Subject5.pdf, id=1072, 845.1575pt x 1196.47pt>
 File: Graphics/ICMM_Subject5.pdf Graphic file (type pdf)
  <use Graphics/ICMM_Subject5.pdf>
 Package pdftex.def Info: Graphics/ICMM_Subject5.pdf used on input line 38.
@@ -2347,7 +2327,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 38.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 38.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 38.
 Package rerunfilecheck Info: File `Master.out' has not changed.
-(rerunfilecheck)             Checksum: 67CE333CB13DE849800CA0C249D2A543;3183.
+(rerunfilecheck)             Checksum: 68BD1D2F55CC5BBF633F6AC04C0BC22B;3324.
 
 
 LaTeX Warning: There were undefined references.
@@ -2357,21 +2337,18 @@ Package logreq Info: Writing requests to 'Master.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33292 strings out of 493117
- 635566 string characters out of 6135432
- 1103508 words of memory out of 5000000
- 35887 multiletter control sequences out of 15000+600000
- 36409 words of font info for 95 fonts, out of 8000000 for 9000
+ 33288 strings out of 493117
+ 635528 string characters out of 6135432
+ 1103496 words of memory out of 5000000
+ 35885 multiletter control sequences out of 15000+600000
+ 34882 words of font info for 93 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,12n,78p,10428b,2167s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{Hfootnote.16} has been referenced but does not exist, replaced by a fixed one
-
-{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbi1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/local/texlive/2014/texmf-dist/fo
-nts/type1/public/cm-super/sftt1095.pfb>
-Output written on /Users/jeppeknudsen/Documents/AAU/PDP10/Paper/.texpadtmp/Master.pdf (81 pages, 1837212 bytes).
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbi1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
+Output written on /Users/jeppeknudsen/Documents/AAU/PDP10/Paper/.texpadtmp/Master.pdf (81 pages, 1835349 bytes).
 PDF statistics:
- 1267 PDF objects out of 1440 (max. 8388607)
- 1035 compressed objects within 11 object streams
+ 1263 PDF objects out of 1440 (max. 8388607)
+ 1032 compressed objects within 11 object streams
  265 named destinations out of 1000 (max. 500000)
  490 words of extra memory for PDF output out of 10000 (max. 10000000)
 
