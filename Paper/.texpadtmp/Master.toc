@@ -52,17 +52,15 @@
 \contentsline {subsubsection}{Subject 5}{54}{section*.32}
 \contentsline {section}{\numberline {9.2}Reflecting on the task results}{56}{section.9.2}
 \contentsline {section}{\numberline {9.3}Group task result}{57}{section.9.3}
-\contentsline {section}{\numberline {9.4}Reflecting on group task}{58}{section.9.4}
-\contentsline {chapter}{\numberline {A}Usability problems of the TonePrint App}{61}{appendix.A}
-\contentsline {subsubsection}{Visibility of system status}{61}{section*.36}
-\contentsline {subsubsection}{Match between systems and the real world}{62}{section*.37}
-\contentsline {subsubsection}{Consistency and standards}{62}{section*.38}
-\contentsline {subsubsection}{Error prevention}{63}{section*.39}
-\contentsline {subsubsection}{Recognition rather than recall}{64}{section*.40}
-\contentsline {subsubsection}{Flexibility and efficiency of use}{64}{section*.41}
-\contentsline {subsubsection}{Aesthetic and minimalist design}{64}{section*.42}
-\contentsline {subsubsection}{Help and documentation}{64}{section*.43}
-\contentsline {chapter}{\numberline {B}Interview Themes}{65}{appendix.B}
-\contentsline {chapter}{\numberline {C}Concept maps from workshop}{75}{appendix.C}
-\contentsline {section}{\numberline {C.1}Drawn Concept Maps}{76}{section.C.1}
-\contentsline {section}{\numberline {C.2}ICMM's Derived from presentation}{81}{section.C.2}
+\contentsline {chapter}{\numberline {A}Usability problems of the TonePrint App}{63}{appendix.A}
+\contentsline {subsubsection}{Visibility of system status}{63}{section*.39}
+\contentsline {subsubsection}{Match between systems and the real world}{64}{section*.40}
+\contentsline {subsubsection}{Consistency and standards}{64}{section*.41}
+\contentsline {subsubsection}{Error prevention}{65}{section*.42}
+\contentsline {subsubsection}{Recognition rather than recall}{66}{section*.43}
+\contentsline {subsubsection}{Flexibility and efficiency of use}{66}{section*.44}
+\contentsline {subsubsection}{Aesthetic and minimalist design}{66}{section*.45}
+\contentsline {subsubsection}{Help and documentation}{66}{section*.46}
+\contentsline {chapter}{\numberline {B}Interview Themes}{67}{appendix.B}
+\contentsline {chapter}{\numberline {C}Concept maps from workshop}{77}{appendix.C}
+\contentsline {section}{\numberline {C.1}Drawn Concept Maps}{78}{section.C.1}
