@@ -40,8 +40,10 @@
 \contentsline {section}{\numberline {7.1}Deciding on a task}{39}{section.7.1}
 \contentsline {section}{\numberline {7.2}Mental Models}{40}{section.7.2}
 \contentsline {section}{\numberline {7.3}Experimental design}{41}{section.7.3}
-\contentsline {subsection}{\numberline {7.3.1}The card sorting method}{41}{subsection.7.3.1}
-\contentsline {section}{\numberline {7.4}Analysis Constructed Shared Mental Model}{42}{section.7.4}
+\contentsline {subsection}{\numberline {7.3.1}The card sorting method}{42}{subsection.7.3.1}
+\contentsline {subsection}{\numberline {7.3.2}Workshop approach}{43}{subsection.7.3.2}
+\contentsline {section}{\numberline {7.4}Analysis method}{43}{section.7.4}
+\contentsline {section}{\numberline {7.5}Analysis Constructed Shared Mental Model}{43}{section.7.5}
 \contentsline {chapter}{\numberline {8}Card Sort Analysis}{45}{chapter.8}
 \contentsline {section}{\numberline {8.1}Summary of Results}{45}{section.8.1}
 \contentsline {section}{\numberline {8.2}Group Analysis}{46}{section.8.2}
