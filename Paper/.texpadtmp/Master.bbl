@@ -486,6 +486,27 @@
       \field{year}{2015}
       \field{pages}{485}
     \endentry
+    \entry{PDF:MentalModelInstructions}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=0d95259ca469d81796e06fc0611c8897}{Seel}{S\bibinitperiod}{Norbert\bibnamedelima M.}{N\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=0d95259ca469d81796e06fc0611c8897}{Seel}{S\bibinitperiod}{Norbert\bibnamedelima M.}{N\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0d95259ca469d81796e06fc0611c8897}
+      \strng{fullhash}{0d95259ca469d81796e06fc0611c8897}
+      \field{sortinit}{S}
+      \field{labelyear}{2003}
+      \field{labelmonth}{01}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Model-centered learning and instruction}
+      \field{journaltitle}{Technology, Instruction, Cognition and Learning}
+      \field{month}{01}
+      \field{title}{Model-centered learning and instruction}
+      \field{volume}{1}
+      \field{year}{2003}
+      \field{pages}{59\bibrangedash 85}
+    \endentry
     \entry{PDF:EvolutionofagileUXD}{article}{}
       \name{labelname}{4}{}{%
         {{uniquename=0,hash=331bd233685ffab8b54a070b7e27cbf1}{Silva}{S\bibinitperiod}{Tiago\bibnamedelimb Silva\bibnamedelima Da}{T\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
