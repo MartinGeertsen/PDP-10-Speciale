@@ -2,68 +2,70 @@
 \babel@toc {english}{}
 \contentsline {chapter}{\numberline {1}Introduction}{5}{chapter.1}% 
 \contentsline {section}{\numberline {1.1}The benefits of human-centered design}{6}{section.1.1}% 
-\contentsline {section}{\numberline {1.2}The Scrum framework}{8}{section.1.2}% 
-\contentsline {section}{\numberline {1.3}The TonePrint concept}{9}{section.1.3}% 
-\contentsline {subsection}{\numberline {1.3.1}The TonePrint Software}{10}{subsection.1.3.1}% 
-\contentsline {section}{\numberline {1.4}Research question}{12}{section.1.4}% 
-\contentsline {chapter}{\numberline {2}Evaluating the Design Process}{13}{chapter.2}% 
-\contentsline {section}{\numberline {2.1}Analyzing the design process of the TonePrint App}{13}{section.2.1}% 
-\contentsline {subsection}{\numberline {2.1.1}Preparing the interview}{15}{subsection.2.1.1}% 
-\contentsline {section}{\numberline {2.2}Heuristic evaluation}{15}{section.2.2}% 
-\contentsline {subsection}{\numberline {2.2.1}Procedure}{17}{subsection.2.2.1}% 
-\contentsline {subsection}{\numberline {2.2.2}Evaluation Results}{17}{subsection.2.2.2}% 
-\contentsline {subsection}{\numberline {2.2.3}Discussion}{17}{subsection.2.2.3}% 
-\contentsline {chapter}{\numberline {3}The Design process of TC Electronic}{19}{chapter.3}% 
-\contentsline {section}{\numberline {3.1}Interview with TC}{20}{section.3.1}% 
-\contentsline {subsubsection}{Introduction}{20}{section*.8}% 
-\contentsline {chapter}{\numberline {4}Thematic Analysis}{23}{chapter.4}% 
-\contentsline {section}{\numberline {4.1}Method}{23}{section.4.1}% 
-\contentsline {section}{\numberline {4.2}Themes}{23}{section.4.2}% 
-\contentsline {section}{\numberline {4.3}Interview conclusions}{23}{section.4.3}% 
-\contentsline {chapter}{\numberline {5}Community concept}{25}{chapter.5}% 
-\contentsline {section}{\numberline {5.1}Conceptual model}{25}{section.5.1}% 
-\contentsline {subsection}{\numberline {5.1.1}The TonePrint Concept model}{25}{subsection.5.1.1}% 
-\contentsline {subsection}{\numberline {5.1.2}Community Model}{28}{subsection.5.1.2}% 
-\contentsline {subsection}{\numberline {5.1.3}Community Use Cases}{29}{subsection.5.1.3}% 
-\contentsline {subsubsection}{Use Case 1}{29}{section*.12}% 
-\contentsline {subsubsection}{Use Case 2}{29}{section*.13}% 
-\contentsline {subsubsection}{Use Case 3}{29}{section*.14}% 
-\contentsline {subsubsection}{Use Case 4}{29}{section*.15}% 
-\contentsline {chapter}{\numberline {6}Tasks and Methods}{31}{chapter.6}% 
-\contentsline {section}{\numberline {6.1}Task 1: Designing the information architecture}{32}{section.6.1}% 
-\contentsline {section}{\numberline {6.2}Task 2: Tags}{34}{section.6.2}% 
-\contentsline {section}{\numberline {6.3}Task 3: Self-promoting functionalities}{35}{section.6.3}% 
-\contentsline {section}{\numberline {6.4}Task 4: Appearance and GUI of the App}{35}{section.6.4}% 
-\contentsline {section}{\numberline {6.5}Task 5: Defining the user groups}{36}{section.6.5}% 
-\contentsline {chapter}{\numberline {7}User Study of The TP Community}{39}{chapter.7}% 
-\contentsline {section}{\numberline {7.1}Deciding on a task}{39}{section.7.1}% 
-\contentsline {section}{\numberline {7.2}Mental Models}{40}{section.7.2}% 
-\contentsline {section}{\numberline {7.3}Experimental design}{40}{section.7.3}% 
-\contentsline {subsection}{\numberline {7.3.1}The card sorting method}{41}{subsection.7.3.1}% 
-\contentsline {section}{\numberline {7.4}Analysis Constructed Shared Mental Model}{42}{section.7.4}% 
-\contentsline {chapter}{\numberline {8}Card Sort Analysis}{45}{chapter.8}% 
-\contentsline {section}{\numberline {8.1}Summary of Results}{45}{section.8.1}% 
-\contentsline {section}{\numberline {8.2}Group Analysis}{46}{section.8.2}% 
-\contentsline {section}{\numberline {8.3}Card Analysis}{48}{section.8.3}% 
-\contentsline {section}{\numberline {8.4}Use of Card sort data}{49}{section.8.4}% 
-\contentsline {subsection}{\numberline {8.4.1}Lesson learned}{50}{subsection.8.4.1}% 
-\contentsline {chapter}{\numberline {9}Workshop results}{51}{chapter.9}% 
-\contentsline {section}{\numberline {9.1}The individual task}{51}{section.9.1}% 
-\contentsline {subsubsection}{Subject 3}{54}{section*.27}% 
-\contentsline {subsubsection}{Subject 4}{55}{section*.30}% 
-\contentsline {subsubsection}{Subject 5}{56}{section*.33}% 
-\contentsline {section}{\numberline {9.2}Reflecting on the task results}{58}{section.9.2}% 
-\contentsline {section}{\numberline {9.3}Group task result}{59}{section.9.3}% 
-\contentsline {chapter}{\numberline {10}Discussion}{63}{chapter.10}% 
-\contentsline {section}{\numberline {10.1}Takeaways from user studies}{63}{section.10.1}% 
-\contentsline {chapter}{\numberline {A}TonePrint app usability issues}{65}{appendix.A}% 
-\contentsline {subsubsection}{Visibility of system status}{65}{section*.39}% 
-\contentsline {subsubsection}{Match between systems and the real world}{66}{section*.40}% 
-\contentsline {subsubsection}{Consistency and standards}{66}{section*.41}% 
-\contentsline {subsubsection}{Error prevention}{67}{section*.42}% 
-\contentsline {subsubsection}{Recognition rather than recall}{68}{section*.43}% 
-\contentsline {subsubsection}{Flexibility and efficiency of use}{68}{section*.44}% 
-\contentsline {subsubsection}{Aesthetic and minimalist design}{68}{section*.45}% 
-\contentsline {subsubsection}{Help and documentation}{68}{section*.46}% 
-\contentsline {chapter}{\numberline {B}Interview Themes}{69}{appendix.B}% 
-\contentsline {chapter}{\numberline {C}Concept maps from workshop}{79}{appendix.C}% 
+\contentsline {section}{\numberline {1.2}The Scrum framework}{9}{section.1.2}% 
+\contentsline {section}{\numberline {1.3}The TonePrint concept}{10}{section.1.3}% 
+\contentsline {subsection}{\numberline {1.3.1}The TonePrint Software}{12}{subsection.1.3.1}% 
+\contentsline {section}{\numberline {1.4}Research question}{13}{section.1.4}% 
+\contentsline {chapter}{\numberline {2}Evaluating the Design Process}{15}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Analyzing the design process of the TonePrint App}{15}{section.2.1}% 
+\contentsline {subsection}{\numberline {2.1.1}Preparing the interview}{17}{subsection.2.1.1}% 
+\contentsline {section}{\numberline {2.2}Heuristic evaluation}{17}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1}Procedure}{19}{subsection.2.2.1}% 
+\contentsline {subsection}{\numberline {2.2.2}Evaluation Results}{19}{subsection.2.2.2}% 
+\contentsline {subsection}{\numberline {2.2.3}Discussion}{19}{subsection.2.2.3}% 
+\contentsline {chapter}{\numberline {3}The Design process of TC Electronic}{21}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Interview with TC}{22}{section.3.1}% 
+\contentsline {subsubsection}{Introduction}{22}{section*.8}% 
+\contentsline {chapter}{\numberline {4}Thematic Analysis}{25}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Method}{25}{section.4.1}% 
+\contentsline {section}{\numberline {4.2}Themes}{25}{section.4.2}% 
+\contentsline {section}{\numberline {4.3}Interview conclusions}{25}{section.4.3}% 
+\contentsline {chapter}{\numberline {5}Community concept}{27}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Conceptual model}{27}{section.5.1}% 
+\contentsline {subsection}{\numberline {5.1.1}The TonePrint Concept model}{27}{subsection.5.1.1}% 
+\contentsline {subsection}{\numberline {5.1.2}Community Model}{30}{subsection.5.1.2}% 
+\contentsline {subsection}{\numberline {5.1.3}Community Use Cases}{31}{subsection.5.1.3}% 
+\contentsline {subsubsection}{Use Case 1}{31}{section*.12}% 
+\contentsline {subsubsection}{Use Case 2}{31}{section*.13}% 
+\contentsline {subsubsection}{Use Case 3}{31}{section*.14}% 
+\contentsline {subsubsection}{Use Case 4}{31}{section*.15}% 
+\contentsline {chapter}{\numberline {6}Tasks and Methods}{33}{chapter.6}% 
+\contentsline {section}{\numberline {6.1}Task 1: Designing the information architecture}{34}{section.6.1}% 
+\contentsline {section}{\numberline {6.2}Task 2: Tags}{36}{section.6.2}% 
+\contentsline {section}{\numberline {6.3}Task 3: Self-promoting functionalities}{37}{section.6.3}% 
+\contentsline {section}{\numberline {6.4}Task 4: Appearance and GUI of the App}{37}{section.6.4}% 
+\contentsline {section}{\numberline {6.5}Task 5: Defining the user groups}{38}{section.6.5}% 
+\contentsline {chapter}{\numberline {7}User Study of The TP Community}{41}{chapter.7}% 
+\contentsline {section}{\numberline {7.1}Deciding on a task}{41}{section.7.1}% 
+\contentsline {section}{\numberline {7.2}Mental Models}{42}{section.7.2}% 
+\contentsline {section}{\numberline {7.3}Experimental design}{43}{section.7.3}% 
+\contentsline {subsection}{\numberline {7.3.1}The card sorting method}{43}{subsection.7.3.1}% 
+\contentsline {section}{\numberline {7.4}Analysis Constructed Shared Mental Model}{44}{section.7.4}% 
+\contentsline {chapter}{\numberline {8}Card Sort Analysis}{47}{chapter.8}% 
+\contentsline {section}{\numberline {8.1}Summary of Results}{47}{section.8.1}% 
+\contentsline {section}{\numberline {8.2}Group Analysis}{48}{section.8.2}% 
+\contentsline {section}{\numberline {8.3}Card Analysis}{50}{section.8.3}% 
+\contentsline {section}{\numberline {8.4}Use of Card sort data}{51}{section.8.4}% 
+\contentsline {subsection}{\numberline {8.4.1}Lesson learned}{52}{subsection.8.4.1}% 
+\contentsline {chapter}{\numberline {9}Workshop results}{53}{chapter.9}% 
+\contentsline {section}{\numberline {9.1}The individual task}{53}{section.9.1}% 
+\contentsline {subsubsection}{Subject 3}{56}{section*.27}% 
+\contentsline {subsubsection}{Subject 4}{57}{section*.30}% 
+\contentsline {subsubsection}{Subject 5}{58}{section*.33}% 
+\contentsline {section}{\numberline {9.2}Reflecting on the task results}{60}{section.9.2}% 
+\contentsline {section}{\numberline {9.3}Group task result}{61}{section.9.3}% 
+\contentsline {chapter}{\numberline {10}Discussion}{65}{chapter.10}% 
+\contentsline {section}{\numberline {10.1}Takeaways from user study}{65}{section.10.1}% 
+\contentsline {subsection}{\numberline {10.1.1}Comparing card sort and individual results}{65}{subsection.10.1.1}% 
+\contentsline {subsection}{\numberline {10.1.2}Comparing card sort and group results}{66}{subsection.10.1.2}% 
+\contentsline {chapter}{\numberline {A}TonePrint app usability issues}{67}{appendix.A}% 
+\contentsline {subsubsection}{Visibility of system status}{67}{section*.39}% 
+\contentsline {subsubsection}{Match between systems and the real world}{68}{section*.40}% 
+\contentsline {subsubsection}{Consistency and standards}{68}{section*.41}% 
+\contentsline {subsubsection}{Error prevention}{69}{section*.42}% 
+\contentsline {subsubsection}{Recognition rather than recall}{70}{section*.43}% 
+\contentsline {subsubsection}{Flexibility and efficiency of use}{70}{section*.44}% 
+\contentsline {subsubsection}{Aesthetic and minimalist design}{70}{section*.45}% 
+\contentsline {subsubsection}{Help and documentation}{70}{section*.46}% 
+\contentsline {chapter}{\numberline {B}Interview Themes}{71}{appendix.B}% 
+\contentsline {chapter}{\numberline {C}Concept maps from workshop}{81}{appendix.C}% 
