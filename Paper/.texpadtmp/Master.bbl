@@ -438,6 +438,25 @@
       \field{title}{Agility for UX and Development: A Case Study}
       \field{year}{2018}
     \endentry
+    \entry{PDF:HandsOnMentalModelElicitation}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=d90f26c3e829ff7cdaf367b44bbc32c7}{Reinfried}{R\bibinitperiod}{Sibylle}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=d90f26c3e829ff7cdaf367b44bbc32c7}{Reinfried}{R\bibinitperiod}{Sibylle}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d90f26c3e829ff7cdaf367b44bbc32c7}
+      \strng{fullhash}{d90f26c3e829ff7cdaf367b44bbc32c7}
+      \field{sortinit}{R}
+      \field{labelyear}{2006}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Conceptual Changes in Physical Geography and Environmental Science through Mental Model Building: The Example of Groundwater}
+      \field{journaltitle}{International Research in Geographical and Environmental Education}
+      \field{title}{Conceptual Changes in Physical Geography and Environmental Science through Mental Model Building: The Example of Groundwater}
+      \field{volume}{15}
+      \field{year}{2006}
+      \field{pages}{41\bibrangedash 61}
+    \endentry
     \entry{WEB:UXBenefits}{online}{}
       \name{labelname}{1}{}{%
         {{uniquename=0,hash=f93e81b6df87dfeb5d61e2ff9ef44938}{Reka}{R\bibinitperiod}{Lindi}{L\bibinitperiod}{}{}{}{}}%
@@ -506,6 +525,31 @@
       \field{volume}{1}
       \field{year}{2003}
       \field{pages}{59\bibrangedash 85}
+    \endentry
+    \entry{WEB:NielsenNormanCardSort}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=482adce9c12207124d06d446ba607650}{Sherwin}{S\bibinitperiod}{Katie}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=482adce9c12207124d06d446ba607650}{Sherwin}{S\bibinitperiod}{Katie}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{482adce9c12207124d06d446ba607650}
+      \strng{fullhash}{482adce9c12207124d06d446ba607650}
+      \field{sortinit}{S}
+      \field{labelyear}{2018}
+      \field{labelmonth}{03}
+      \field{labelday}{18}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Card Sorting}
+      \field{day}{18}
+      \field{journaltitle}{Nielsen Norman Group}
+      \field{month}{03}
+      \field{subtitle}{Uncover Users' Mental Models for Better Information Achitecture}
+      \field{title}{Card Sorting}
+      \field{year}{2018}
+      \verb{url}
+      \verb https://www.nngroup.com/articles/card-sorting-definition/
+      \endverb
     \endentry
     \entry{PDF:EvolutionofagileUXD}{article}{}
       \name{labelname}{4}{}{%
