@@ -6,7 +6,7 @@
 \contentsline {section}{\numberline {1.2}The Scrum framework}{8}{section.1.2}
 \contentsline {section}{\numberline {1.3}The TonePrint concept}{9}{section.1.3}
 \contentsline {subsection}{\numberline {1.3.1}The TonePrint Software}{10}{subsection.1.3.1}
-\contentsline {section}{\numberline {1.4}Research question}{11}{section.1.4}
+\contentsline {section}{\numberline {1.4}Research question}{12}{section.1.4}
 \contentsline {chapter}{\numberline {2}Evaluating the Design Process}{13}{chapter.2}
 \contentsline {section}{\numberline {2.1}Analyzing the design process of the TonePrint App}{13}{section.2.1}
 \contentsline {subsection}{\numberline {2.1.1}Preparing the interview}{15}{subsection.2.1.1}
@@ -45,6 +45,7 @@
 \contentsline {chapter}{\numberline {8}Card Sort Analysis}{45}{chapter.8}
 \contentsline {section}{\numberline {8.1}Summary of Results}{45}{section.8.1}
 \contentsline {section}{\numberline {8.2}Group Analysis}{46}{section.8.2}
+\contentsline {section}{\numberline {8.3}Card Analysis}{48}{section.8.3}
 \contentsline {chapter}{\numberline {9}Workshop results}{49}{chapter.9}
 \contentsline {section}{\numberline {9.1}The individual task}{49}{section.9.1}
 \contentsline {subsubsection}{Subject 3}{52}{section*.26}
@@ -52,17 +53,15 @@
 \contentsline {subsubsection}{Subject 5}{54}{section*.32}
 \contentsline {section}{\numberline {9.2}Reflecting on the task results}{56}{section.9.2}
 \contentsline {section}{\numberline {9.3}Group task result}{57}{section.9.3}
-\contentsline {section}{\numberline {9.4}Reflecting on group task}{58}{section.9.4}
-\contentsline {chapter}{\numberline {A}Usability problems of the TonePrint App}{61}{appendix.A}
-\contentsline {subsubsection}{Visibility of system status}{61}{section*.36}
-\contentsline {subsubsection}{Match between systems and the real world}{62}{section*.37}
-\contentsline {subsubsection}{Consistency and standards}{62}{section*.38}
-\contentsline {subsubsection}{Error prevention}{63}{section*.39}
-\contentsline {subsubsection}{Recognition rather than recall}{64}{section*.40}
-\contentsline {subsubsection}{Flexibility and efficiency of use}{64}{section*.41}
-\contentsline {subsubsection}{Aesthetic and minimalist design}{64}{section*.42}
-\contentsline {subsubsection}{Help and documentation}{64}{section*.43}
-\contentsline {chapter}{\numberline {B}Interview Themes}{65}{appendix.B}
-\contentsline {chapter}{\numberline {C}Concept maps from workshop}{75}{appendix.C}
-\contentsline {section}{\numberline {C.1}Drawn Concept Maps}{76}{section.C.1}
-\contentsline {section}{\numberline {C.2}ICMM's Derived from presentation}{81}{section.C.2}
+\contentsline {chapter}{\numberline {10}Discussion}{61}{chapter.10}
+\contentsline {chapter}{\numberline {A}TonePrint app usability issues}{65}{appendix.A}
+\contentsline {subsubsection}{Visibility of system status}{65}{section*.39}
+\contentsline {subsubsection}{Match between systems and the real world}{66}{section*.40}
+\contentsline {subsubsection}{Consistency and standards}{66}{section*.41}
+\contentsline {subsubsection}{Error prevention}{67}{section*.42}
+\contentsline {subsubsection}{Recognition rather than recall}{68}{section*.43}
+\contentsline {subsubsection}{Flexibility and efficiency of use}{68}{section*.44}
+\contentsline {subsubsection}{Aesthetic and minimalist design}{68}{section*.45}
+\contentsline {subsubsection}{Help and documentation}{68}{section*.46}
+\contentsline {chapter}{\numberline {B}Interview Themes}{69}{appendix.B}
+\contentsline {chapter}{\numberline {C}Concept maps from workshop}{79}{appendix.C}
