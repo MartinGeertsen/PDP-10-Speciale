@@ -39,31 +39,34 @@
 \contentsline {section}{\numberline {7.1}Deciding on a task}{41}{section.7.1}% 
 \contentsline {section}{\numberline {7.2}Mental Models}{42}{section.7.2}% 
 \contentsline {section}{\numberline {7.3}Experimental design}{43}{section.7.3}% 
-\contentsline {subsection}{\numberline {7.3.1}The card sorting method}{43}{subsection.7.3.1}% 
-\contentsline {section}{\numberline {7.4}Analysis Constructed Shared Mental Model}{44}{section.7.4}% 
-\contentsline {chapter}{\numberline {8}Card Sort Analysis}{47}{chapter.8}% 
-\contentsline {section}{\numberline {8.1}Summary of Results}{47}{section.8.1}% 
-\contentsline {section}{\numberline {8.2}Group Analysis}{48}{section.8.2}% 
-\contentsline {section}{\numberline {8.3}Card Analysis}{50}{section.8.3}% 
-\contentsline {section}{\numberline {8.4}Use of Card sort data}{51}{section.8.4}% 
-\contentsline {subsection}{\numberline {8.4.1}Lesson learned}{52}{subsection.8.4.1}% 
-\contentsline {chapter}{\numberline {9}Workshop results}{53}{chapter.9}% 
-\contentsline {section}{\numberline {9.1}The individual task}{53}{section.9.1}% 
-\contentsline {subsubsection}{Subject 3}{56}{section*.27}% 
-\contentsline {subsubsection}{Subject 4}{57}{section*.30}% 
-\contentsline {subsubsection}{Subject 5}{58}{section*.33}% 
-\contentsline {section}{\numberline {9.2}Reflecting on the task results}{60}{section.9.2}% 
-\contentsline {section}{\numberline {9.3}Group task result}{61}{section.9.3}% 
-\contentsline {chapter}{\numberline {10}Discussion}{65}{chapter.10}% 
-\contentsline {section}{\numberline {10.1}Takeaways from user study}{65}{section.10.1}% 
-\contentsline {chapter}{\numberline {A}TonePrint app usability issues}{69}{appendix.A}% 
-\contentsline {subsubsection}{Visibility of system status}{69}{section*.42}% 
-\contentsline {subsubsection}{Match between systems and the real world}{70}{section*.43}% 
-\contentsline {subsubsection}{Consistency and standards}{70}{section*.44}% 
-\contentsline {subsubsection}{Error prevention}{71}{section*.45}% 
-\contentsline {subsubsection}{Recognition rather than recall}{72}{section*.46}% 
-\contentsline {subsubsection}{Flexibility and efficiency of use}{72}{section*.47}% 
-\contentsline {subsubsection}{Aesthetic and minimalist design}{72}{section*.48}% 
-\contentsline {subsubsection}{Help and documentation}{72}{section*.49}% 
-\contentsline {chapter}{\numberline {B}Interview Themes}{73}{appendix.B}% 
-\contentsline {chapter}{\numberline {C}Concept maps from workshop}{83}{appendix.C}% 
+\contentsline {subsection}{\numberline {7.3.1}The card sorting method}{44}{subsection.7.3.1}% 
+\contentsline {subsection}{\numberline {7.3.2}Workshop approach}{45}{subsection.7.3.2}% 
+\contentsline {section}{\numberline {7.4}Analysis method}{46}{section.7.4}% 
+\contentsline {section}{\numberline {7.5}Analysis Constructed Shared Mental Model}{46}{section.7.5}% 
+\contentsline {chapter}{\numberline {8}Card Sort Analysis}{49}{chapter.8}% 
+\contentsline {section}{\numberline {8.1}Summary of Results}{49}{section.8.1}% 
+\contentsline {section}{\numberline {8.2}Group Analysis}{50}{section.8.2}% 
+\contentsline {section}{\numberline {8.3}Card Analysis}{52}{section.8.3}% 
+\contentsline {section}{\numberline {8.4}Use of Card sort data}{53}{section.8.4}% 
+\contentsline {subsection}{\numberline {8.4.1}Lesson learned}{54}{subsection.8.4.1}% 
+\contentsline {chapter}{\numberline {9}Workshop results}{55}{chapter.9}% 
+\contentsline {section}{\numberline {9.1}The individual task}{55}{section.9.1}% 
+\contentsline {subsubsection}{Subject 3}{58}{section*.27}% 
+\contentsline {subsubsection}{Subject 4}{59}{section*.30}% 
+\contentsline {subsubsection}{Subject 5}{60}{section*.33}% 
+\contentsline {section}{\numberline {9.2}Reflecting on the task results}{62}{section.9.2}% 
+\contentsline {section}{\numberline {9.3}Group task result}{63}{section.9.3}% 
+\contentsline {chapter}{\numberline {10}Discussion}{67}{chapter.10}% 
+\contentsline {section}{\numberline {10.1}Comparing the results}{67}{section.10.1}% 
+\contentsline {section}{\numberline {10.2}The mental mode (for now)}{70}{section.10.2}% 
+\contentsline {chapter}{\numberline {A}TonePrint app usability issues}{73}{appendix.A}% 
+\contentsline {subsubsection}{Visibility of system status}{73}{section*.42}% 
+\contentsline {subsubsection}{Match between systems and the real world}{74}{section*.43}% 
+\contentsline {subsubsection}{Consistency and standards}{74}{section*.44}% 
+\contentsline {subsubsection}{Error prevention}{75}{section*.45}% 
+\contentsline {subsubsection}{Recognition rather than recall}{76}{section*.46}% 
+\contentsline {subsubsection}{Flexibility and efficiency of use}{76}{section*.47}% 
+\contentsline {subsubsection}{Aesthetic and minimalist design}{76}{section*.48}% 
+\contentsline {subsubsection}{Help and documentation}{76}{section*.49}% 
+\contentsline {chapter}{\numberline {B}Interview Themes}{77}{appendix.B}% 
+\contentsline {chapter}{\numberline {C}Concept maps from workshop}{87}{appendix.C}% 
