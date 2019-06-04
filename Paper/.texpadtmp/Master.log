@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.23)  3 JUN 2019 22:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.23)  4 JUN 2019 18:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1778,7 +1778,7 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 29.
- [8] <Graphics/SCRUM.png, id=364, 803.0pt x 602.25pt>
+ [8] <Graphics/SCRUM.png, id=374, 803.0pt x 602.25pt>
 File: Graphics/SCRUM.png Graphic file (type png)
  <use Graphics/SCRUM.png>
 Package pdftex.def Info: Graphics/SCRUM.png used on input line 39.
@@ -1791,7 +1791,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--49
 
  []
 
-[9 <./Graphics/SCRUM.png>] <Graphics/EffectPedalExample.png, id=379, 413.545pt x 803.0pt>
+[9 <./Graphics/SCRUM.png>] <Graphics/EffectPedalExample.png, id=389, 413.545pt x 803.0pt>
 File: Graphics/EffectPedalExample.png Graphic file (type png)
  <use Graphics/EffectPedalExample.png>
 Package pdftex.def Info: Graphics/EffectPedalExample.png used on input line 60.
@@ -1806,7 +1806,7 @@ LaTeX Font Info:    Try loading font information for T1+cmss on input line 68.
 File: t1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 Package hyperref Info: bookmark level for unknown fixme defaults to 0 on input line 68.
- <Graphics/TonePrintAppExample.png, id=384, 1025.8325pt x 770.88pt>
+ <Graphics/TonePrintAppExample.png, id=394, 1025.8325pt x 770.88pt>
 File: Graphics/TonePrintAppExample.png Graphic file (type png)
  <use Graphics/TonePrintAppExample.png>
 Package pdftex.def Info: Graphics/TonePrintAppExample.png used on input line 72.
@@ -1825,98 +1825,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 69--72
 
  []
 
-[14] [15]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [16]) (./Content/Interview.tex [17] [18
+[14] [15] [16]) (./Content/Interview.tex [17] [18
 
 ]
 Chapter 3.
-[19]
 
-LaTeX Warning: Reference `HeursiticEvaluation' on page 20 undefined on input line 43.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--60
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--61
+ [19]
+Underfull \hbox (badness 10000) in paragraph at lines 47--52
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
+Underfull \hbox (badness 10000) in paragraph at lines 47--52
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 62--63
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 66--67
-
- []
-
-[20]
-Underfull \hbox (badness 10000) in paragraph at lines 67--68
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--69
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 69--70
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 74--75
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 75--76
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 76--77
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--78
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 78--79
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 79--80
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--81
-
- []
-
-) (./Content/ThematicAnalysis.tex [21] [22
+[20]) (./Content/ThematicAnalysis.tex [21] [22
 
 ]
 Chapter 4.
@@ -1937,7 +1863,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
 [25
 
-] <Graphics/TonePrintConcept.pdf, id=519, 334.3692pt x 132.495pt>
+] <Graphics/TonePrintConcept.pdf, id=540, 334.3692pt x 132.495pt>
 File: Graphics/TonePrintConcept.pdf Graphic file (type pdf)
  <use Graphics/TonePrintConcept.pdf>
 Package pdftex.def Info: Graphics/TonePrintConcept.pdf used on input line 18.
@@ -1958,7 +1884,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--58
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [27] <Graphics/CommunityFirstDraft.pdf, id=547, 484.69078pt x 288.11641pt>
+ [27] <Graphics/CommunityFirstDraft.pdf, id=568, 484.69078pt x 288.11641pt>
 File: Graphics/CommunityFirstDraft.pdf Graphic file (type pdf)
  <use Graphics/CommunityFirstDraft.pdf>
 Package pdftex.def Info: Graphics/CommunityFirstDraft.pdf used on input line 61.
@@ -1966,7 +1892,7 @@ Package pdftex.def Info: Graphics/CommunityFirstDraft.pdf used on input line 61.
  [28 <./Graphics/CommunityFirstDraft.pdf
 
 pdfTeX warning: /usr/local/texlive/2014/bin/x86_64-darwin/pdflatex (file ./Graphics/CommunityFirstDraft.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
->] <Graphics/CommunityUseCaseOne.pdf, id=588, 598.15468pt x 845.07718pt>
+>] <Graphics/CommunityUseCaseOne.pdf, id=610, 598.15468pt x 845.07718pt>
 File: Graphics/CommunityUseCaseOne.pdf Graphic file (type pdf)
  <use Graphics/CommunityUseCaseOne.pdf>
 Package pdftex.def Info: Graphics/CommunityUseCaseOne.pdf used on input line 91.
@@ -2063,29 +1989,40 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--64
 
  []
 
-<Graphics/Placeholder.jpg, id=750, 115.632pt x 115.632pt>
-File: Graphics/Placeholder.jpg Graphic file (type jpg)
- <use Graphics/Placeholder.jpg>
-Package pdftex.def Info: Graphics/Placeholder.jpg used on input line 74.
-(pdftex.def)             Requested size: 115.63171pt x 115.63171pt.
- [44] [45 <./Graphics/Placeholder.jpg>]
+<Graphics/MapExample.pdf, id=770, 549.97469pt x 131.53139pt>
+File: Graphics/MapExample.pdf Graphic file (type pdf)
+ <use Graphics/MapExample.pdf>
+Package pdftex.def Info: Graphics/MapExample.pdf used on input line 74.
+(pdftex.def)             Requested size: 418.25368pt x 100.0291pt.
+ [44] [45 <./Graphics/MapExample.pdf
+
+pdfTeX warning: /usr/local/texlive/2014/bin/x86_64-darwin/pdflatex (file ./Graphics/MapExample.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+Underfull \hbox (badness 10000) in paragraph at lines 94--96
+
+ []
+
+
+Underfull \vbox (badness 1264) has occurred while \output is active []
+
+ [46]
 
 pdfTeX warning: /usr/local/texlive/2014/bin/x86_64-darwin/pdflatex (file ./Graphics/ACSMM.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Graphics/ACSMM.pdf, id=774, 963.6pt x 542.025pt>
+<Graphics/ACSMM.pdf, id=808, 963.6pt x 542.025pt>
 File: Graphics/ACSMM.pdf Graphic file (type pdf)
  <use Graphics/ACSMM.pdf>
-Package pdftex.def Info: Graphics/ACSMM.pdf used on input line 118.
-(pdftex.def)             Requested size: 418.25368pt x 235.26619pt.
- [46]) (./Content/CardSortAnalysis.tex [47 <./Graphics/ACSMM.pdf>] [48
-
-]
+Package pdftex.def Info: Graphics/ACSMM.pdf used on input line 104.
+(pdftex.def)             Requested size: 397.3397pt x 223.49709pt.
+ [47 <./Graphics/ACSMM.pdf>]) (./Content/CardSortAnalysis.tex [48]
 Chapter 8.
 
 Underfull \hbox (badness 10000) in paragraph at lines 10--12
 
  []
 
-[49]
+[49
+
+]
 Underfull \hbox (badness 10000) in paragraph at lines 50--63
 
  []
@@ -2113,21 +2050,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--37
 
  []
 
-<Graphics/1ICMM_new.pdf, id=851, 730.64969pt x 310.27919pt>
+<Graphics/1ICMM_new.pdf, id=877, 730.64969pt x 310.27919pt>
 File: Graphics/1ICMM_new.pdf Graphic file (type pdf)
  <use Graphics/1ICMM_new.pdf>
 Package pdftex.def Info: Graphics/1ICMM_new.pdf used on input line 41.
-(pdftex.def)             Requested size: 418.25368pt x 177.61848pt.
+(pdftex.def)             Requested size: 397.3397pt x 168.73662pt.
  [56]
 Underfull \hbox (badness 10000) in paragraph at lines 49--68
 
  []
 
-<Graphics/2ICMM_new.pdf, id=860, 549.97469pt x 189.8292pt>
+<Graphics/2ICMM_new.pdf, id=886, 549.97469pt x 189.8292pt>
 File: Graphics/2ICMM_new.pdf Graphic file (type pdf)
  <use Graphics/2ICMM_new.pdf>
 Package pdftex.def Info: Graphics/2ICMM_new.pdf used on input line 72.
-(pdftex.def)             Requested size: 397.3397pt x 137.14615pt.
+(pdftex.def)             Requested size: 376.42575pt x 129.92793pt.
  [57 <./Graphics/1ICMM_new.pdf
 
 pdfTeX warning: /usr/local/texlive/2014/bin/x86_64-darwin/pdflatex (file ./Graphics/1ICMM_new.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
@@ -2136,11 +2073,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 80--97
 
  []
 
-<Graphics/3ICMM_new.pdf, id=880, 549.97469pt x 131.53139pt>
+<Graphics/3ICMM_new.pdf, id=907, 549.97469pt x 131.53139pt>
 File: Graphics/3ICMM_new.pdf Graphic file (type pdf)
  <use Graphics/3ICMM_new.pdf>
 Package pdftex.def Info: Graphics/3ICMM_new.pdf used on input line 101.
-(pdftex.def)             Requested size: 397.3397pt x 95.02765pt.
+(pdftex.def)             Requested size: 376.42575pt x 90.02618pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 109--129
 
@@ -2152,7 +2089,7 @@ pdfTeX warning: /usr/local/texlive/2014/bin/x86_64-darwin/pdflatex (file ./Graph
 > <./Graphics/3ICMM_new.pdf
 
 pdfTeX warning: /usr/local/texlive/2014/bin/x86_64-darwin/pdflatex (file ./Graphics/3ICMM_new.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
->] [59] <Graphics/4ICMM_new.pdf, id=917, 665.60669pt x 290.0436pt>
+>] [59] <Graphics/4ICMM_new.pdf, id=946, 665.60669pt x 290.0436pt>
 File: Graphics/4ICMM_new.pdf Graphic file (type pdf)
  <use Graphics/4ICMM_new.pdf>
 Package pdftex.def Info: Graphics/4ICMM_new.pdf used on input line 135.
@@ -2165,7 +2102,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 143--145
 [60 <./Graphics/4ICMM_new.pdf
 
 pdfTeX warning: /usr/local/texlive/2014/bin/x86_64-darwin/pdflatex (file ./Graphics/4ICMM_new.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
->] <Graphics/5ICMM_new.pdf, id=936, 665.60669pt x 276.07141pt>
+>] <Graphics/5ICMM_new.pdf, id=967, 665.60669pt x 276.07141pt>
 File: Graphics/5ICMM_new.pdf Graphic file (type pdf)
  <use Graphics/5ICMM_new.pdf>
 Package pdftex.def Info: Graphics/5ICMM_new.pdf used on input line 179.
@@ -2184,7 +2121,7 @@ Underfull \vbox (badness 6927) has occurred while \output is active []
  [62]
 Underfull \vbox (badness 1460) has occurred while \output is active []
 
- [63] [64] <Graphics/GruppeModel.pdf, id=971, 694.51468pt x 348.34138pt>
+ [63] [64] <Graphics/GruppeModel.pdf, id=1002, 694.51468pt x 348.34138pt>
 File: Graphics/GruppeModel.pdf Graphic file (type pdf)
  <use Graphics/GruppeModel.pdf>
 Package pdftex.def Info: Graphics/GruppeModel.pdf used on input line 233.
@@ -2221,7 +2158,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--29
 
  []
 
-[69] <Graphics/ConcludingModel.pdf, id=1024, 470.7186pt x 281.13028pt>
+[69] <Graphics/ConcludingModel.pdf, id=1055, 470.7186pt x 281.13028pt>
 File: Graphics/ConcludingModel.pdf Graphic file (type pdf)
  <use Graphics/ConcludingModel.pdf>
 Package pdftex.def Info: Graphics/ConcludingModel.pdf used on input line 38.
@@ -2351,25 +2288,109 @@ Underfull \hbox (badness 10000) in paragraph at lines 63--64
 
  []
 
-) (./Content/Appendix/Themes.tex [80]
+) (./Content/Appendix/InterviewGuide.tex [80]
 Appendix B.
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
 [81
 
-] [82] [83] [84] [85] [86] [87]) (./Content/Appendix/ConceptMapsFromWorkshop.tex [88] [89] [90
+]
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+[82]) (./Content/Appendix/Themes.tex [83] [84
 
 ]
 Appendix C.
-[91] <Graphics/ICMM_Subject1.pdf, id=1221, 845.1575pt x 1196.47pt>
+[85] [86] [87] [88] [89] [90] [91]) (./Content/Appendix/ConceptMapsFromWorkshop.tex [92] [93] [94
+
+]
+Appendix D.
+[95] <Graphics/ICMM_Subject1.pdf, id=1270, 845.1575pt x 1196.47pt>
 File: Graphics/ICMM_Subject1.pdf Graphic file (type pdf)
  <use Graphics/ICMM_Subject1.pdf>
 Package pdftex.def Info: Graphics/ICMM_Subject1.pdf used on input line 9.
 (pdftex.def)             Requested size: 376.42575pt x 532.91129pt.
- <Graphics/ICMM_Subject2.pdf, id=1222, 845.1575pt x 1196.47pt>
+ <Graphics/ICMM_Subject2.pdf, id=1271, 845.1575pt x 1196.47pt>
 File: Graphics/ICMM_Subject2.pdf Graphic file (type pdf)
  <use Graphics/ICMM_Subject2.pdf>
 Package pdftex.def Info: Graphics/ICMM_Subject2.pdf used on input line 16.
 (pdftex.def)             Requested size: 376.42575pt x 532.91129pt.
- <Graphics/ICMM_Subject3.pdf, id=1223, 845.1575pt x 1196.47pt>
+ <Graphics/ICMM_Subject3.pdf, id=1272, 845.1575pt x 1196.47pt>
 File: Graphics/ICMM_Subject3.pdf Graphic file (type pdf)
  <use Graphics/ICMM_Subject3.pdf>
 Package pdftex.def Info: Graphics/ICMM_Subject3.pdf used on input line 23.
@@ -2377,7 +2398,7 @@ Package pdftex.def Info: Graphics/ICMM_Subject3.pdf used on input line 23.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [92 <./Graphics/ICMM_Subject1.pdf>] <Graphics/ICMM_Subject4.pdf, id=1247, 845.1575pt x 1196.47pt>
+ [96 <./Graphics/ICMM_Subject1.pdf>] <Graphics/ICMM_Subject4.pdf, id=1296, 845.1575pt x 1196.47pt>
 File: Graphics/ICMM_Subject4.pdf Graphic file (type pdf)
  <use Graphics/ICMM_Subject4.pdf>
 Package pdftex.def Info: Graphics/ICMM_Subject4.pdf used on input line 30.
@@ -2385,7 +2406,7 @@ Package pdftex.def Info: Graphics/ICMM_Subject4.pdf used on input line 30.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [93 <./Graphics/ICMM_Subject2.pdf>] <Graphics/ICMM_Subject5.pdf, id=1266, 845.1575pt x 1196.47pt>
+ [97 <./Graphics/ICMM_Subject2.pdf>] <Graphics/ICMM_Subject5.pdf, id=1316, 845.1575pt x 1196.47pt>
 File: Graphics/ICMM_Subject5.pdf Graphic file (type pdf)
  <use Graphics/ICMM_Subject5.pdf>
 Package pdftex.def Info: Graphics/ICMM_Subject5.pdf used on input line 37.
@@ -2393,7 +2414,7 @@ Package pdftex.def Info: Graphics/ICMM_Subject5.pdf used on input line 37.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [94 <./Graphics/ICMM_Subject3.pdf>] <Graphics/GruppeDraw.pdf, id=1278, 845.1575pt x 1195.46625pt>
+ [98 <./Graphics/ICMM_Subject3.pdf>] <Graphics/GruppeDraw.pdf, id=1329, 845.1575pt x 1195.46625pt>
 File: Graphics/GruppeDraw.pdf Graphic file (type pdf)
  <use Graphics/GruppeDraw.pdf>
 Package pdftex.def Info: Graphics/GruppeDraw.pdf used on input line 44.
@@ -2401,17 +2422,17 @@ Package pdftex.def Info: Graphics/GruppeDraw.pdf used on input line 44.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [95 <./Graphics/ICMM_Subject4.pdf>]
+ [99 <./Graphics/ICMM_Subject4.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [96 <./Graphics/ICMM_Subject5.pdf>])) [97 <./Graphics/GruppeDraw.pdf>]
+ [100 <./Graphics/ICMM_Subject5.pdf>])) [101 <./Graphics/GruppeDraw.pdf>]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 39.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 39.
  (/Users/jeppeknudsen/Documents/AAU/PDP10/Paper/.texpadtmp/Master.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 39.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 39.
 Package rerunfilecheck Info: File `Master.out' has not changed.
-(rerunfilecheck)             Checksum: 018C95F78AF661D0F43A52B1329B9DC3;3616.
+(rerunfilecheck)             Checksum: 0143B3ECB035D1BA0F4D69D5270589DE;3759.
 
 
 LaTeX Warning: There were undefined references.
@@ -2421,18 +2442,18 @@ Package logreq Info: Writing requests to 'Master.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33393 strings out of 493117
- 637269 string characters out of 6135432
- 1107698 words of memory out of 5000000
- 35940 multiletter control sequences out of 15000+600000
+ 33411 strings out of 493117
+ 637517 string characters out of 6135432
+ 1107898 words of memory out of 5000000
+ 35945 multiletter control sequences out of 15000+600000
  34882 words of font info for 93 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,12n,78p,10428b,2167s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbi1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on /Users/jeppeknudsen/Documents/AAU/PDP10/Paper/.texpadtmp/Master.pdf (97 pages, 2106237 bytes).
+Output written on /Users/jeppeknudsen/Documents/AAU/PDP10/Paper/.texpadtmp/Master.pdf (101 pages, 2052074 bytes).
 PDF statistics:
- 1480 PDF objects out of 1728 (max. 8388607)
- 1208 compressed objects within 13 object streams
- 307 named destinations out of 1000 (max. 500000)
- 550 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1530 PDF objects out of 1728 (max. 8388607)
+ 1252 compressed objects within 13 object streams
+ 318 named destinations out of 1000 (max. 500000)
+ 566 words of extra memory for PDF output out of 10000 (max. 10000000)
 
