@@ -6,10 +6,9 @@
 \contentsline {section}{\numberline {1.2}The Scrum framework}{8}{section.1.2}
 \contentsline {section}{\numberline {1.3}The TonePrint concept}{9}{section.1.3}
 \contentsline {subsection}{\numberline {1.3.1}The TonePrint Software}{10}{subsection.1.3.1}
-\contentsline {section}{\numberline {1.4}TonePrint Community idea}{12}{section.1.4}
-\contentsline {section}{\numberline {1.5}Research question}{12}{section.1.5}
-\contentsline {chapter}{\numberline {2}Evaluating the Design Process}{13}{chapter.2}
-\contentsline {section}{\numberline {2.1}Analyzing the design process of the TonePrint App}{13}{section.2.1}
+\contentsline {section}{\numberline {1.4}Research question}{12}{section.1.4}
+\contentsline {chapter}{\numberline {2}Evaluating the Design Process of the TonePrint system}{13}{chapter.2}
+\contentsline {section}{\numberline {2.1}Evaluation approaches}{13}{section.2.1}
 \contentsline {subsection}{\numberline {2.1.1}Preparing the interview}{15}{subsection.2.1.1}
 \contentsline {section}{\numberline {2.2}Heuristic evaluation}{15}{section.2.2}
 \contentsline {subsection}{\numberline {2.2.1}Procedure}{17}{subsection.2.2.1}
