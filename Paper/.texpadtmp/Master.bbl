@@ -104,6 +104,25 @@
       \field{type}{Report}
       \field{year}{2012}
     \endentry
+    \entry{WEB:PersonasIDF}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=d9faf185391ff763eaf13aa73750afee}{Dam}{D\bibinitperiod}{Rikke}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b7dad7d7694443a08c004ac25d6b8b03}{Siang}{S\bibinitperiod}{Teo}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=d9faf185391ff763eaf13aa73750afee}{Dam}{D\bibinitperiod}{Rikke}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b7dad7d7694443a08c004ac25d6b8b03}{Siang}{S\bibinitperiod}{Teo}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2c18bad2acc28b915c8515fa78a9db99}
+      \strng{fullhash}{2c18bad2acc28b915c8515fa78a9db99}
+      \field{sortinit}{D}
+      \field{labelyear}{2019}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Personas - A simple Introduction}
+      \field{journaltitle}{Interaction Design Foundation}
+      \field{title}{Personas - A simple Introduction}
+      \field{year}{2019}
+    \endentry
     \entry{WEB:TCElectronic}{online}{}
       \name{labelname}{1}{}{%
         {{uniquename=0,hash=2e6c0687768711a8952be82ecdc4620b}{Electronic}{E\bibinitperiod}{TC}{T\bibinitperiod}{}{}{}{}}%
@@ -279,10 +298,10 @@
     \endentry
     \entry{WEB:Nielsen1994Ten}{online}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=753054f71283d85f82cda8e35daf6bac}{Nielsen}{N\bibinitperiod}{Jakob}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=753054f71283d85f82cda8e35daf6bac}{Nielsen}{N\bibinitperiod}{Jakob}{J\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=753054f71283d85f82cda8e35daf6bac}{Nielsen}{N\bibinitperiod}{Jakob}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=753054f71283d85f82cda8e35daf6bac}{Nielsen}{N\bibinitperiod}{Jakob}{J\bibinitperiod}{}{}{}{}}%
       }
       \name{editor}{1}{}{%
         {{hash=14f7db02b6cf518184c32b7bd6b7dc38}{Group}{G\bibinitperiod}{N.\bibnamedelimi N.}{N\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
@@ -307,10 +326,10 @@
     \endentry
     \entry{WEB:Nielsen1994}{article}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=753054f71283d85f82cda8e35daf6bac}{Nielsen}{N\bibinitperiod}{Jakob}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=753054f71283d85f82cda8e35daf6bac}{Nielsen}{N\bibinitperiod}{Jakob}{J\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=753054f71283d85f82cda8e35daf6bac}{Nielsen}{N\bibinitperiod}{Jakob}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=753054f71283d85f82cda8e35daf6bac}{Nielsen}{N\bibinitperiod}{Jakob}{J\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{753054f71283d85f82cda8e35daf6bac}
       \strng{fullhash}{753054f71283d85f82cda8e35daf6bac}
@@ -330,10 +349,10 @@
     \endentry
     \entry{WEB:Nielsen1994HowTo}{online}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=753054f71283d85f82cda8e35daf6bac}{Nielsen}{N\bibinitperiod}{Jakob}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=753054f71283d85f82cda8e35daf6bac}{Nielsen}{N\bibinitperiod}{Jakob}{J\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=753054f71283d85f82cda8e35daf6bac}{Nielsen}{N\bibinitperiod}{Jakob}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=753054f71283d85f82cda8e35daf6bac}{Nielsen}{N\bibinitperiod}{Jakob}{J\bibinitperiod}{}{}{}{}}%
       }
       \name{editor}{1}{}{%
         {{hash=4bd7920e404439faaa4db2bdd71e50bc}{Group}{G\bibinitperiod}{Nielsen\bibnamedelima Norman}{N\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
@@ -355,6 +374,25 @@
       \verb https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/
       \endverb
       \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'WEB:Nielsen1994HowTo'}
+    \endentry
+    \entry{WEB:PersonaKilde}{book}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=1,hash=7f87e0f543e13b849d945adce12507cc}{Nielsen}{N\bibinitperiod}{Lene}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=1,hash=7f87e0f543e13b849d945adce12507cc}{Nielsen}{N\bibinitperiod}{Lene}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer London}%
+      }
+      \strng{namehash}{7f87e0f543e13b849d945adce12507cc}
+      \strng{fullhash}{7f87e0f543e13b849d945adce12507cc}
+      \field{sortinit}{N}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Personas - User Focused Design}
+      \field{title}{Personas - User Focused Design}
+      \field{year}{2013}
     \endentry
     \entry{WEB:DonNormanOnUX}{online}{}
       \name{labelname}{1}{}{%
@@ -649,6 +687,7 @@
       \field{pages}{28\bibrangedash 34}
     \endentry
   \endsortlist
+  \missing{PDF:Braun2006}
   \missing{Henderson2012}
 \endrefsection
 \endinput
