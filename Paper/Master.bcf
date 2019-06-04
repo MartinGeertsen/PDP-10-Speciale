@@ -2064,13 +2064,15 @@
     <bcf:citekey order="65">PDF:InformationArchitecture</bcf:citekey>
     <bcf:citekey order="66">PDF:InformationArchitecture</bcf:citekey>
     <bcf:citekey order="67">WEB:DonnaSpencer</bcf:citekey>
-    <bcf:citekey order="68">WEB:ConceptMapAnalysis</bcf:citekey>
-    <bcf:citekey order="69">WEB:ConceptMapAnalysis</bcf:citekey>
-    <bcf:citekey order="70">WEB:ConceptMapAnalysis</bcf:citekey>
+    <bcf:citekey order="68">WEB:DonnaSpencer</bcf:citekey>
+    <bcf:citekey order="69">WEB:DonnaSpencer</bcf:citekey>
+    <bcf:citekey order="70">WEB:DonnaSpencer</bcf:citekey>
     <bcf:citekey order="71">WEB:ConceptMapAnalysis</bcf:citekey>
-    <bcf:citekey order="72">WEB:DonnaSpencer</bcf:citekey>
-    <bcf:citekey order="73">PDF:BrugerWorkshopUserTonePrints</bcf:citekey>
-    <bcf:citekey order="74">PDF:BrugerWorkshopUserTonePrints</bcf:citekey>
+    <bcf:citekey order="72">WEB:ConceptMapAnalysis</bcf:citekey>
+    <bcf:citekey order="73">WEB:ConceptMapAnalysis</bcf:citekey>
+    <bcf:citekey order="74">WEB:DonnaSpencer</bcf:citekey>
+    <bcf:citekey order="75">PDF:BrugerWorkshopUserTonePrints</bcf:citekey>
+    <bcf:citekey order="76">PDF:BrugerWorkshopUserTonePrints</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
