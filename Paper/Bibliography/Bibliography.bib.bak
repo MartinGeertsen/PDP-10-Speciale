@@ -2,7 +2,7 @@
 %% http://bibdesk.sourceforge.net/
 
 
-%% Created for Jeppe Knudsen at 2019-05-23 10:43:48 +0200 
+%% Created for Jeppe Knudsen at 2019-06-03 00:02:46 +0200 
 
 
 %% Saved with string encoding Unicode (UTF-8) 
@@ -11,6 +11,27 @@
 @comment{jabref-meta: databaseType:biblatex;}
 
 
+
+@article{PDF:HandsOnMentalModelElicitation,
+	Author = {Sibylle Reinfried},
+	Date-Added = {2019-06-02 23:59:17 +0200},
+	Date-Modified = {2019-06-03 00:02:45 +0200},
+	Journaltitle = {International Research in Geographical and Environmental Education},
+	Pages = {41-61},
+	Title = {Conceptual Changes in Physical Geography and Environmental Science through Mental Model Building: The Example of Groundwater},
+	Volume = {15},
+	Year = {2006}}
+
+@article{PDF:MentalModelInstructions,
+	Author = {Norbert M. Seel},
+	Date-Added = {2019-06-02 10:47:58 +0200},
+	Date-Modified = {2019-06-02 10:52:57 +0200},
+	Journaltitle = {Technology, Instruction, Cognition and Learning},
+	Month = {January},
+	Pages = {59-85},
+	Title = {Model-centered learning and instruction},
+	Volume = {1},
+	Year = {2003}}
 
 @article{WEB:NielsenNormanCardSort,
 	Author = {Katie Sherwin},
@@ -22,7 +43,8 @@
 	Subtitle = {Uncover Users' Mental Models for Better Information Achitecture},
 	Title = {Card Sorting},
 	Url = {https://www.nngroup.com/articles/card-sorting-definition/},
-	Year = {2018}}
+	Year = {2018},
+	Bdsk-Url-1 = {https://www.nngroup.com/articles/card-sorting-definition/}}
 
 @book{WEB:DonnaSpencer,
 	Author = {Donna Spencer},
@@ -261,3 +283,11 @@
 	Url = {https://www.nngroup.com/articles/ten-usability-heuristics/},
 	Year = {1994},
 	Bdsk-Url-1 = {https://www.nngroup.com/articles/ten-usability-heuristics/}}
+
+@inbook{WEB:ConductingSemiStructured,
+	Author = {William C. Adams},
+	Bookauthor = {Kathry E. Newcomer and Harry P. Hatry and Joseph S. Wholey},
+	Booktitle = {Handbook of Practical Program Evaluation},
+	Editor = {4th.},
+	Title = {Conducting Semi-Structured Interviews},
+	Year = {2015}}
