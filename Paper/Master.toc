@@ -20,7 +20,7 @@
 \contentsline {subsection}{\numberline {3.2.1}Thematic analysis approach}{21}{subsection.3.2.1}% 
 \contentsline {chapter}{\numberline {4}Results of thematic analysis}{23}{chapter.4}% 
 \contentsline {section}{\numberline {4.1}Findings from thematic analysis}{24}{section.4.1}% 
-\contentsline {section}{\numberline {4.2}The TonePrint development process}{25}{section.4.2}% 
+\contentsline {section}{\numberline {4.2}The TonePrint development process}{26}{section.4.2}% 
 \contentsline {chapter}{\numberline {5}Community concept}{27}{chapter.5}% 
 \contentsline {section}{\numberline {5.1}Conceptual model}{27}{section.5.1}% 
 \contentsline {subsection}{\numberline {5.1.1}The TonePrint Concept model}{27}{subsection.5.1.1}% 
@@ -32,10 +32,10 @@
 \contentsline {subsubsection}{Use Case 4}{31}{section*.23}% 
 \contentsline {chapter}{\numberline {6}Tasks and Methods}{33}{chapter.6}% 
 \contentsline {section}{\numberline {6.1}Task 1: Designing the information architecture}{33}{section.6.1}% 
-\contentsline {section}{\numberline {6.2}Task 2: Tags}{34}{section.6.2}% 
-\contentsline {section}{\numberline {6.3}Task 3: Self-promoting functionalities}{35}{section.6.3}% 
+\contentsline {section}{\numberline {6.2}Task 2: Tags}{35}{section.6.2}% 
+\contentsline {section}{\numberline {6.3}Task 3: Self-promoting functionalities}{36}{section.6.3}% 
 \contentsline {section}{\numberline {6.4}Task 4: Appearance and GUI of the App}{36}{section.6.4}% 
-\contentsline {section}{\numberline {6.5}Task 5: Defining the user groups}{37}{section.6.5}% 
+\contentsline {section}{\numberline {6.5}Task 5: Defining the user groups}{38}{section.6.5}% 
 \contentsline {chapter}{\numberline {7}User Study of The TP Community}{41}{chapter.7}% 
 \contentsline {section}{\numberline {7.1}Deciding on a task}{41}{section.7.1}% 
 \contentsline {section}{\numberline {7.2}Mental Models}{42}{section.7.2}% 
@@ -52,24 +52,26 @@
 \contentsline {subsection}{\numberline {8.4.1}Lesson learned}{56}{subsection.8.4.1}% 
 \contentsline {chapter}{\numberline {9}Workshop results}{57}{chapter.9}% 
 \contentsline {section}{\numberline {9.1}The individual task}{57}{section.9.1}% 
-\contentsline {subsubsection}{Subject 3}{60}{section*.36}% 
-\contentsline {subsubsection}{Subject 4}{61}{section*.39}% 
-\contentsline {subsubsection}{Subject 5}{62}{section*.42}% 
+\contentsline {subsubsection}{Subject 3}{60}{section*.37}% 
+\contentsline {subsubsection}{Subject 4}{61}{section*.40}% 
+\contentsline {subsubsection}{Subject 5}{62}{section*.43}% 
 \contentsline {section}{\numberline {9.2}Reflecting on the task results}{64}{section.9.2}% 
 \contentsline {section}{\numberline {9.3}Group task result}{65}{section.9.3}% 
 \contentsline {chapter}{\numberline {10}Discussion}{69}{chapter.10}% 
 \contentsline {section}{\numberline {10.1}Comparing the results}{69}{section.10.1}% 
 \contentsline {section}{\numberline {10.2}The mental mode (for now)}{72}{section.10.2}% 
 \contentsline {chapter}{\numberline {A}TonePrint app usability issues}{75}{appendix.A}% 
-\contentsline {subsubsection}{Visibility of system status}{75}{section*.52}% 
-\contentsline {subsubsection}{Match between systems and the real world}{76}{section*.53}% 
-\contentsline {subsubsection}{Consistency and standards}{76}{section*.54}% 
-\contentsline {subsubsection}{Error prevention}{77}{section*.55}% 
-\contentsline {subsubsection}{Recognition rather than recall}{78}{section*.56}% 
-\contentsline {subsubsection}{Flexibility and efficiency of use}{78}{section*.57}% 
-\contentsline {subsubsection}{Aesthetic and minimalist design}{78}{section*.58}% 
-\contentsline {subsubsection}{Help and documentation}{78}{section*.59}% 
+\contentsline {subsubsection}{Visibility of system status}{75}{section*.53}% 
+\contentsline {subsubsection}{Match between systems and the real world}{76}{section*.54}% 
+\contentsline {subsubsection}{Consistency and standards}{76}{section*.55}% 
+\contentsline {subsubsection}{Error prevention}{77}{section*.56}% 
+\contentsline {subsubsection}{Recognition rather than recall}{78}{section*.57}% 
+\contentsline {subsubsection}{Flexibility and efficiency of use}{78}{section*.58}% 
+\contentsline {subsubsection}{Aesthetic and minimalist design}{78}{section*.59}% 
+\contentsline {subsubsection}{Help and documentation}{78}{section*.60}% 
 \contentsline {chapter}{\numberline {B}Interview with TC}{79}{appendix.B}% 
 \contentsline {chapter}{\numberline {C}Interview Themes}{81}{appendix.C}% 
 \contentsline {chapter}{\numberline {D}Concept maps from workshop}{91}{appendix.D}% 
 \contentsline {chapter}{\numberline {E}Digital appendix}{99}{appendix.E}% 
+\contentsline {subsection}{\numberline {E.0.1}Interview transcriptions}{99}{subsection.E.0.1}% 
+\contentsline {subsection}{\numberline {E.0.2}Coded Themes}{99}{subsection.E.0.2}% 
