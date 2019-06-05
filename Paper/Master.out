@@ -14,47 +14,45 @@
 \BOOKMARK [0][-]{chapter.3}{Interview with the TonePrint app development team}{}% 14
 \BOOKMARK [1][-]{section.3.1}{Designing the interview guide}{chapter.3}% 15
 \BOOKMARK [2][-]{subsection.3.1.1}{Conducting the interview}{section.3.1}% 16
-\BOOKMARK [1][-]{section.3.2}{Analysis of the interview}{chapter.3}% 17
+\BOOKMARK [1][-]{section.3.2}{Method for analyzing the interview}{chapter.3}% 17
 \BOOKMARK [2][-]{subsection.3.2.1}{Thematic analysis approach}{section.3.2}% 18
-\BOOKMARK [0][-]{chapter.4}{Thematic Analysis}{}% 19
-\BOOKMARK [1][-]{section.4.1}{Method}{chapter.4}% 20
-\BOOKMARK [1][-]{section.4.2}{Themes}{chapter.4}% 21
-\BOOKMARK [1][-]{section.4.3}{Interview conclusions}{chapter.4}% 22
-\BOOKMARK [0][-]{chapter.5}{Community concept}{}% 23
-\BOOKMARK [1][-]{section.5.1}{Conceptual model}{chapter.5}% 24
-\BOOKMARK [2][-]{subsection.5.1.1}{The TonePrint Concept model}{section.5.1}% 25
-\BOOKMARK [2][-]{subsection.5.1.2}{Community Model}{section.5.1}% 26
-\BOOKMARK [2][-]{subsection.5.1.3}{Community Use Cases}{section.5.1}% 27
-\BOOKMARK [0][-]{chapter.6}{Tasks and Methods}{}% 28
-\BOOKMARK [1][-]{section.6.1}{Task 1: Designing the information architecture}{chapter.6}% 29
-\BOOKMARK [1][-]{section.6.2}{Task 2: Tags}{chapter.6}% 30
-\BOOKMARK [1][-]{section.6.3}{Task 3: Self-promoting functionalities}{chapter.6}% 31
-\BOOKMARK [1][-]{section.6.4}{Task 4: Appearance and GUI of the App}{chapter.6}% 32
-\BOOKMARK [1][-]{section.6.5}{Task 5: Defining the user groups}{chapter.6}% 33
-\BOOKMARK [0][-]{chapter.7}{User Study of The TP Community}{}% 34
-\BOOKMARK [1][-]{section.7.1}{Deciding on a task}{chapter.7}% 35
-\BOOKMARK [1][-]{section.7.2}{Mental Models}{chapter.7}% 36
-\BOOKMARK [1][-]{section.7.3}{Experimental design}{chapter.7}% 37
-\BOOKMARK [2][-]{subsection.7.3.1}{The card sorting method}{section.7.3}% 38
-\BOOKMARK [2][-]{subsection.7.3.2}{Workshop approach}{section.7.3}% 39
-\BOOKMARK [1][-]{section.7.4}{Analysis method}{chapter.7}% 40
-\BOOKMARK [2][-]{subsection.7.4.1}{Pilot workshop}{section.7.4}% 41
-\BOOKMARK [0][-]{chapter.8}{Card Sort Analysis}{}% 42
-\BOOKMARK [1][-]{section.8.1}{Summary of Results}{chapter.8}% 43
-\BOOKMARK [1][-]{section.8.2}{Group Analysis}{chapter.8}% 44
-\BOOKMARK [1][-]{section.8.3}{Card Analysis}{chapter.8}% 45
-\BOOKMARK [1][-]{section.8.4}{Use of Card sort data}{chapter.8}% 46
-\BOOKMARK [2][-]{subsection.8.4.1}{Lesson learned}{section.8.4}% 47
-\BOOKMARK [0][-]{chapter.9}{Workshop results}{}% 48
-\BOOKMARK [1][-]{section.9.1}{The individual task}{chapter.9}% 49
-\BOOKMARK [1][-]{section.9.2}{Reflecting on the task results}{chapter.9}% 50
-\BOOKMARK [1][-]{section.9.3}{Group task result}{chapter.9}% 51
-\BOOKMARK [0][-]{chapter.10}{Discussion}{}% 52
-\BOOKMARK [1][-]{section.10.1}{Comparing the results}{chapter.10}% 53
-\BOOKMARK [1][-]{section.10.2}{The mental mode \(for now\)}{chapter.10}% 54
-\BOOKMARK [0][-]{appendix.A}{TonePrint app usability issues}{}% 55
-\BOOKMARK [0][-]{appendix.B}{Interview guide}{}% 56
-\BOOKMARK [1][-]{section.B.1}{Interview with TC}{appendix.B}% 57
-\BOOKMARK [0][-]{appendix.C}{Interview Themes}{}% 58
-\BOOKMARK [0][-]{appendix.D}{Concept maps from workshop}{}% 59
-\BOOKMARK [0][-]{appendix.E}{Digital appendix}{}% 60
+\BOOKMARK [0][-]{chapter.4}{Results of thematic analysis}{}% 19
+\BOOKMARK [1][-]{section.4.1}{Findings from thematic analysis}{chapter.4}% 20
+\BOOKMARK [1][-]{section.4.2}{The TonePrint development process}{chapter.4}% 21
+\BOOKMARK [0][-]{chapter.5}{Community concept}{}% 22
+\BOOKMARK [1][-]{section.5.1}{Conceptual model}{chapter.5}% 23
+\BOOKMARK [2][-]{subsection.5.1.1}{The TonePrint Concept model}{section.5.1}% 24
+\BOOKMARK [2][-]{subsection.5.1.2}{Community Model}{section.5.1}% 25
+\BOOKMARK [2][-]{subsection.5.1.3}{Community Use Cases}{section.5.1}% 26
+\BOOKMARK [0][-]{chapter.6}{Tasks and Methods}{}% 27
+\BOOKMARK [1][-]{section.6.1}{Task 1: Designing the information architecture}{chapter.6}% 28
+\BOOKMARK [1][-]{section.6.2}{Task 2: Tags}{chapter.6}% 29
+\BOOKMARK [1][-]{section.6.3}{Task 3: Self-promoting functionalities}{chapter.6}% 30
+\BOOKMARK [1][-]{section.6.4}{Task 4: Appearance and GUI of the App}{chapter.6}% 31
+\BOOKMARK [1][-]{section.6.5}{Task 5: Defining the user groups}{chapter.6}% 32
+\BOOKMARK [0][-]{chapter.7}{User Study of The TP Community}{}% 33
+\BOOKMARK [1][-]{section.7.1}{Deciding on a task}{chapter.7}% 34
+\BOOKMARK [1][-]{section.7.2}{Mental Models}{chapter.7}% 35
+\BOOKMARK [1][-]{section.7.3}{Experimental design}{chapter.7}% 36
+\BOOKMARK [2][-]{subsection.7.3.1}{The card sorting method}{section.7.3}% 37
+\BOOKMARK [2][-]{subsection.7.3.2}{Workshop approach}{section.7.3}% 38
+\BOOKMARK [1][-]{section.7.4}{Analysis method}{chapter.7}% 39
+\BOOKMARK [2][-]{subsection.7.4.1}{Pilot workshop}{section.7.4}% 40
+\BOOKMARK [0][-]{chapter.8}{Card Sort Analysis}{}% 41
+\BOOKMARK [1][-]{section.8.1}{Summary of Results}{chapter.8}% 42
+\BOOKMARK [1][-]{section.8.2}{Group Analysis}{chapter.8}% 43
+\BOOKMARK [1][-]{section.8.3}{Card Analysis}{chapter.8}% 44
+\BOOKMARK [1][-]{section.8.4}{Use of Card sort data}{chapter.8}% 45
+\BOOKMARK [2][-]{subsection.8.4.1}{Lesson learned}{section.8.4}% 46
+\BOOKMARK [0][-]{chapter.9}{Workshop results}{}% 47
+\BOOKMARK [1][-]{section.9.1}{The individual task}{chapter.9}% 48
+\BOOKMARK [1][-]{section.9.2}{Reflecting on the task results}{chapter.9}% 49
+\BOOKMARK [1][-]{section.9.3}{Group task result}{chapter.9}% 50
+\BOOKMARK [0][-]{chapter.10}{Discussion}{}% 51
+\BOOKMARK [1][-]{section.10.1}{Comparing the results}{chapter.10}% 52
+\BOOKMARK [1][-]{section.10.2}{The mental mode \(for now\)}{chapter.10}% 53
+\BOOKMARK [0][-]{appendix.A}{TonePrint app usability issues}{}% 54
+\BOOKMARK [0][-]{appendix.B}{Interview with TC}{}% 55
+\BOOKMARK [0][-]{appendix.C}{Interview Themes}{}% 56
+\BOOKMARK [0][-]{appendix.D}{Concept maps from workshop}{}% 57
+\BOOKMARK [0][-]{appendix.E}{Digital appendix}{}% 58
