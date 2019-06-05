@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.21)  5 JUN 2019 04:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.21)  5 JUN 2019 15:32
 entering extended mode
 **./Master.tex
 (Master.tex
@@ -1757,27 +1757,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 81--87
 
 ) (Content/ThematicAnalysis.tex [22]
 Chapter 4.
-<Graphics/Placeholder.jpg, id=475, 481.8pt x 481.8pt>
-File: Graphics/Placeholder.jpg Graphic file (type jpg)
-<use Graphics/Placeholder.jpg>
-Package pdftex.def Info: Graphics/Placeholder.jpg  used on input line 23.
-(pdftex.def)             Requested size: 167.2989pt x 167.29451pt.
-
-LaTeX Warning: Reference `ThemeLables' on page 23 undefined on input line 31.
-
+<Graphics/HorizontGroups.pdf, id=473, 803.8833pt x 398.4486pt>
+File: Graphics/HorizontGroups.pdf Graphic file (type pdf)
+<use Graphics/HorizontGroups.pdf>
+Package pdftex.def Info: Graphics/HorizontGroups.pdf  used on input line 23.
+(pdftex.def)             Requested size: 418.25368pt x 207.30997pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 31--32
 
  []
 
 
-Underfull \vbox (badness 1755) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [23
 
- <./Graphics/Placeholder.jpg>] [24]) (Content/CommunityConcept.tex [25] [26
+ <./Graphics/HorizontGroups.pdf
 
-]
+pdfTeX warning: pdflatex (file ./Graphics/HorizontGroups.pdf): PDF inclusion: i
+nvalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+
+>] [24] [25]) (Content/CommunityConcept.tex [26]
 Chapter 5.
 
 LaTeX Warning: Reference `InterviewConclusion' on page 27 undefined on input li
@@ -1792,8 +1792,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--5
 LaTeX Warning: Citation 'PDF:Henderson2012' on page 27 undefined on input line 
 8.
 
-[27]
-<Graphics/TonePrintConcept.pdf, id=516, 334.3692pt x 132.495pt>
+[27
+
+]
+<Graphics/TonePrintConcept.pdf, id=520, 334.3692pt x 132.495pt>
 File: Graphics/TonePrintConcept.pdf Graphic file (type pdf)
 <use Graphics/TonePrintConcept.pdf>
 Package pdftex.def Info: Graphics/TonePrintConcept.pdf  used on input line 18.
@@ -1821,7 +1823,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--58
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [29]
-<Graphics/CommunityFirstDraft.pdf, id=546, 484.69078pt x 288.11641pt>
+<Graphics/CommunityFirstDraft.pdf, id=548, 484.69078pt x 288.11641pt>
 File: Graphics/CommunityFirstDraft.pdf Graphic file (type pdf)
 <use Graphics/CommunityFirstDraft.pdf>
 Package pdftex.def Info: Graphics/CommunityFirstDraft.pdf  used on input line 6
@@ -1834,7 +1836,7 @@ pdfTeX warning: pdflatex (file ./Graphics/CommunityFirstDraft.pdf): PDF inclusi
 on: invalid other resource which is no dict (key 'ProcSets', type <array>); ign
 ored.
 >]
-<Graphics/CommunityUseCaseOne.pdf, id=587, 598.15468pt x 845.07718pt>
+<Graphics/CommunityUseCaseOne.pdf, id=589, 598.15468pt x 845.07718pt>
 File: Graphics/CommunityUseCaseOne.pdf Graphic file (type pdf)
 <use Graphics/CommunityUseCaseOne.pdf>
 Package pdftex.def Info: Graphics/CommunityUseCaseOne.pdf  used on input line 9
@@ -1848,79 +1850,98 @@ ored.
 >]
 Chapter 6.
 
-Underfull \hbox (badness 10000) in paragraph at lines 11--12
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--15
+Underfull \hbox (badness 10000) in paragraph at lines 18--20
 
  []
 
 [33
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 16--18
+Underfull \hbox (badness 10000) in paragraph at lines 21--23
+
+ []
+
+<Graphics/SprintFitExample.pdf, id=645, 609.23605pt x 111.29579pt>
+File: Graphics/SprintFitExample.pdf Graphic file (type pdf)
+<use Graphics/SprintFitExample.pdf>
+Package pdftex.def Info: Graphics/SprintFitExample.pdf  used on input line 26.
+(pdftex.def)             Requested size: 418.25368pt x 76.40866pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [34]
+
+LaTeX Warning: Reference `InterviewConclusion' on page 35 undefined on input li
+ne 51.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--56
+
+ []
+
+[35 <./Graphics/SprintFitExample.pdf
+
+pdfTeX warning: pdflatex (file ./Graphics/SprintFitExample.pdf): PDF inclusion:
+ invalid other resource which is no dict (key 'ProcSets', type <array>); ignore
+d.
+>]
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
 
  []
 
 
-LaTeX Warning: Reference `InterviewConclusion' on page 34 undefined on input li
-ne 37.
-
-[34]
-Underfull \hbox (badness 10000) in paragraph at lines 39--42
-
- []
-
-[35]
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 75--78
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 79--82
+Underfull \hbox (badness 10000) in paragraph at lines 89--92
 
  []
 
 [36]
-
-LaTeX Warning: Citation 'WEB:PersonasIDF' on page 37 undefined on input line 91
-.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 91--92
+Underfull \hbox (badness 10000) in paragraph at lines 93--96
 
  []
 
 
-LaTeX Warning: Citation 'WEB:PersonaKilde' on page 37 undefined on input line 9
-5.
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [37]
+
+LaTeX Warning: Citation 'WEB:PersonasIDF' on page 38 undefined on input line 10
+4.
 
 
-LaTeX Warning: Citation 'WEB:PersonaKilde' on page 37 undefined on input line 9
-5.
+LaTeX Warning: Citation 'WEB:PersonaKilde' on page 38 undefined on input line 1
+04.
 
 
-LaTeX Warning: Citation 'WEB:PersonaKilde' on page 37 undefined on input line 9
-5.
+LaTeX Warning: Citation 'WEB:PersonaKilde' on page 38 undefined on input line 1
+04.
 
-[37]
-Underfull \hbox (badness 10000) in paragraph at lines 110--112
+
+LaTeX Warning: Citation 'WEB:PersonaKilde' on page 38 undefined on input line 1
+04.
+
+
+LaTeX Warning: Citation 'WEB:PersonaKilde' on page 38 undefined on input line 1
+04.
+
+
+LaTeX Warning: Citation 'WEB:PersonasIDF' on page 38 undefined on input line 10
+4.
+
+
+LaTeX Warning: Citation 'WEB:PersonaKilde' on page 38 undefined on input line 1
+14.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--115
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 115--118
-
- []
-
-) (Content/Workshop.tex [38] [39] [40
+[38]) (Content/Workshop.tex [39] [40
 
 ]
 Chapter 7.
@@ -2041,7 +2062,7 @@ line 70.
 LaTeX Warning: Citation 'PDF:InformationArchitecture' on page 46 undefined on i
 nput line 70.
 
-<Graphics/MapExample.pdf, id=720, 549.97469pt x 131.53139pt>
+<Graphics/MapExample.pdf, id=731, 549.97469pt x 131.53139pt>
 File: Graphics/MapExample.pdf Graphic file (type pdf)
 <use Graphics/MapExample.pdf>
 Package pdftex.def Info: Graphics/MapExample.pdf  used on input line 74.
@@ -2100,7 +2121,7 @@ line 100.
 
 pdfTeX warning: pdflatex (file ./Graphics/ACSMM.pdf): PDF inclusion: found PDF 
 version <1.7>, but at most version <1.5> allowed
-<Graphics/ACSMM.pdf, id=749, 963.6pt x 542.025pt>
+<Graphics/ACSMM.pdf, id=759, 963.6pt x 542.025pt>
 File: Graphics/ACSMM.pdf Graphic file (type pdf)
 <use Graphics/ACSMM.pdf>
 Package pdftex.def Info: Graphics/ACSMM.pdf  used on input line 104.
@@ -2146,7 +2167,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--37
 
  []
 
-<Graphics/1ICMM_new.pdf, id=818, 730.64969pt x 310.27919pt>
+<Graphics/1ICMM_new.pdf, id=826, 730.64969pt x 310.27919pt>
 File: Graphics/1ICMM_new.pdf Graphic file (type pdf)
 <use Graphics/1ICMM_new.pdf>
 Package pdftex.def Info: Graphics/1ICMM_new.pdf  used on input line 41.
@@ -2156,7 +2177,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 49--68
 
  []
 
-<Graphics/2ICMM_new.pdf, id=827, 549.97469pt x 189.8292pt>
+<Graphics/2ICMM_new.pdf, id=835, 549.97469pt x 189.8292pt>
 File: Graphics/2ICMM_new.pdf Graphic file (type pdf)
 <use Graphics/2ICMM_new.pdf>
 Package pdftex.def Info: Graphics/2ICMM_new.pdf  used on input line 72.
@@ -2170,7 +2191,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 80--97
 
  []
 
-<Graphics/3ICMM_new.pdf, id=848, 549.97469pt x 131.53139pt>
+<Graphics/3ICMM_new.pdf, id=856, 549.97469pt x 131.53139pt>
 File: Graphics/3ICMM_new.pdf Graphic file (type pdf)
 <use Graphics/3ICMM_new.pdf>
 Package pdftex.def Info: Graphics/3ICMM_new.pdf  used on input line 101.
@@ -2189,7 +2210,7 @@ d other resource which is no dict (key 'ProcSets', type <array>); ignored.
 pdfTeX warning: pdflatex (file ./Graphics/3ICMM_new.pdf): PDF inclusion: invali
 d other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >] [61]
-<Graphics/4ICMM_new.pdf, id=888, 665.60669pt x 290.0436pt>
+<Graphics/4ICMM_new.pdf, id=896, 665.60669pt x 290.0436pt>
 File: Graphics/4ICMM_new.pdf Graphic file (type pdf)
 <use Graphics/4ICMM_new.pdf>
 Package pdftex.def Info: Graphics/4ICMM_new.pdf  used on input line 135.
@@ -2204,7 +2225,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 143--145
 pdfTeX warning: pdflatex (file ./Graphics/4ICMM_new.pdf): PDF inclusion: invali
 d other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<Graphics/5ICMM_new.pdf, id=908, 665.60669pt x 276.07141pt>
+<Graphics/5ICMM_new.pdf, id=916, 665.60669pt x 276.07141pt>
 File: Graphics/5ICMM_new.pdf Graphic file (type pdf)
 <use Graphics/5ICMM_new.pdf>
 Package pdftex.def Info: Graphics/5ICMM_new.pdf  used on input line 179.
@@ -2226,7 +2247,7 @@ Underfull \vbox (badness 1460) has occurred while \output is active []
 
  [65]
 [66]
-<Graphics/GruppeModel.pdf, id=942, 694.51468pt x 348.34138pt>
+<Graphics/GruppeModel.pdf, id=950, 694.51468pt x 348.34138pt>
 File: Graphics/GruppeModel.pdf Graphic file (type pdf)
 <use Graphics/GruppeModel.pdf>
 Package pdftex.def Info: Graphics/GruppeModel.pdf  used on input line 233.
@@ -2265,7 +2286,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--29
  []
 
 [71]
-<Graphics/ConcludingModel.pdf, id=997, 470.7186pt x 281.13028pt>
+<Graphics/ConcludingModel.pdf, id=1003, 470.7186pt x 281.13028pt>
 File: Graphics/ConcludingModel.pdf Graphic file (type pdf)
 <use Graphics/ConcludingModel.pdf>
 Package pdftex.def Info: Graphics/ConcludingModel.pdf  used on input line 38.
@@ -2486,9 +2507,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--33
 
 ) (Content/Appendix/Themes.tex [80]
 Appendix C.
-[81
 
-] [82]
+Underfull \vbox (badness 1342) has occurred while \output is active []
+
+ [81
+
+]
+[82]
 
 LaTeX Warning: Citation 'PDF:BrugerWorkshopUserTonePrints' on page 83 undefined
  on input line 33.
@@ -2503,17 +2528,17 @@ LaTeX Warning: Citation 'PDF:BrugerWorkshopUserTonePrints' on page 86 undefined
 ]
 Appendix D.
 [91]
-<Graphics/ICMM_Subject1.pdf, id=1166, 845.1575pt x 1196.47pt>
+<Graphics/ICMM_Subject1.pdf, id=1172, 845.1575pt x 1196.47pt>
 File: Graphics/ICMM_Subject1.pdf Graphic file (type pdf)
 <use Graphics/ICMM_Subject1.pdf>
 Package pdftex.def Info: Graphics/ICMM_Subject1.pdf  used on input line 9.
 (pdftex.def)             Requested size: 376.42575pt x 532.91129pt.
-<Graphics/ICMM_Subject2.pdf, id=1167, 845.1575pt x 1196.47pt>
+<Graphics/ICMM_Subject2.pdf, id=1173, 845.1575pt x 1196.47pt>
 File: Graphics/ICMM_Subject2.pdf Graphic file (type pdf)
 <use Graphics/ICMM_Subject2.pdf>
 Package pdftex.def Info: Graphics/ICMM_Subject2.pdf  used on input line 16.
 (pdftex.def)             Requested size: 376.42575pt x 532.91129pt.
-<Graphics/ICMM_Subject3.pdf, id=1168, 845.1575pt x 1196.47pt>
+<Graphics/ICMM_Subject3.pdf, id=1174, 845.1575pt x 1196.47pt>
 File: Graphics/ICMM_Subject3.pdf Graphic file (type pdf)
 <use Graphics/ICMM_Subject3.pdf>
 Package pdftex.def Info: Graphics/ICMM_Subject3.pdf  used on input line 23.
@@ -2522,7 +2547,7 @@ Package pdftex.def Info: Graphics/ICMM_Subject3.pdf  used on input line 23.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [92 <./Graphics/ICMM_Subject1.pdf>]
-<Graphics/ICMM_Subject4.pdf, id=1192, 845.1575pt x 1196.47pt>
+<Graphics/ICMM_Subject4.pdf, id=1198, 845.1575pt x 1196.47pt>
 File: Graphics/ICMM_Subject4.pdf Graphic file (type pdf)
 <use Graphics/ICMM_Subject4.pdf>
 Package pdftex.def Info: Graphics/ICMM_Subject4.pdf  used on input line 30.
@@ -2531,7 +2556,7 @@ Package pdftex.def Info: Graphics/ICMM_Subject4.pdf  used on input line 30.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [93 <./Graphics/ICMM_Subject2.pdf>]
-<Graphics/ICMM_Subject5.pdf, id=1211, 845.1575pt x 1196.47pt>
+<Graphics/ICMM_Subject5.pdf, id=1217, 845.1575pt x 1196.47pt>
 File: Graphics/ICMM_Subject5.pdf Graphic file (type pdf)
 <use Graphics/ICMM_Subject5.pdf>
 Package pdftex.def Info: Graphics/ICMM_Subject5.pdf  used on input line 37.
@@ -2540,7 +2565,7 @@ Package pdftex.def Info: Graphics/ICMM_Subject5.pdf  used on input line 37.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [94 <./Graphics/ICMM_Subject3.pdf>]
-<Graphics/GruppeDraw.pdf, id=1223, 845.1575pt x 1195.46625pt>
+<Graphics/GruppeDraw.pdf, id=1229, 845.1575pt x 1195.46625pt>
 File: Graphics/GruppeDraw.pdf Graphic file (type pdf)
 <use Graphics/GruppeDraw.pdf>
 Package pdftex.def Info: Graphics/GruppeDraw.pdf  used on input line 44.
@@ -2556,15 +2581,25 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 Appendix E.
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 6.
+
 )) [99]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 39.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 39.
  (Master.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 39.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 39.
-Package rerunfilecheck Info: File `Master.out' has not changed.
-(rerunfilecheck)             Checksum: 1598DACC06D7295FBB2F525D8D182E8B;4022.
 
+
+Package rerunfilecheck Warning: File `Master.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Master.out':
+(rerunfilecheck)             Before: 1598DACC06D7295FBB2F525D8D182E8B;4022
+(rerunfilecheck)             After:  753238F0E099324A2CBD8CCD24CDB293;4172.
 
 LaTeX Warning: There were undefined references.
 
@@ -2581,75 +2616,42 @@ Package logreq Info: Writing requests to 'Master.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39816 strings out of 492946
- 765139 string characters out of 3135518
- 1271844 words of memory out of 3000000
- 42779 multiletter control sequences out of 15000+200000
+ 39808 strings out of 492946
+ 765180 string characters out of 3135518
+ 1272135 words of memory out of 3000000
+ 42783 multiletter control sequences out of 15000+200000
  562590 words of font info for 101 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,12n,78p,2637b,2378s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{figure.caption.49} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.42} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.30} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.93} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.92} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{table.caption.25} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{table.caption.26} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.23} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.22} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{table.caption.16} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.15} has been referenced but does not
- exist, replaced by a fixed one
-
+ <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi6
+00\ecrm1728.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jkn
+appen/ec/dpi600\ecbi1095.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/
+pk/ljfour/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\Marianne\AppData\Local\MiKT
+eX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\Marianne\AppDa
+ta\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\M
+arianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk
+> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi60
+0\ecss0900.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jkna
+ppen/ec/dpi600\ecbx1200.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/p
+k/ljfour/jknappen/ec/dpi600\ectt1000.pk> <C:\Users\Marianne\AppData\Local\MiKTe
+X\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1095.pk> <C:\Users\Marianne\AppDat
+a\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Ma
+rianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk>
  <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600
-\ecrm1728.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknap
-pen/ec/dpi600\ecbi1095.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk
-/ljfour/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\Marianne\AppData\Local\MiKTeX
-\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\Marianne\AppData
-\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\Mar
-ianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> 
-<C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
-ecss0900.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknapp
-en/ec/dpi600\ecbx1200.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/
-ljfour/jknappen/ec/dpi600\ectt1000.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\
-2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1095.pk> <C:\Users\Marianne\AppData\
-Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Mari
-anne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <
-C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\e
-cbx2488.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappe
-n/ec/dpi600\ecrm1095.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/l
-jfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2
-.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:\Users\Marianne\AppData\L
-ocal\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Maria
-nne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk><C:
-/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program
- Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/symbols/msam10.pfb>
-Output written on Master.pdf (99 pages, 2073218 bytes).
+\ecbx2488.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ecrm1095.pk> <C:\Users\Marianne\AppData\Local\MiKTeX\2.9\fonts/pk
+/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Marianne\AppData\Local\MiKTeX
+\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:\Users\Marianne\AppData
+\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Mar
+ianne\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk><
+C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/symbols/msam10.pfb>
+Output written on Master.pdf (99 pages, 2054268 bytes).
 PDF statistics:
- 2107 PDF objects out of 2487 (max. 8388607)
- 309 named destinations out of 1000 (max. 500000)
- 587 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2112 PDF objects out of 2487 (max. 8388607)
+ 297 named destinations out of 1000 (max. 500000)
+ 592 words of extra memory for PDF output out of 10000 (max. 10000000)
 
