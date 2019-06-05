@@ -323,6 +323,29 @@
       \field{year}{2019}
       \warn{\item Datamodel: Entry 'WEB:UXResponsibilitiesInScrum' (/Users/jeppeknudsen/Documents/AAU/PDP10/Paper/Bibliography/Bibliography.bib): Invalid format '21' of date field 'date' - ignoring}
     \endentry
+    \entry{PDF:DescriptiveAnalysis}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=33be9d0a2d6d4fbc53b0623795592652}{Martin}{M\bibinitperiod}{Geoff}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6f0392f9998c65d79ef7b0f9ab618fef}{Bech}{B\bibinitperiod}{Søren}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=33be9d0a2d6d4fbc53b0623795592652}{Martin}{M\bibinitperiod}{Geoff}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6f0392f9998c65d79ef7b0f9ab618fef}{Bech}{B\bibinitperiod}{Søren}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{68f7b58934df770c86f703158fbbde23}
+      \strng{fullhash}{68f7b58934df770c86f703158fbbde23}
+      \field{sortinit}{M}
+      \field{labelyear}{2005}
+      \field{labelmonth}{05}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Attribute Identification and Quantification in Automotive Audio - Part 1}
+      \field{journaltitle}{Audio Engineering Society}
+      \field{month}{05}
+      \field{subtitle}{Introduction to the Descriptive Analysis}
+      \field{title}{Attribute Identification and Quantification in Automotive Audio - Part 1}
+      \field{year}{2005}
+      \field{pages}{14}
+    \endentry
     \entry{WEB:Nielsen1994Ten}{online}{}
       \name{labelname}{1}{}{%
         {{uniquename=1,hash=753054f71283d85f82cda8e35daf6bac}{Nielsen}{N\bibinitperiod}{Jakob}{J\bibinitperiod}{}{}{}{}}%

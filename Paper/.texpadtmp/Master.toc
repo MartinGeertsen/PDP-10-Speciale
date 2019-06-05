@@ -21,7 +21,7 @@
 \contentsline {subsection}{\numberline {3.2.1}Thematic analysis approach}{21}{subsection.3.2.1}
 \contentsline {chapter}{\numberline {4}Results of thematic analysis}{23}{chapter.4}
 \contentsline {section}{\numberline {4.1}Findings from thematic analysis}{24}{section.4.1}
-\contentsline {section}{\numberline {4.2}The TonePrint development process}{25}{section.4.2}
+\contentsline {section}{\numberline {4.2}The TonePrint development process}{26}{section.4.2}
 \contentsline {chapter}{\numberline {5}Community concept}{27}{chapter.5}
 \contentsline {section}{\numberline {5.1}Conceptual model}{27}{section.5.1}
 \contentsline {subsection}{\numberline {5.1.1}The TonePrint Concept model}{27}{subsection.5.1.1}
@@ -36,7 +36,7 @@
 \contentsline {section}{\numberline {6.2}Task 2: Tags}{35}{section.6.2}
 \contentsline {section}{\numberline {6.3}Task 3: Self-promoting functionalities}{36}{section.6.3}
 \contentsline {section}{\numberline {6.4}Task 4: GUI of the App}{37}{section.6.4}
-\contentsline {section}{\numberline {6.5}Task 5: Defining the user groups}{38}{section.6.5}
+\contentsline {section}{\numberline {6.5}Task 5: Defining the user groups}{39}{section.6.5}
 \contentsline {chapter}{\numberline {7}User Study of The TP Community}{41}{chapter.7}
 \contentsline {section}{\numberline {7.1}Deciding on a task}{41}{section.7.1}
 \contentsline {section}{\numberline {7.2}Mental Models}{42}{section.7.2}
