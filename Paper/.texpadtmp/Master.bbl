@@ -104,6 +104,33 @@
       \field{type}{Report}
       \field{year}{2012}
     \endentry
+    \entry{PDF:ParticipatoryDesignMethods}{article}{}
+      \name{labelname}{5}{}{%
+        {{uniquename=0,hash=d42f251dca5410591c561ac2fc1f9392}{Clemensen}{C\bibinitperiod}{Jane}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=062b5a20aeb6320c1d3caa4e020a45f7}{Rothmann}{R\bibinitperiod}{Mette\bibnamedelima J.}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=85dfcb8cab9c41ef3d1f610e4f24aa05}{Smith}{S\bibinitperiod}{Anthony\bibnamedelima C.}{A\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ecc0659bc29f3287ba8b8be71276a09a}{Caffery}{C\bibinitperiod}{Liam\bibnamedelima J.}{L\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=34d370c674059c76a4d388a82907614d}{Danbjorg}{D\bibinitperiod}{Dorthe\bibnamedelima B.}{D\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{uniquename=0,hash=d42f251dca5410591c561ac2fc1f9392}{Clemensen}{C\bibinitperiod}{Jane}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=062b5a20aeb6320c1d3caa4e020a45f7}{Rothmann}{R\bibinitperiod}{Mette\bibnamedelima J.}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=85dfcb8cab9c41ef3d1f610e4f24aa05}{Smith}{S\bibinitperiod}{Anthony\bibnamedelima C.}{A\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ecc0659bc29f3287ba8b8be71276a09a}{Caffery}{C\bibinitperiod}{Liam\bibnamedelima J.}{L\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=34d370c674059c76a4d388a82907614d}{Danbjorg}{D\bibinitperiod}{Dorthe\bibnamedelima B.}{D\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{12551e3115c5bd347651bb90a386b780}
+      \strng{fullhash}{76fdb61dc00c0c197d21de3ab7304fe2}
+      \field{sortinit}{C}
+      \field{labelyear}{2017}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Participatory design methods in telemedicine research}
+      \field{journaltitle}{Journal of Telemedicine and Telecare}
+      \field{title}{Participatory design methods in telemedicine research}
+      \field{volume}{23}
+      \field{year}{2017}
+      \field{pages}{780\bibrangedash 785}
+    \endentry
     \entry{WEB:PersonasIDF}{article}{}
       \name{labelname}{2}{}{%
         {{uniquename=0,hash=d9faf185391ff763eaf13aa73750afee}{Dam}{D\bibinitperiod}{Rikke}{R\bibinitperiod}{}{}{}{}}%
@@ -543,6 +570,23 @@
       \field{year}{2015}
       \field{pages}{485}
     \endentry
+    \entry{WEB:SUSkilde}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=f24e1723133e0393dfd185716f640bed}{Sauro}{S\bibinitperiod}{Jeff}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=f24e1723133e0393dfd185716f640bed}{Sauro}{S\bibinitperiod}{Jeff}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f24e1723133e0393dfd185716f640bed}
+      \strng{fullhash}{f24e1723133e0393dfd185716f640bed}
+      \field{sortinit}{S}
+      \field{labelyear}{2011}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Measuring usability with the System Usability Scale}
+      \field{journaltitle}{MeasuringU}
+      \field{title}{Measuring usability with the System Usability Scale}
+      \field{year}{2011}
+    \endentry
     \entry{PDF:MentalModelInstructions}{article}{}
       \name{labelname}{1}{}{%
         {{uniquename=0,hash=0d95259ca469d81796e06fc0611c8897}{Seel}{S\bibinitperiod}{Norbert\bibnamedelima M.}{N\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
@@ -658,6 +702,26 @@
       \verb{url}
       \verb https://www.allaboutux.org/ux-definitions
       \endverb
+    \endentry
+    \entry{WEB:CognitiveWalkthrough}{inbook}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=c501d434e4b4167eb2a73619c5185a51}{Wilson}{W\bibinitperiod}{Chauncey}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=c501d434e4b4167eb2a73619c5185a51}{Wilson}{W\bibinitperiod}{Chauncey}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Morgan Kaufmann Publishers}%
+      }
+      \strng{namehash}{c501d434e4b4167eb2a73619c5185a51}
+      \strng{fullhash}{c501d434e4b4167eb2a73619c5185a51}
+      \field{sortinit}{W}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Chapter 4: Cognitive Walkthrough}
+      \field{booktitle}{User Interface Inspection Methods}
+      \field{title}{Chapter 4: Cognitive Walkthrough}
+      \field{year}{2014}
     \endentry
     \entry{WEB:WixonUXindustry}{article}{}
       \name{labelname}{1}{}{%
