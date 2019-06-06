@@ -44,6 +44,28 @@
       \field{title}{Conducting Semi-Structured Interviews}
       \field{year}{2015}
     \endentry
+    \entry{WEB:UXDefinitions}{online}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=04ecfcc6f07e060214fadfe569709dc9}{{All\bibnamedelimb About\bibnamedelimb UX}}{A\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=04ecfcc6f07e060214fadfe569709dc9}{{All\bibnamedelimb About\bibnamedelimb UX}}{A\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=a6ee88de3956a58b283067313bace108}{allaboutux.org}{a\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{04ecfcc6f07e060214fadfe569709dc9}
+      \strng{fullhash}{04ecfcc6f07e060214fadfe569709dc9}
+      \field{sortinit}{A}
+      \field{labelyear}{2019}
+      \field{datelabelsource}{}
+      \field{labeltitle}{User experience definitions}
+      \field{title}{User experience definitions}
+      \field{year}{2019}
+      \verb{url}
+      \verb https://www.allaboutux.org/ux-definitions
+      \endverb
+    \endentry
     \entry{PDF:DesignforloebAfUserTonePrint}{report}{}
       \name{labelname}{1}{}{%
         {{uniquename=0,hash=e69a6545618c2cfef8b6b50fadad3937}{Andersen}{A\bibinitperiod}{Jesper\bibnamedelima Lumbye}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
@@ -172,71 +194,6 @@
       \field{title}{Personas - A simple Introduction}
       \field{year}{2019}
     \endentry
-    \entry{WEB:TCElectronic}{online}{}
-      \name{labelname}{1}{}{%
-        {{uniquename=0,hash=2e6c0687768711a8952be82ecdc4620b}{Electronic}{E\bibinitperiod}{TC}{T\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{uniquename=0,hash=2e6c0687768711a8952be82ecdc4620b}{Electronic}{E\bibinitperiod}{TC}{T\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{2e6c0687768711a8952be82ecdc4620b}
-      \strng{fullhash}{2e6c0687768711a8952be82ecdc4620b}
-      \field{sortinit}{E}
-      \field{extrayear}{1}
-      \field{labelyear}{2019}
-      \field{datelabelsource}{}
-      \field{labeltitle}{About: Our Story}
-      \field{title}{About: Our Story}
-      \field{year}{2019}
-      \verb{url}
-      \verb https://www.tcelectronic.com/brand/tcelectronic/our-story#googtrans(en%7Cen)
-      \endverb
-    \endentry
-    \entry{WEB:AboutTonePrints}{online}{}
-      \name{labelname}{1}{}{%
-        {{uniquename=0,hash=2e6c0687768711a8952be82ecdc4620b}{Electronic}{E\bibinitperiod}{TC}{T\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{uniquename=0,hash=2e6c0687768711a8952be82ecdc4620b}{Electronic}{E\bibinitperiod}{TC}{T\bibinitperiod}{}{}{}{}}%
-      }
-      \list{organization}{1}{%
-        {TC Electronic}%
-      }
-      \strng{namehash}{2e6c0687768711a8952be82ecdc4620b}
-      \strng{fullhash}{2e6c0687768711a8952be82ecdc4620b}
-      \field{sortinit}{E}
-      \field{extrayear}{2}
-      \field{labelyear}{2019}
-      \field{datelabelsource}{}
-      \field{labeltitle}{What's TonePrint?}
-      \field{title}{What's TonePrint?}
-      \field{year}{2019}
-      \verb{url}
-      \verb https://www.tcelectronic.com/toneprints##googtrans(en%7Cen)
-      \endverb
-    \endentry
-    \entry{WEB:UXDesign}{online}{}
-      \name{labelname}{1}{}{%
-        {{uniquename=0,hash=5a10cf9fdb599fd2ec271a35357ed4ce}{Foundation}{F\bibinitperiod}{Interaction\bibnamedelima Design}{I\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{uniquename=0,hash=5a10cf9fdb599fd2ec271a35357ed4ce}{Foundation}{F\bibinitperiod}{Interaction\bibnamedelima Design}{I\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
-      }
-      \list{organization}{1}{%
-        {Interaction Design Foundation}%
-      }
-      \strng{namehash}{5a10cf9fdb599fd2ec271a35357ed4ce}
-      \strng{fullhash}{5a10cf9fdb599fd2ec271a35357ed4ce}
-      \field{sortinit}{F}
-      \field{labelyear}{2019}
-      \field{datelabelsource}{}
-      \field{labeltitle}{User Experience (UX) Design}
-      \field{title}{User Experience (UX) Design}
-      \field{year}{2019}
-      \verb{url}
-      \verb https://www.interaction-design.org/literature/topics/ux-design
-      \endverb
-    \endentry
     \entry{PDF:Scrum}{article}{}
       \name{labelname}{1}{}{%
         {{uniquename=0,hash=141c3a343947cc9975bc384fcc1ab857}{Gonçalves}{G\bibinitperiod}{Luis}{L\bibinitperiod}{}{}{}{}}%
@@ -259,6 +216,28 @@
       \field{volume}{62}
       \field{year}{2018}
       \field{pages}{40\bibrangedash 42}
+    \endentry
+    \entry{WEB:UXDesign}{online}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=bbdee94556dffe52b98f445c3d638757}{{Interaction\bibnamedelimb Design\bibnamedelimb Foundation}}{I\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=bbdee94556dffe52b98f445c3d638757}{{Interaction\bibnamedelimb Design\bibnamedelimb Foundation}}{I\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {Interaction Design Foundation}%
+      }
+      \strng{namehash}{bbdee94556dffe52b98f445c3d638757}
+      \strng{fullhash}{bbdee94556dffe52b98f445c3d638757}
+      \field{sortinit}{I}
+      \field{labelyear}{2019}
+      \field{datelabelsource}{}
+      \field{labeltitle}{User Experience (UX) Design}
+      \field{title}{User Experience (UX) Design}
+      \field{year}{2019}
+      \verb{url}
+      \verb https://www.interaction-design.org/literature/topics/ux-design
+      \endverb
     \endentry
     \entry{WEB:UXISO}{article}{}
       \name{labelname}{1}{}{%
@@ -726,26 +705,47 @@
       \field{year}{2009}
       \field{pages}{282}
     \endentry
-    \entry{WEB:UXDefinitions}{online}{}
+    \entry{WEB:TCElectronic}{online}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=0d97da46f1dc356a904ee35775ad8ae3}{UX}{U\bibinitperiod}{All\bibnamedelima About}{A\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bc968b277c90ce79affc7051a58284c3}{{TC\bibnamedelimb Electronic}}{T\bibinitperiod}{}{}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=0d97da46f1dc356a904ee35775ad8ae3}{UX}{U\bibinitperiod}{All\bibnamedelima About}{A\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bc968b277c90ce79affc7051a58284c3}{{TC\bibnamedelimb Electronic}}{T\bibinitperiod}{}{}{}{}{}{}}%
       }
-      \name{editor}{1}{}{%
-        {{hash=a6ee88de3956a58b283067313bace108}{allaboutux.org}{a\bibinitperiod}{}{}{}{}{}{}}%
-      }
-      \strng{namehash}{0d97da46f1dc356a904ee35775ad8ae3}
-      \strng{fullhash}{0d97da46f1dc356a904ee35775ad8ae3}
-      \field{sortinit}{U}
+      \strng{namehash}{bc968b277c90ce79affc7051a58284c3}
+      \strng{fullhash}{bc968b277c90ce79affc7051a58284c3}
+      \field{sortinit}{T}
+      \field{extrayear}{1}
       \field{labelyear}{2019}
       \field{datelabelsource}{}
-      \field{labeltitle}{User experience definitions}
-      \field{title}{User experience definitions}
+      \field{labeltitle}{About: Our Story}
+      \field{title}{About: Our Story}
       \field{year}{2019}
       \verb{url}
-      \verb https://www.allaboutux.org/ux-definitions
+      \verb https://www.tcelectronic.com/brand/tcelectronic/our-story#googtrans(en%7Cen)
+      \endverb
+    \endentry
+    \entry{WEB:AboutTonePrints}{online}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=bc968b277c90ce79affc7051a58284c3}{{TC\bibnamedelimb Electronic}}{T\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=bc968b277c90ce79affc7051a58284c3}{{TC\bibnamedelimb Electronic}}{T\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {TC Electronic}%
+      }
+      \strng{namehash}{bc968b277c90ce79affc7051a58284c3}
+      \strng{fullhash}{bc968b277c90ce79affc7051a58284c3}
+      \field{sortinit}{T}
+      \field{extrayear}{2}
+      \field{labelyear}{2019}
+      \field{datelabelsource}{}
+      \field{labeltitle}{What's TonePrint?}
+      \field{title}{What's TonePrint?}
+      \field{year}{2019}
+      \verb{url}
+      \verb https://www.tcelectronic.com/toneprints##googtrans(en%7Cen)
       \endverb
     \endentry
     \entry{WEB:CognitiveWalkthrough}{inbook}{}
