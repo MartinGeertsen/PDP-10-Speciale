@@ -55,7 +55,7 @@
 \contentsline {section}{\numberline {9.3}Group task result}{65}{section.9.3}% 
 \contentsline {chapter}{\numberline {10}Discussion}{69}{chapter.10}% 
 \contentsline {section}{\numberline {10.1}Comparing the results}{69}{section.10.1}% 
-\contentsline {section}{\numberline {10.2}The mental mode (for now)}{72}{section.10.2}% 
+\contentsline {section}{\numberline {10.2}The mental model (for now)}{72}{section.10.2}% 
 \contentsline {chapter}{\numberline {A}TonePrint app usability issues}{75}{appendix.A}% 
 \contentsline {subsubsection}{Visibility of system status}{75}{section*.51}% 
 \contentsline {subsubsection}{Match between systems and the real world}{76}{section*.52}% 
@@ -68,5 +68,5 @@
 \contentsline {chapter}{\numberline {B}Interview with TC}{79}{appendix.B}% 
 \contentsline {chapter}{\numberline {C}Interview Themes}{81}{appendix.C}% 
 \contentsline {chapter}{\numberline {D}Card sort cards}{91}{appendix.D}% 
-\contentsline {chapter}{\numberline {E}Concept maps from workshop}{93}{appendix.E}% 
-\contentsline {chapter}{\numberline {F}Digital appendix}{101}{appendix.F}% 
+\contentsline {chapter}{\numberline {E}Concept maps from workshop}{95}{appendix.E}% 
+\contentsline {chapter}{\numberline {F}Digital appendix}{103}{appendix.F}% 
