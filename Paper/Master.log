@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.21)  6 JUN 2019 02:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.21)  6 JUN 2019 05:42
 entering extended mode
 **./Master.tex
 (Master.tex
@@ -1564,7 +1564,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 LaTeX Warning: Citation 'PDF:Scrum' on page 8 undefined on input line 33.
 
 [8]
-<Graphics/SCRUM.png, id=351, 803.0pt x 602.25pt>
+<Graphics/SCRUM.png, id=356, 803.0pt x 602.25pt>
 File: Graphics/SCRUM.png Graphic file (type png)
 <use Graphics/SCRUM.png>
 Package pdftex.def Info: Graphics/SCRUM.png  used on input line 38.
@@ -1613,7 +1613,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--50
  []
 
 [9 <./Graphics/SCRUM.png>]
-<Graphics/HallOfFame.png, id=363, 453.695pt x 803.0pt>
+<Graphics/HallOfFame.png, id=368, 453.695pt x 803.0pt>
 File: Graphics/HallOfFame.png Graphic file (type png)
 <use Graphics/HallOfFame.png>
 Package pdftex.def Info: Graphics/HallOfFame.png  used on input line 56.
@@ -1624,7 +1624,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--57
 onic / Guitar / Stompboxes /
  []
 
-<Graphics/TonePrintAppExample.png, id=367, 1025.8325pt x 770.88pt>
+<Graphics/TonePrintAppExample.png, id=372, 1025.8325pt x 770.88pt>
 File: Graphics/TonePrintAppExample.png Graphic file (type png)
 <use Graphics/TonePrintAppExample.png>
 Package pdftex.def Info: Graphics/TonePrintAppExample.png  used on input line 6
@@ -1765,7 +1765,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 81--87
 
 ) (Content/ThematicAnalysis.tex [22]
 Chapter 4.
-<Graphics/HorizontGroups.pdf, id=475, 803.8833pt x 398.4486pt>
+<Graphics/HorizontGroups.pdf, id=480, 803.8833pt x 398.4486pt>
 File: Graphics/HorizontGroups.pdf Graphic file (type pdf)
 <use Graphics/HorizontGroups.pdf>
 Package pdftex.def Info: Graphics/HorizontGroups.pdf  used on input line 23.
@@ -1794,7 +1794,7 @@ LaTeX Warning: Citation 'PDF:Henderson2012' on page 27 undefined on input line
 [27
 
 ]
-<Graphics/TonePrintConcept.pdf, id=521, 334.3692pt x 132.495pt>
+<Graphics/TonePrintConcept.pdf, id=526, 334.3692pt x 132.495pt>
 File: Graphics/TonePrintConcept.pdf Graphic file (type pdf)
 <use Graphics/TonePrintConcept.pdf>
 Package pdftex.def Info: Graphics/TonePrintConcept.pdf  used on input line 17.
@@ -1818,7 +1818,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 55--56
 
  []
 
-<Graphics/CommunityNewDraft.pdf, id=541, 484.69078pt x 307.1475pt>
+<Graphics/CommunityNewDraft.pdf, id=546, 484.69078pt x 307.1475pt>
 File: Graphics/CommunityNewDraft.pdf Graphic file (type pdf)
 <use Graphics/CommunityNewDraft.pdf>
 Package pdftex.def Info: Graphics/CommunityNewDraft.pdf  used on input line 59.
@@ -1841,7 +1841,7 @@ pdfTeX warning: pdflatex (file ./Graphics/CommunityNewDraft.pdf): PDF inclusion
 : invalid other resource which is no dict (key 'ProcSets', type <array>); ignor
 ed.
 >] [31]
-<Graphics/UseCases.pdf, id=586, 430.48831pt x 257.04028pt>
+<Graphics/UseCases.pdf, id=591, 430.48831pt x 257.04028pt>
 File: Graphics/UseCases.pdf Graphic file (type pdf)
 <use Graphics/UseCases.pdf>
 Package pdftex.def Info: Graphics/UseCases.pdf  used on input line 87.
@@ -1885,7 +1885,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--19
 
  []
 
-<Graphics/SprintFitExample.pdf, id=612, 609.23605pt x 111.29579pt>
+<Graphics/SprintFitExample.pdf, id=617, 609.23605pt x 111.29579pt>
 File: Graphics/SprintFitExample.pdf Graphic file (type pdf)
 <use Graphics/SprintFitExample.pdf>
 Package pdftex.def Info: Graphics/SprintFitExample.pdf  used on input line 25.
@@ -2109,7 +2109,7 @@ line 70.
 LaTeX Warning: Citation 'PDF:InformationArchitecture' on page 46 undefined on i
 nput line 70.
 
-<Graphics/MapExample.pdf, id=696, 549.97469pt x 131.53139pt>
+<Graphics/MapExample.pdf, id=701, 549.97469pt x 131.53139pt>
 File: Graphics/MapExample.pdf Graphic file (type pdf)
 <use Graphics/MapExample.pdf>
 Package pdftex.def Info: Graphics/MapExample.pdf  used on input line 74.
@@ -2168,7 +2168,7 @@ line 100.
 
 pdfTeX warning: pdflatex (file ./Graphics/ACSMM.pdf): PDF inclusion: found PDF 
 version <1.7>, but at most version <1.5> allowed
-<Graphics/ACSMM.pdf, id=724, 963.6pt x 542.025pt>
+<Graphics/ACSMM.pdf, id=729, 963.6pt x 542.025pt>
 File: Graphics/ACSMM.pdf Graphic file (type pdf)
 <use Graphics/ACSMM.pdf>
 Package pdftex.def Info: Graphics/ACSMM.pdf  used on input line 104.
@@ -2218,7 +2218,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--37
 
  []
 
-<Graphics/1ICMM_new.pdf, id=787, 730.64969pt x 310.27919pt>
+<Graphics/1ICMM_new.pdf, id=792, 730.64969pt x 310.27919pt>
 File: Graphics/1ICMM_new.pdf Graphic file (type pdf)
 <use Graphics/1ICMM_new.pdf>
 Package pdftex.def Info: Graphics/1ICMM_new.pdf  used on input line 41.
@@ -2228,7 +2228,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 49--68
 
  []
 
-<Graphics/2ICMM_new.pdf, id=796, 549.97469pt x 189.8292pt>
+<Graphics/2ICMM_new.pdf, id=801, 549.97469pt x 189.8292pt>
 File: Graphics/2ICMM_new.pdf Graphic file (type pdf)
 <use Graphics/2ICMM_new.pdf>
 Package pdftex.def Info: Graphics/2ICMM_new.pdf  used on input line 72.
@@ -2242,7 +2242,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 80--97
 
  []
 
-<Graphics/3ICMM_new.pdf, id=816, 549.97469pt x 131.53139pt>
+<Graphics/3ICMM_new.pdf, id=821, 549.97469pt x 131.53139pt>
 File: Graphics/3ICMM_new.pdf Graphic file (type pdf)
 <use Graphics/3ICMM_new.pdf>
 Package pdftex.def Info: Graphics/3ICMM_new.pdf  used on input line 101.
@@ -2261,7 +2261,7 @@ d other resource which is no dict (key 'ProcSets', type <array>); ignored.
 pdfTeX warning: pdflatex (file ./Graphics/3ICMM_new.pdf): PDF inclusion: invali
 d other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >] [61]
-<Graphics/4ICMM_new.pdf, id=854, 665.60669pt x 290.0436pt>
+<Graphics/4ICMM_new.pdf, id=859, 665.60669pt x 290.0436pt>
 File: Graphics/4ICMM_new.pdf Graphic file (type pdf)
 <use Graphics/4ICMM_new.pdf>
 Package pdftex.def Info: Graphics/4ICMM_new.pdf  used on input line 135.
@@ -2276,7 +2276,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 143--145
 pdfTeX warning: pdflatex (file ./Graphics/4ICMM_new.pdf): PDF inclusion: invali
 d other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<Graphics/5ICMM_new.pdf, id=873, 665.60669pt x 276.07141pt>
+<Graphics/5ICMM_new.pdf, id=878, 665.60669pt x 276.07141pt>
 File: Graphics/5ICMM_new.pdf Graphic file (type pdf)
 <use Graphics/5ICMM_new.pdf>
 Package pdftex.def Info: Graphics/5ICMM_new.pdf  used on input line 179.
@@ -2298,7 +2298,7 @@ Underfull \vbox (badness 1460) has occurred while \output is active []
 
  [65]
 [66]
-<Graphics/GruppeModel.pdf, id=906, 694.51468pt x 348.34138pt>
+<Graphics/GruppeModel.pdf, id=911, 694.51468pt x 348.34138pt>
 File: Graphics/GruppeModel.pdf Graphic file (type pdf)
 <use Graphics/GruppeModel.pdf>
 Package pdftex.def Info: Graphics/GruppeModel.pdf  used on input line 233.
@@ -2331,13 +2331,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--17
 
  []
 
-[69] [70]
+[69]
 Underfull \hbox (badness 10000) in paragraph at lines 25--29
 
  []
 
-[71]
-<Graphics/ConcludingModel.pdf, id=957, 470.7186pt x 281.13028pt>
+[70] [71]
+<Graphics/ConcludingModel.pdf, id=962, 470.7186pt x 281.13028pt>
 File: Graphics/ConcludingModel.pdf Graphic file (type pdf)
 <use Graphics/ConcludingModel.pdf>
 Package pdftex.def Info: Graphics/ConcludingModel.pdf  used on input line 38.
@@ -2346,11 +2346,7 @@ Package pdftex.def Info: Graphics/ConcludingModel.pdf  used on input line 38.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [72])
-
-LaTeX Warning: Empty bibliography on input line 32.
-
-(Content/Appendix/Appendix.tex (Content/Appendix/HeuristicResults.tex [73 <./Gr
-aphics/ConcludingModel.pdf
+(Content/Conclusion.tex [73 <./Graphics/ConcludingModel.pdf
 
 pdfTeX warning: pdflatex (file ./Graphics/ConcludingModel.pdf): PDF inclusion: 
 invalid other resource which is no dict (key 'ProcSets', type <array>); ignored
@@ -2358,6 +2354,17 @@ invalid other resource which is no dict (key 'ProcSets', type <array>); ignored
 >] [74
 
 ]
+Chapter 11.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 10--29
+
+ []
+
+[75]
+
+LaTeX Warning: Empty bibliography on input line 32.
+
+(Content/Appendix/Appendix.tex (Content/Appendix/HeuristicResults.tex [76]
 Appendix A.
 
 Underfull \hbox (badness 10000) in paragraph at lines 7--8
@@ -2384,7 +2391,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
  []
 
-[75]
+[77
+
+]
 Underfull \hbox (badness 10000) in paragraph at lines 17--18
 
  []
@@ -2429,7 +2438,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--36
 
  []
 
-[76]
+[78]
 Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
  []
@@ -2457,7 +2466,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--46
 
 Underfull \vbox (badness 6236) has occurred while \output is active []
 
- [77]
+ [79]
 Underfull \hbox (badness 10000) in paragraph at lines 56--57
 
  []
@@ -2472,7 +2481,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 63--64
 
  []
 
-) (Content/Appendix/InterviewGuide.tex [78]
+) (Content/Appendix/InterviewGuide.tex [80]
 Appendix B.
 
 Underfull \hbox (badness 10000) in paragraph at lines 11--12
@@ -2494,7 +2503,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--15
 
  []
 
-[79
+[81
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 18--19
@@ -2556,39 +2565,39 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--33
 
  []
 
-) (Content/Appendix/Themes.tex [80]
+) (Content/Appendix/Themes.tex [82]
 Appendix C.
 
 Underfull \vbox (badness 1342) has occurred while \output is active []
 
- [81
+ [83
 
 ]
-[82]
+[84]
 
-LaTeX Warning: Citation 'PDF:BrugerWorkshopUserTonePrints' on page 83 undefined
+LaTeX Warning: Citation 'PDF:BrugerWorkshopUserTonePrints' on page 85 undefined
  on input line 33.
 
-[83] [84] [85]
+[85] [86] [87]
 
-LaTeX Warning: Citation 'PDF:BrugerWorkshopUserTonePrints' on page 86 undefined
+LaTeX Warning: Citation 'PDF:BrugerWorkshopUserTonePrints' on page 88 undefined
  on input line 93.
 
-[86] [87]) (Content/Appendix/CardSortCards.tex [88] [89] [90
+[88] [89]) (Content/Appendix/CardSortCards.tex [90] [91] [92
 
 ]
 Appendix D.
 
 Underfull \vbox (badness 1577) has occurred while \output is active []
 
- [91]
+ [93]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [92]
+ [94]
 
 pdfTeX warning: pdflatex (file ./Content/Appendix/Questionnair.pdf): PDF inclus
 ion: found PDF version <1.7>, but at most version <1.5> allowed
-<Content/Appendix/Questionnair.pdf, id=1127, 597.55246pt x 845.07718pt>
+<Content/Appendix/Questionnair.pdf, id=1143, 597.55246pt x 845.07718pt>
 File: Content/Appendix/Questionnair.pdf Graphic file (type pdf)
 <use Content/Appendix/Questionnair.pdf>
 Package pdftex.def Info: Content/Appendix/Questionnair.pdf  used on input line 
@@ -2611,7 +2620,7 @@ ion: found PDF version <1.7>, but at most version <1.5> allowed
 
 pdfTeX warning: pdflatex (file ./Content/Appendix/Questionnair.pdf): PDF inclus
 ion: found PDF version <1.7>, but at most version <1.5> allowed
-<Content/Appendix/Questionnair.pdf, id=1130, page=1, 597.55246pt x 845.07718pt>
+<Content/Appendix/Questionnair.pdf, id=1146, page=1, 597.55246pt x 845.07718pt>
 
 File: Content/Appendix/Questionnair.pdf Graphic file (type pdf)
 <use Content/Appendix/Questionnair.pdf, page 1>
@@ -2639,22 +2648,22 @@ File: Content/Appendix/Questionnair.pdf Graphic file (type pdf)
 Package pdftex.def Info: Content/Appendix/Questionnair.pdf , page1 used on inpu
 t line 1.
 (pdftex.def)             Requested size: 854.1653pt x 1207.98701pt.
- [93 <./Content/Appendix/Questionnair.pdf>] [94
+ [95 <./Content/Appendix/Questionnair.pdf>] [96
 
 ]
 Appendix E.
-[95]
-<Graphics/ICMM_Subject1.pdf, id=1161, 845.1575pt x 1196.47pt>
+[97]
+<Graphics/ICMM_Subject1.pdf, id=1178, 845.1575pt x 1196.47pt>
 File: Graphics/ICMM_Subject1.pdf Graphic file (type pdf)
 <use Graphics/ICMM_Subject1.pdf>
 Package pdftex.def Info: Graphics/ICMM_Subject1.pdf  used on input line 9.
 (pdftex.def)             Requested size: 376.42575pt x 532.91129pt.
-<Graphics/ICMM_Subject2.pdf, id=1162, 845.1575pt x 1196.47pt>
+<Graphics/ICMM_Subject2.pdf, id=1179, 845.1575pt x 1196.47pt>
 File: Graphics/ICMM_Subject2.pdf Graphic file (type pdf)
 <use Graphics/ICMM_Subject2.pdf>
 Package pdftex.def Info: Graphics/ICMM_Subject2.pdf  used on input line 16.
 (pdftex.def)             Requested size: 376.42575pt x 532.91129pt.
-<Graphics/ICMM_Subject3.pdf, id=1163, 845.1575pt x 1196.47pt>
+<Graphics/ICMM_Subject3.pdf, id=1180, 845.1575pt x 1196.47pt>
 File: Graphics/ICMM_Subject3.pdf Graphic file (type pdf)
 <use Graphics/ICMM_Subject3.pdf>
 Package pdftex.def Info: Graphics/ICMM_Subject3.pdf  used on input line 23.
@@ -2662,8 +2671,8 @@ Package pdftex.def Info: Graphics/ICMM_Subject3.pdf  used on input line 23.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [96 <./Graphics/ICMM_Subject1.pdf>]
-<Graphics/ICMM_Subject4.pdf, id=1187, 845.1575pt x 1196.47pt>
+ [98 <./Graphics/ICMM_Subject1.pdf>]
+<Graphics/ICMM_Subject4.pdf, id=1204, 845.1575pt x 1196.47pt>
 File: Graphics/ICMM_Subject4.pdf Graphic file (type pdf)
 <use Graphics/ICMM_Subject4.pdf>
 Package pdftex.def Info: Graphics/ICMM_Subject4.pdf  used on input line 30.
@@ -2671,8 +2680,8 @@ Package pdftex.def Info: Graphics/ICMM_Subject4.pdf  used on input line 30.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [97 <./Graphics/ICMM_Subject2.pdf>]
-<Graphics/ICMM_Subject5.pdf, id=1207, 845.1575pt x 1196.47pt>
+ [99 <./Graphics/ICMM_Subject2.pdf>]
+<Graphics/ICMM_Subject5.pdf, id=1223, 845.1575pt x 1196.47pt>
 File: Graphics/ICMM_Subject5.pdf Graphic file (type pdf)
 <use Graphics/ICMM_Subject5.pdf>
 Package pdftex.def Info: Graphics/ICMM_Subject5.pdf  used on input line 37.
@@ -2680,8 +2689,8 @@ Package pdftex.def Info: Graphics/ICMM_Subject5.pdf  used on input line 37.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [98 <./Graphics/ICMM_Subject3.pdf>]
-<Graphics/GruppeDraw.pdf, id=1219, 845.1575pt x 1195.46625pt>
+ [100 <./Graphics/ICMM_Subject3.pdf>]
+<Graphics/GruppeDraw.pdf, id=1235, 845.1575pt x 1195.46625pt>
 File: Graphics/GruppeDraw.pdf Graphic file (type pdf)
 <use Graphics/GruppeDraw.pdf>
 Package pdftex.def Info: Graphics/GruppeDraw.pdf  used on input line 44.
@@ -2689,29 +2698,23 @@ Package pdftex.def Info: Graphics/GruppeDraw.pdf  used on input line 44.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [99 <./Graphics/ICMM_Subject4.pdf>]
+ [101 <./Graphics/ICMM_Subject4.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [100 <./Graphics/ICMM_Subject5.pdf>]) (Content/Appendix/DigitalAppendix.tex [1
-01 <./Graphics/GruppeDraw.pdf>] [102
+ [102 <./Graphics/ICMM_Subject5.pdf>]) (Content/Appendix/DigitalAppendix.tex [1
+03 <./Graphics/GruppeDraw.pdf>] [104
 
 ]
 Appendix F.
-)) [103]
+)) [105]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 39.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 39.
  (Master.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 39.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 39.
+Package rerunfilecheck Info: File `Master.out' has not changed.
+(rerunfilecheck)             Checksum: 88806AE378E79D61862B2E78ECD06521;4119.
 
-
-Package rerunfilecheck Warning: File `Master.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Master.out':
-(rerunfilecheck)             Before: C8C1BB208CE117F93DBD393EF927DF42;4070
-(rerunfilecheck)             After:  C49B3EC56C81B1332EF88D74FA0CFD8E;4071.
 
 LaTeX Warning: There were undefined references.
 
@@ -2728,10 +2731,10 @@ Package logreq Info: Writing requests to 'Master.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39808 strings out of 492946
- 765387 string characters out of 3135518
- 1271570 words of memory out of 3000000
- 42789 multiletter control sequences out of 15000+200000
+ 39816 strings out of 492946
+ 765542 string characters out of 3135518
+ 1271585 words of memory out of 3000000
+ 42791 multiletter control sequences out of 15000+200000
  562590 words of font info for 101 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,18n,78p,2637b,2378s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2761,9 +2764,9 @@ am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/
 MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.
 9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/
 type1/public/amsfonts/symbols/msam10.pfb>
-Output written on Master.pdf (103 pages, 2295945 bytes).
+Output written on Master.pdf (105 pages, 2300662 bytes).
 PDF statistics:
- 2094 PDF objects out of 2487 (max. 8388607)
- 287 named destinations out of 1000 (max. 500000)
- 620 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2112 PDF objects out of 2487 (max. 8388607)
+ 290 named destinations out of 1000 (max. 500000)
+ 628 words of extra memory for PDF output out of 10000 (max. 10000000)
 
