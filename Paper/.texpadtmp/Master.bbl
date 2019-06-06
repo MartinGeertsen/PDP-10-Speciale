@@ -104,6 +104,28 @@
       \field{type}{Report}
       \field{year}{2012}
     \endentry
+    \entry{PDF:Braun2006}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=ea90dfebef3293c5af2151719ce2385e}{Braun}{B\bibinitperiod}{Virginia}{V\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f0513d29a647c5f1beea56b0aed1bd40}{Clarke}{C\bibinitperiod}{Victoria}{V\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=ea90dfebef3293c5af2151719ce2385e}{Braun}{B\bibinitperiod}{Virginia}{V\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f0513d29a647c5f1beea56b0aed1bd40}{Clarke}{C\bibinitperiod}{Victoria}{V\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5d3eb06fe3d6dd55dd140dc783327eb9}
+      \strng{fullhash}{5d3eb06fe3d6dd55dd140dc783327eb9}
+      \field{sortinit}{B}
+      \field{labelyear}{2006}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Using thematic analysis in psychology}
+      \field{issue}{2}
+      \field{journaltitle}{Qualitative research in Psychology}
+      \field{title}{Using thematic analysis in psychology}
+      \field{volume}{3}
+      \field{year}{2006}
+      \field{pages}{77\bibrangedash 101}
+    \endentry
     \entry{PDF:ParticipatoryDesignMethods}{article}{}
       \name{labelname}{5}{}{%
         {{uniquename=0,hash=d42f251dca5410591c561ac2fc1f9392}{Clemensen}{C\bibinitperiod}{Jane}{J\bibinitperiod}{}{}{}{}}%
@@ -774,8 +796,6 @@
       \field{pages}{28\bibrangedash 34}
     \endentry
   \endsortlist
-  \missing{PDF:Braun2006}
-  \missing{Henderson2012}
 \endrefsection
 \endinput
 
