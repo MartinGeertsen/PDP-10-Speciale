@@ -1,73 +1,74 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {english}{}
-\contentsline {chapter}{\numberline {1}Introduction}{5}{chapter.1}% 
-\contentsline {section}{\numberline {1.1}The benefits of human-centered design}{6}{section.1.1}% 
-\contentsline {section}{\numberline {1.2}The Scrum framework}{8}{section.1.2}% 
-\contentsline {section}{\numberline {1.3}The TonePrint concept}{9}{section.1.3}% 
-\contentsline {subsection}{\numberline {1.3.1}The TonePrint Software}{11}{subsection.1.3.1}% 
-\contentsline {section}{\numberline {1.4}Research question}{12}{section.1.4}% 
-\contentsline {chapter}{\numberline {2}Evaluating the Design Process of the TonePrint system}{13}{chapter.2}% 
-\contentsline {section}{\numberline {2.1}Evaluation approaches}{13}{section.2.1}% 
-\contentsline {subsection}{\numberline {2.1.1}Preparing the interview}{15}{subsection.2.1.1}% 
-\contentsline {section}{\numberline {2.2}Heuristic evaluation}{15}{section.2.2}% 
-\contentsline {subsection}{\numberline {2.2.1}Procedure}{16}{subsection.2.2.1}% 
-\contentsline {subsection}{\numberline {2.2.2}Evaluation Results}{17}{subsection.2.2.2}% 
-\contentsline {subsection}{\numberline {2.2.3}Discussion}{17}{subsection.2.2.3}% 
-\contentsline {chapter}{\numberline {3}Interview with the TonePrint app development team}{19}{chapter.3}% 
-\contentsline {section}{\numberline {3.1}Designing the interview guide}{19}{section.3.1}% 
-\contentsline {subsection}{\numberline {3.1.1}Conducting the interview}{21}{subsection.3.1.1}% 
-\contentsline {section}{\numberline {3.2}Method for analyzing the interview}{21}{section.3.2}% 
-\contentsline {subsection}{\numberline {3.2.1}Thematic analysis approach}{21}{subsection.3.2.1}% 
-\contentsline {chapter}{\numberline {4}Results of thematic analysis}{23}{chapter.4}% 
-\contentsline {section}{\numberline {4.1}Findings from thematic analysis}{24}{section.4.1}% 
-\contentsline {section}{\numberline {4.2}The TonePrint development process}{26}{section.4.2}% 
-\contentsline {chapter}{\numberline {5}TonePrint Community concept}{27}{chapter.5}% 
-\contentsline {section}{\numberline {5.1}Conceptual model}{27}{section.5.1}% 
-\contentsline {subsection}{\numberline {5.1.1}The TonePrint Concept model}{27}{subsection.5.1.1}% 
-\contentsline {subsection}{\numberline {5.1.2}Community Model}{29}{subsection.5.1.2}% 
-\contentsline {subsection}{\numberline {5.1.3}Community Use Cases}{31}{subsection.5.1.3}% 
-\contentsline {chapter}{\numberline {6}Tasks and Methods}{33}{chapter.6}% 
-\contentsline {section}{\numberline {6.1}Task 1: Designing the information architecture}{33}{section.6.1}% 
-\contentsline {section}{\numberline {6.2}Task 2: Tags}{35}{section.6.2}% 
-\contentsline {section}{\numberline {6.3}Task 3: Self-promoting functionalities}{36}{section.6.3}% 
-\contentsline {section}{\numberline {6.4}Task 4: GUI of the App}{37}{section.6.4}% 
-\contentsline {section}{\numberline {6.5}Task 5: Defining the user groups}{39}{section.6.5}% 
-\contentsline {chapter}{\numberline {7}User Study of The TP Community}{41}{chapter.7}% 
-\contentsline {section}{\numberline {7.1}Deciding on a task}{41}{section.7.1}% 
-\contentsline {section}{\numberline {7.2}Mental Models}{42}{section.7.2}% 
-\contentsline {section}{\numberline {7.3}Experimental design}{43}{section.7.3}% 
-\contentsline {subsection}{\numberline {7.3.1}The card sorting method}{44}{subsection.7.3.1}% 
-\contentsline {subsection}{\numberline {7.3.2}Workshop approach}{45}{subsection.7.3.2}% 
-\contentsline {section}{\numberline {7.4}Analysis method}{47}{section.7.4}% 
-\contentsline {subsection}{\numberline {7.4.1}Pilot workshop}{50}{subsection.7.4.1}% 
-\contentsline {chapter}{\numberline {8}Card Sort Analysis}{51}{chapter.8}% 
-\contentsline {section}{\numberline {8.1}Summary of Results}{51}{section.8.1}% 
-\contentsline {section}{\numberline {8.2}Group Analysis}{52}{section.8.2}% 
-\contentsline {section}{\numberline {8.3}Card Analysis}{54}{section.8.3}% 
-\contentsline {section}{\numberline {8.4}Use of Card sort data}{55}{section.8.4}% 
-\contentsline {subsection}{\numberline {8.4.1}Lesson learned}{56}{subsection.8.4.1}% 
-\contentsline {chapter}{\numberline {9}Workshop results}{57}{chapter.9}% 
-\contentsline {section}{\numberline {9.1}The individual task}{57}{section.9.1}% 
-\contentsline {subsubsection}{Subject 3}{60}{section*.35}% 
-\contentsline {subsubsection}{Subject 4}{61}{section*.38}% 
-\contentsline {subsubsection}{Subject 5}{62}{section*.41}% 
-\contentsline {section}{\numberline {9.2}Reflecting on the task results}{64}{section.9.2}% 
-\contentsline {section}{\numberline {9.3}Group task result}{65}{section.9.3}% 
-\contentsline {chapter}{\numberline {10}Discussion}{69}{chapter.10}% 
-\contentsline {section}{\numberline {10.1}Comparing the results}{69}{section.10.1}% 
-\contentsline {section}{\numberline {10.2}The mental model (for now)}{72}{section.10.2}% 
-\contentsline {chapter}{\numberline {11}Conclusion}{75}{chapter.11}% 
-\contentsline {chapter}{\numberline {A}TonePrint app usability issues}{77}{appendix.A}% 
-\contentsline {subsubsection}{Visibility of system status}{77}{section*.51}% 
-\contentsline {subsubsection}{Match between systems and the real world}{78}{section*.52}% 
-\contentsline {subsubsection}{Consistency and standards}{78}{section*.53}% 
-\contentsline {subsubsection}{Error prevention}{79}{section*.54}% 
-\contentsline {subsubsection}{Recognition rather than recall}{80}{section*.55}% 
-\contentsline {subsubsection}{Flexibility and efficiency of use}{80}{section*.56}% 
-\contentsline {subsubsection}{Aesthetic and minimalist design}{80}{section*.57}% 
-\contentsline {subsubsection}{Help and documentation}{80}{section*.58}% 
-\contentsline {chapter}{\numberline {B}Interview with TC}{81}{appendix.B}% 
-\contentsline {chapter}{\numberline {C}Interview Themes}{83}{appendix.C}% 
-\contentsline {chapter}{\numberline {D}Card sort cards}{93}{appendix.D}% 
-\contentsline {chapter}{\numberline {E}Concept maps from workshop}{97}{appendix.E}% 
-\contentsline {chapter}{\numberline {F}Digital appendix}{105}{appendix.F}% 
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}The benefits of human-centered design}{2}{section.1.1}% 
+\contentsline {section}{\numberline {1.2}The Scrum framework}{4}{section.1.2}% 
+\contentsline {section}{\numberline {1.3}The TonePrint concept}{5}{section.1.3}% 
+\contentsline {subsection}{\numberline {1.3.1}The TonePrint software}{7}{subsection.1.3.1}% 
+\contentsline {section}{\numberline {1.4}Research question}{8}{section.1.4}% 
+\contentsline {chapter}{\numberline {2}Evaluating the design process of the TonePrint system}{9}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Approach}{9}{section.2.1}% 
+\contentsline {subsection}{\numberline {2.1.1}Preparing the interview}{10}{subsection.2.1.1}% 
+\contentsline {section}{\numberline {2.2}Heuristic evaluation}{11}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1}Procedure}{12}{subsection.2.2.1}% 
+\contentsline {subsection}{\numberline {2.2.2}Evaluation Results}{12}{subsection.2.2.2}% 
+\contentsline {subsection}{\numberline {2.2.3}Discussion}{13}{subsection.2.2.3}% 
+\contentsline {chapter}{\numberline {3}Interview with the TonePrint app development team}{15}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Designing the interview guide}{15}{section.3.1}% 
+\contentsline {subsection}{\numberline {3.1.1}Conducting the interview}{17}{subsection.3.1.1}% 
+\contentsline {section}{\numberline {3.2}Method for analyzing the interview}{17}{section.3.2}% 
+\contentsline {subsection}{\numberline {3.2.1}Thematic analysis approach}{17}{subsection.3.2.1}% 
+\contentsline {chapter}{\numberline {4}Results of thematic analysis}{19}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Findings from thematic analysis}{20}{section.4.1}% 
+\contentsline {section}{\numberline {4.2}The TonePrint design process}{22}{section.4.2}% 
+\contentsline {chapter}{\numberline {5}TonePrint community concept}{23}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Conceptual model}{23}{section.5.1}% 
+\contentsline {subsection}{\numberline {5.1.1}The TonePrint Conceptual model}{23}{subsection.5.1.1}% 
+\contentsline {subsection}{\numberline {5.1.2}Community Model}{25}{subsection.5.1.2}% 
+\contentsline {subsection}{\numberline {5.1.3}Community Use Cases}{27}{subsection.5.1.3}% 
+\contentsline {chapter}{\numberline {6}Tasks and methods}{29}{chapter.6}% 
+\contentsline {section}{\numberline {6.1}Task 1: Designing the information architecture}{29}{section.6.1}% 
+\contentsline {section}{\numberline {6.2}Task 2: Tags}{31}{section.6.2}% 
+\contentsline {section}{\numberline {6.3}Task 3: Self-promoting functionalities}{32}{section.6.3}% 
+\contentsline {section}{\numberline {6.4}Task 4: GUI of the App}{33}{section.6.4}% 
+\contentsline {section}{\numberline {6.5}Task 5: Defining the user groups}{35}{section.6.5}% 
+\contentsline {chapter}{\numberline {7}User study of the TP community}{37}{chapter.7}% 
+\contentsline {section}{\numberline {7.1}Deciding on a task}{37}{section.7.1}% 
+\contentsline {section}{\numberline {7.2}Mental Models}{38}{section.7.2}% 
+\contentsline {section}{\numberline {7.3}Experimental design}{39}{section.7.3}% 
+\contentsline {subsection}{\numberline {7.3.1}The card sorting method}{40}{subsection.7.3.1}% 
+\contentsline {subsection}{\numberline {7.3.2}Workshop approach}{41}{subsection.7.3.2}% 
+\contentsline {section}{\numberline {7.4}Analysis method}{43}{section.7.4}% 
+\contentsline {subsection}{\numberline {7.4.1}Pilot workshop}{46}{subsection.7.4.1}% 
+\contentsline {chapter}{\numberline {8}Card sort analysis}{47}{chapter.8}% 
+\contentsline {section}{\numberline {8.1}Summary of Results}{47}{section.8.1}% 
+\contentsline {section}{\numberline {8.2}Group Analysis}{48}{section.8.2}% 
+\contentsline {section}{\numberline {8.3}Card Analysis}{50}{section.8.3}% 
+\contentsline {section}{\numberline {8.4}Use of Card sort data}{51}{section.8.4}% 
+\contentsline {subsection}{\numberline {8.4.1}Lesson learned}{52}{subsection.8.4.1}% 
+\contentsline {chapter}{\numberline {9}Workshop results}{53}{chapter.9}% 
+\contentsline {section}{\numberline {9.1}The individual task}{53}{section.9.1}% 
+\contentsline {subsubsection}{Subject 3}{56}{section*.35}% 
+\contentsline {subsubsection}{Subject 4}{57}{section*.38}% 
+\contentsline {subsubsection}{Subject 5}{58}{section*.41}% 
+\contentsline {section}{\numberline {9.2}Reflecting on the task results}{60}{section.9.2}% 
+\contentsline {section}{\numberline {9.3}Group task result}{61}{section.9.3}% 
+\contentsline {chapter}{\numberline {10}Discussion}{65}{chapter.10}% 
+\contentsline {section}{\numberline {10.1}Comparing the results}{65}{section.10.1}% 
+\contentsline {section}{\numberline {10.2}The mental model (for now)}{68}{section.10.2}% 
+\contentsline {chapter}{\numberline {11}Conclusion}{71}{chapter.11}% 
+\contentsline {chapter}{\numberline {A}TonePrint app usability issues}{73}{appendix.A}% 
+\contentsline {subsubsection}{Visibility of system status}{73}{section*.51}% 
+\contentsline {subsubsection}{Match between systems and the real world}{74}{section*.52}% 
+\contentsline {subsubsection}{Consistency and standards}{74}{section*.53}% 
+\contentsline {subsubsection}{Error prevention}{75}{section*.54}% 
+\contentsline {subsubsection}{Recognition rather than recall}{75}{section*.55}% 
+\contentsline {subsubsection}{Flexibility and efficiency of use}{76}{section*.56}% 
+\contentsline {subsubsection}{Aesthetic and minimalist design}{76}{section*.57}% 
+\contentsline {subsubsection}{Help and documentation}{76}{section*.58}% 
+\contentsline {chapter}{\numberline {B}Interview with TC}{77}{appendix.B}% 
+\contentsline {chapter}{\numberline {C}Interview Themes}{79}{appendix.C}% 
+\contentsline {chapter}{\numberline {D}Card sort cards}{89}{appendix.D}% 
+\contentsline {chapter}{\numberline {E}Workshop consent form}{93}{appendix.E}% 
+\contentsline {chapter}{\numberline {F}Concept maps from workshop}{95}{appendix.F}% 
+\contentsline {chapter}{\numberline {G}Digital appendix}{103}{appendix.G}% 
