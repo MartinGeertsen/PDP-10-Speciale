@@ -1,20 +1,20 @@
 [0] Config.pm:318> INFO - This is Biber 1.8
 [1] Config.pm:321> INFO - Logfile is '/Users/jeppeknudsen/Documents/AAU/PDP10/Paper/.texpadtmp/Master.blg'
-[129] biber-darwin:275> INFO - === Thu Jun  6, 2019, 09:28:38
-[130] Biber.pm:333> INFO - Reading '/Users/jeppeknudsen/Documents/AAU/PDP10/Paper/.texpadtmp/Master.bcf'
-[244] Biber.pm:630> INFO - Found 35 citekeys in bib section 0
-[280] Biber.pm:3053> INFO - Processing section 0
-[310] Biber.pm:3190> INFO - Looking for bibtex format file '/Users/jeppeknudsen/Documents/AAU/PDP10/Paper/Bibliography/Bibliography.bib' for section 0
-[315] bibtex.pm:937> INFO - Decoding LaTeX character macros into UTF-8
-[322] bibtex.pm:812> INFO - Found BibTeX data source '/Users/jeppeknudsen/Documents/AAU/PDP10/Paper/Bibliography/Bibliography.bib'
-[353] Utils.pm:169> WARN - Datamodel: Entry 'WEB:UXISO' (/Users/jeppeknudsen/Documents/AAU/PDP10/Paper/Bibliography/Bibliography.bib): Invalid format '15' of date field 'date' - ignoring
-[368] Utils.pm:169> WARN - Datamodel: Entry 'WEB:UXResponsibilitiesInScrum' (/Users/jeppeknudsen/Documents/AAU/PDP10/Paper/Bibliography/Bibliography.bib): Invalid format '21' of date field 'date' - ignoring
-[377] Utils.pm:169> WARN - Overwriting field 'year' with year value from field 'date' for entry 'WEB:Nielsen1994HowTo'
-[379] Utils.pm:169> WARN - Overwriting field 'year' with year value from field 'date' for entry 'WEB:Nielsen1994'
-[380] Utils.pm:169> WARN - Overwriting field 'year' with year value from field 'date' for entry 'WEB:Nielsen1994Ten'
-[592] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
-[592] Biber.pm:2945> INFO - Sorting 'entry' list 'nty' keys
-[593] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
-[757] bbl.pm:482> INFO - Writing '/Users/jeppeknudsen/Documents/AAU/PDP10/Paper/.texpadtmp/Master.bbl' with encoding 'UTF-8'
-[764] bbl.pm:555> INFO - Output to /Users/jeppeknudsen/Documents/AAU/PDP10/Paper/.texpadtmp/Master.bbl
-[764] Biber.pm:105> INFO - WARNINGS: 5
+[113] biber-darwin:275> INFO - === Fri Jun 14, 2019, 13:34:34
+[114] Biber.pm:333> INFO - Reading '/Users/jeppeknudsen/Documents/AAU/PDP10/Paper/.texpadtmp/Master.bcf'
+[209] Biber.pm:630> INFO - Found 35 citekeys in bib section 0
+[242] Biber.pm:3053> INFO - Processing section 0
+[268] Biber.pm:3190> INFO - Looking for bibtex format file '/Users/jeppeknudsen/Documents/AAU/PDP10/Paper/Bibliography/Bibliography.bib' for section 0
+[273] bibtex.pm:937> INFO - Decoding LaTeX character macros into UTF-8
+[280] bibtex.pm:812> INFO - Found BibTeX data source '/Users/jeppeknudsen/Documents/AAU/PDP10/Paper/Bibliography/Bibliography.bib'
+[305] Utils.pm:169> WARN - Datamodel: Entry 'WEB:UXISO' (/Users/jeppeknudsen/Documents/AAU/PDP10/Paper/Bibliography/Bibliography.bib): Invalid format '15' of date field 'date' - ignoring
+[314] Utils.pm:169> WARN - Datamodel: Entry 'WEB:UXResponsibilitiesInScrum' (/Users/jeppeknudsen/Documents/AAU/PDP10/Paper/Bibliography/Bibliography.bib): Invalid format '21' of date field 'date' - ignoring
+[321] Utils.pm:169> WARN - Overwriting field 'year' with year value from field 'date' for entry 'WEB:Nielsen1994HowTo'
+[322] Utils.pm:169> WARN - Overwriting field 'year' with year value from field 'date' for entry 'WEB:Nielsen1994'
+[324] Utils.pm:169> WARN - Overwriting field 'year' with year value from field 'date' for entry 'WEB:Nielsen1994Ten'
+[497] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[497] Biber.pm:2945> INFO - Sorting 'entry' list 'nty' keys
+[497] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[692] bbl.pm:482> INFO - Writing '/Users/jeppeknudsen/Documents/AAU/PDP10/Paper/.texpadtmp/Master.bbl' with encoding 'UTF-8'
+[697] bbl.pm:555> INFO - Output to /Users/jeppeknudsen/Documents/AAU/PDP10/Paper/.texpadtmp/Master.bbl
+[698] Biber.pm:105> INFO - WARNINGS: 5
